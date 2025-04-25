@@ -1,8 +1,6 @@
 import type { Metadata } from "next";
 import Header from "@/components/Header";
-import BackgroundImg from "@/public/images/background-image.png";
 import Home from "./page";
-import Image from "next/image";
 import "./globals.css";
 
 export const metadata: Metadata = {
@@ -13,7 +11,7 @@ export const metadata: Metadata = {
 export default function RootLayout(){
   return (
     <html lang="en">
-      <body className="bg-[url(@/public/images/background-image.png)] bg-repeat">
+      <body className="bg-[url(@/public/images/image/background-image.png)] bg-repeat">
         <Header/>
         <Home/>
       </body>

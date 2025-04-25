@@ -1,1 +1,5 @@
 @import "tailwindcss";
+
+:root {
+    --varBackgroundColor: #220D23;
+}
