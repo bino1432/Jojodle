@@ -10,19 +10,19 @@ export default function Header(){
     return(
         <header className="mt-8">
             <div className="flex justify-center items-center gap-8">
-                <a href="#" className="p-4 bg-[#220D23] rounded-xl">
+                <a href="#" className="p-4 bg-[#220D23] rounded-xl hover:bg-[#73174F]">
                     <Image src={updateIcon} alt="Update-Icon" />
                 </a>
-                <a href="#" className="p-4 bg-[#220D23] rounded-xl">
+                <a href="#" className="p-4 bg-[#220D23] rounded-xl hover:bg-[#73174F]">
                     <Image src={infoIcon} alt="Info-Icon"/>
                 </a>
-                <a href="#" className="p-4 bg-[#220D23] rounded-xl">
+                <a href="#" className="p-4 bg-[#220D23] rounded-xl hover:bg-[#73174F]">
                     <Image src={logoImage} alt="Logo-Image"/>
                 </a>
-                <a href="#" className="p-4 bg-[#220D23] rounded-xl">
+                <a href="#" className="p-4 bg-[#220D23] rounded-xl hover:bg-[#73174F]">
                     <Image src={helpIcon} alt="Help-Icon"/>
                 </a>
-                <a href="#" className="p-4 bg-[#220D23] rounded-xl">
+                <a href="#" className="p-4 bg-[#220D23] rounded-xl hover:bg-[#73174F]">
                     <Image src={playerIcon} alt="Player-Icon"/>
                 </a>
             </div>
