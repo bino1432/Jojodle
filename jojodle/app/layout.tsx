@@ -8,12 +8,16 @@ export const metadata: Metadata = {
   description: "A game with Jojo theme",
 };
 
-export default function RootLayout(){
+export default function RootLayout({
+  children,
+}: Readonly<{
+  children: React.ReactNode;
+}>){
   return (
     <html lang="en">
       <body className="bg-[url(@/public/images/image/background-image.png)] bg-repeat">
         <Header/>
-        <Home/>
+        {children}
       </body>
     </html>
   );
