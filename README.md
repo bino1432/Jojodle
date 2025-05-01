@@ -34,7 +34,39 @@
 ## ℹ️ About the project
 **JoJodle** is a web game inspired by <a id="about-the-project" href="https://loldle.net">Loldle</a>, where you guess characters from *JoJo’s Bizarre Adventure*.
 
-The game has four unique modes that update daily. Discover more about each mode on their dedicated pages. 
+The game has four unique modes that update daily. Discover more about each mode on their dedicated sections. 
+
+## 🎯 Game Modes
+
+### ⭐ Classic
+
+- Character guessing following a hinted system. Clues about the character’s part and a technique are revealed after a number of guesses.
+
+> On this mode, each version of a character is counted separately.
+>Jotaro from SC and Jotaro from DiU are not the same answer.
+
+### 😺 Stand
+
+- Guess the character based on the name of their stand. Clues about the stand’s type and abilities are revealed after some guesses.
+
+> On this mode, each version of a character is counted together. Each
+> version of a stand is counted seperately, such as Echoes or Tusk’s
+> ACTs, or King Crimson and Epitaph. For characters that share the same
+> stand, such as Gappy and Josefumi, both answers are correct.
+
+### 💬 Quote
+
+- Guess the character based on a famous quote. Clues related to the part it was said and the characters involved are revealed after a number of guesses.
+
+> On this mode, each version of a character is counted separately. Your
+> answer has to be the version of the part the quote was said.
+
+### 🤸 Pose
+
+- Guess the character based on an image that becomes clearer with each guess.
+
+> On this mode, each version of a character is counted separately. Your
+> answer has to be the version depicted on the image.
 
 ## 🔨 Main Features
 
