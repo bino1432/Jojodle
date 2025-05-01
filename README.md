@@ -31,7 +31,7 @@
   <a href="#-getting-started">Getting started</a>
 </p>
 
-## ℹ️ About the project
+## 🕹️ About the project
 **JoJodle** is a web game inspired by <a id="about-the-project" href="https://loldle.net">Loldle</a>, where you guess characters from *JoJo’s Bizarre Adventure*.
 
 The game has four unique modes that update daily. Discover more about each mode on their dedicated sections. 
