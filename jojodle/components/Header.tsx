@@ -16,7 +16,7 @@ export default function Header(){
                 <a href="#" className="p-4 bg-[var(--Background)] rounded-xl hover:bg-[var(--Accent)]">
                     <Image src={infoIcon} alt="Info-Icon"/>
                 </a>
-                <a href="#" className="p-4 bg-[var(--Background)] rounded-xl hover:bg-[var(--Accent)]">
+                <a href="/" className="p-4 bg-[var(--Background)] rounded-xl hover:bg-[var(--Accent)]">
                     <Image src={logoImage} alt="Logo-Image"/>
                 </a>
                 <a href="#" className="p-4 bg-[var(--Background)] rounded-xl hover:bg-[var(--Accent)]">

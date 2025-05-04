@@ -9,14 +9,14 @@ import poseIcon from "@/public/images/icon/Pose-Icon.png"
 export default function Home() {
   return (
     <main>
-      <Header/>
+      <Header />
       <div className="p-4 flex flex-col gap-4">
-          <MenuButton page={"Classicpage"} img={starIcon} title={"Classic"} alt={"Classic Icon"}></MenuButton>
-          <MenuButton page={"Classicpage"} img={standIcon} title={"Stand"} alt={"Stand Icon"}></MenuButton>
-          <MenuButton page={"Classicpage"} img={quoteIcon} title={"Quote"} alt={"Quote Icon"}></MenuButton>
-          <MenuButton page={"Classicpage"} img={poseIcon} title={"Pose"} alt={"Pose Icon"}></MenuButton>
+        <MenuButton page={"/Classic"} img={starIcon} title={"Classic"} alt={"Classic Icon"}></MenuButton>
+        <MenuButton page={"/Stand"} img={standIcon} title={"Stand"} alt={"Stand Icon"}></MenuButton>
+        <MenuButton page={"/Quote"} img={quoteIcon} title={"Quote"} alt={"Quote Icon"}></MenuButton>
+        <MenuButton page={"/Pose"} img={poseIcon} title={"Pose"} alt={"Pose Icon"}></MenuButton>
       </div>
-      <Footer/>
+      <Footer />
     </main>
   );
 }
