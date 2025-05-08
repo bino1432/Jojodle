@@ -1,5 +1,5 @@
 import Image from "next/image";
-import starIcon from "@/public/images/icon/Star-Icon.png"
+import starIcon from "@/public/images/icon/Star-Icon.svg"
 
 export default function Footer(){
     return(
