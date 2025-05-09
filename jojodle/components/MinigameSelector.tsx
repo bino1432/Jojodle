@@ -1,3 +1,4 @@
+"use client"
 import Link from "next/link"
 import Image from "next/image"
 import ClassicIcon from "@/public/images/icon/Star-Icon.svg"
@@ -9,7 +10,7 @@ export default function MinigameSelector() {
     return(
         <div className="flex gap-2">
             <Link className="" href={"/Classic"}>
-                <Image src={ClassicIcon} alt="Classic Icon" />
+                <Image className={`${window.location.pathname === '/' ? 'text-white' : 'text-white'}`} src={ClassicIcon} alt="Classic Icon" />
             </Link>
             <Link href={"/Stand"}>
                 <Image src={StandIcon} alt="Stand Icon" />
