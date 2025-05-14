@@ -10,7 +10,7 @@ export default function MinigameSelector() {
     const pathname = usePathname();
 
     return(
-        <div className="flex gap-2">
+        <div className="flex gap-2 p-8 bg-[var(--Background)] max-w-70 rounded-lg m-auto mt-4">
             <Link href={"/Classic"}>
                 <ClassicIcon correctPath="/Classic" currentPath={pathname}/>
             </Link>
