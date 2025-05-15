@@ -1,3 +1,4 @@
+"use client"
 import Header from "@/components/Header";
 import MinigameSelector from "@/components/MinigameSelector";
 import TipsButtons from "@/components/TipsButtons";
@@ -5,6 +6,7 @@ import { Archivo } from "next/font/google";
 import PartClueIcon from "@/public/images/icon/PartClue-Icon.png";
 import TypeClueIcon from "@/public/images/icon/TypeClue-Icon.png";
 import TechniqueClueIcon from "@/public/images/icon/TechniqueClue-Icon.png";
+import { useState } from "react";
 
 const archivoBold = Archivo({
   subsets: ['latin'],
@@ -12,6 +14,8 @@ const archivoBold = Archivo({
 },);
 
 export default function Standpage() {
+    const [attempts, setAttempts] = useState(0);
+
     return (
         <main>
             <div>
@@ -21,9 +25,9 @@ export default function Standpage() {
                     <p className={`${archivoBold.className} text-xl text-white text-balance`}>Take a guess at today's Jojo's Bizarre Adventure Stand user!</p>
                     <p className={`${archivoBold.className} text-2xl text-white`}>「Dirty Deeds Done Dirt Cheap」</p>
                     <div className="flex gap-4">
-                        <TipsButtons title="Type Clue" guesses={3} image={TypeClueIcon}/>
-                        <TipsButtons title="Part Clue" guesses={5} image={PartClueIcon}/>
-                        <TipsButtons title="Technique Clue" guesses={7} image={TechniqueClueIcon}/>
+                        <TipsButtons title="Type Clue" guesses={3} image={TypeClueIcon} attempts={attempts}/>
+                        <TipsButtons title="Part Clue" guesses={5} image={PartClueIcon} attempts={attempts}/>
+                        <TipsButtons title="Technique Clue" guesses={7} image={TechniqueClueIcon} attempts={attempts}/>
                     </div>
                 </div>
             </div>

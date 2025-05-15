@@ -1,3 +1,4 @@
+"use client"
 import Header from "@/components/Header";
 import MinigameSelector from "@/components/MinigameSelector";
 import { Archivo } from "next/font/google";
@@ -6,6 +7,7 @@ import TechniqueClueIcon from "@/public/images/icon/TechniqueClue-Icon.png";
 import TipsButtons from "@/components/TipsButtons";
 import Image from "next/image";
 import GiornoImage from "@/public/images/image/Giorno-Image.png";
+import { useState } from "react";
 
 const archivoBold = Archivo({
   subsets: ['latin'],
@@ -13,6 +15,7 @@ const archivoBold = Archivo({
 },);
 
 export default function Posepage() {
+    const [attempts, setAttempts] = useState(0);
     return (
         <main>
             <div>
@@ -24,8 +27,8 @@ export default function Posepage() {
                         <Image src={GiornoImage} alt={"Pose Image"} className="blur-[50px]"/>
                     </div>
                     <div className="flex gap-4">
-                        <TipsButtons title="Part Clue" guesses={3} image={PartClueIcon}/>
-                        <TipsButtons title="Technique Clue" guesses={6} image={TechniqueClueIcon}/>
+                        <TipsButtons title="Part Clue" guesses={3} image={PartClueIcon} attempts={attempts}/>
+                        <TipsButtons title="Technique Clue" guesses={6} image={TechniqueClueIcon} attempts={attempts}/>
                     </div>
                 </div>
             </div>
