@@ -19,7 +19,7 @@ const archivo = Archivo({
 
 export default function TipsButtons({title, guesses, image}: TipsButtonProps){
     return(
-        <div className="flex flex-col items-center gap-1 p-2 max-w-43 bg-[var(--Accent)] rounded-lg">
+        <div className="flex flex-col items-center gap-1 p-2 min-w-43 bg-[var(--Accent)] hover:bg-[var(--Primary)] rounded-xl">
             <h2 className={`${archivoBold.className} text-xl text-white`}>{title}</h2>
             <p className={`${archivo.className} text-sm text-white`}>in {guesses} guesse(s)</p>
             <Image className="w-10 h-10" src={image} alt="Button icon"/>
