@@ -5,7 +5,6 @@ import Link from "next/link";
 const archivo = Archivo({
   subsets: ['latin'],
   weight: "700",
-  
 });
 
 interface MenuButtonProps {

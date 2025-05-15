@@ -1,6 +1,7 @@
 import Header from "@/components/Header"
 import MinigameSelector from "@/components/MinigameSelector";
-import TipsComponenet from "@/components/TipsComponent";
+import TipsButtons from "@/components/TipsButtons";
+import PartClueIcon from "@/public/images/icon/PartClue-Icon.png"
 
 export default function Classicpage() {
   return (
@@ -8,7 +9,10 @@ export default function Classicpage() {
       <div>
         <Header />
         <MinigameSelector />
-        <TipsComponenet title="Take a guess Jojo"/>
+        <div>
+          <p>Take a guess at today's Jojo's Bizarre Adventure character!</p>
+          <TipsButtons title="Part Clue" guesses={1} image={PartClueIcon}/>
+        </div>
       </div>
     </main>
   );
