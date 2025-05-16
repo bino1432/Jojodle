@@ -25,7 +25,6 @@ let correctCharacter = {
   StandType: "",
   Debut: "",
   Technique: "",
-  Technique__1: "",
   Difficulty: ""
 }
 
