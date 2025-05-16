@@ -1,7 +1,7 @@
 "use client"
 import Header from "@/components/Header";
 import MinigameSelector from "@/components/MinigameSelector";
-import TipsButtons from "@/components/TipsButtons";
+import HintButtons from "@/components/HintButtons";
 import { Archivo } from "next/font/google";
 import PartClueIcon from "@/public/images/icon/PartClue-Icon.png";
 import TypeClueIcon from "@/public/images/icon/TypeClue-Icon.png";
@@ -25,9 +25,9 @@ export default function Standpage() {
                     <p className={`${archivoBold.className} text-xl text-white text-balance`}>Take a guess at today's Jojo's Bizarre Adventure Stand user!</p>
                     <p className={`${archivoBold.className} text-2xl text-white`}>「Dirty Deeds Done Dirt Cheap」</p>
                     <div className="flex gap-4">
-                        <TipsButtons title="Type Clue" guesses={3} image={TypeClueIcon} attempts={attempts}/>
-                        <TipsButtons title="Part Clue" guesses={5} image={PartClueIcon} attempts={attempts}/>
-                        <TipsButtons title="Technique Clue" guesses={7} image={TechniqueClueIcon} attempts={attempts}/>
+                        <HintButtons title="Type Clue" guesses={3} image={TypeClueIcon} attempts={attempts} hint={""}/>
+                        <HintButtons title="Part Clue" guesses={5} image={PartClueIcon} attempts={attempts} hint={""}/>
+                        <HintButtons title="Technique Clue" guesses={7} image={TechniqueClueIcon} attempts={attempts} hint={""}/>
                     </div>
                 </div>
             </div>
