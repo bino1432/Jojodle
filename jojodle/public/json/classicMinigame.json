@@ -11,7 +11,6 @@
     "StandType": "N/A",
     "Debut": "Phantom Blood",
     "Technique": "None",
-    "Technique__1": "None",
     "Difficulty": "Easy"
   },
     {
@@ -26,7 +25,6 @@
     "StandType": "N/A",
     "Debut": "Battle Tendency",
     "Technique": "Light Blades",
-    "Technique__1": "Light Mode",
     "Difficulty": "Easy"
   },
   {
@@ -41,7 +39,6 @@
     "StandType": "Close-Range | Range Irrelevant | Natural Humanoid",
     "Debut": "Stardust Crusaders",
     "Technique": "Star Finger",
-    "Technique__1": "Star Finger",
     "Difficulty": "Easy"
   },
     {
@@ -56,7 +53,6 @@
     "StandType": "Close-Range | Evolved | Artificial Humanoid",
     "Debut": "Steel Ball Run",
     "Technique": "Infinite Rotation",
-    "Technique__1": "Spin Energy",
     "Difficulty": "Easy"
   },
   {
@@ -71,7 +67,6 @@
     "StandType": "Long-Range | Artificial Humanoid",
     "Debut": "Steel Ball Run",
     "Technique": "Spin",
-    "Technique__1": "Steel Balls",
     "Difficulty": "Easy"
   }
 ]
