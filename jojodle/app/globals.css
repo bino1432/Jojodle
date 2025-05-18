@@ -1,5 +1,17 @@
 @import "tailwindcss";
+@keyframes fadeInMove {
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
 
+#fadeIn {
+    opacity: 0;
+      transform: translateY(-10px);
+      animation: fadeInMove 0.6s ease forwards;
+}
+    
 :root {
     --Background: #220D23;
     --Primary: #EC2790;
