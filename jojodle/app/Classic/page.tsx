@@ -33,8 +33,13 @@ export default function Classicpage() {
     correctCharacter = classicJson[Math.floor(Math.random() * (4 - 0 + 1)) + 0]
     console.log(correctCharacter)
   }, []);
-  
+
   const [attempts, setAttempts] = useState(0);
+  const [currentHint, setCurrentHint] = useState("");
+
+  const reciveHintFromComponent = (hint: string) => {
+    setCurrentHint(hint);
+  };
 
   return (
     <main>
@@ -44,9 +49,10 @@ export default function Classicpage() {
         <div className="flex flex-col p-4 bg-[var(--Background)] items-center text-center mt-4 max-w-98 rounded-lg m-auto gap-4">
           <p className={`${archivoBold.className} text-xl text-white text-balance`}>Take a guess at today's Jojo's Bizarre Adventure character!</p>
           <div className="flex gap-4">
-            <HintButtons title="Part Clue" guesses={3} image={PartClueIcon} attempts={attempts} hint={correctCharacter.Debut}/>
-            <HintButtons title="Technique Clue" guesses={6} image={TechniqueClueIcon} attempts={attempts} hint={correctCharacter.Technique}/>
+            <HintButtons title="Part Clue" guesses={3} image={PartClueIcon} attempts={attempts} hint={correctCharacter.Debut} reciveHint={reciveHintFromComponent} />
+            <HintButtons title="Technique Clue" guesses={6} image={TechniqueClueIcon} attempts={attempts} hint={correctCharacter.Technique} reciveHint={reciveHintFromComponent} />
           </div>
+          <p className={currentHint == "" ? "hidden" : `${archivoBold.className} text-white p-2 w-full bg-[var(--Accent)]`}>{currentHint}</p>
         </div>
         <button className="cursor-pointer p-2 bg-[var(--Accent)] text-white" onClick={() => setAttempts(attempts + 1)}>PRA TESTAR O BUTAO DAS DICKS</button>
       </div>
