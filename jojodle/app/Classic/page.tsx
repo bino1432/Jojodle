@@ -7,6 +7,7 @@ import TechniqueClueIcon from "@/public/images/icon/TechniqueClue-Icon.png";
 import { Archivo } from "next/font/google";
 import { useEffect, useState } from "react";
 import classicJson from "@/public/json/classicMinigame.json";
+import InputCharacter from "@/components/InputCharacter";
 
 const archivoBold = Archivo({
   subsets: ['latin'],
@@ -60,6 +61,9 @@ export default function Classicpage() {
           </div>
           <p className={currentHint == "" ? "hidden" : `${archivoBold.className} text-white p-2 w-full bg-[var(--Primary)] rounded-lg
           ${side == "left" ? "rounded-tl-none" : "rounded-tr-none"}`} id="fadeIn">{currentHint}</p>
+        </div>
+        <div>
+          <InputCharacter></InputCharacter>
         </div>
         <button className="cursor-pointer p-2 bg-[var(--Accent)] text-white" onClick={() => setAttempts(attempts + 1)}>PRA TESTAR O BUTAO DAS DICKS</button>
       </div>
