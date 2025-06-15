@@ -16,7 +16,8 @@ type Character = {
   StandType: string,
   Debut: string,
   Technique: string,
-  Difficulty: string
+  Difficulty: string,
+  Image: string
 }
 
 interface inputProps {
@@ -73,10 +74,12 @@ export default function InputCharacter({reciveId, characterJson}: inputProps) {
                                 onClick={() => handleSelect(char.ID)}
                                 className={`${archivoBold.className} text-[var(--White)] text-xl flex items-center gap-2 w-full text-left px-[4] py-[4] hover:bg-[var(--Primary)] bg-[var(--Accent)]`}
                             >
-                                <img
-                                    src={"https://www.google.com/url?sa=i&url=https%3A%2F%2Fsoundcloud.com%2Fuser-239026526%2Ffamily-friend-toca-da-capivara&psig=AOvVaw36eyWCSLJyFTnaO4CEYbiy&ust=1750054252073000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODn8qHi8o0DFQAAAAAdAAAAABAE"}
+                                <Image
+                                    src={char.Image}
                                     alt={char.Name}
-                                    className="w-[48] h-[48] rounded-2xl"
+                                    width={48}
+                                    height={48}
+                                    className="rounded-lg"
                                 />
                                 <span>{char.Name}</span>
                             </button>

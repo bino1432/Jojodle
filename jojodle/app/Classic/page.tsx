@@ -6,7 +6,7 @@ import PartClueIcon from "@/public/images/icon/PartClue-Icon.png";
 import TechniqueClueIcon from "@/public/images/icon/TechniqueClue-Icon.png";
 import { Archivo } from "next/font/google";
 import { useEffect, useState } from "react";
-import classicJson from "@/public/json/classicMinigame.json";
+import classicJson from "@/data/json/classicMinigame.json";
 import InputCharacter from "@/components/InputCharacter";
 
 const archivoBold = Archivo({
@@ -26,7 +26,8 @@ let correctCharacter = {
   StandType: "",
   Debut: "",
   Technique: "",
-  Difficulty: ""
+  Difficulty: "",
+  Image: ""
 }
 
 export default function Classicpage() {
