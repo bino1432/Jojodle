@@ -2,30 +2,49 @@
 import sendIcon from '@/public/images/icon/Send-Icon.svg'
 import { Archivo } from 'next/font/google';
 import Image from 'next/image'
-import { useState } from 'react';
+import { use, useEffect, useState } from 'react';
 
-const characters = [
-    { id: 1, name: "MarioAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA", image: "https://i.imgur.com/uIgDDDd.png" },
-    { id: 2, name: "mariO2", image: "https://i.imgur.com/JrXiehh.png" },
-    { id: 3, name: "Peach", image: "https://i.imgur.com/0fR9hNG.png" },
-    { id: 4, name: "Bowser", image: "https://i.imgur.com/Sy9m8jq.png" },
-];
+type Character = {
+  ID: number;
+  Name: string;
+  Gender: string,
+  Height: string,
+  Age: number,
+  Nationality: string,
+  Affiliation: string,
+  Occupation: string,
+  StandType: string,
+  Debut: string,
+  Technique: string,
+  Difficulty: string
+}
+
+interface inputProps {
+    reciveId: (id: number) => void;
+    characterJson: Character[];
+}
 
 const archivoBold = Archivo({
     subsets: ['latin'],
     weight: "700",
 },);
 
-export default function InputCharacter() {
+export default function InputCharacter({reciveId, characterJson}: inputProps) {
     const [query, setQuery] = useState("");
     const [showList, setShowList] = useState(false);
+    const [characterList, setCharacterList] = useState<Character[]>([]);
 
-    const filtered = characters.filter((char) =>
-        char.name.toLowerCase().includes(query.toLowerCase())
+    useEffect(() => {
+        setCharacterList(characterJson);
+    })
+
+    const filtered = characterList.filter((char) =>
+        char.Name.toLowerCase().includes(query.toLowerCase())
     );
 
     const handleSelect = (id: number) => {
         console.log("Personagem selecionado:", id);
+        reciveId(id);
         setQuery("");
         setShowList(false);
     };
@@ -50,16 +69,16 @@ export default function InputCharacter() {
                     {filtered.length > 0 ? (
                         filtered.map((char) => (
                             <button
-                                key={char.id}
-                                onClick={() => handleSelect(char.id)}
+                                key={char.ID}
+                                onClick={() => handleSelect(char.ID)}
                                 className={`${archivoBold.className} text-[var(--White)] text-xl flex items-center gap-2 w-full text-left px-[4] py-[4] hover:bg-[var(--Primary)] bg-[var(--Accent)]`}
                             >
                                 <img
-                                    src={char.image}
-                                    alt={char.name}
+                                    src={"https://www.google.com/url?sa=i&url=https%3A%2F%2Fsoundcloud.com%2Fuser-239026526%2Ffamily-friend-toca-da-capivara&psig=AOvVaw36eyWCSLJyFTnaO4CEYbiy&ust=1750054252073000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODn8qHi8o0DFQAAAAAdAAAAABAE"}
+                                    alt={char.Name}
                                     className="w-[48] h-[48] rounded-2xl"
                                 />
-                                <span>{char.name}</span>
+                                <span>{char.Name}</span>
                             </button>
                         ))
                     ) : (

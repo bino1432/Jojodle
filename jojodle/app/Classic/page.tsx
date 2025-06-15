@@ -15,7 +15,7 @@ const archivoBold = Archivo({
 },);
 
 let correctCharacter = {
-  ID: "",
+  ID: 0,
   Name: "",
   Gender: "",
   Height: "",
@@ -40,6 +40,7 @@ export default function Classicpage() {
   const [side, setSide] = useState("");
   const [isLeft, setIsLeft] = useState(false);
   const [isRight, setIsRight] = useState(false);
+  const [triedCharacter, setTriedCharacter] = useState<number[]>([]);
 
   const reciveHintAndSideFromComponent = (hint: string, side: string, left: boolean, right: boolean) => {
     setCurrentHint(hint);
@@ -47,6 +48,11 @@ export default function Classicpage() {
     setIsLeft(left);
     setIsRight(right);
   };
+
+  const reciveCharacterIdFromComponent = (id: number) => {
+    setTriedCharacter([...triedCharacter, id]);
+    console.log(triedCharacter);
+  }
 
   return (
     <main>
@@ -63,7 +69,7 @@ export default function Classicpage() {
           ${side == "left" ? "rounded-tl-none" : "rounded-tr-none"}`} id="fadeIn">{currentHint}</p>
         </div>
         <div>
-          <InputCharacter></InputCharacter>
+          <InputCharacter reciveId={reciveCharacterIdFromComponent} characterJson={classicJson}/>
         </div>
         <button className="cursor-pointer p-2 bg-[var(--Accent)] text-white" onClick={() => setAttempts(attempts + 1)}>PRA TESTAR O BUTAO DAS DICKS</button>
       </div>

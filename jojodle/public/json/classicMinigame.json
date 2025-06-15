@@ -1,6 +1,6 @@
 [
- {
-	"ID": "7",
+  {
+    "ID": 7,
     "Name": "Erina Pendleton",
     "Gender": "Female",
     "Height": "183 cm (6 ft 0 in)",
@@ -13,8 +13,8 @@
     "Technique": "None",
     "Difficulty": "Easy"
   },
-    {
-	"ID": "25",
+  {
+    "ID": 25,
     "Name": "Kars",
     "Gender": "Male",
     "Height": "196 cm (6 ft 5 in)",
@@ -28,7 +28,7 @@
     "Difficulty": "Easy"
   },
   {
-    "ID": "40",
+    "ID": 40,
     "Name": "Jotaro Kujo",
     "Gender": "Male",
     "Height": "195 cm (6 ft 5 in)",
@@ -41,8 +41,8 @@
     "Technique": "Star Finger",
     "Difficulty": "Easy"
   },
-    {
-	"ID": "173",
+  {
+    "ID": 173,
     "Name": "Johnny Joestar",
     "Gender": "Male",
     "Height": "163 cm (5 ft 4 in)",
@@ -56,7 +56,7 @@
     "Difficulty": "Easy"
   },
   {
-	"ID": "174",
+    "ID": 174,
     "Name": "Gyro Zeppeli",
     "Gender": "Male",
     "Height": "169 cm (5 ft 6 in)",
