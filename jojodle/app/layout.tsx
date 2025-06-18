@@ -14,7 +14,7 @@ export default function RootLayout({
 }>){
   return (
     <html lang="en">
-      <body className="bg-[url(@/public/images/image/background-image.png)] bg-repeat">
+      <body className="bg-[url(@/public/images/image/background-image.png)] bg-repeat vsc-initialized">
         {children}
       </body>
     </html>
