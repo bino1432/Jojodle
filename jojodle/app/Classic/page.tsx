@@ -8,33 +8,40 @@ import { Archivo } from "next/font/google";
 import { useEffect, useState } from "react";
 import classicJson from "@/data/json/classicMinigame.json";
 import InputCharacter from "@/components/InputCharacter";
+import CharacterCard from "@/components/CharacterCard";
 
 const archivoBold = Archivo({
   subsets: ['latin'],
   weight: "700",
 },);
 
-let correctCharacter = {
-  ID: 0,
-  Name: "",
-  Gender: "",
-  Height: "",
-  Age: 0,
-  Nationality: "",
-  Affiliation: "",
-  Occupation: "",
-  StandType: "",
-  Debut: "",
-  Technique: "",
-  Difficulty: "",
-  Image: ""
-}
-
 export default function Classicpage() {
+
   useEffect(() => {
-    correctCharacter = classicJson[Math.floor(Math.random() * (4 - 0 + 1)) + 0]
-    console.log(correctCharacter)
+    const randomCharacter = classicJson[Math.floor(Math.random() * (4 - 0 + 1)) + 0]
+    setCorrectCharacter(randomCharacter);
+    console.log(attempts)
   }, []);
+
+  const [correctCharacter, setCorrectCharacter] = useState({
+    ID: 0,
+    Name: "",
+    Gender: "",
+    Height: "",
+    Age: 0,
+    Nationality: "",
+    Affiliation: "",
+    Occupation: "",
+    StandType: "",
+    Debut: "",
+    Technique: "",
+    Difficulty: "",
+    Image: ""
+  });
+
+  useEffect(() => {
+    console.log(correctCharacter)
+  }, [correctCharacter]);
 
   const [attempts, setAttempts] = useState(0);
   const [currentHint, setCurrentHint] = useState("");
@@ -52,6 +59,10 @@ export default function Classicpage() {
 
   const reciveCharacterIdFromComponent = (id: number) => {
     setTriedCharacter([...triedCharacter, id]);
+    if (triedCharacter.length !== 0) {
+      setAttempts(attempts + 1);
+    }
+    console.log(attempts);
     console.log(triedCharacter);
   }
 
@@ -64,7 +75,7 @@ export default function Classicpage() {
           <p className={`${archivoBold.className} text-xl text-white text-balance`}>Take a guess at today's Jojo's Bizarre Adventure character!</p>
           <div className="flex gap-4">
             {triedCharacter.length !== 0 ? (<>
-              <HintButtons title="Part Clue" guesses={3} image={PartClueIcon} attempts={attempts} hint={correctCharacter.Debut} reciveHintAndSide={reciveHintAndSideFromComponent} side={"left"} isRounded={isRight}/>
+              <HintButtons title="Part Clue" guesses={3} image={PartClueIcon} attempts={attempts} hint={correctCharacter.Debut} reciveHintAndSide={reciveHintAndSideFromComponent} side={"left"} isRounded={isRight} />
               <HintButtons title="Technique Clue" guesses={6} image={TechniqueClueIcon} attempts={attempts} hint={correctCharacter.Technique} reciveHintAndSide={reciveHintAndSideFromComponent} side={"right"} isRounded={isLeft} />
             </>) : null
             }
@@ -75,7 +86,42 @@ export default function Classicpage() {
         <div>
           <InputCharacter reciveId={reciveCharacterIdFromComponent} characterJson={classicJson} />
         </div>
-        <button className="cursor-pointer p-2 bg-[var(--Accent)] text-white" onClick={() => setAttempts(attempts + 1)}>PRA TESTAR O BUTAO DAS DICKS</button>
+        {triedCharacter.length !== 0 ? (<div className="flex justify-center gap-[8] text-[var(--White)] text-center mt-4">
+          <p className="min-w-[96] p-2 rounded-lg bg-[var(--Background)]">Character</p>
+          <p className="min-w-[96] p-2 rounded-lg bg-[var(--Background)]">Gender</p>
+          <p className="min-w-[96] p-2 rounded-lg bg-[var(--Background)]">Height</p>
+          <p className="min-w-[96] p-2 rounded-lg bg-[var(--Background)]">Age</p>
+          <p className="min-w-[96] p-2 rounded-lg bg-[var(--Background)]">Nationality</p>
+          <p className="min-w-[96] p-2 rounded-lg bg-[var(--Background)]">Affiliation</p>
+          <p className="min-w-[96] p-2 rounded-lg bg-[var(--Background)]">Occupation</p>
+          <p className="min-w-[96] p-2 rounded-lg bg-[var(--Background)]">Stand Type</p>
+          <p className="min-w-[96] p-2 rounded-lg bg-[var(--Background)]">Debut Part</p>
+        </div>) : null
+        }
+        {triedCharacter.length !== 0 && (
+          <div className="flex flex-col-reverse">
+            {triedCharacter.map((id) => {
+              const characterData = classicJson.find(char => char.ID === id);
+              if (!characterData) return null;
+
+              return (
+                <CharacterCard
+                  key={characterData.ID}
+                  imageUrl={characterData.Image}
+                  gender={characterData.Gender}
+                  height={characterData.Height}
+                  age={characterData.Age}
+                  nationality={characterData.Nationality}
+                  affiliation={characterData.Affiliation}
+                  occupation={characterData.Occupation}
+                  standType={characterData.StandType}
+                  debutPart={characterData.Debut}
+                  character={correctCharacter}
+                />
+              );
+            })}
+          </div>
+        )}
       </div>
     </main >
   );
