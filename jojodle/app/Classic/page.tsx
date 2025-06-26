@@ -99,7 +99,7 @@ export default function Classicpage() {
         </div>) : null
         }
         {triedCharacter.length !== 0 && (
-          <div className="flex flex-col-reverse">
+          <div className="flex flex-col-reverse relative">
             {triedCharacter.map((id) => {
               const characterData = classicJson.find(char => char.ID === id);
               if (!characterData) return null;
@@ -119,6 +119,7 @@ export default function Classicpage() {
                   character={correctCharacter}
                 />
               );
+              // fixed / relative / z index pra frente;
             })}
           </div>
         )}

@@ -64,9 +64,9 @@ export default function InputCharacter({reciveId, characterJson}: inputProps) {
                     className={`${archivoBold.className} rounded-lg bg-[var(--Accent)] max-w-[392] w-full placeholder-[var(--Cloudy)] pl-[8] text-[var(--Cloudy)] outline-none`} />
                 <Image src={sendIcon} alt="Send Icon" className='cursor-pointer' />
             </div>
-            <div className={`bg-[var(--Background)] z-10 ${query == "" ? "" : "p-[8]"} mt-1 max-w-[392] max-h-[296] m-auto overflow-y-auto`}>
+            <div className={`bg-[var(--Background)] z-10 ${query == "" ? "" : "p-[8]"} mt-1 min-w-[392] max-h-[296] m-auto overflow-y-auto absolute justify-self-center`}>
                 {showList && query.trim() !== "" && (
-                <div className="rounded-sm truncate">
+                <div className="rounded-sm truncate z-[1]">
                     {filtered.length > 0 ? (
                         filtered.map((char) => (
                             <button
