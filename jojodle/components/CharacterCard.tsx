@@ -91,7 +91,13 @@ export default function CharacterCard({ imageUrl, gender, height, age, nationali
                 justify-center 
                 rounded-lg 
                 ${nationality == character.Nationality ? "bg-[var(--Correct)]" : "bg-[var(--Wrong)]"}`}>
-                <h2>{nationality}</h2>
+                <Image
+                    src={nationality}
+                    alt={'Character Image'}
+                    width={80}
+                    height={60}
+                    className="rounded-lg"
+                ></Image>
             </div>
             <div className={`
                 ${archivo.className}
@@ -121,7 +127,7 @@ export default function CharacterCard({ imageUrl, gender, height, age, nationali
             </div>
             <div className={`
                 ${archivo.className}
-                ${standType.length < 5 ? "text-5xl" : standType.length > 25 ? "text-sm": ""}
+                ${standType.length < 5 ? "text-5xl" : standType.length > 25 ? "text-sm" : ""}
                 text-center
                 w-[96] 
                 h-[96] 
