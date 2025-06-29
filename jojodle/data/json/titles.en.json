@@ -1,0 +1,958 @@
+[
+    {
+        "Title": "Phantom Blood",
+        "Part": "Phantom Blood"
+    },
+    {
+        "Title": "Zeppeli",
+        "Part": "Phantom Blood"
+    },
+    {
+        "Title": "Luck and Pluck",
+        "Part": "Phantom Blood"
+    },
+    {
+        "Title": "Vampire",
+        "Part": "Phantom Blood"
+    },
+    {
+        "Title": "Gentlemen",
+        "Part": "Phantom Blood"
+    },
+    {
+        "Title": "Hamon Master",
+        "Part": "Phantom Blood"
+    },
+    {
+        "Title": "Hamon Monk",
+        "Part": "Phantom Blood"
+    },
+    {
+        "Title": "Joestar",
+        "Part": "Phantom Blood"
+    },
+    {
+        "Title": "Knight",
+        "Part": "Phantom Blood"
+    },
+    {
+        "Title": "Zombie",
+        "Part": "Phantom Blood"
+    },
+    {
+        "Title": "Battle Tendency",
+        "Part": "Battle Tendency"
+    },
+    {
+        "Title": "Speedwagon Foundation",
+        "Part": "Battle Tendency"
+    },
+    {
+        "Title": "Pillar Man",
+        "Part": "Battle Tendency"
+    },
+    {
+        "Title": "The Ultimate Thing",
+        "Part": "Battle Tendency"
+    },
+    {
+        "Title": "Soldier",
+        "Part": "Battle Tendency"
+    },
+    {
+        "Title": "Stardust Crusaders",
+        "Part": "Stardust Crusaders"
+    },
+    {
+        "Title": "Crusader",
+        "Part": "Stardust Crusaders"
+    },
+    {
+        "Title": "Stand User",
+        "Part": "Stardust Crusaders"
+    },
+    {
+        "Title": "Agent of DIO",
+        "Part": "Stardust Crusaders"
+    },
+    {
+        "Title": "Star Platinum",
+        "Part": "Stardust Crusaders"
+    },
+    {
+        "Title": "Hermit Purple",
+        "Part": "Stardust Crusaders"
+    },
+    {
+        "Title": "Magician’s Red",
+        "Part": "Stardust Crusaders"
+    },
+    {
+        "Title": "Hierophant Green",
+        "Part": "Stardust Crusaders"
+    },
+    {
+        "Title": "The Fool",
+        "Part": "Stardust Crusaders"
+    },
+    {
+        "Title": "Dark Blue Moon",
+        "Part": "Stardust Crusaders"
+    },
+    {
+        "Title": "Yellow Temperance",
+        "Part": "Stardust Crusaders"
+    },
+    {
+        "Title": "Lovers",
+        "Part": "Stardust Crusaders"
+    },
+    {
+        "Title": "Hanged Man",
+        "Part": "Stardust Crusaders"
+    },
+    {
+        "Title": "Emperor",
+        "Part": "Stardust Crusaders"
+    },
+    {
+        "Title": "Wheel of Fortune",
+        "Part": "Stardust Crusaders"
+    },
+    {
+        "Title": "Justice",
+        "Part": "Stardust Crusaders"
+    },
+    {
+        "Title": "Death Thirteen",
+        "Part": "Stardust Crusaders"
+    },
+    {
+        "Title": "Judgement",
+        "Part": "Stardust Crusaders"
+    },
+    {
+        "Title": "Osiris",
+        "Part": "Stardust Crusaders"
+    },
+    {
+        "Title": "Atum",
+        "Part": "Stardust Crusaders"
+    },
+    {
+        "Title": "Cream",
+        "Part": "Stardust Crusaders"
+    },
+    {
+        "Title": "Horus",
+        "Part": "Stardust Crusaders"
+    },
+    {
+        "Title": "Khnum",
+        "Part": "Stardust Crusaders"
+    },
+    {
+        "Title": "Thoth",
+        "Part": "Stardust Crusaders"
+    },
+    {
+        "Title": "Bastet",
+        "Part": "Stardust Crusaders"
+    },
+    {
+        "Title": "Sethan",
+        "Part": "Stardust Crusaders"
+    },
+    {
+        "Title": "Empress",
+        "Part": "Stardust Crusaders"
+    },
+    {
+        "Title": "Silver Chariot",
+        "Part": "Stardust Crusaders"
+    },
+    {
+        "Title": "The World",
+        "Part": "Stardust Crusaders"
+    },
+    {
+        "Title": "Time Ruler",
+        "Part": "Stardust Crusaders"
+    },
+    {
+        "Title": "Time Stopper",
+        "Part": "Stardust Crusaders"
+    },
+    {
+        "Title": "Gambler",
+        "Part": "Stardust Crusaders"
+    },
+    {
+        "Title": "Gamer",
+        "Part": "Stardust Crusaders"
+    },
+    {
+        "Title": "Diamond is Ubreakable",
+        "Part": "Diamond is Ubreakable"
+    },
+    {
+        "Title": "Higashikata",
+        "Part": "Diamond is Ubreakable"
+    },
+    {
+        "Title": "Nijimura",
+        "Part": "Diamond is Ubreakable"
+    },
+    {
+        "Title": "Hirose",
+        "Part": "Diamond is Ubreakable"
+    },
+    {
+        "Title": "Student",
+        "Part": "Diamond is Ubreakable"
+    },
+    {
+        "Title": "Morioh Resident",
+        "Part": "Diamond is Ubreakable"
+    },
+    {
+        "Title": "Mangaka",
+        "Part": "Diamond is Ubreakable"
+    },
+    {
+        "Title": "Rock n' Roll",
+        "Part": "Diamond is Ubreakable"
+    },
+    {
+        "Title": "Ghost",
+        "Part": "Diamond is Ubreakable"
+    },
+    {
+        "Title": "Hermit",
+        "Part": "Diamond is Ubreakable"
+    },
+    {
+        "Title": "Invisible",
+        "Part": "Diamond is Ubreakable"
+    },
+    {
+        "Title": "Alien",
+        "Part": "Diamond is Ubreakable"
+    },
+    {
+        "Title": "Crazy Diamond",
+        "Part": "Diamond is Ubreakable"
+    },
+    {
+        "Title": "Echoes",
+        "Part": "Diamond is Ubreakable"
+    },
+    {
+        "Title": "The Hand",
+        "Part": "Diamond is Ubreakable"
+    },
+    {
+        "Title": "Killer Queen",
+        "Part": "Diamond is Ubreakable"
+    },
+    {
+        "Title": "Sheer Heart Attack",
+        "Part": "Diamond is Ubreakable"
+    },
+    {
+        "Title": "Bites the Dust",
+        "Part": "Diamond is Ubreakable"
+    },
+    {
+        "Title": "Heaven's Door",
+        "Part": "Diamond is Ubreakable"
+    },
+    {
+        "Title": "Bad Company",
+        "Part": "Diamond is Ubreakable"
+    },
+    {
+        "Title": "Red Hot Chili Pepper",
+        "Part": "Diamond is Ubreakable"
+    },
+    {
+        "Title": "The Lock",
+        "Part": "Diamond is Ubreakable"
+    },
+    {
+        "Title": "Love Deluxe",
+        "Part": "Diamond is Ubreakable"
+    },
+    {
+        "Title": "Pearl Jam",
+        "Part": "Diamond is Ubreakable"
+    },
+    {
+        "Title": "Achtung Baby",
+        "Part": "Diamond is Ubreakable"
+    },
+    {
+        "Title": "Harvest",
+        "Part": "Diamond is Ubreakable"
+    },
+    {
+        "Title": "Cinderella",
+        "Part": "Diamond is Ubreakable"
+    },
+    {
+        "Title": "Earth Wind and Fire",
+        "Part": "Diamond is Ubreakable"
+    },
+    {
+        "Title": "Highway Star",
+        "Part": "Diamond is Ubreakable"
+    },
+    {
+        "Title": "Stray Cat",
+        "Part": "Diamond is Ubreakable"
+    },
+    {
+        "Title": "Super Fly",
+        "Part": "Diamond is Ubreakable"
+    },
+    {
+        "Title": "Enigma",
+        "Part": "Diamond is Ubreakable"
+    },
+    {
+        "Title": "Cheap Trick",
+        "Part": "Diamond is Ubreakable"
+    },
+    {
+        "Title": "Vento Aureo",
+        "Part": "Vento Aureo"
+    },
+    {
+        "Title": "Passione",
+        "Part": "Vento Aureo"
+    },
+    {
+        "Title": "Gang Member",
+        "Part": "Vento Aureo"
+    },
+    {
+        "Title": "Mafia",
+        "Part": "Vento Aureo"
+    },
+    {
+        "Title": "Capo",
+        "Part": "Vento Aureo"
+    },
+    {
+        "Title": "Requiem",
+        "Part": "Vento Aureo"
+    },
+    {
+        "Title": "Boss",
+        "Part": "Vento Aureo"
+    },
+    {
+        "Title": "Consiglieri",
+        "Part": "Vento Aureo"
+    },
+    {
+        "Title": "Team Bucciarati",
+        "Part": "Vento Aureo"
+    },
+    {
+        "Title": "Unità Speciale",
+        "Part": "Vento Aureo"
+    },
+    {
+        "Title": "La Squadra Esecuzioni",
+        "Part": "Vento Aureo"
+    },
+    {
+        "Title": "Gang Star",
+        "Part": "Vento Aureo"
+    },
+    {
+        "Title": "Gold Experience",
+        "Part": "Vento Aureo"
+    },
+    {
+        "Title": "Sticky Fingers",
+        "Part": "Vento Aureo"
+    },
+    {
+        "Title": "Moody Blues",
+        "Part": "Vento Aureo"
+    },
+    {
+        "Title": "Sex Pistols",
+        "Part": "Vento Aureo"
+    },
+    {
+        "Title": "Aerosmith",
+        "Part": "Vento Aureo"
+    },
+    {
+        "Title": "Purple Haze",
+        "Part": "Vento Aureo"
+    },
+    {
+        "Title": "Spice Girl",
+        "Part": "Vento Aureo"
+    },
+    {
+        "Title": "King Crimson",
+        "Part": "Vento Aureo"
+    },
+    {
+        "Title": "Epitaph",
+        "Part": "Vento Aureo"
+    },
+    {
+        "Title": "Metallica",
+        "Part": "Vento Aureo"
+    },
+    {
+        "Title": "Black Sabbath",
+        "Part": "Vento Aureo"
+    },
+    {
+        "Title": "Chariot Requiem",
+        "Part": "Vento Aureo"
+    },
+    {
+        "Title": "Gold Experience Requiem",
+        "Part": "Vento Aureo"
+    },
+    {
+        "Title": "Mr. President",
+        "Part": "Vento Aureo"
+    },
+    {
+        "Title": "Soft Machine",
+        "Part": "Vento Aureo"
+    },
+    {
+        "Title": "Kraft Work",
+        "Part": "Vento Aureo"
+    },
+    {
+        "Title": "Little Feet",
+        "Part": "Vento Aureo"
+    },
+    {
+        "Title": "Man in the Mirror",
+        "Part": "Vento Aureo"
+    },
+    {
+        "Title": "Beach Boy",
+        "Part": "Vento Aureo"
+    },
+    {
+        "Title": "The Grateful Dead",
+        "Part": "Vento Aureo"
+    },
+    {
+        "Title": "Baby Face",
+        "Part": "Vento Aureo"
+    },
+    {
+        "Title": "White Album",
+        "Part": "Vento Aureo"
+    },
+    {
+        "Title": "Clash",
+        "Part": "Vento Aureo"
+    },
+    {
+        "Title": "Talking Head",
+        "Part": "Vento Aureo"
+    },
+    {
+        "Title": "Notorious B.I.G",
+        "Part": "Vento Aureo"
+    },
+    {
+        "Title": "Green Day",
+        "Part": "Vento Aureo"
+    },
+    {
+        "Title": "Oasis",
+        "Part": "Vento Aureo"
+    },
+    {
+        "Title": "Rolling Stones",
+        "Part": "Vento Aureo"
+    },
+    {
+        "Title": "Prisioner",
+        "Part": "Stone Ocean"
+    },
+    {
+        "Title": "Stone Ocean",
+        "Part": "Stone Ocean"
+    },
+    {
+        "Title": "Cujoh",
+        "Part": "Stone Ocean"
+    },
+    {
+        "Title": "Green Dolphin Street Prison",
+        "Part": "Stone Ocean"
+    },
+    {
+        "Title": "DISC",
+        "Part": "Stone Ocean"
+    },
+    {
+        "Title": "Heaven Ascended",
+        "Part": "Stone Ocean"
+    },
+    {
+        "Title": "Stone Free",
+        "Part": "Stone Ocean"
+    },
+    {
+        "Title": "Kiss",
+        "Part": "Stone Ocean"
+    },
+    {
+        "Title": "Foo FIghters",
+        "Part": "Stone Ocean"
+    },
+    {
+        "Title": "Weather Report",
+        "Part": "Stone Ocean"
+    },
+    {
+        "Title": "Burning Down the House",
+        "Part": "Stone Ocean"
+    },
+    {
+        "Title": "Diver Down",
+        "Part": "Stone Ocean"
+    },
+    {
+        "Title": "Whitesnake",
+        "Part": "Stone Ocean"
+    },
+    {
+        "Title": "C-MOON",
+        "Part": "Stone Ocean"
+    },
+    {
+        "Title": "Made in Heaven",
+        "Part": "Stone Ocean"
+    },
+    {
+        "Title": "Goo Goo Dolls",
+        "Part": "Stone Ocean"
+    },
+    {
+        "Title": "Manhattan Transfer",
+        "Part": "Stone Ocean"
+    },
+    {
+        "Title": "Highway to Hell",
+        "Part": "Stone Ocean"
+    },
+    {
+        "Title": "Marilyn Manson",
+        "Part": "Stone Ocean"
+    },
+    {
+        "Title": "Jumpin' Jack Flash",
+        "Part": "Stone Ocean"
+    },
+    {
+        "Title": "Limp Bizkit",
+        "Part": "Stone Ocean"
+    },
+    {
+        "Title": "Survivor",
+        "Part": "Stone Ocean"
+    },
+    {
+        "Title": "Planet Waves",
+        "Part": "Stone Ocean"
+    },
+    {
+        "Title": "Dragon's Dream",
+        "Part": "Stone Ocean"
+    },
+    {
+        "Title": "Yo-Yo Ma",
+        "Part": "Stone Ocean"
+    },
+    {
+        "Title": "Green, Green Grass of Home",
+        "Part": "Stone Ocean"
+    },
+    {
+        "Title": "Jail House Lock",
+        "Part": "Stone Ocean"
+    },
+    {
+        "Title": "Bohemian Rhapsody",
+        "Part": "Stone Ocean"
+    },
+    {
+        "Title": "Sky High",
+        "Part": "Stone Ocean"
+    },
+    {
+        "Title": "Under World",
+        "Part": "Stone Ocean"
+    },
+    {
+        "Title": "Gravity Ruler",
+        "Part": "Stone Ocean"
+    },
+    {
+        "Title": "Time Accelerator",
+        "Part": "Stone Ocean"
+    },
+    {
+        "Title": "Heaven",
+        "Part": "Stone Ocean"
+    },
+    {
+        "Title": "Steel Ball Run",
+        "Part": "Steel Ball Run"
+    },
+    {
+        "Title": "Valentine",
+        "Part": "Steel Ball Run"
+    },
+    {
+        "Title": "Valentine's Subordinate",
+        "Part": "Steel Ball Run"
+    },
+    {
+        "Title": "Runner",
+        "Part": "Steel Ball Run"
+    },
+    {
+        "Title": "Jockey",
+        "Part": "Steel Ball Run"
+    },
+    {
+        "Title": "President",
+        "Part": "Steel Ball Run"
+    },
+    {
+        "Title": "Executioner",
+        "Part": "Steel Ball Run"
+    },
+    {
+        "Title": "Naples",
+        "Part": "Steel Ball Run"
+    },
+    {
+        "Title": "First Lady",
+        "Part": "Steel Ball Run"
+    },
+    {
+        "Title": "Racer",
+        "Part": "Steel Ball Run"
+    },
+    {
+        "Title": "Tusk",
+        "Part": "Steel Ball Run"
+    },
+    {
+        "Title": "Spin",
+        "Part": "Steel Ball Run"
+    },
+    {
+        "Title": "Ball Breaker",
+        "Part": "Steel Ball Run"
+    },
+    {
+        "Title": "Golden Spin",
+        "Part": "Steel Ball Run"
+    },
+    {
+        "Title": "Golden Ratio",
+        "Part": "Steel Ball Run"
+    },
+    {
+        "Title": "D4C",
+        "Part": "Steel Ball Run"
+    },
+    {
+        "Title": "Dirty Deeds Dne Dirt Cheap",
+        "Part": "Steel Ball Run"
+    },
+    {
+        "Title": "Cream Starter",
+        "Part": "Steel Ball Run"
+    },
+    {
+        "Title": "THE WORLD",
+        "Part": "Steel Ball Run"
+    },
+    {
+        "Title": "Love Train",
+        "Part": "Steel Ball Run"
+    },
+    {
+        "Title": "Ticket to Ride",
+        "Part": "Steel Ball Run"
+    },
+    {
+        "Title": "Scary Monsters",
+        "Part": "Steel Ball Run"
+    },
+    {
+        "Title": "Oh! Lonesome Me",
+        "Part": "Steel Ball Run"
+    },
+    {
+        "Title": "Hey Ya!",
+        "Part": "Steel Ball Run"
+    },
+    {
+        "Title": "Mandom",
+        "Part": "Steel Ball Run"
+    },
+    {
+        "Title": "Catch the Rainbow",
+        "Part": "Steel Ball Run"
+    },
+    {
+        "Title": "In a Silent Way",
+        "Part": "Steel Ball Run"
+    },
+    {
+        "Title": "20th Century BOY",
+        "Part": "Steel Ball Run"
+    },
+    {
+        "Title": "Civil War",
+        "Part": "Steel Ball Run"
+    },
+    {
+        "Title": "Sugar Mountain",
+        "Part": "Steel Ball Run"
+    },
+    {
+        "Title": "Wired",
+        "Part": "Steel Ball Run"
+    },
+    {
+        "Title": "Tomb of the Boom",
+        "Part": "Steel Ball Run"
+    },
+    {
+        "Title": "Boku no Rythm no Kiitekure",
+        "Part": "Steel Ball Run"
+    },
+    {
+        "Title": "Chocolate Disco",
+        "Part": "Steel Ball Run"
+    },
+    {
+        "Title": "Parallel Universe",
+        "Part": "Steel Ball Run"
+    },
+    {
+        "Title": "World of Man",
+        "Part": "Steel Ball Run"
+    },
+    {
+        "Title": "Saint's Corpse",
+        "Part": "Steel Ball Run"
+    },
+    {
+        "Title": "The Holy Saint",
+        "Part": "Steel Ball Run"
+    },
+    {
+        "Title": "Devil's Palm",
+        "Part": "Steel Ball Run"
+    },
+    {
+        "Title": "JoJolion",
+        "Part": "JoJolion"
+    },
+    {
+        "Title": "Rock Human",
+        "Part": "JoJolion"
+    },
+    {
+        "Title": "Higashikata Fruit Parlor",
+        "Part": "JoJolion"
+    },
+    {
+        "Title": "TG University Hospital",
+        "Part": "JoJolion"
+    },
+    {
+        "Title": "Locacaca Organization",
+        "Part": "JoJolion"
+    },
+    {
+        "Title": "Locacaca",
+        "Part": "JoJolion"
+    },
+    {
+        "Title": "Soft & Wet",
+        "Part": "JoJolion"
+    },
+    {
+        "Title": "Paisley Park",
+        "Part": "JoJolion"
+    },
+    {
+        "Title": "King Nothing",
+        "Part": "JoJolion"
+    },
+    {
+        "Title": "Doggy Style",
+        "Part": "JoJolion"
+    },
+    {
+        "Title": "Nut King Call",
+        "Part": "JoJolion"
+    },
+    {
+        "Title": "Born This Way",
+        "Part": "JoJolion"
+    },
+    {
+        "Title": "Love Love Deluxe",
+        "Part": "JoJolion"
+    },
+    {
+        "Title": "Walking Heart",
+        "Part": "JoJolion"
+    },
+    {
+        "Title": "Space Trucking",
+        "Part": "JoJolion"
+    },
+    {
+        "Title": "Wonder of U",
+        "Part": "JoJolion"
+    },
+    {
+        "Title": "Fun Fun Fun",
+        "Part": "JoJolion"
+    },
+    {
+        "Title": "California King Bed",
+        "Part": "JoJolion"
+    },
+    {
+        "Title": "Les Feuilles",
+        "Part": "JoJolion"
+    },
+    {
+        "Title": "Paper Moon King",
+        "Part": "JoJolion"
+    },
+    {
+        "Title": "I Am a Rock",
+        "Part": "JoJolion"
+    },
+    {
+        "Title": "Speed King",
+        "Part": "JoJolion"
+    },
+    {
+        "Title": "Doobie Wah!",
+        "Part": "JoJolion"
+    },
+    {
+        "Title": "Vitamin C",
+        "Part": "JoJolion"
+    },
+    {
+        "Title": "Milagroman",
+        "Part": "JoJolion"
+    },
+    {
+        "Title": "Blue Hawaii",
+        "Part": "JoJolion"
+    },
+    {
+        "Title": "Brain Storm",
+        "Part": "JoJolion"
+    },
+    {
+        "Title": "Ozon Baby",
+        "Part": "JoJolion"
+    },
+    {
+        "Title": "Doctor Wu",
+        "Part": "JoJolion"
+    },
+    {
+        "Title": "Awaking III Leaves",
+        "Part": "JoJolion"
+    },
+    {
+        "Title": "Go Beyond",
+        "Part": "JoJolion"
+    },
+    {
+        "Title": "Hospital Director",
+        "Part": "JoJolion"
+    },
+    {
+        "Title": "Wall Eyes",
+        "Part": "JoJolion"
+    },
+    {
+        "Title": "Rock Animal",
+        "Part": "JoJolion"
+    },
+    {
+        "Title": "Calamity",
+        "Part": "JoJolion"
+    },
+    {
+        "Title": "The JOJOLands",
+        "Part": "The JOJOLands"
+    },
+    {
+        "Title": "Team Jodio",
+        "Part": "The JOJOLands"
+    },
+    {
+        "Title": "HOWLER Company",
+        "Part": "The JOJOLands"
+    },
+    {
+        "Title": "November Rain",
+        "Part": "The JOJOLands"
+    },
+    {
+        "Title": "Smooth Operators",
+        "Part": "The JOJOLands"
+    },
+    {
+        "Title": "THE Hustle",
+        "Part": "The JOJOLands"
+    },
+    {
+        "Title": "THE MATTEKUDASAI",
+        "Part": "The JOJOLands"
+    },
+    {
+        "Title": "Bigmouth Strikes Again",
+        "Part": "The JOJOLands"
+    },
+    {
+        "Title": "Cat Size",
+        "Part": "The JOJOLands"
+    },
+    {
+        "Title": "Bags Groove",
+        "Part": "The JOJOLands"
+    },
+    {
+        "Title": "Glory Days",
+        "Part": "The JOJOLands"
+    }
+]

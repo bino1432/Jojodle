@@ -1,0 +1,1304 @@
+[
+    {
+        "Name": "Joseph Joestar",
+        "Stand": "Hermit Purple",
+        "Stand Type": "Curto Alcance | Reconhecimento | Não-Humanóide Natural",
+        "Debut": "Battle Tendency",
+        "Technique": "Adivinhação"
+    },
+    {
+        "Name": "Jotaro Kujo",
+        "Stand": "Star Platinum",
+        "Stand Type": "Curto Alcance | Alcance Irrelevante | Humanóide Natural",
+        "Debut": "Stardust Crusaders",
+        "Technique": "Star Finger"
+    },
+    {
+        "Name": "Joseph Joestar (SC)",
+        "Stand": "Hermit Purple",
+        "Stand Type": "Curto Alcance | Reconhecimento | Não-Humanóide Natural",
+        "Debut": "Battle Tendency",
+        "Technique": "Adivinhação"
+    },
+    {
+        "Name": "Muhammad Avdol",
+        "Stand": "Magician's Red",
+        "Stand Type": "Curto Alcance | Humanóide Natural",
+        "Debut": "Stardust Crusaders",
+        "Technique": "Cross Fire Hurricane"
+    },
+    {
+        "Name": "Noriaki Kakyoin",
+        "Stand": "Hierophant Green",
+        "Stand Type": "Longo Alcance | Reconhecimento | Humanóide Artificial",
+        "Debut": "Stardust Crusaders",
+        "Technique": "Emerald Splash"
+    },
+    {
+        "Name": "Jean Pierre Polnareff",
+        "Stand": "Silver Chariot",
+        "Stand Type": "Curto Alcance | Humanóide Artificial",
+        "Debut": "Stardust Crusaders",
+        "Technique": "Hora Rush"
+    },
+    {
+        "Name": "Iggy",
+        "Stand": "The Fool",
+        "Stand Type": "Curto Alcance | Materializado | Não-Humanóide Artificial",
+        "Debut": "Stardust Crusaders",
+        "Technique": "Manipulação de Areia"
+    },
+    {
+        "Name": "DIO (SC)",
+        "Stand": "The World",
+        "Stand Type": "Curto Alcance | Alcance Irrelevante | Humanóide Natural",
+        "Debut": "Phantom Blood",
+        "Technique": "Parar o Tempo"
+    },
+    {
+        "Name": "Enya the Hag",
+        "Stand": "Justice",
+        "Stand Type": "Curto Alcance | Não-Humanóide Natural",
+        "Debut": "Stardust Crusaders",
+        "Technique": "Marionetes com Névoa"
+    },
+    {
+        "Name": "J. Geil",
+        "Stand": "Hanged Man",
+        "Stand Type": "Longo Alcance | Humanóide Artificial",
+        "Debut": "Stardust Crusaders",
+        "Technique": "Manifestação de Luz"
+    },
+    {
+        "Name": "Hol Horse",
+        "Stand": "Emperor",
+        "Stand Type": "Curto Alcance | Não-Humanóide Artificial",
+        "Debut": "Stardust Crusaders",
+        "Technique": "Balas Teleguiadas"
+    },
+    {
+        "Name": "N'Doul",
+        "Stand": "Geb",
+        "Stand Type": "Longo Alcance | Materializado | Não-Humanóide Natural",
+        "Debut": "Stardust Crusaders",
+        "Technique": "Amorfismo de Água"
+    },
+    {
+        "Name": "Pet Shop",
+        "Stand": "Horus",
+        "Stand Type": "Curto Alcance | Materializado | Humanóide Artificial",
+        "Debut": "Stardust Crusaders",
+        "Technique": "Criocinese"
+    },
+    {
+        "Name": "Vanilla Ice",
+        "Stand": "Cream",
+        "Stand Type": "Curto Alcance | Humanóide Natural",
+        "Debut": "Stardust Crusaders",
+        "Technique": "Vazio"
+    },
+    {
+        "Name": "Gray Fly",
+        "Stand": "Tower of Gray",
+        "Stand Type": "Longo Alcance | Humanóide Artificial",
+        "Debut": "Stardust Crusaders",
+        "Technique": "Mandíbula Extensível"
+    },
+    {
+        "Name": "Imposter Captain Tennille",
+        "Stand": "Dark Blue Moon",
+        "Stand Type": "Curto Alcance | Humanóide Natural",
+        "Debut": "Stardust Crusaders",
+        "Technique": "Cracas"
+    },
+    {
+        "Name": "Forever",
+        "Stand": "Strength",
+        "Stand Type": "Curto Alcance | Materializado | Não-Humanóide Artificial",
+        "Debut": "Stardust Crusaders",
+        "Technique": "Manipulação de Navio"
+    },
+    {
+        "Name": "Devo the Cursed",
+        "Stand": "Ebony Devil",
+        "Stand Type": "Longo Alcance | Humanóide Artificial",
+        "Debut": "Stardust Crusaders",
+        "Technique": "Possessão de Boneco"
+    },
+    {
+        "Name": "Rubber Soul",
+        "Stand": "Yellow Temperance",
+        "Stand Type": "Curto Alcance | Materializado | Não-Humanóide Natural",
+        "Debut": "Stardust Crusaders",
+        "Technique": "Assimilação de Matéria Orgânica"
+    },
+    {
+        "Name": "Nena",
+        "Stand": "Empress",
+        "Stand Type": "Longo Alcance | Materializado | Humanóide Natural",
+        "Debut": "Stardust Crusaders",
+        "Technique": "Parasitismo"
+    },
+    {
+        "Name": "ZZ",
+        "Stand": "Wheel of Fortune",
+        "Stand Type": "Curto Alcance | Materializado | Não-Humanóide Artificial",
+        "Debut": "Stardust Crusaders",
+        "Technique": "Manipulação de Carro"
+    },
+    {
+        "Name": "Steely Dan",
+        "Stand": "Lovers",
+        "Stand Type": "Longo Alcance | Humanóide Artificial",
+        "Debut": "Stardust Crusaders",
+        "Technique": "Sincronização de Dor"
+    },
+    {
+        "Name": "Arabia Fats",
+        "Stand": "Sun",
+        "Stand Type": "Longo Alcance | Não-Humanóide Natural",
+        "Debut": "Stardust Crusaders",
+        "Technique": "Sol Falso"
+    },
+    {
+        "Name": "Mannish Boy",
+        "Stand": "Death 13",
+        "Stand Type": "Curto Alcance | Assalto Psicológico | Humanóide Artificial",
+        "Debut": "Stardust Crusaders",
+        "Technique": "Manipulação do Mundo dos Sonhos"
+    },
+    {
+        "Name": "Cameo",
+        "Stand": "Judgement",
+        "Stand Type": "Curto Alcance | Humanóide Artificial",
+        "Debut": "Stardust Crusaders",
+        "Technique": "Wish Granting"
+    },
+    {
+        "Name": "Midler",
+        "Stand": "High Priestress",
+        "Stand Type": "Longo Alcance | Não-Humanóide Natural",
+        "Debut": "Stardust Crusaders",
+        "Technique": "Transormação e Possessão de Minerais"
+    },
+    {
+        "Name": "Oingo",
+        "Stand": "Khnum",
+        "Stand Type": "Integrado | Fenômeno",
+        "Debut": "Stardust Crusaders",
+        "Technique": "Transfiguração"
+    },
+    {
+        "Name": "Boingo",
+        "Stand": "Thoth",
+        "Stand Type": "Automático | Foresight | Materializado | Fenômeno",
+        "Debut": "Stardust Crusaders",
+        "Technique": "Profecias"
+    },
+    {
+        "Name": "Chaka",
+        "Stand": "Anubis",
+        "Stand Type": "Automático | Materializado | Assalto Psicológico | Não-Humanóide Artificial | Compartilhado | Senciente",
+        "Debut": "Stardust Crusaders",
+        "Technique": "Controle da Mente"
+    },
+    {
+        "Name": "Khan",
+        "Stand": "Anubis",
+        "Stand Type": "Automático | Materializado | Assalto Psicológico | Não-Humanóide Artificial | Compartilhado | Senciente",
+        "Debut": "Stardust Crusaders",
+        "Technique": "Controle da Mente"
+    },
+    {
+        "Name": "Mariah",
+        "Stand": "Bastet",
+        "Stand Type": "Longo Alcance | Não-Humanóide Artificial",
+        "Debut": "Stardust Crusaders",
+        "Technique": "Atração Magnética"
+    },
+    {
+        "Name": "Alessi",
+        "Stand": "Sethan",
+        "Stand Type": "Curto Alcance |Materializado | Humanóide Natural",
+        "Debut": "Stardust Crusaders",
+        "Technique": "Reversão de Idade"
+    },
+    {
+        "Name": "Daniel J. D'Arby",
+        "Stand": "Osiris",
+        "Stand Type": "Curto Alcance | Automático | Assalto Psicológico | Humanóide Artificial",
+        "Debut": "Stardust Crusaders",
+        "Technique": "Roubo de Alma"
+    },
+    {
+        "Name": "Telence T. D'Arby",
+        "Stand": "Atum",
+        "Stand Type": "Curto Alcance | Assalto Psicológico | Humanóide Artificial",
+        "Debut": "Stardust Crusaders",
+        "Technique": "Leitura Binária da Alma"
+    },
+    {
+        "Name": "Kenny G.",
+        "Stand": "Tenore Sax",
+        "Stand Type": "Fenômeno | Assalto Psicológico",
+        "Debut": "Stardust Crusaders",
+        "Technique": "Ilusões"
+    },
+    {
+        "Name": "Josuke Higashikata",
+        "Stand": "Crazy Diamond",
+        "Stand Type": "Curto Alcance | Humanóide Natural",
+        "Debut": "Diamond is Unbreakable",
+        "Technique": "Restauração"
+    },
+    {
+        "Name": "Koichi Hirose",
+        "Stand": "Echoes ACT 1",
+        "Stand Type": "Longo Alcance | Artificial  Non-Humanoid | Assalto Psicológico | Evoluído",
+        "Debut": "Diamond is Unbreakable",
+        "Technique": "Aumento de Peso"
+    },
+    {
+        "Name": "Koichi Hirose",
+        "Stand": "Echoes ACT 2",
+        "Stand Type": "Longo Alcance | Não-Humanóide Artificial | Evoluído",
+        "Debut": "Diamond is Unbreakable",
+        "Technique": "Aumento de Peso"
+    },
+    {
+        "Name": "Koichi Hirose",
+        "Stand": "Echoes ACT 3",
+        "Stand Type": "Curto Alcance | Humanóide Artificial | Senciente | Evoluído",
+        "Debut": "Diamond is Unbreakable",
+        "Technique": "Aumento de Peso"
+    },
+    {
+        "Name": "Jotaro Kujo (DiU)",
+        "Stand": "Star Platinum",
+        "Stand Type": "Curto Alcance | Alcance Irrelevante | Humanóide Natural",
+        "Debut": "Stardust Crusaders",
+        "Technique": "Parar o Tempo"
+    },
+    {
+        "Name": "Okuyasu Nijimura",
+        "Stand": "The Hand",
+        "Stand Type": "Curto Alcance | Humanóide Artificial",
+        "Debut": "Diamond is Unbreakable",
+        "Technique": "Apagar Matéria"
+    },
+    {
+        "Name": "Rohan Kishibe",
+        "Stand": "Heaven's Door",
+        "Stand Type": "Curto Alcance | Reconhecimento | Humanóide Natural",
+        "Debut": "Diamond is Unbreakable",
+        "Technique": "Transmutação em Livro"
+    },
+    {
+        "Name": "Yoshikage Kira",
+        "Stand": "Killer Queen",
+        "Stand Type": "Curto Alcance | Humanóide Natural",
+        "Debut": "Diamond is Unbreakable",
+        "Technique": "Transmutação de Bomba"
+    },
+    {
+        "Name": "Yoshikage Kira",
+        "Stand": "Sheer Heart Attack",
+        "Stand Type": "Automático | Não-Humanóide Artificial",
+        "Debut": "Diamond is Unbreakable",
+        "Technique": "Detonação Teleguiada pelo Calor"
+    },
+    {
+        "Name": "Yoshikage Kira",
+        "Stand": "Bites the Dust",
+        "Stand Type": "Automático | Assalto Psicológico | Humanóide Natural | Evoluído",
+        "Debut": "Diamond is Unbreakable",
+        "Technique": "Contenção de Identidade"
+    },
+    {
+        "Name": "Akira Otoishi",
+        "Stand": "Red Hot Chili Pepper",
+        "Stand Type": "Longo Alcance | Humanóide Natural",
+        "Debut": "Diamond is Unbreakable",
+        "Technique": "Transferência Elétrica"
+    },
+    {
+        "Name": "Yoshihiro Kira",
+        "Stand": "Atom Heart Father",
+        "Stand Type": "Alcance Irrelevante | Materializado | Assalto Psicológico | Fenômeno",
+        "Debut": "Diamond is Unbreakable",
+        "Technique": "Fotografia Sobrenatural"
+    },
+    {
+        "Name": "Joseph Joestar (DiU)",
+        "Stand": "Hermit Purple",
+        "Stand Type": "Curto Alcance | Reconhecimento | Não-Humanóide Natural",
+        "Debut": "Battle Tendency",
+        "Technique": "Overdrive"
+    },
+    {
+        "Name": "Shigekiyo Yangu",
+        "Stand": "Harvest",
+        "Stand Type": "Longo Alcance | Reconhecimento | Não-Humanóide Artificial | Colônia",
+        "Debut": "Diamond is Unbreakable",
+        "Technique": "Coleta"
+    },
+    {
+        "Name": "Mikitaka Hazekura",
+        "Stand": "Earth, Wind and Fire",
+        "Stand Type": "Alcance Irrelevante | Integrado | Fenômeno",
+        "Debut": "Diamond is Unbreakable",
+        "Technique": "Mudança de Forma"
+    },
+    {
+        "Name": "Yuya Fungami",
+        "Stand": "Highway Star",
+        "Stand Type": "Longo Alcance | Automático | Reconhecimento | Humanóide Natural",
+        "Debut": "Diamond is Unbreakable",
+        "Technique": "Desmantelamento Corporal"
+    },
+    {
+        "Name": "Anjuro Katagiri",
+        "Stand": "Aqua Necklace",
+        "Stand Type": "Longo Alcance | Materializado | Humanóide Natural | Não-Humanóide Natural",
+        "Debut": "Diamond is Unbreakable",
+        "Technique": "Forma Líquida"
+    },
+    {
+        "Name": "Keicho Nijimura",
+        "Stand": "Bad Company",
+        "Stand Type": "Curto Alcance | Reconhecimento | Humanóide Artificial | Colônia",
+        "Debut": "Diamond is Unbreakable",
+        "Technique": "Poder de Fogo Militar"
+    },
+    {
+        "Name": "Tamami Kobayashi",
+        "Stand": "The Lock",
+        "Stand Type": "Alcance Irrelevante | Assalto Psicológico | Não-Humanóide Artificial",
+        "Debut": "Diamond is Unbreakable",
+        "Technique": "Armadilha de Culpa"
+    },
+    {
+        "Name": "Yukako Yamagishi",
+        "Stand": "Love Deluxe",
+        "Stand Type": "Alcance Irrelevante | Integrado | Materializado | Fenômeno",
+        "Debut": "Diamond is Unbreakable",
+        "Technique": "Manipulação Capilar"
+    },
+    {
+        "Name": "Tama",
+        "Stand": "Stray Cat",
+        "Stand Type": "Alcance Irrelevante | Integrado | Materializado | Fenômeno | Senciente",
+        "Debut": "Diamond is Unbreakable",
+        "Technique": "Aerocinese"
+    },
+    {
+        "Name": "Toshikazu Hazamada",
+        "Stand": "Surface",
+        "Stand Type": "Automático | Materializado | Senciente | Fenômeno",
+        "Debut": "Diamond is Unbreakable",
+        "Technique": "Mimetismo"
+    },
+    {
+        "Name": "Tonio Trussardi",
+        "Stand": "Pearl Jam",
+        "Stand Type": "Alcance Irrelevante | Não-Humanóide Natural | Colônia",
+        "Debut": "Diamond is Unbreakable",
+        "Technique": "Culinária Curativa"
+    },
+    {
+        "Name": "Shizuka Joestar",
+        "Stand": "Achtung Baby",
+        "Stand Type": "Alcance Irrelevante | Integrado | Fenômeno",
+        "Debut": "Diamond is Unbreakable",
+        "Technique": "Invisibilidade"
+    },
+    {
+        "Name": "Aya Tsuji",
+        "Stand": "Cinderella",
+        "Stand Type": "Curto Alcance | Humanóide Artificial",
+        "Debut": "Diamond is Unbreakable",
+        "Technique": "Substiuição de Partes do Corpo"
+    },
+    {
+        "Name": "Ken Oyanagi",
+        "Stand": "Boy II Man",
+        "Stand Type": "Curto Alcance | Assalto Psicológico | Humanóide Artificial",
+        "Debut": "Diamond is Unbreakable",
+        "Technique": "Roubo de Energia"
+    },
+    {
+        "Name": "Toyohiro Kanedaichi",
+        "Stand": "Super Fly",
+        "Stand Type": "Automático | Materializado | Fenômeno",
+        "Debut": "Diamond is Unbreakable",
+        "Technique": "Prisão do Ocupante"
+    },
+    {
+        "Name": "Terunosuke Miyamoto",
+        "Stand": "Enigma",
+        "Stand Type": "Curto Alcance | Assalto Psicológico | Humanóide Artificial",
+        "Debut": "Diamond is Unbreakable",
+        "Technique": "Selo de Papel"
+    },
+    {
+        "Name": "Masazo Kinoto",
+        "Stand": "Cheap Trick",
+        "Stand Type": "Automático | Assalto Psicológico | Humanóide Artificial | Compartilhado | Senciente",
+        "Debut": "Diamond is Unbreakable",
+        "Technique": "Grudar nas Costas"
+    },
+    {
+        "Name": "Giorno Giovanna",
+        "Stand": "Gold Experience",
+        "Stand Type": "Curto Alcance | Humanóide Natural",
+        "Debut": "Vento Aureo",
+        "Technique": "Geração de Vida"
+    },
+    {
+        "Name": "Giorno Giovanna",
+        "Stand": "Gold Experience Requiem",
+        "Stand Type": "Curto Alcance | Alcance Irrelevante | Humanóide Natural | Senciente | Evoluído",
+        "Debut": "Vento Aureo",
+        "Technique": "Reversão"
+    },
+    {
+        "Name": "Bruno Bucciarati",
+        "Stand": "Sticky Fingers",
+        "Stand Type": "Curto Alcance | Humanóide Natural",
+        "Debut": "Vento Aureo",
+        "Technique": "Zíperes"
+    },
+    {
+        "Name": "Leone Abbacchio",
+        "Stand": "Moody Blues",
+        "Stand Type": "Curto Alcance | Humanóide Natural",
+        "Debut": "Vento Aureo",
+        "Technique": "Retransmissão Cronológica"
+    },
+    {
+        "Name": "Guido Mista",
+        "Stand": "Sex Pistols",
+        "Stand Type": "Longo Alcance | Humanóide Artificial | Colônia",
+        "Debut": "Vento Aureo",
+        "Technique": "Controle de Balas"
+    },
+    {
+        "Name": "Narancia Ghirga",
+        "Stand": "Aerosmith",
+        "Stand Type": "Longo Alcance | Humanóide Natural",
+        "Debut": "Vento Aureo",
+        "Technique": "Metralhadoras e Bomba"
+    },
+    {
+        "Name": "Pannacotta Fugo",
+        "Stand": "Purple Haze",
+        "Stand Type": "Curto Alcance | Humanóide Natural",
+        "Debut": "Vento Aureo",
+        "Technique": "Infecção por Vírus"
+    },
+    {
+        "Name": "Trish Una",
+        "Stand": "Spice Girl",
+        "Stand Type": "Curto Alcance | Humanóide Natural",
+        "Debut": "Vento Aureo",
+        "Technique": "Amolecimento"
+    },
+    {
+        "Name": "Diavolo",
+        "Stand": "King Crimson",
+        "Stand Type": "Curto Alcance | Humanóide Natural",
+        "Debut": "Vento Aureo",
+        "Technique": "Apagar o Tempo"
+    },
+    {
+        "Name": "Vinegar Doppio",
+        "Stand": "Epitaph",
+        "Stand Type": "Curto Alcance | Humanóide Natural",
+        "Debut": "Vento Aureo",
+        "Technique": "Previsão"
+    },
+    {
+        "Name": "Risotto Nero",
+        "Stand": "Metallica",
+        "Stand Type": "Curto Alcance | Não-Humanóide Natural | Colônia",
+        "Debut": "Vento Aureo",
+        "Technique": "Manipulação de Ferro"
+    },
+    {
+        "Name": "Coco Jumbo",
+        "Stand": "Mr. President",
+        "Stand Type": "Alcance Irrelevante | Integrado | Não-Humanóide Natural",
+        "Debut": "Vento Aureo",
+        "Technique": "Sala Secreta"
+    },
+    {
+        "Name": "Jean Pierre Polnareff",
+        "Stand": "Chariot Requiem",
+        "Stand Type": "Curto Alcance | Humanóide Artificial",
+        "Debut": "Stardust Crusaders",
+        "Technique": "Manipulação de Corpo e Alma"
+    },
+    {
+        "Name": "Polpo",
+        "Stand": "Black Sabbath",
+        "Stand Type": "Automático | Humanóide Artificial",
+        "Debut": "Vento Aureo",
+        "Technique": "Poder das Sombras"
+    },
+    {
+        "Name": "Melone",
+        "Stand": "Baby Face",
+        "Stand Type": "Automático | Materializado | Humanóide Natural | Não-Humanóide Artificial | Senciente",
+        "Debut": "Vento Aureo",
+        "Technique": "Geração de Homúnculo"
+    },
+    {
+        "Name": "Mario Zucchero",
+        "Stand": "Soft Machine",
+        "Stand Type": "Curto Alcance | Humanóide Artificial",
+        "Debut": "Vento Aureo",
+        "Technique": "Desinflação"
+    },
+    {
+        "Name": "Sale",
+        "Stand": "Kraft Work",
+        "Stand Type": "Curto Alcance | Humanóide Artificial",
+        "Debut": "Vento Aureo",
+        "Technique": "Manipulação de Energia Cinética"
+    },
+    {
+        "Name": "Formaggio",
+        "Stand": "Little Feet",
+        "Stand Type": "Curto Alcance | Humanóide Artificial",
+        "Debut": "Vento Aureo",
+        "Technique": "Encolhimento"
+    },
+    {
+        "Name": "Illuso",
+        "Stand": "Man in the Mirror",
+        "Stand Type": "Curto Alcance | Humanóide Artificial",
+        "Debut": "Vento Aureo",
+        "Technique": "Entrada no Mundo dos Espelhos"
+    },
+    {
+        "Name": "Prosciutto",
+        "Stand": "The Grateful Dead",
+        "Stand Type": "Curto Alcance | Não-Humanóide Natural",
+        "Debut": "Vento Aureo",
+        "Technique": "Envelhecimento Acelerado"
+    },
+    {
+        "Name": "Pesci",
+        "Stand": "Beach Boy",
+        "Stand Type": "Curto Alcance | Reconhecimento | Não-Humanóide Artificial",
+        "Debut": "Vento Aureo",
+        "Technique": "Anzol e Linha"
+    },
+    {
+        "Name": "Ghiaccio",
+        "Stand": "White Album",
+        "Stand Type": "Curto Alcance | Humanóide Artificial",
+        "Debut": "Vento Aureo",
+        "Technique": "Criocinese"
+    },
+    {
+        "Name": "Squalo",
+        "Stand": "Clash",
+        "Stand Type": "Longo Alcance | Não-Humanóide Natural",
+        "Debut": "Vento Aureo",
+        "Technique": "Teleporte Entre Líquidos"
+    },
+    {
+        "Name": "Tizzano",
+        "Stand": "Talking Head",
+        "Stand Type": "Longo Alcance | Não-Humanóide Natural",
+        "Debut": "Vento Aureo",
+        "Technique": "Mentira Forçada"
+    },
+    {
+        "Name": "Carne",
+        "Stand": "Notorious B.I.G",
+        "Stand Type": "Automático | Não-Humanóide Natural | Humanóide Natural",
+        "Debut": "Vento Aureo",
+        "Technique": "Simbiose Parcial"
+    },
+    {
+        "Name": "Cioccolata",
+        "Stand": "Green Day",
+        "Stand Type": "Curto Alcance | Humanóide Artificial",
+        "Debut": "Vento Aureo",
+        "Technique": "Infestação de Mofo"
+    },
+    {
+        "Name": "Secco",
+        "Stand": "Oasis",
+        "Stand Type": "Curto Alcance | Humanóide Artificial",
+        "Debut": "Vento Aureo",
+        "Technique": "Liquidificação do Chão"
+    },
+    {
+        "Name": "Scolippi",
+        "Stand": "Rolling Stones",
+        "Stand Type": "Automático | Foresight | Não-Humanóide Natural",
+        "Debut": "Vento Aureo",
+        "Technique": "Profecia da Morte"
+    },
+    {
+        "Name": "Jolyne Cujoh",
+        "Stand": "Stone Free",
+        "Stand Type": "Curto Alcance | Reconhecimento Humanóide Natural | Integrado",
+        "Debut": "Stone Ocean",
+        "Technique": "Decomposição em Fios"
+    },
+    {
+        "Name": "Jotaro Kujo (SO)",
+        "Stand": "Star Platinum",
+        "Stand Type": "Curto Alcance | Alcance Irrelevante | Humanóide Natural",
+        "Debut": "Stardust Crusaders",
+        "Technique": "Parar o Tempo"
+    },
+    {
+        "Name": "Emporio Alnino",
+        "Stand": "Burning Down the House",
+        "Stand Type": "Alcance Irrelevante | Materializado | Fenômeno",
+        "Debut": "Stone Ocean",
+        "Technique": "Objetos Fantasma"
+    },
+    {
+        "Name": "Foo Fighters",
+        "Stand": "Foo Fighters",
+        "Stand Type": "Alcance Irrelevante | Integrado | Fenômeno | Compartilhado",
+        "Debut": "Stone Ocean",
+        "Technique": "Invasão de Corpo"
+    },
+    {
+        "Name": "Ermes Costello",
+        "Stand": "Kiss",
+        "Stand Type": "Curto Alcance | Humanóide Natural",
+        "Debut": "Stone Ocean",
+        "Technique": "Adesivos Duplicadores"
+    },
+    {
+        "Name": "Weather Report",
+        "Stand": "Weather Report",
+        "Stand Type": "Curto Alcance | Humanóide Artificial | Não-Humanóide Natural",
+        "Debut": "Stone Ocean",
+        "Technique": "Manipulação Atmosférica"
+    },
+    {
+        "Name": "Narciso Anasui",
+        "Stand": "Diver Down",
+        "Stand Type": "Curto Alcance | Humanóide Artificial",
+        "Debut": "Stone Ocean",
+        "Technique": "Restruturação"
+    },
+    {
+        "Name": "Enrico Pucci",
+        "Stand": "Whitesnake",
+        "Stand Type": "Longo Alcance | Assalto Psicológico | Humanóide Natural | Senciente",
+        "Debut": "Stone Ocean",
+        "Technique": "Extração de DISCO"
+    },
+    {
+        "Name": "Enrico Pucci",
+        "Stand": "C-MOON",
+        "Stand Type": "Longo Alcance | Humanóide Natural | Evoluído",
+        "Debut": "Stone Ocean",
+        "Technique": "Mudança Gravitacional"
+    },
+    {
+        "Name": "Enrico Pucci",
+        "Stand": "Made in Heaven",
+        "Stand Type": "Curto Alcance | Alcance Irrelevante | Não-Humanóide Natural | Evoluído",
+        "Debut": "Stone Ocean",
+        "Technique": "Aceleração do Tempo"
+    },
+    {
+        "Name": "Johngalli A.",
+        "Stand": "Manhattan Transfer",
+        "Stand Type": "Longo Alcance | Reconhecimento | Não-Humanóide Artificial",
+        "Debut": "Stone Ocean",
+        "Technique": "Redirecionamento de Bala"
+    },
+    {
+        "Name": "Lang Rangler",
+        "Stand": "Jumpin' Jack Flash",
+        "Stand Type": "Curto Alcance | Humanóide Artificial",
+        "Debut": "Stone Ocean",
+        "Technique": "Remoção Gravitacional"
+    },
+    {
+        "Name": "Sports Maxx",
+        "Stand": "Limp Bizkit",
+        "Stand Type": "Curto Alcance | Humanóide Artificial",
+        "Debut": "Stone Ocean",
+        "Technique": "Reencarnação Invisível"
+    },
+    {
+        "Name": "The Green Baby",
+        "Stand": "Green, Green Grass of Home",
+        "Stand Type": "Curto Alcance | Humanóide Artificial",
+        "Debut": "Stone Ocean",
+        "Technique": "Encolhimento"
+    },
+    {
+        "Name": "Gwess",
+        "Stand": "Goo Goo Dolls",
+        "Stand Type": "Longo Alcance | Humanóide Artificial",
+        "Debut": "Stone Ocean",
+        "Technique": "Redução de Tamanho"
+    },
+    {
+        "Name": "Miraschon",
+        "Stand": "Marilyn Manson",
+        "Stand Type": "Longo Alcance | Assalto Psicológico | Humanóide Artificial | Automático",
+        "Debut": "Stone Ocean",
+        "Technique": "Cobrador de Dívidas"
+    },
+    {
+        "Name": "Viviano Westwood",
+        "Stand": "Planet Waves",
+        "Stand Type": "Curto Alcance | Humanóide Natural",
+        "Debut": "Stone Ocean",
+        "Technique": "Atração de Meteoritos"
+    },
+    {
+        "Name": "Kenzou",
+        "Stand": "Dragon's Dream",
+        "Stand Type": "Automático | Não-Humanóide Artificial | Senciente",
+        "Debut": "Stone Ocean",
+        "Technique": "Leitura de Sorte de Feng Shui"
+    },
+    {
+        "Name": "Thunder McQueen",
+        "Stand": "Highway to Hell",
+        "Stand Type": "Longo Alcance | Não-Humanóide Artificial",
+        "Debut": "Stone Ocean",
+        "Technique": "Compartilhamento de Dano"
+    },
+    {
+        "Name": "Rikiel",
+        "Stand": "Sky High",
+        "Stand Type": "Curto Alcance | Humanóide Natural",
+        "Debut": "Stone Ocean",
+        "Technique": "Manipulação de Rods"
+    },
+    {
+        "Name": "Ungalo",
+        "Stand": "Bohemian Rhapsody",
+        "Stand Type": "Alcance Irrelevante | Assalto Psicológico | Fenômeno",
+        "Debut": "Stone Ocean",
+        "Technique": "Realização da Ficção"
+    },
+    {
+        "Name": "Donatello Versus",
+        "Stand": "Under World",
+        "Stand Type": "Curto Alcance | Assalto Psicológico | Humanóide Artificial | Senciente",
+        "Debut": "Stone Ocean",
+        "Technique": "Excavação de Memórias"
+    },
+    {
+        "Name": "Miuccia Miuller",
+        "Stand": "Jail House Lock",
+        "Stand Type": "Curto Alcance | Assalto Psicológico | Humanóide Artificial",
+        "Debut": "Stone Ocean",
+        "Technique": "Trava de Memória"
+    },
+    {
+        "Name": "Guccio",
+        "Stand": "Survivor",
+        "Stand Type": "Automático | Assalto Psicológico | Não-Humanóide Natural | Colônia",
+        "Debut": "Stone Ocean",
+        "Technique": "Estímulo Agressivo"
+    },
+    {
+        "Name": "Johnny Joestar",
+        "Stand": "Tusk ACT 1",
+        "Stand Type": "Curto Alcance | Evoluído | Não-Humanóide Natural | Senciente",
+        "Debut": "Steel Ball Run",
+        "Technique": "Unhas Giratórias"
+    },
+    {
+        "Name": "Johnny Joestar",
+        "Stand": "Tusk ACT 2",
+        "Stand Type": "Curto Alcance | Evoluído | Não-Humanóide Artificial",
+        "Debut": "Steel Ball Run",
+        "Technique": "Unhas do Retângulo de Ouro"
+    },
+    {
+        "Name": "Johnny Joestar",
+        "Stand": "Tusk ACT 3",
+        "Stand Type": "Curto Alcance | Evoluído | Não-Humanóide Artificial",
+        "Debut": "Steel Ball Run",
+        "Technique": "Buraco de Minhoca Espacial"
+    },
+    {
+        "Name": "Johnny Joestar",
+        "Stand": "Tusk ACT 4",
+        "Stand Type": "Curto Alcance | Evoluído | Humanóide Artificial",
+        "Debut": "Steel Ball Run",
+        "Technique": "Rotação Infinita"
+    },
+    {
+        "Name": "Gyro Zeppeli",
+        "Stand": "Ball Breaker",
+        "Stand Type": "Longo Alcance | Humanóide Artificial",
+        "Debut": "Steel Ball Run",
+        "Technique": "Rotação"
+    },
+    {
+        "Name": "Lucy Steel",
+        "Stand": "Ticket to Ride",
+        "Stand Type": "Alcance Irrelevante | Integrado | Fenômeno",
+        "Debut": "Steel Ball Run",
+        "Technique": "Proteção Divina"
+    },
+    {
+        "Name": "Funny Valentine",
+        "Stand": "Dirty Deeds Done Dirt Cheap",
+        "Stand Type": "Curto Alcance | Alcance Irrelevante | Humanóide Natural",
+        "Debut": "Steel Ball Run",
+        "Technique": "Viagem Dimensional"
+    },
+    {
+        "Name": "Funny Valentine",
+        "Stand": "D4C Love Train",
+        "Stand Type": "Alcance Irrelevante | Fenômeno | Evoluído",
+        "Debut": "Steel Ball Run",
+        "Technique": "Redirecionamento do Azar"
+    },
+    {
+        "Name": "Diego Brando",
+        "Stand": "Scary Monsters",
+        "Stand Type": "Alcance Irrelevante | Integrado | Fenômeno | Compartilhado",
+        "Debut": "Steel Ball Run",
+        "Technique": "Infecção de Dinossauro"
+    },
+    {
+        "Name": "Hot Pants",
+        "Stand": "Cream Starter",
+        "Stand Type": "Alcance Irrelevante | Materializado | Não-Humanóide Artificial",
+        "Debut": "Steel Ball Run",
+        "Technique": "Spray de Carne"
+    },
+    {
+        "Name": "Mountain Tim",
+        "Stand": "Oh! Lonesome Me",
+        "Stand Type": "Alcance Irrelevante | Integrado | Não-Humanóide Artificial",
+        "Debut": "Steel Ball Run",
+        "Technique": "Transferência por Corda"
+    },
+    {
+        "Name": "Sandman",
+        "Stand": "In a Silent Way",
+        "Stand Type": "Curto Alcance | Humanóide Artificial",
+        "Debut": "Steel Ball Run",
+        "Technique": "Armazenamento de Som"
+    },
+    {
+        "Name": "Dr. Ferdinand",
+        "Stand": "Scary Monsters",
+        "Stand Type": "Alcance Irrelevante | Integrado | Fenômeno | Compartilhado",
+        "Debut": "Steel Ball Run",
+        "Technique": "Infecção de Dinossauro"
+    },
+    {
+        "Name": "Ringo Roadagain",
+        "Stand": "Mandom",
+        "Stand Type": "Curto Alcance | Alcance Irrelevante | Não-Humanóide Artificial",
+        "Debut": "Steel Ball Run",
+        "Technique": "Reversão do Tempo"
+    },
+    {
+        "Name": "Blackmore",
+        "Stand": "Catch the Rainbow",
+        "Stand Type": "Curto Alcance | Não-Humanóide Artificial",
+        "Debut": "Steel Ball Run",
+        "Technique": "Manipulação da Chuva"
+    },
+    {
+        "Name": "Axl RO",
+        "Stand": "Civil War",
+        "Stand Type": "Longo Alcance | Assalto Psicológico | Humanóide Artificial",
+        "Debut": "Steel Ball Run",
+        "Technique": "Materialização da Culpa"
+    },
+    {
+        "Name": "Parallel World Diego",
+        "Stand": "THE WORLD",
+        "Stand Type": "Curto Alcance | Alcance Irrelevante | Humanóide Natural",
+        "Debut": "Steel Ball Run",
+        "Technique": "Parar o Tempo"
+    },
+    {
+        "Name": "Pocoloco",
+        "Stand": "Hey Ya!",
+        "Stand Type": "Curto Alcance | Humanóide Artificial | Senciente",
+        "Debut": "Steel Ball Run",
+        "Technique": "Torcida"
+    },
+    {
+        "Name": "Andre Boomboom",
+        "Stand": "Tomb of the Boom 2",
+        "Stand Type": "Curto Alcance | Não-Humanóide Natural | Compartilhado",
+        "Debut": "Steel Ball Run",
+        "Technique": "Magnetismo"
+    },
+    {
+        "Name": "L.A. Boomboom",
+        "Stand": "Tomb of the Boom 3",
+        "Stand Type": "Curto Alcance | Não-Humanóide Natural | Compartilhado",
+        "Debut": "Steel Ball Run",
+        "Technique": "Magnetismo"
+    },
+    {
+        "Name": "Benjamin Boomboom",
+        "Stand": "Tomb of the Boom 1",
+        "Stand Type": "Curto Alcance | Não-Humanóide Natural | Compartilhado",
+        "Debut": "Steel Ball Run",
+        "Technique": "Magnetismo"
+    },
+    {
+        "Name": "Oyecomova",
+        "Stand": "Boku no Rythm no Kiitekure",
+        "Stand Type": "Curto Alcance | Não-Humanóide Natural",
+        "Debut": "Steel Ball Run",
+        "Technique": "Bombas de Contato"
+    },
+    {
+        "Name": "Pork Pie Hat Kid",
+        "Stand": "Wired",
+        "Stand Type": "Curto Alcance | Reconhecimento | Não-Humanóide Artificial",
+        "Debut": "Steel Ball Run",
+        "Technique": "Ganchos Viajantes"
+    },
+    {
+        "Name": "Eleven Men",
+        "Stand": "TATOO YOU!",
+        "Stand Type": "Curto Alcance | Integrado | Não-Humanóide Natural | Compartilhado",
+        "Debut": "Steel Ball Run",
+        "Technique": "Passagem Corporal"
+    },
+    {
+        "Name": "Mike O.",
+        "Stand": "Tubular Bells",
+        "Stand Type": "Automático | Materializado | Fenômeno",
+        "Debut": "Steel Ball Run",
+        "Technique": "Inflação de Metais"
+    },
+    {
+        "Name": "Magent Magent",
+        "Stand": "20th Century BOY",
+        "Stand Type": "Curto Alcance | Não-Humanóide Artificial",
+        "Debut": "Steel Ball Run",
+        "Technique": "Defesa Absoluta"
+    },
+    {
+        "Name": "D-I-S-C-O",
+        "Stand": "Chocolate Disco",
+        "Stand Type": "Curto Alcance | Não-Humanóide Artificial",
+        "Debut": "Steel Ball Run",
+        "Technique": "Reposicionamento"
+    },
+    {
+        "Name": "Sugar Mountain",
+        "Stand": "Sugar Mountain",
+        "Stand Type": "Alcance Irrelevante | Integrado | Materializado | Fenômeno",
+        "Debut": "Steel Ball Run",
+        "Technique": "O Guardião"
+    },
+    {
+        "Name": "Josuke Higashikata (JJL)",
+        "Stand": "Soft & Wet",
+        "Stand Type": "Curto Alcance | Humanóide Artificial | Evoluído | Compartilhado",
+        "Debut": "JoJolion",
+        "Technique": "Geração de Bolhas"
+    },
+    {
+        "Name": "Yasuho Hirose",
+        "Stand": "Paisley Park",
+        "Stand Type": "Longo Alcance | Reconhecimento | Humanóide Natural | Senciente",
+        "Debut": "JoJolion",
+        "Technique": "Guia"
+    },
+    {
+        "Name": "Rai Mamezuku",
+        "Stand": "Doggy Style",
+        "Stand Type": "Curto Alcance | Não-Humanóide Artificial",
+        "Debut": "JoJolion",
+        "Technique": "Descascar de Pele"
+    },
+    {
+        "Name": "Norisuke Higashikata IV",
+        "Stand": "King Nothing",
+        "Stand Type": "Longo Alcance | Reconhecimento | Humanóide Artificial",
+        "Debut": "JoJolion",
+        "Technique": "Rastreamento de Cheiros"
+    },
+    {
+        "Name": "Jobin Higashikata",
+        "Stand": "Speed King",
+        "Stand Type": "Curto Alcance | Humanóide Artificial",
+        "Debut": "JoJolion",
+        "Technique": "Acúmulo de Calor"
+    },
+    {
+        "Name": "Toru",
+        "Stand": "Wonder of U",
+        "Stand Type": "Automático | Senciente | Humanóide Natural | Humanóide Artificial",
+        "Debut": "JoJolion",
+        "Technique": "Manipulação da Calamidade"
+    },
+    {
+        "Name": "Joshu Higashikata",
+        "Stand": "Nut King Call",
+        "Stand Type": "Curto Alcance | Humanóide Artificial",
+        "Debut": "JoJolion",
+        "Technique": "Porcas e Parafusos"
+    },
+    {
+        "Name": "Daiya Higashikata",
+        "Stand": "California King Bed",
+        "Stand Type": "Curto Alcance | Assalto Psicológico | Não-Humanóide Artificial",
+        "Debut": "JoJolion",
+        "Technique": "Roubo de Memória"
+    },
+    {
+        "Name": "Hato Higashikata",
+        "Stand": "Walking Heart",
+        "Stand Type": "Curto Alcance | Humanóide Artificial",
+        "Debut": "JoJolion",
+        "Technique": "Saltos de Espinho"
+    },
+    {
+        "Name": "Tsurugi Higashikata",
+        "Stand": "Paper Moon King",
+        "Stand Type": "Automático | Materializado | Assalto Psicológico | Fenômeno",
+        "Debut": "JoJolion",
+        "Technique": "Origamis Vivos"
+    },
+    {
+        "Name": "Mitsuba Higashikata",
+        "Stand": "Awaking III Leaves",
+        "Stand Type": "Curto Alcance | Humanóide Artificial",
+        "Debut": "JoJolion",
+        "Technique": "Manipulação de Vetor"
+    },
+    {
+        "Name": "Kaato Higashikata",
+        "Stand": "Space Truking",
+        "Stand Type": "Materializado | Humanóide Artificial",
+        "Debut": "JoJolion",
+        "Technique": "Armazém Dimensional"
+    },
+    {
+        "Name": "Tamaki Damo",
+        "Stand": "Vitamin C",
+        "Stand Type": "Curto Alcance | Humanóide Artificial",
+        "Debut": "JoJolion",
+        "Technique": "Amaciamento Orgânico"
+    },
+    {
+        "Name": "Yotsuyu Yagiyama",
+        "Stand": "I Am a Rock",
+        "Stand Type": "Curto Alcance | Humanóide Artificial",
+        "Debut": "JoJolion",
+        "Technique": "Atração Seletiva"
+    },
+    {
+        "Name": "Urban Guerrilla",
+        "Stand": "Brain Storm",
+        "Stand Type": "Longo Alcance | Não-Humanóide Artificial | Colônia",
+        "Debut": "JoJolion",
+        "Technique": "Hemólise"
+    },
+    {
+        "Name": "Wu Tomoki",
+        "Stand": "Doctor Wu",
+        "Stand Type": "Alcance Irrelevante | Integrado | Fenômeno",
+        "Debut": "JoJolion",
+        "Technique": "Transormação em Cascalho"
+    },
+    {
+        "Name": "Dolomite",
+        "Stand": "Blue Hawaii",
+        "Stand Type": "Automático | Assalto Psicológico | Não-Humanóide Natural",
+        "Debut": "JoJolion",
+        "Technique": "Posse Contagiosa"
+    },
+    {
+        "Name": "Poor Tom",
+        "Stand": "Ozon Baby",
+        "Stand Type": "Automático | Materializado | Não-Humanóide Artificial",
+        "Debut": "JoJolion",
+        "Technique": "Manipulação de Pressão"
+    },
+    {
+        "Name": "Aisho Dainenjiyama",
+        "Stand": "Doobie Wah!",
+        "Stand Type": "Automático | Não-Humanóide Artificial | Não-Humanóide Natural",
+        "Debut": "JoJolion",
+        "Technique": "Vórtice Perseguidor"
+    },
+    {
+        "Name": "Satoru Akefu",
+        "Stand": "Wonder of U",
+        "Stand Type": "Automático | Senciente | Humanóide Natural | Humanóide Artificial",
+        "Debut": "JoJolion",
+        "Technique": "Disfarce Humano"
+    },
+    {
+        "Name": "Yoshikage Kira (JJL)",
+        "Stand": "Killer Queen",
+        "Stand Type": "Curto Alcance | Humanóide Natural",
+        "Debut": "JoJolion",
+        "Technique": "Bolhas Explosivas"
+    },
+    {
+        "Name": "Josefumi Kujo",
+        "Stand": "Soft & Wet",
+        "Stand Type": "Curto Alcance | Humanóide Artificial",
+        "Debut": "JoJolion",
+        "Technique": "Geração de Bolhas"
+    },
+    {
+        "Name": "Karera Sakunami",
+        "Stand": "Love Love Deluxe",
+        "Stand Type": "Curto Alcance | Humanóide Artificial",
+        "Debut": "JoJolion",
+        "Technique": "Crescimento Capilar"
+    },
+    {
+        "Name": "Ojiro Sasame",
+        "Stand": "Fun Fun Fun",
+        "Stand Type": "Curto Alcance | Não-Humanóide Natural",
+        "Debut": "JoJolion",
+        "Technique": "Marionetismo Corporal"
+    },
+    {
+        "Name": "Elder A. Phex",
+        "Stand": "Schott Key No. 1",
+        "Stand Type": "Alcance Irrelevante | Integrado | Não-Humanóide Natural",
+        "Debut": "JoJolion",
+        "Technique": "Transferência da Mão Esquerda para a Mão Direita"
+    },
+    {
+        "Name": "Younger A. Phex",
+        "Stand": "Schott Key No. 2",
+        "Stand Type": "Curto Alcance | Automático | Não-Humanóide Natural",
+        "Debut": "JoJolion",
+        "Technique": "Gás Tóxico"
+    },
+    {
+        "Name": "Zaihei Nigatake",
+        "Stand": "Milagroman",
+        "Stand Type": "Alcance Irrelevante | Humanóide Artificial | Compartilhado",
+        "Debut": "JoJolion",
+        "Technique": "Geração Monetária"
+    },
+    {
+        "Name": "Kei Nijimura",
+        "Stand": "Born This Way",
+        "Stand Type": "Automático | Humanóide Artificial",
+        "Debut": "JoJolion",
+        "Technique": "Invocação por Abertura"
+    },
+    {
+        "Name": "Lucy Steel (JJL)",
+        "Stand": "Ticket to Ride",
+        "Stand Type": "Alcance Irrelevante | Integrado | Fenômeno",
+        "Debut": "Steel Ball Run",
+        "Technique": "Proteção Divina"
+    },
+    {
+        "Name": "Johnny Joestar (JJL)",
+        "Stand": "Tusk ACT 1",
+        "Stand Type": "Curto Alcance | Evoluído | Não-Humanóide Natural | Senciente",
+        "Debut": "Steel Ball Run",
+        "Technique": "Unhas Giratórias"
+    },
+    {
+        "Name": "Johnny Joestar (JJL)",
+        "Stand": "Tusk ACT 2",
+        "Stand Type": "Curto Alcance | Evoluído | Não-Humanóide Artificial",
+        "Debut": "Steel Ball Run",
+        "Technique": "Unhas do Retângulo de Ouro"
+    },
+    {
+        "Name": "Johnny Joestar (JJL)",
+        "Stand": "Tusk ACT 3",
+        "Stand Type": "Curto Alcance | Evoluído | Não-Humanóide Artificial",
+        "Debut": "Steel Ball Run",
+        "Technique": "Buraco de Minhoca Espacial"
+    },
+    {
+        "Name": "Johnny Joestar (JJL)",
+        "Stand": "Tusk ACT 4",
+        "Stand Type": "Curto Alcance | Evoluído | Humanóide Artificial",
+        "Debut": "Steel Ball Run",
+        "Technique": "Rotação Infinita"
+    },
+    {
+        "Name": "Jodio Joestar",
+        "Stand": "November Rain",
+        "Stand Type": "Curto Alcance | Humanóide Artificial",
+        "Debut": "The JOJOLands",
+        "Technique": "Geração de Chuva"
+    },
+    {
+        "Name": "Dragona Joestar",
+        "Stand": "Smooth Operators",
+        "Stand Type": "Curto Alcance | Colônia | Não-Humanóide Artificial",
+        "Debut": "The JOJOLands",
+        "Technique": "Displacement"
+    },
+    {
+        "Name": "Paco Laburantes",
+        "Stand": "THE Hustle",
+        "Stand Type": "Integrado",
+        "Debut": "The JOJOLands",
+        "Technique": "Prehensile Muscles"
+    },
+    {
+        "Name": "Usagi Alohaoe",
+        "Stand": "THE MATTEKUDASAI",
+        "Stand Type": "Não-Humanóide Artificial",
+        "Debut": "The JOJOLands",
+        "Technique": "Wish Granting Transformation"
+    },
+    {
+        "Name": "Rohan Kishibe (TJJL)",
+        "Stand": "Heaven's Door",
+        "Stand Type": "Curto Alcance | Reconhecimento | Humanóide Natural",
+        "Debut": "The JOJOLands",
+        "Technique": "Transmutação em Livro"
+    },
+    {
+        "Name": "Charming Man",
+        "Stand": "Bigmouth Strikes Again",
+        "Stand Type": "Integrado | Fenômeno",
+        "Debut": "The JOJOLands",
+        "Technique": "Skin Dispersion"
+    },
+    {
+        "Name": "Wild Cat Size",
+        "Stand": "Cat Size",
+        "Stand Type": "Integrado | Curto Alcance | Não-Humanóide Artificial | Compartilhado",
+        "Debut": "The JOJOLands",
+        "Technique": "Constricting Wires"
+    },
+    {
+        "Name": "Lulu",
+        "Stand": "Bags Groove",
+        "Stand Type": "Automático | Longo Alcance | Humanóide Artificial | Colônia",
+        "Debut": "The JOJOLands",
+        "Technique": "Lesion Infliction"
+    },
+    {
+        "Name": "Bobby Jean",
+        "Stand": "Glory Days",
+        "Stand Type": "Fenômeno",
+        "Debut": "The JOJOLands",
+        "Technique": "Manipulação da Velocidade da Bala"
+    }
+]

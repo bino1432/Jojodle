@@ -1,0 +1,1604 @@
+[
+    {
+        "Name": "Jonathan Joestar",
+        "Quote": "Estou de volta do inferno, Dio!",
+        "Part": "Phantom Blood",
+        "Target": "Dio Brando (PB)"
+    },
+    {
+        "Name": "Jonathan Joestar",
+        "Quote": "Eu me esforço para ser um verdadeiro cavalheiro! Há momentos em que um cavalheiro precisa ser corajoso e lutar, mesmo quando seu oponente é maior do que ele e ele sabe que vai perder!",
+        "Part": "Phantom Blood",
+        "Target": "Ninguém"
+    },
+    {
+        "Name": "Dio Brando (PB)",
+        "Quote": "Eu rejeito minha humanidade, JoJo!! Vou transcender a humanidade!",
+        "Part": "Phantom Blood",
+        "Target": "Jonathan Joestar"
+    },
+    {
+        "Name": "Dio Brando (PB)",
+        "Quote": "Você consegue lembrar quantos pães você já comeu em toda a sua vida?",
+        "Part": "Phantom Blood",
+        "Target": "Will Anthonio Zeppeli"
+    },
+    {
+        "Name": "Dio Brando (PB)",
+        "Quote": "Fraco, fraco! Você achou que tinha alguma chance?! Tolo!",
+        "Part": "Phantom Blood",
+        "Target": "Dire"
+    },
+    {
+        "Name": "Dio Brando (PB)",
+        "Quote": "Adeus, JoJo!",
+        "Part": "Phantom Blood",
+        "Target": "Jonathan Joestar"
+    },
+    {
+        "Name": "Will Anthonio Zeppeli",
+        "Quote": "O que é 'coragem'? 'Coragem' é conhecer o medo e transformar esse medo em algo seu!",
+        "Part": "Phantom Blood",
+        "Target": "Jonathan Joestar"
+    },
+    {
+        "Name": "Will Anthonio Zeppeli",
+        "Quote": "Finalmente chegou... o dia que ele profetizou. Se esse é o destino, eu o aceitarei!",
+        "Part": "Phantom Blood",
+        "Target": "Ninguém"
+    },
+    {
+        "Name": "George Joestar I",
+        "Quote": "Você se chama de cavalheiro, JoJo!? Onde estão seus modos?! Onde?!",
+        "Part": "Phantom Blood",
+        "Target": "Jonathan Joestar"
+    },
+    {
+        "Name": "George Joestar I",
+        "Quote": "JoJo, não é ruim... morrer nos braços... do seu filho...",
+        "Part": "Phantom Blood",
+        "Target": "Jonathan Joestar"
+    },
+    {
+        "Name": "Erina Pendleton",
+        "Quote": "Oh, JoJo, seu canalha!",
+        "Part": "Phantom Blood",
+        "Target": "Jonathan Joestar"
+    },
+    {
+        "Name": "Dire",
+        "Quote": "Morte certa! Thunder Split Attack!",
+        "Part": "Phantom Blood",
+        "Target": "Dio Brando (PB)"
+    },
+    {
+        "Name": "Wang Chan",
+        "Quote": "Mestre Dio! Oh... oh... se ao menos ele tivesse outro corpo...",
+        "Part": "Phantom Blood",
+        "Target": "Dio Brando (PB)"
+    },
+    {
+        "Name": "Bruford",
+        "Quote": "Jonathan... dedicarei a palavra gravada nesta espada para você! Luck! E leve isso com você enquanto enfrenta o que está por vir! Pluck!",
+        "Part": "Phantom Blood",
+        "Target": "Jonathan Joestar"
+    },
+    {
+        "Name": "Dario Brando",
+        "Quote": "Você vai enviar esta carta e ir para o endereço nela! Esse homem me deve um favor... tenho certeza de que ele cuidará de você e o mandará para a escola!",
+        "Part": "Phantom Blood",
+        "Target": "Dio Brando (PB)"
+    },
+    {
+        "Name": "Poco's Sister",
+        "Quote": "Você tem medo da dor? Não tem mais medo de crescer e ainda não conseguir fazer nada por conta própria?",
+        "Part": "Phantom Blood",
+        "Target": "Poco"
+    },
+    {
+        "Name": "Poco",
+        "Quote": "Eu serei o único a proteger minha irmã! Mana! O 'amanhã' é agora!",
+        "Part": "Phantom Blood",
+        "Target": "Ninguém"
+    },
+    {
+        "Name": "Joseph Joestar",
+        "Quote": "Alô? Poderia repetir isso? Mais devagar? Em uma língua que eu entenda? Dependendo do que você disse, posso te chutar.",
+        "Part": "Battle Tendency",
+        "Target": "Taxi Driver"
+    },
+    {
+        "Name": "Joseph Joestar",
+        "Quote": "Sua próxima frase vai ser...",
+        "Part": "Battle Tendency",
+        "Target": "Straizo (PB)"
+    },
+    {
+        "Name": "Joseph Joestar",
+        "Quote": "Corra, Smokey! Saiam do caminho, curiosos!",
+        "Part": "Battle Tendency",
+        "Target": "Smokey Brown"
+    },
+    {
+        "Name": "Joseph Joestar",
+        "Quote": "Você pode ter vivido muito tempo, mas nem de longe é tão esperto quanto eu para criar planos!",
+        "Part": "Battle Tendency",
+        "Target": "Esidisi"
+    },
+    {
+        "Name": "Joseph Joestar",
+        "Quote": "Nice one! Very nice, Caesar-ino!",
+        "Part": "Battle Tendency",
+        "Target": "Caesar Zeppeli"
+    },
+    {
+        "Name": "Joseph Joestar",
+        "Quote": "CAESAAAAAR!",
+        "Part": "Battle Tendency",
+        "Target": "Caesar Zeppeli"
+    },
+    {
+        "Name": "Joseph Joestar",
+        "Quote": "Você pode ter 10.000 anos, mas quando se trata da 'arte da enganação', precisa de um pouco mais de tempo, Kars!",
+        "Part": "Battle Tendency",
+        "Target": "Kars"
+    },
+    {
+        "Name": "Caesar Zeppeli",
+        "Quote": "O inescrutável Lançador de Bolhas Ondulatórias! Pegue isso e volte para o campo, Joestar!",
+        "Part": "Battle Tendency",
+        "Target": "Joseph Joestar"
+    },
+    {
+        "Name": "Lisa Lisa",
+        "Quote": "Não precisa! Não vivi uma vida tão frágil a ponto de precisar da piedade de um garoto que ainda nem tem vinte anos!",
+        "Part": "Battle Tendency",
+        "Target": "Joseph Joestar"
+    },
+    {
+        "Name": "Robert E. O. Speedwagon (BT)",
+        "Quote": "Ele... ele ficou invencível! Ele não tem fraqueza! Nem mesmo o Hamon funcionará agora! Ele é imortal! Sem igual! Imbatível! Esse é o nascimento de Kars, o ser perfeito!",
+        "Part": "Battle Tendency",
+        "Target": "Kars"
+    },
+    {
+        "Name": "Kars",
+        "Quote": "Puxa... os humanos regrediram desde o passado?",
+        "Part": "Battle Tendency",
+        "Target": "Joseph Joestar"
+    },
+    {
+        "Name": "Kars",
+        "Quote": "A Pedra Vermelha de Aja! Esperei quatro, não, cinco milênios por isso, e agora está diante de mim!",
+        "Part": "Battle Tendency",
+        "Target": "Ninguém"
+    },
+    {
+        "Name": "Kars",
+        "Quote": "Idiotas! Vocês não desejam dominar o sol?! Não desejam dominar a criação!? Não desejam não temer nada?!",
+        "Part": "Battle Tendency",
+        "Target": "Homens do Pilar"
+    },
+    {
+        "Name": "Esidisi",
+        "Quote": "Sua próxima fala é 'Vou acabar com esse sorriso no seu rosto!'...",
+        "Part": "Battle Tendency",
+        "Target": "Joseph Joestar"
+    },
+    {
+        "Name": "Esidisi",
+        "Quote": "Vou te incendiar como velas de um bolo de aniversário!",
+        "Part": "Battle Tendency",
+        "Target": "Joseph Joestar"
+    },
+    {
+        "Name": "Wamuu",
+        "Quote": "Despertem, meus mestres!",
+        "Part": "Battle Tendency",
+        "Target": "Homens do Pilar"
+    },
+    {
+        "Name": "Straizo (BT)",
+        "Quote": "Não tenho arrependimentos... em vez de envelhecer pateticamente, prefiro ir para o inferno com a empolgação de recuperar minha juventude...",
+        "Part": "Battle Tendency",
+        "Target": "Joseph Joestar"
+    },
+    {
+        "Name": "Smokey Brown",
+        "Quote": "Como você pode derrotar um monstro como ele?! Você tem um Plano B, JoJo?!",
+        "Part": "Battle Tendency",
+        "Target": "Joseph Joestar"
+    },
+    {
+        "Name": "Erina Joestar",
+        "Quote": "Como Jonathan... Como Speedwagon... Oh... Eu não posso acreditar... A loucura de cinquenta anos atrás... Achei que tivesse chegado ao fim...",
+        "Part": "Battle Tendency",
+        "Target": "Joseph Joestar"
+    },
+    {
+        "Name": "Suzi Q",
+        "Quote": "Diga, JoJo... você é mais bonito do que eu pensava.",
+        "Part": "Battle Tendency",
+        "Target": "Joseph Joestar"
+    },
+    {
+        "Name": "Jotaro Kujo",
+        "Quote": "Eu preciso me aproximar pra acabar com você na base da porrada.",
+        "Part": "Stardust Crusaders",
+        "Target": "DIO (SC)"
+    },
+    {
+        "Name": "Jotaro Kujo",
+        "Quote": "Cala essa boca! Esses seus gritos aí tão me irritando!",
+        "Part": "Stardust Crusaders",
+        "Target": "Holy Kujo"
+    },
+    {
+        "Name": "Jotaro Kujo",
+        "Quote": "Então é o mesmo tipo de Stand que o Star Platinum.",
+        "Part": "Stardust Crusaders",
+        "Target": "DIO (SC)"
+    },
+    {
+        "Name": "Jotaro Kujo",
+        "Quote": "Só há uma razão pela qual você perdeu, DIO... apenas uma razão simples. Você me deixou puto. Muito puto.",
+        "Part": "Stardust Crusaders",
+        "Target": "DIO (SC)"
+    },
+    {
+        "Name": "Jotaro Kujo",
+        "Quote": "Você realmente me fez trabalhar duro por isso... você não pode parar o tempo se eu esmagar seu crânio primeiro, DIO!",
+        "Part": "Stardust Crusaders",
+        "Target": "DIO (SC)"
+    },
+    {
+        "Name": "DIO (SC)",
+        "Quote": "A linhagem de Jonathan... deve ser eliminada.",
+        "Part": "Stardust Crusaders",
+        "Target": "Jotaro Kujo"
+    },
+    {
+        "Name": "DIO (SC)",
+        "Quote": "Heheheh... Vou te dar uma chance. Desça dois degraus e permitirei que você se junte a mim novamente. Pelo contrário, se deseja morrer, suba um degrau.",
+        "Part": "Stardust Crusaders",
+        "Target": "Jotaro Kujo"
+    },
+    {
+        "Name": "DIO (SC)",
+        "Quote": "O Mundo! Tempo, pare!",
+        "Part": "Stardust Crusaders",
+        "Target": "Ninguém"
+    },
+    {
+        "Name": "DIO (SC)",
+        "Quote": "Oh? Então você vai encarar. Em vez de fugir, está se aproximando de mim?",
+        "Part": "Stardust Crusaders",
+        "Target": "Jotaro Kujo"
+    },
+    {
+        "Name": "DIO (SC)",
+        "Quote": "Oh ho! Então pode se aproximar o quanto quiser.",
+        "Part": "Stardust Crusaders",
+        "Target": "Jotaro Kujo"
+    },
+    {
+        "Name": "DIO (SC)",
+        "Quote": "O tempo já acabou.",
+        "Part": "Stardust Crusaders",
+        "Target": "Nenhum"
+    },
+    {
+        "Name": "DIO (SC)",
+        "Quote": "Olha o rolo compressor!",
+        "Part": "Stardust Crusaders",
+        "Target": "Jotaro Kujo"
+    },
+    {
+        "Name": "DIO (SC)",
+        "Quote": "Minha juventude é eterna. O poder do Stand!",
+        "Part": "Stardust Crusaders",
+        "Target": "Jotaro Kujo"
+    },
+    {
+        "Name": "DIO (SC)",
+        "Quote": "Eu- Eu não consigo me mover! É- Impossível!",
+        "Part": "Stardust Crusaders",
+        "Target": "Nenhum"
+    },
+    {
+        "Name": "Joseph Joestar (SC)",
+        "Quote": "De fato, Jotaro, o que você chamou de 'espírito maligno' não é nada além de uma poderosa visão criada por sua própria energia vital! E como ele fica ao seu lado, é chamado de Stand!",
+        "Part": "Stardust Crusaders",
+        "Target": "Jotaro Kujo"
+    },
+    {
+        "Name": "Joseph Joestar (SC)",
+        "Quote": "Jotaro... esta é a terceira vez que estou em um acidente de avião! Estou amaldiçoado?",
+        "Part": "Stardust Crusaders",
+        "Target": "Jotaro Kujo"
+    },
+    {
+        "Name": "Joseph Joestar (SC)",
+        "Quote": "Eu mesmo não gosto disso... mas as crianças nem sempre podem depender dos pais. Agora que está crescida... você precisa cuidar de si mesma!",
+        "Part": "Stardust Crusaders",
+        "Target": "Empress"
+    },
+    {
+        "Name": "Joseph Joestar (SC)",
+        "Quote": "Yes! Yes! Yes! Oh my God!",
+        "Part": "Stardust Crusaders",
+        "Target": "Telence T. D'Arby"
+    },
+    {
+        "Name": "Joseph Joestar (SC)",
+        "Quote": "HmhmhmhmhahahaHAHAHA! Você é um tolo, Jotaro! Graças a você, estou vivo novamente!",
+        "Part": "Stardust Crusaders",
+        "Target": "Jotaro Kujo"
+    },
+    {
+        "Name": "Muhammad Avdol",
+        "Quote": "Yes, I am!",
+        "Part": "Stardust Crusaders",
+        "Target": "Jean Pierre Polnareff"
+    },
+    {
+        "Name": "Muhammad Avdol",
+        "Quote": "Cameo da carta do Julgamento, é isso? Vou acabar com você e te mandar para o inferno!! Hell 2 U!",
+        "Part": "Stardust Crusaders",
+        "Target": "Cameo"
+    },
+    {
+        "Name": "Muhammad Avdol",
+        "Quote": "Você desafiaria um vidente para uma batalha de previsão? Quem você pensa que é?",
+        "Part": "Stardust Crusaders",
+        "Target": "Jean Pierre Polnareff"
+    },
+    {
+        "Name": "Noriaki Kakyoin",
+        "Quote": "O quê?! Ele desviou do meu Emerald Splash?! Mas isso é impossível!",
+        "Part": "Stardust Crusaders",
+        "Target": "Jotaro Kujo"
+    },
+    {
+        "Name": "Noriaki Kakyoin",
+        "Quote": "JoJo... você vai comer essas cerejas? Elas não parecem ser grande coisa, mas são minhas frutas favoritas. Eu poderia ficar com elas? Obrigado... rerorerorerorerorerorerorerorerorerorero...",
+        "Part": "Stardust Crusaders",
+        "Target": "Jotaro Kujo"
+    },
+    {
+        "Name": "Noriaki Kakyoin",
+        "Quote": "É... uma mensagem... Isso é tudo que posso fazer... Senhor Joestar... Por favor... descubra...",
+        "Part": "Stardust Crusaders",
+        "Target": "Joseph Joestar (SC)"
+    },
+    {
+        "Name": "Jean Pierre Polnareff",
+        "Quote": "Bravo! Oh, Bravo!!",
+        "Part": "Stardust Crusaders",
+        "Target": "Muhammad Avdol"
+    },
+    {
+        "Name": "Jean Pierre Polnareff",
+        "Quote": "Très bien! Très bien!",
+        "Part": "Stardust Crusaders",
+        "Target": "Khan"
+    },
+    {
+        "Name": "Jean Pierre Polnareff",
+        "Quote": "Vou simplesmente morrer assim. Como reconhecimento de sua força. Cometer suicídio agora seria desonroso.",
+        "Part": "Stardust Crusaders",
+        "Target": "Muhammad Avdol"
+    },
+    {
+        "Name": "Jean Pierre Polnareff",
+        "Quote": "Jurei vingar o destino cruel da minha irmã! Usar meu próprio Stand para caçar o assassino e fazê-lo pagar... com sua vida!",
+        "Part": "Stardust Crusaders",
+        "Target": "Muhammad Avdol"
+    },
+    {
+        "Name": "Jean Pierre Polnareff",
+        "Quote": "Com pernas bonitas assim, precisamos de uma foto de corpo inteiro!",
+        "Part": "Stardust Crusaders",
+        "Target": "Muhammad Avdol"
+    },
+    {
+        "Name": "Iggy",
+        "Quote": "Cale a boca! Não me pergunte! Eu sou um cachorro! Não consigo falar! O que você é, um idiota?",
+        "Part": "Stardust Crusaders",
+        "Target": "Garoto Desconhecido"
+    },
+    {
+        "Name": "Iggy",
+        "Quote": "Oh, sim!!! Peguei você! Você realmente é um cabeça de passarinho! Heh heh heh heh!",
+        "Part": "Stardust Crusaders",
+        "Target": "Pet Shop"
+    },
+    {
+        "Name": "Enya the Hag",
+        "Quote": "Só preciso de um pequeno ferimento... então a Justiça fará o resto!",
+        "Part": "Stardust Crusaders",
+        "Target": "Grupo Joestar"
+    },
+    {
+        "Name": "Enya the Hag",
+        "Quote": "Você pode socar névoa com os punhos?! Pode cortar névoa com sua espada?! Pode atirar na névoa com sua arma?! Tudo é inútil! Inútil!! Kyakyakekekeke!!",
+        "Part": "Stardust Crusaders",
+        "Target": "Grupo Joestar"
+    },
+    {
+        "Name": "Holy Kujo",
+        "Quote": "Ele costumava ser um bom menino... e agora não sei o que aconteceu com ele!",
+        "Part": "Stardust Crusaders",
+        "Target": "Jotaro Kujo"
+    },
+    {
+        "Name": "J. Geil",
+        "Quote": "Sua irmã era um docinho, Polnareff... quando a ver novamente, certifique-se de perguntar exatamente como a matei!",
+        "Part": "Stardust Crusaders",
+        "Target": "Jean Pierre Polnareff"
+    },
+    {
+        "Name": "Hol Horse",
+        "Quote": "A arma é mais poderosa que a espada! Mmm, mmm, mmm. Eu amo essa frase.",
+        "Part": "Stardust Crusaders",
+        "Target": "Jean Pierre Polnareff"
+    },
+    {
+        "Name": "Hol Horse",
+        "Quote": "Juro que não bato em mulher! Mesmo que ela me pagasse, eu nunca chutaria uma mulher!",
+        "Part": "Stardust Crusaders",
+        "Target": "Oingo"
+    },
+    {
+        "Name": "Merlai Anne",
+        "Quote": "Olha, quer pornografia? É pornografia indiana! Roubei estas de uma loja de presentes. Você gosta de fotos sexy, certo?",
+        "Part": "Stardust Crusaders",
+        "Target": "Jotaro Kujo"
+    },
+    {
+        "Name": "Imposter Captain Tennille",
+        "Quote": "Isso mesmo, eu não sou o verdadeiro capitão! Eliminei o verdadeiro capitão e o deixei descansando no fundo do oceano!",
+        "Part": "Stardust Crusaders",
+        "Target": "Jotaro Kujo"
+    },
+    {
+        "Name": "Rubber Soul",
+        "Quote": "DO YOU UNDERSTANDDDDDD!?",
+        "Part": "Stardust Crusaders",
+        "Target": "Jotaro Kujo"
+    },
+    {
+        "Name": "Oingo",
+        "Quote": "O livro do meu irmão não está à venda... Saia daqui. Você não me ouviu?! Eu disse para sumir!!!",
+        "Part": "Stardust Crusaders",
+        "Target": "Garoto Desconhecido"
+    },
+    {
+        "Name": "Boingo",
+        "Quote": "É o destino. Sim! As previsões são absolutas.",
+        "Part": "Stardust Crusaders",
+        "Target": "Hol Horse"
+    },
+    {
+        "Name": "Anubis",
+        "Quote": "Mate Joseph! Desmembre Polnareff! Divida Jotaro ao meio! Você é um mestre da espada, o mais forte do mundo. Destrua todos eles!",
+        "Part": "Stardust Crusaders",
+        "Target": "Chaka"
+    },
+    {
+        "Name": "Mariah",
+        "Quote": "Você é bonito... mas está longe de ser tão atraente quanto Lorde DIO.",
+        "Part": "Stardust Crusaders",
+        "Target": "Joseph Joestar (SC)"
+    },
+    {
+        "Name": "Mariah",
+        "Quote": "Sua força magnética continuará crescendo... até que seus corpos se esmaguem um contra o outro.",
+        "Part": "Stardust Crusaders",
+        "Target": "Joseph Joestar (SC) | Muhammed Avdol"
+    },
+    {
+        "Name": "Alessi",
+        "Quote": "Mesmo quando criança... quando as coisas apertam, Jotaro faz o que é preciso...",
+        "Part": "Stardust Crusaders",
+        "Target": "Jotaro Kujo"
+    },
+    {
+        "Name": "Daniel J. D'Arby",
+        "Quote": "Go AHEAD! Mr. Joestar!",
+        "Part": "Stardust Crusaders",
+        "Target": "Joseph Joestar"
+    },
+    {
+        "Name": "Daniel J. D'Arby",
+        "Quote": "Tudo bem... tínhamos um acordo. Me dê! Sua alma...",
+        "Part": "Stardust Crusaders",
+        "Target": "Joseph Joestar"
+    },
+    {
+        "Name": "Telence T. D'Arby",
+        "Quote": "Você vai fazer o 'ORA ORA'?!",
+        "Part": "Stardust Crusaders",
+        "Target": "Jotaro Kujo"
+    },
+    {
+        "Name": "Josuke Higashikata",
+        "Quote": "Yo! Angelo.",
+        "Part": "Diamond is Unbreakable",
+        "Target": "Anjuro Katagiri"
+    },
+    {
+        "Name": "Josuke Higashikata",
+        "Quote": "Seu desgraçado... O que diabos você disse sobre meu cabelo?!?!",
+        "Part": "Diamond is Unbreakable",
+        "Target": "Jotaro Kujo (DiU)"
+    },
+    {
+        "Name": "Rohan Kishibe",
+        "Quote": "Eu recuso.",
+        "Part": "Diamond is Unbreakable",
+        "Target": "Yuya Fungami"
+    },
+    {
+        "Name": "Reimi Sugimoto",
+        "Quote": "Que você seja julgado, Yoshikage Kira!",
+        "Part": "Diamond is Unbreakable",
+        "Target": "Yoshikage Kira"
+    },
+    {
+        "Name": "Hayato Kawajiri",
+        "Quote": "Ele pode parecer meu pai... mas ele não é. Não tem como ser. Quem... quem é ele?",
+        "Part": "Diamond is Unbreakable",
+        "Target": "Ninguém"
+    },
+    {
+        "Name": "Yoshikage Kira",
+        "Quote": "E-eu consegui! Ativou!",
+        "Part": "Diamond is Unbreakable",
+        "Target": "Ninguém"
+    },
+    {
+        "Name": "Yoshikage Kira",
+        "Quote": "Hayato.",
+        "Part": "Diamond is Unbreakable",
+        "Target": "Hayato Kawajiri"
+    },
+    {
+        "Name": "Yoshikage Kira",
+        "Quote": "O Killer Queen já tocou naquela maçaneta.",
+        "Part": "Diamond is Unbreakable",
+        "Target": "Shigekiyo Yangu"
+    },
+    {
+        "Name": "Yoshikage Kira",
+        "Quote": "Ufa~ Quando eu era criança... você conhece a Mona Lisa, do Leonardo da Vinci, certo? Eu vi ela em um livro de arte. Quando eu vi as mãos dela, cruzadas perto do joelho... Como posso dizer isso? É um pouco grosseiro, mas... hehe... eu fiquei... EXCITADO.",
+        "Part": "Diamond is Unbreakable",
+        "Target": "Shigekiyo Yangu"
+    },
+    {
+        "Name": "Akira Otoishi",
+        "Quote": "Vê isso? A energia da cidade! É toda minha! Meu poder! Ah, e a conta de luz? Vou mandar direto para o seu endereço, hehe...",
+        "Part": "Diamond is Unbreakable",
+        "Target": "Okuyasu Nijimura"
+    },
+    {
+        "Name": "Joseph Joestar",
+        "Quote": "Eu só queria parecer legal na frente de você.",
+        "Part": "Diamond is Unbreakable",
+        "Target": "Josuke Higashikata"
+    },
+    {
+        "Name": "Joseph Joestar",
+        "Quote": "Josuke... Eu... Eu posso morrer aqui. Então, se eu morrer, por favor, diga à sua mãe que eu mandei um alô.",
+        "Part": "Diamond is Unbreakable",
+        "Target": "Josuke Higashikata"
+    },
+    {
+        "Name": "Shigekiyo Yangu",
+        "Quote": "Eu odeio ser zoado! \"Gordo, porco estúpido\", esses nomes todos... Vou fazer vocês se arrependerem de me zombar!",
+        "Part": "Diamond is Unbreakable",
+        "Target": "Ninguém"
+    },
+    {
+        "Name": "Mikitaka Hazekura",
+        "Quote": "Alienígena? Sim, esse é o termo. Sou um Alienígena!",
+        "Part": "Diamond is Unbreakable",
+        "Target": "Josuke Higashikata"
+    },
+    {
+        "Name": "Yuya Fungami",
+        "Quote": "That's how good I am. You know I can't live without these gals. You perserved my beauty, so of course I'll help.\t",
+        "Part": "Diamond is Unbreakable",
+        "Target": "Josuke Higashikata"
+    },
+    {
+        "Name": "Keicho Nijimura",
+        "Quote": "Meu único desejo é que meu pai morra como um ser humano normal. Quando eu era criança, jurei que acabaria com o sofrimento dele, e por isso, preciso proteger esse Arco e Flecha.",
+        "Part": "Diamond is Unbreakable",
+        "Target": "Josuke Higashikata"
+    },
+    {
+        "Name": "Tamami Kobayashi",
+        "Quote": "Quanto mais culpado você se sente, maior o The Lock fica. Em outras palavras, esse cadeado é o \"peso da sua culpa\".",
+        "Part": "Diamond is Unbreakable",
+        "Target": "Koichi Hirose"
+    },
+    {
+        "Name": "Yukako Yamagishi",
+        "Quote": "Koichi, você tem algo brilhando dentro de você! Eu sei porque sempre estive observando... E eu... eu gosto de tudo em você, Koichi!",
+        "Part": "Diamond is Unbreakable",
+        "Target": "Koichi Hirose"
+    },
+    {
+        "Name": "Yukako Yamagishi",
+        "Quote": "Eu não vou deixar você sair dessa casa até se apaixonar por mim. Eu definitivamente vou fazer você me amar, ou talvez tenha que te matar.",
+        "Part": "Diamond is Unbreakable",
+        "Target": "Koichi Hirose"
+    },
+    {
+        "Name": "Shinobu Kawajiri",
+        "Quote": "Acho que vou ter que passar outra noite com aquele insensível. As únicas palavras que ele diz entre chegar em casa do trabalho e sair de manhã são \"comida\", \"banho\" e \"dormir\".",
+        "Part": "Diamond is Unbreakable",
+        "Target": "Nenhum"
+    },
+    {
+        "Name": "Toshikazu Hazamada",
+        "Quote": "Sou o tipo de boneca cópia que as pessoas não querem ter. Uma vez que eu me torno uma cópia sua, você tem que posar do mesmo jeito que eu faço... Em resumo, sou uma boneca que manipula!",
+        "Part": "Diamond is Unbreakable",
+        "Target": "Josuke Higashikata"
+    },
+    {
+        "Name": "Tonio Trussardi",
+        "Quote": "Cardápio? Uma lista de comidas? Receio não temos isso aqui.",
+        "Part": "Diamond is Unbreakable",
+        "Target": "Josuke Higashikata | Okuyasu Nijimura"
+    },
+    {
+        "Name": "Tonio Trussardi",
+        "Quote": "Isso é simplesmente fantástico! Minha maior alegria é ver meus clientes aproveitarem minha comida e se sentirem melhor depois.",
+        "Part": "Diamond is Unbreakable",
+        "Target": "Josuke Higashikata | Okuyasu Nijimura"
+    },
+    {
+        "Name": "Aya Tsuji",
+        "Quote": "Sabe, eu não abri este salão pelo dinheiro. É porque eu queria fazer as pessoas felizes como a fada madrinha na Cinderela.",
+        "Part": "Diamond is Unbreakable",
+        "Target": "Yukako Yamagishi"
+    },
+    {
+        "Name": "Terunosuke Miyamoto",
+        "Quote": "Enigma observa de perto.",
+        "Part": "Diamond is Unbreakable",
+        "Target": "Ninguém"
+    },
+    {
+        "Name": "Giorno Giovanna",
+        "Quote": "Ciao.",
+        "Part": "Vento Aureo",
+        "Target": "Koichi Hirose"
+    },
+    {
+        "Name": "Bruno Bucciarati",
+        "Quote": "Este gosto... é o gosto de um mentiroso! Giorno Giovanna!",
+        "Part": "Vento Aureo",
+        "Target": "Giorno Giovanna"
+    },
+    {
+        "Name": "Leone Abbacchio",
+        "Quote": "Giorno, não é? Você não precisa ficar em pé. Por que não se senta e toma um chá?",
+        "Part": "Vento Aureo",
+        "Target": "Giorno Giovanna"
+    },
+    {
+        "Name": "Guido Mista",
+        "Quote": "É má sorte pegar algo de quatro coisas! Está tudo bem se você escolher de cinco! Também está tudo bem se escolher de três! Mas se você pegar entre quatro, algo ruim vai acontecer.",
+        "Part": "Vento Aureo",
+        "Target": "Panacotta Fugo"
+    },
+    {
+        "Name": "Guido Mista",
+        "Quote": "Aahhh!! Giorno! Não tão forte! Não, não aí! Não, não!! Oh! Seja gentil! Gentil! Não me desnude! Eu posso sentir você! Ohh! Não! Chega!",
+        "Part": "Vento Aureo",
+        "Target": "Giorno Giovanna"
+    },
+    {
+        "Name": "Pannacotta Fugo",
+        "Quote": "Desculpe, mas nenhum de nós vai subir naquele barco. Você não está encarando os fatos. Ninguém consegue sobreviver neste mundo apenas com ideais. Não podemos viver sem a gangue.",
+        "Part": "Vento Aureo",
+        "Target": "Giorno Giovanna"
+    },
+    {
+        "Name": "Trish Una",
+        "Quote": "Vamos descobrir a identidade do Chefe. É hora de rastrear o passado do meu pai.",
+        "Part": "Vento Aureo",
+        "Target": "Giorno Giovanna"
+    },
+    {
+        "Name": "Diavolo",
+        "Quote": "Saia daqui, Bruno Bucciarati... se você sair de trás daquele pilar... você vai morrer.",
+        "Part": "Vento Aureo",
+        "Target": "Giorno Giovanna"
+    },
+    {
+        "Name": "Diavolo",
+        "Quote": "Eu sou o Imperador. O que eu vejo deve permanecer no clímax.",
+        "Part": "Vento Aureo",
+        "Target": ""
+    },
+    {
+        "Name": "Diavolo",
+        "Quote": "Q-quantas vezes mais eu vou morrer!? De onde virá o próximo ataque...? Q-quando ele vai atacar de novo!? Eu... Eu...!",
+        "Part": "Vento Aureo",
+        "Target": "Ninguém"
+    },
+    {
+        "Name": "Vinegar Doppio",
+        "Quote": "Turururururu! TURURURURURURU!!! ",
+        "Part": "Vento Aureo",
+        "Target": "Risotto Nero"
+    },
+    {
+        "Name": "Risotto Nero",
+        "Quote": "Não importa o quão forte alguém respire depois de ter todo o ferro roubado do corpo... nenhum oxigênio será absorvido! Seu corpo se torna um cadáver antes mesmo de você morrer.",
+        "Part": "Vento Aureo",
+        "Target": "Vinegar Doppio"
+    },
+    {
+        "Name": "Jean Pierre Polnareff (VA)",
+        "Quote": "Você deseja derrotar Diavolo, não deseja!? Eu sou seu aliado!",
+        "Part": "Vento Aureo",
+        "Target": "Bruno Bucciarati"
+    },
+    {
+        "Name": "Melone",
+        "Quote": "Di molto!",
+        "Part": "Vento Aureo",
+        "Target": "Ninguém"
+    },
+    {
+        "Name": "Pericolo",
+        "Quote": "Parabéns, Bucciarati! Agora você é um capo!",
+        "Part": "Vento Aureo",
+        "Target": "Bruno Bucciarati"
+    },
+    {
+        "Name": "Illuso",
+        "Quote": "Esar seguro e invencível dentro do espelho... Essa é a minha habilidade.",
+        "Part": "Vento Aureo",
+        "Target": "Pannacotta Fugo"
+    },
+    {
+        "Name": "Illuso",
+        "Quote": "Pare! Maldição! Essa cápsula de vírus... Vai me acertar!",
+        "Part": "Vento Aureo",
+        "Target": "Pannacotta Fugo"
+    },
+    {
+        "Name": "Ghiaccio",
+        "Quote": "A temperatura criogênica é um mundo de quietude.",
+        "Part": "Vento Aureo",
+        "Target": "Guido Mista"
+    },
+    {
+        "Name": "Jolyne Cujoh",
+        "Quote": "Bem... É, uh... hum... Começa com M... Mas... hum... mastur... uh... bação...",
+        "Part": "Stone Ocean",
+        "Target": "Ermes Costello"
+    },
+    {
+        "Name": "Jolyne Cujoh",
+        "Quote": "Sou inocente. O que você acha? Você acredita em mim?",
+        "Part": "Stone Ocean",
+        "Target": "Ermes Costello"
+    },
+    {
+        "Name": "Jolyne Cujoh",
+        "Quote": "Devo me ajoelhar de quatro? Ou devo deitar de costas? Que tal uma mistura dos dois?",
+        "Part": "Stone Ocean",
+        "Target": "Prison Guard"
+    },
+    {
+        "Name": "Ermes Costello",
+        "Quote": "Vingança é acertar as contas com o seu próprio destino!",
+        "Part": "Stone Ocean",
+        "Target": "Jolyne Cujoh"
+    },
+    {
+        "Name": "Ermes Costello",
+        "Quote": "OSHAAAAAAA!",
+        "Part": "Stone Ocean",
+        "Target": "Enrico Pucci"
+    },
+    {
+        "Name": "Emporio Alnino",
+        "Quote": "Amanhã ao meio-dia, alguém virá te ver. Mas você não pode. Você não pode ir vê-lo... Você não pode, de jeito nenhum!",
+        "Part": "Stone Ocean",
+        "Target": "Jolyne Cujoh"
+    },
+    {
+        "Name": "Weather Report",
+        "Quote": "Eu serei quem vai matar Pucci. E depois que eu matá-lo, me mate. Entendeu?",
+        "Part": "Stone Ocean",
+        "Target": "Narciso Anasui"
+    },
+    {
+        "Name": "Narciso Anasui",
+        "Quote": "Para proteger a Jolyne... Eu tenho que matar aquele padre!",
+        "Part": "Stone Ocean",
+        "Target": "Jolyne Cujoh"
+    },
+    {
+        "Name": "Enrico Pucci",
+        "Quote": "A diferença entre o homem e o animal... é o desejo de \"ir para o Céu\".",
+        "Part": "Stone Ocean",
+        "Target": "Miraschon"
+    },
+    {
+        "Name": "Enrico Pucci",
+        "Quote": "2...3...5...7...11...13...17...19... números primos são números solitários que só podem ser divididos por 1 e por si mesmos... eles me dão força.",
+        "Part": "Stone Ocean",
+        "Target": "Ninguém"
+    },
+    {
+        "Name": "Enrico Pucci",
+        "Quote": "Merda! Tem sapos na minha calça de 800 dólares.",
+        "Part": "Stone Ocean",
+        "Target": "Nenhum"
+    },
+    {
+        "Name": "DIO (SO)",
+        "Quote": "Pode haver um jeito de ir para o Céu.",
+        "Part": "Stone Ocean",
+        "Target": "Enrico Pucci"
+    },
+    {
+        "Name": "DIO (SO)",
+        "Quote": "Você acredita na gravidade? Que pode haver uma razão para você ter me encontrado, entre todas as pessoas?",
+        "Part": "Stone Ocean",
+        "Target": "Enrico Pucci"
+    },
+    {
+        "Name": "Johngalli A.",
+        "Quote": "Alvo alterado para Jolyne! Corpo inteiro confirmado! Mira na cabeça! Atirar!",
+        "Part": "Stone Ocean",
+        "Target": "Ninguém"
+    },
+    {
+        "Name": "Lang Rangler",
+        "Quote": "Gravidade zero... você provavelmente é um usuário de Stand também, então vamos ver se consegue descobrir como é isso.",
+        "Part": "Stone Ocean",
+        "Target": "Weather Report"
+    },
+    {
+        "Name": "Gwess",
+        "Quote": "Bem feito, sua vadia! É isso que você merece por pisar no meu coração!",
+        "Part": "Stone Ocean",
+        "Target": "Jolyne Cujoh"
+    },
+    {
+        "Name": "Miraschon",
+        "Quote": "Que tal uma aposta? 100 dólares por 100 arremessos.",
+        "Part": "Stone Ocean",
+        "Target": "Jolyne Cujoh"
+    },
+    {
+        "Name": "Gyro Zeppeli",
+        "Quote": "Você sabe quais são as principais causas de morte? A primeira é uma doença transmitida por mosquitos. A segunda é ser chutado por um cavalo e morrer. Você pretende mudar o ranking?",
+        "Part": "Steel Ball Run",
+        "Target": "Johnny Joestar"
+    },
+    {
+        "Name": "Gyro Zeppeli",
+        "Quote": "Esse aço giratório é definitivamente a minha arma.",
+        "Part": "Steel Ball Run",
+        "Target": "Johnny Joestar"
+    },
+    {
+        "Name": "Gyro Zeppeli",
+        "Quote": "Diga para ele ir comer merda, Johnny.",
+        "Part": "Steel Ball Run",
+        "Target": "Johnny Joestar"
+    },
+    {
+        "Name": "Gyro Zeppeli",
+        "Quote": "Coma merda, imbecil! Caia do seu cavalo!",
+        "Part": "Steel Ball Run",
+        "Target": "Hot Pants"
+    },
+    {
+        "Name": "Gyro Zeppeli",
+        "Quote": "Pizza mozarella, pizza mozarella, rella rella rella rella rella rella rella rella...",
+        "Part": "Steel Ball Run",
+        "Target": "Johnny Joestar"
+    },
+    {
+        "Name": "Johnny Joestar",
+        "Quote": "Essa habilidade superou em muito uma simples unha... é um Tusk. A partir de agora, eu chamarei isso de Tusk.",
+        "Part": "Steel Ball Run",
+        "Target": "Gyro Zeppeli"
+    },
+    {
+        "Name": "Johnny Joestar",
+        "Quote": "Gyro! O que você está querendo que ela faça?! Ela tem só 14 anos!",
+        "Part": "Steel Ball Run",
+        "Target": "Gyro Zeppeli"
+    },
+    {
+        "Name": "Johnny Joestar",
+        "Quote": "Foi verdadeiramente, verdadeiramente... um caminho muito longo e cheio de reviravoltas...",
+        "Part": "Steel Ball Run",
+        "Target": "Ninguém"
+    },
+    {
+        "Name": "Johnny Joestar",
+        "Quote": "A energia da rotação infinita... e ainda tenho uma bala de unha sobrando.",
+        "Part": "Steel Ball Run",
+        "Target": "Ninguém"
+    },
+    {
+        "Name": "Johnny Joestar",
+        "Quote": "Gyro, por essa razão... essa foi a razão para a 'lição 5'. Obrigado... Obrigado, Gyro. Eu verdadeiramente... verdadeiramente... agradeço... Não consigo encontrar outras palavras para expressar isso.",
+        "Part": "Steel Ball Run",
+        "Target": "Gyro Zeppeli"
+    },
+    {
+        "Name": "Johnny Joestar",
+        "Quote": "Tusk ACT4. O sacrifício, Presidente Valentine! Qual você acha que será de verdade? Ora ora ora ora ora ora oraaaah!!!!!!",
+        "Part": "Steel Ball Run",
+        "Target": "Funny Valentine"
+    },
+    {
+        "Name": "Johnny Joestar",
+        "Quote": "Gyro... sinto muito... sinto muito mesmo... Eu queria acreditar... Eu realmente queria acreditar no Presidente... Adeus. Gyro... adeus.",
+        "Part": "Steel Ball Run",
+        "Target": "Gyro Zeppeli"
+    },
+    {
+        "Name": "Lucy Steel",
+        "Quote": "Ele vai ser morto... Meu marido estava sendo usado... Quando eles não precisarem mais dele... vão descartá-lo.",
+        "Part": "Steel Ball Run",
+        "Target": "Ninguém"
+    },
+    {
+        "Name": "Lucy Steel",
+        "Quote": "Se você vai organizar uma corrida, ela deveria atravessar todo o continente americano! E o prêmio deveria ser enorme! Tipo, $50.000.000! Sonhos de verdade deveriam ser tão grandes assim!",
+        "Part": "Steel Ball Run",
+        "Target": "Steven Steel"
+    },
+    {
+        "Name": "Funny Valentine",
+        "Quote": "Eu me tornarei aquele que pode pegar o guardanapo primeiro.",
+        "Part": "Steel Ball Run",
+        "Target": "Ninguém"
+    },
+    {
+        "Name": "Funny Valentine",
+        "Quote": "Dojyaaa~~n!",
+        "Part": "Steel Ball Run",
+        "Target": "Ninguém"
+    },
+    {
+        "Name": "Funny Valentine",
+        "Quote": "Poder! Glória! Felicidade! Cultura! Lei! Dinheiro! Comida! Os corações das pessoas! Eu peguei o primeiro guardanapo!",
+        "Part": "Steel Ball Run",
+        "Target": "Ninguém"
+    },
+    {
+        "Name": "Funny Valentine",
+        "Quote": "Eu tenho 'sentimentos' de 'patriotismo'. Todas as ações que eu realizei foram porque eu julguei serem 'absolutamente' pelo bem deste país.",
+        "Part": "Steel Ball Run",
+        "Target": "Johnny Joestar"
+    },
+    {
+        "Name": "Funny Valentine",
+        "Quote": "Meu coração e minhas ações são absolutamente puros...! Tudo o que faço é pela justiça!",
+        "Part": "Steel Ball Run",
+        "Target": "Johnny Joestar"
+    },
+    {
+        "Name": "Diego Brando",
+        "Quote": "Inútil, inútil! Eu pensei que já tinha dito isso, Johnny Joestar! Que eu iria despedaçar você se chegasse a menos de 2 metros de mim... nenhum outro organismo na Terra consegue igualar a velocidade de um dinossauro!",
+        "Part": "Steel Ball Run",
+        "Target": "Johnny Joestar"
+    },
+    {
+        "Name": "Diego Brando",
+        "Quote": "Os ventos da vitória estão soprando atrás de mim, Dio...",
+        "Part": "Steel Ball Run",
+        "Target": "Ninguém"
+    },
+    {
+        "Name": "Hot Pants",
+        "Quote": "Johnny, eu não aguento mais isso. Mesmo quando me tornei uma membra da igreja... mesmo quando me tornei uma filha de Deus, não funcionou... Porque eu o sacrifiquei... Meu coração não aguenta mais...",
+        "Part": "Steel Ball Run",
+        "Target": "Johnny Joestar"
+    },
+    {
+        "Name": "Mountain Tim",
+        "Quote": "Eu nunca esperei morrer em uma cama. Sou um caubói. Tudo o que eu queria era um lugar para voltar para casa. Apenas um lugar para retornar após minha jornada...",
+        "Part": "Steel Ball Run",
+        "Target": "Ninguém"
+    },
+    {
+        "Name": "Wekapipo",
+        "Quote": "Os Zeppelis... A força das suas Steel Balls é o uso do retângulo dourado. Precisamos superar esse poder!",
+        "Part": "Steel Ball Run",
+        "Target": "Ninguém"
+    },
+    {
+        "Name": "Wekapipo",
+        "Quote": "Você foi escolhido... algum poder escolheu você como o vencedor.",
+        "Part": "Steel Ball Run",
+        "Target": "Gyro Zeppeli"
+    },
+    {
+        "Name": "Steven Steel",
+        "Quote": "Ouça, Lucy. Eu não vou tocar em você, nem agora, nem nunca... não se preocupe. Você deve ir à escola. E um dia, você vai se apaixonar. E quando quiser deixar nossa casa, pode fazê-lo a qualquer momento. Mas, por favor, me poupe do problema de seu futuro namorado ser um membro da máfia.",
+        "Part": "Steel Ball Run",
+        "Target": "Lucy Steel"
+    },
+    {
+        "Name": "Ringo Roadagain",
+        "Quote": "Bem-vindo... ao mundo dos homens...",
+        "Part": "Steel Ball Run",
+        "Target": "Gyro Zeppeli"
+    },
+    {
+        "Name": "Blackmore",
+        "Quote": "O nome da minha habilidade é Catch the Rainbow. As gotas de chuva que eu toco, posso estabilizá-las no ar. É como cruzar um arco-íris, ou andar sobre uma placa de vidro. Não se pode presumir que a chuva está sempre caindo.",
+        "Part": "Steel Ball Run",
+        "Target": "Mountain Tim"
+    },
+    {
+        "Name": "Parallel World Diego",
+        "Quote": "THE WORLD! O tempo é meu e só meu!",
+        "Part": "Steel Ball Run",
+        "Target": "Johnny Joestar"
+    },
+    {
+        "Name": "Pocoloco",
+        "Quote": "Eu sou o cara com a  sorte de 1 em 5.000.000.000! UH! OHHH!",
+        "Part": "Steel Ball Run",
+        "Target": "Ninguém"
+    },
+    {
+        "Name": "Jesus",
+        "Quote": "Eu vou para o Leste.",
+        "Part": "Steel Ball Run",
+        "Target": "Joseph of Arimatea"
+    },
+    {
+        "Name": "Jesus",
+        "Quote": "Se seu coração está vacilando... Johnny Joestar. Não atire.",
+        "Part": "Steel Ball Run",
+        "Target": "Johnny Joestar"
+    },
+    {
+        "Name": "Gregorio Zeppeli",
+        "Quote": "A verdadeira felicidade é encontrada dentro da família. Proteger sua família se relaciona a proteger seu país. Deixar sua família desmoronar é desrespeitar seus antepassados e futuros descendentes. Nunca se esqueça disso.",
+        "Part": "Steel Ball Run",
+        "Target": "Gyro Zeppeli"
+    },
+    {
+        "Name": "Captain Valentine",
+        "Quote": "'Patriotismo' é a 'virtude' mais bela deste mundo. Até mesmo os animais arriscam suas vidas pelo bem de seus filhos, mas arriscar a vida por orgulho no seu país e pensar nisso como uma extensão de proteger sua família é apenas uma 'nobreza da humanidade'... um tipo de coração completamente diferente de um fanático religioso.",
+        "Part": "Steel Ball Run",
+        "Target": "Funny Valentine"
+    },
+    {
+        "Name": "George Joestar II (SBR)",
+        "Quote": "Deus, você levou o filho errado...",
+        "Part": "Steel Ball Run",
+        "Target": "Johnny Joestar"
+    },
+    {
+        "Name": "Josuke Higashikata (JJL)",
+        "Quote": "Yasuho Hirose... foi isso que você disse...? Seu nome... Então quem sou eu? O que estou fazendo aqui?",
+        "Part": "JoJolion",
+        "Target": "Yasuho Hirose"
+    },
+    {
+        "Name": "Josuke Higashikata (JJL)",
+        "Quote": "Meu nome é... Quem sou eu...?",
+        "Part": "JoJolion",
+        "Target": "Yasuho Hirose"
+    },
+    {
+        "Name": "Josuke Higashikata (JJL)",
+        "Quote": "A única pessoa que eu conheço é... você. Yasuho Hirose, altura: 166 cm. A pessoa que estava acima do chão. Eu não conheço mais ninguém neste mundo inteiro.",
+        "Part": "JoJolion",
+        "Target": "Yasuho Hirose"
+    },
+    {
+        "Name": "Josuke Higashikata (JJL)",
+        "Quote": "Eu te odeio. Mas você não mente. Sua honestidade é uma coisa bonita em você. Quer que eu comece a gostar de você?... Então, vou usar este celular a partir de agora. Ele é meu.",
+        "Part": "JoJolion",
+        "Target": "Daiya Higashikata"
+    },
+    {
+        "Name": "Josuke Higashikata (JJL)",
+        "Quote": "O segundo andar é perigoso! Nos filmes de terror, os personagens que correm para o segundo andar sempre morrem!",
+        "Part": "JoJolion",
+        "Target": "Ninguém"
+    },
+    {
+        "Name": "Josuke Higashikata (JJL)",
+        "Quote": "Soft & Wet... quando minha bolha de sabão toca algo e estoura, eu tomo algo de lá.",
+        "Part": "JoJolion",
+        "Target": "Ninguém"
+    },
+    {
+        "Name": "Josuke Higashikata (JJL)",
+        "Quote": "Existe uma mulher que está esperando por esta Locacaca! E eu vou recuperar meu passado perdido!",
+        "Part": "JoJolion",
+        "Target": "JoJolion"
+    },
+    {
+        "Name": "Josuke Higashikata (JJL)",
+        "Quote": "Tome isso! Soft & Wet: Go Beyond! Essa bolha não existe em lugar nenhum neste mundo.",
+        "Part": "JoJolion",
+        "Target": "Toru"
+    },
+    {
+        "Name": "Josuke Higashikata (JJL)",
+        "Quote": "E minhas memórias de quando nasci... Se foram há muito deste mundo... E elas nunca... voltarão... Mas, mesmo assim, há algo de que tenho certeza. Sou seu filho. Não importa onde eu vá, ou em que era eu viva, isso é algo certo em que posso acreditar. Mãe...",
+        "Part": "JoJolion",
+        "Target": "Holy Joestar-Kira"
+    },
+    {
+        "Name": "Josuke Higashikata (JJL)",
+        "Quote": "Eu amo batatas fritas grandes, eu amo batatas fritas grandes, eu amo batatas fritas grandes, mas estão sem frango frito. Estão sem frango frito, estão sem frango frito. Só preciso daqueles crocantes. Eu amo batatas fritas grandes.",
+        "Part": "JoJolion",
+        "Target": "Yasuho Hirose"
+    },
+    {
+        "Name": "Yasuho Hirose",
+        "Quote": "Eu tenho o mesmo motivo que o Josuke. Eu também quero pôr as mãos no Locacaca!",
+        "Part": "JoJolion",
+        "Target": "Ninguém"
+    },
+    {
+        "Name": "Yasuho Hirose",
+        "Quote": "Eu odeio ele... Ele é tão idiota.",
+        "Part": "JoJolion",
+        "Target": "Josuke Higashikata (JJL)"
+    },
+    {
+        "Name": "Yasuho Hirose",
+        "Quote": "As bolas dele... haviam quatro. Tenho certeza disso.",
+        "Part": "JoJolion",
+        "Target": "Ninguém"
+    },
+    {
+        "Name": "Yasuho Hirose",
+        "Quote": "A coisa em que sou melhor pode ser ler mapas... Eu realmente gosto de estudar mapas.",
+        "Part": "JoJolion",
+        "Target": "Dolomite"
+    },
+    {
+        "Name": "Yasuho Hirose",
+        "Quote": "No fim das contas, memórias... mesmo antes das memórias, pode haver algo que chamamos de sonhos. Se, no final, o que resta são memórias e sonhos... então talvez um sonho tenha nascido daquele solo.",
+        "Part": "JoJolion",
+        "Target": "Josuke Higashikata (JJL)"
+    },
+    {
+        "Name": "Rai Mamezuku",
+        "Quote": "As prioridades aqui são, me proteger, em primeiro lugar... a sua vida vem em segundo. Ela é a terceira. Certo?",
+        "Part": "JoJolion",
+        "Target": "Josuke Higashikata (JJL)"
+    },
+    {
+        "Name": "Rai Mamezuku",
+        "Quote": "Minha ocupação é ser o fruticultor pessoal do Norisuke... Não faço negócios com mais ninguém.",
+        "Part": "JoJolion",
+        "Target": "Josuke Higashikata (JJL)"
+    },
+    {
+        "Name": "Rai Mamezuku",
+        "Quote": "Ninguém está ciente disso. Ninguém vê isso em seu Stand. É uma linha. As linhas, elas giram... Suas bolhas de sabão são linhas suaves e giratórias! Esse é o Spin! E dentro dele, existem coisas que não podem... ser vistas...",
+        "Part": "JoJolion",
+        "Target": "Josuke Higashikata (JJL)"
+    },
+    {
+        "Name": "Rai Mamezuku",
+        "Quote": "Aquele galho é uma planta demoníaca, não há ser humano que possa domá-lo! Então, vou coletá-lo!",
+        "Part": "JoJolion",
+        "Target": "Josuke Higashikata (JJL)"
+    },
+    {
+        "Name": "Norisuke Higashikata IV",
+        "Quote": "Minha habilidade é um Stand de longa distância. Mas não vou dizer mais nada... confie em mim... isso também é privado.",
+        "Part": "JoJolion",
+        "Target": "Josuke Higashikata (JJL)"
+    },
+    {
+        "Name": "Norisuke Higashikata IV",
+        "Quote": "Você não contaria a alguém da sua própria família onde esconde seus DVDs pornô, certo...? Você não sai mostrando o seu rabo para os outros. Stands são da mesma forma.",
+        "Part": "JoJolion",
+        "Target": "Josuke Higashikata (JJL)"
+    },
+    {
+        "Name": "Norisuke Higashikata IV",
+        "Quote": "Aquele galho definitivamente pertence a você, Josuke. Você precisa do caminho certo para a troca equivalente.",
+        "Part": "JoJolion",
+        "Target": "Josuke Higashikata (JJL)"
+    },
+    {
+        "Name": "Toru",
+        "Quote": "Quando tudo acabar, tudo o que restará... são sonhos e memórias. Isso é tudo.",
+        "Part": "JoJolion",
+        "Target": "Yasuho Hirose"
+    },
+    {
+        "Name": "Toru",
+        "Quote": "Eu sou o ex-namorado dela.",
+        "Part": "JoJolion",
+        "Target": "Rai Mamezuku"
+    },
+    {
+        "Name": "Toru",
+        "Quote": "Essas suas mãos... elas estão sempre acima, Yasuho... sempre que estendo minha mão para você, você instintivamente coloca a sua sobre a minha sem dizer nada...",
+        "Part": "JoJolion",
+        "Target": "Yasuho Hirose"
+    },
+    {
+        "Name": "Toru",
+        "Quote": "Parece que nos encontramos em uma boa hora. Parece que é sempre assim conosco...",
+        "Part": "JoJolion",
+        "Target": "Yasuho Hirose"
+    },
+    {
+        "Name": "Toru",
+        "Quote": "Calamidades não fazem distinção entre certo e errado. Honestamente, nem eu sei o que vai acontecer com você. Mas uma coisa é certa: você vai morrer muito em breve.",
+        "Part": "JoJolion",
+        "Target": "Yasuho Hirose"
+    },
+    {
+        "Name": "Toru",
+        "Quote": "Adeus... Yasuho... Depois que tudo acabar, tudo o que restará serão sonhos... e memórias.",
+        "Part": "JoJolion",
+        "Target": "Yasuho Hirose"
+    },
+    {
+        "Name": "Toru",
+        "Quote": "P-Por favor, me ajude... Yasuho. Eu... Não quero morrer... Você é a única... Que pode me salvar... Por favor... Somos amigos desde que você era criança, não somos...?",
+        "Part": "JoJolion",
+        "Target": "Yasuho Hirose"
+    },
+    {
+        "Name": "Jobin Higashikata",
+        "Quote": "Está tudo bem cometer erros, certo...? Você é apenas humano, afinal de contas.",
+        "Part": "JoJolion",
+        "Target": "Norisuke Higashikata IV"
+    },
+    {
+        "Name": "Jobin Higashikata",
+        "Quote": "Posso descansar tranquilo... agora que vi seu rosto...",
+        "Part": "JoJolion",
+        "Target": "Norisuke Higashikata IV"
+    },
+    {
+        "Name": "Jobin Higashikata",
+        "Quote": "Quem tem mais músculos... peso corporal e espírito de luta sempre vence. Assim como com atletas humanos.",
+        "Part": "JoJolion",
+        "Target": "Josuke Higashikata (JJL)"
+    },
+    {
+        "Name": "Jobin Higashikata",
+        "Quote": "Há mais uma regra nas lutas de besouro. Se ele é morto, ele perde. Por 45 segundos, eles são gladiadores.",
+        "Part": "JoJolion",
+        "Target": "Josuke Higashikata (JJL)"
+    },
+    {
+        "Name": "Jobin Higashikata",
+        "Quote": "Speed King, incendeie.",
+        "Part": "JoJolion",
+        "Target": "Ninguém"
+    },
+    {
+        "Name": "Jobin Higashikata",
+        "Quote": "Escute com atenção, quando o papai era um pouco mais velho que você, ele ficou doente. E quem me colocou no caminho para ficar melhor foi minha mãe... sua avó Kaato. E... se algum dia, você também ficar doente... se esse momento chegar, então o papai será quem vai te curar. Eu prometo.",
+        "Part": "JoJolion",
+        "Target": "Tsurugi Higashikata"
+    },
+    {
+        "Name": "Jobin Higashikata",
+        "Quote": "Esse nariz... é tão legal e sexy! É meio parecido com meu besouro Hércules de estimação! Não, é até melhor!",
+        "Part": "JoJolion",
+        "Target": "Mitsuba Higashikata"
+    },
+    {
+        "Name": "Tamaki Damo",
+        "Quote": "Minha ocupação é... gerenciar uma lavanderia... aqui em Morioh. Chama-se Lavanderia Damokan. Tenho 23 anos.",
+        "Part": "JoJolion",
+        "Target": "Norisuke Higashikata IV"
+    },
+    {
+        "Name": "Tamaki Damo",
+        "Quote": "Sua filha... pertence a mim.",
+        "Part": "JoJolion",
+        "Target": "Norisuke Higashikata IV"
+    },
+    {
+        "Name": "Tamaki Damo",
+        "Quote": "Aquele dia no iate... Eu fiz a mesma coisa com uma nota de 1000 ienes. E eu arranquei seu fígado. E hoje, vou cortar sua garganta também!",
+        "Part": "JoJolion",
+        "Target": "Josuke Higashikata (JJL)"
+    },
+    {
+        "Name": "Tamaki Damo",
+        "Quote": "Bem, então, vim aqui com dois objetivos. Mas antes de fazer minhas perguntas, quero lhe dar um conselho que deve ser bastante óbvio. Não minta para mim.",
+        "Part": "JoJolion",
+        "Target": "Yoshikage Kira (JJL) | Josefumi Kujo"
+    },
+    {
+        "Name": "Tamaki Damo",
+        "Quote": "Meu Stand se chama Vitamin C. Ele te deixa extremamente mole.",
+        "Part": "JoJolion",
+        "Target": "Norisuke Higashikata IV"
+    },
+    {
+        "Name": "Joshu Higashikata",
+        "Quote": "Ei... Josuke. Você ouviu que meu irmão mais velho voltou da viagem? Ele me trouxe uma lembrancinha! Eheheheheheheh! Olha só! Parece real demais, não parece? É uma figura de lagosta espinhosa! Tão legal!",
+        "Part": "JoJolion",
+        "Target": "Josuke Higashikata (JJL)"
+    },
+    {
+        "Name": "Joshu Higashikata",
+        "Quote": "Yasuho é minha mulher. Ela até deixou eu beijaaaar... Foi um beijo profundo e quente... rerorerorerorero...",
+        "Part": "JoJolion",
+        "Target": "Josuke Higashikata (JJL)"
+    },
+    {
+        "Name": "Joshu Higashikata",
+        "Quote": "E além disso, quem você pensa que é para falar com a Yasuho desse jeito casual?! Qualquer um que fala com a Yasuho desse jeito é meu inimigo!",
+        "Part": "JoJolion",
+        "Target": "Toru"
+    },
+    {
+        "Name": "Daiya Higashikata",
+        "Quote": "Caaaaalifoooooorniaaaaa! Eu posso pegar uma das memórias de uma pessoa...!",
+        "Part": "JoJolion",
+        "Target": "Josuke Higashikata (JJL)"
+    },
+    {
+        "Name": "Daiya Higashikata",
+        "Quote": "Eu amo você, Josuke. Eu sempre terei sua memória aqui comigo... compartilhando elas. Uma por uma, muitas delas, muitas e muitas... essa felicidade é meu objetivo.",
+        "Part": "JoJolion",
+        "Target": "Josuke Higashikata (JJL)"
+    },
+    {
+        "Name": "Daiya Higashikata",
+        "Quote": "Se isso for uma ligação da Yasuho... então ele pode dar adeus... a essas duas peças de xadrez... e ao conceito... de suas coisas importantes... Eu vou extingui-las completamente deste mundo...",
+        "Part": "JoJolion",
+        "Target": "Josuke Higashikata (JJL)"
+    },
+    {
+        "Name": "Kei Nijimura",
+        "Quote": "Eu posso afirmar isso... tenho certeza. Sua verdadeira identidade é meu irmão mais velho, Yoshikage Kira... não há dúdivas sobre isso. Mas isso é só parte de você. Tem outra pessoa.",
+        "Part": "JoJolion",
+        "Target": "Josuke Higashikata (JJL)"
+    },
+    {
+        "Name": "Yotsuyu Yagiyama",
+        "Quote": "Eu sou uma pedra. Eu sou uma ilha.",
+        "Part": "JoJolion",
+        "Target": "Josuke Higashikata (JJL)"
+    },
+    {
+        "Name": "Yotsuyu Yagiyama",
+        "Quote": "Então você veio até aqui... para morrer uma segunda vez...?",
+        "Part": "JoJolion",
+        "Target": "Josuke Higashikata (JJL)"
+    },
+    {
+        "Name": "Yotsuyu Yagiyama",
+        "Quote": "V... Você... será apenas... traído pela família Higashikata... de qualquer jeito...",
+        "Part": "JoJolion",
+        "Target": "Josuke Higashikata (JJL)"
+    },
+    {
+        "Name": "Aisho Dainenjiyama",
+        "Quote": "Droga! Isso é assustador... que pássaros bizzaros... todos estão olhando para cá.",
+        "Part": "JoJolion",
+        "Target": "Ninguém"
+    },
+    {
+        "Name": "Aisho Dainenjiyama",
+        "Quote": "Isso virou algo realmente perigoso... então quem estava me seguindo e tentando me investigar era... ei! Que diabos está acontecendo aqui? Jobin Higashikata... esse é seu filho!",
+        "Part": "JoJolion",
+        "Target": "Jobin Higashikata"
+    },
+    {
+        "Name": "Elder A. Phex",
+        "Quote": "Parece que também não vamos conseguir ficar muito tempo nesta cidade... mas não há nada do que se envergonhar. Não é sua culpa. Porque isso é o que eu mais amo em você.",
+        "Part": "JoJolion",
+        "Target": "Younger A. Phex"
+    },
+    {
+        "Name": "Tsurugi Higashikata",
+        "Quote": "Quer algo para beber? Tenho um pouco de leite de soja. E uma cola gelada.",
+        "Part": "JoJolion",
+        "Target": "Yasuho Hirose"
+    },
+    {
+        "Name": "Tsurugi Higashikata",
+        "Quote": "A Família Higashikata acredita em uma tradição contra espíritos malignos há gerações... quando o primeiro filho nasce, ele é vestido como uma menina até os 12 anos para enganar os demônios que causam doenças. Isso aconteceu com meu pai, meu avô, e o avô dele também.",
+        "Part": "JoJolion",
+        "Target": "Yasuho Hirose"
+    },
+    {
+        "Name": "Tsurugi Higashikata",
+        "Quote": "Minha habilidade é origami. Minha habilidade é que, quando meu origami toca uma pessoa, essa pessoa perde a capacidade de distinguir rostos, formas e coisas assim...",
+        "Part": "JoJolion",
+        "Target": "Yasuho Hirose"
+    },
+    {
+        "Name": "Mitsuba Higashikata",
+        "Quote": "Envelhecer é bom e tudo mais... mas não posso deixar minhas unhas sujas ou meus seios caírem. Depois de me tornar esposa da Família Higashikata, mesmo sendo mãe, eu preciso continuar chamando atenção ou tudo estará perdido para mim.",
+        "Part": "JoJolion",
+        "Target": "Yasuho Hirose"
+    },
+    {
+        "Name": "Mitsuba Higashikata",
+        "Quote": "Sabe, nos meus tempos de escola, eu fui Miss Cherry. Como vencedora de um concurso, pude viajar para China e Europa representando a fruta do Japão. Foi assim que conheci meu marido Jobin e acabei casando na família Higashikata. Fui até modelo para os anúncios da Companhia de Frutas Higashikata.",
+        "Part": "JoJolion",
+        "Target": "Yasuho Hirose"
+    },
+    {
+        "Name": "Dolomite",
+        "Quote": "A Lagoa Azul. Cara, eu adoraria realmente ir lá... esse é meu sonho... Ser naufragado, só nós dois agarrados aos destroços e à deriva juntos. Mergulharíamos para pegar peixes, abriríamos frutas das palmeiras e construiríamos uma casa na árvore em uma ilha... mas... acho que isso não é tão realista...",
+        "Part": "JoJolion",
+        "Target": "Jobin Higashikata"
+    },
+    {
+        "Name": "Dolomite",
+        "Quote": "Este é um sentimento que pensei ter esquecido há muito tempo. Aquela garota... me pergunto quantos anos ela tem agora? Provavelmente uns 32-33? Talvez eu pudesse tentar convidá-la novamente... para a Lagoa Azul...",
+        "Part": "JoJolion",
+        "Target": "Jobin Higashikata"
+    },
+    {
+        "Name": "Urban Guerilla",
+        "Quote": "Organismos vivos existem acima das rochas e do solo. Mas, ao encontrar a morte, você passa a existir abaixo deles. Vocês humanos... quando ficaram descuidados, acabaram para sempre sob as rochas... os Humanos de Pedra, quero dizer! Venham me pegar!",
+        "Part": "JoJolion",
+        "Target": "Josuke Higashikata (JJL)"
+    },
+    {
+        "Name": "Poor Tom",
+        "Quote": "Você não entende?!! Quanto mais perto você chegar de mim, mais alta será a pressão!! Você perdeu, idiota! Agora morra, Josuke Higashikata!",
+        "Part": "JoJolion",
+        "Target": "Josuke Higashikata (JJL)"
+    },
+    {
+        "Name": "Poor Tom",
+        "Quote": "Este Stand pode isolar a área ao redor do galho. Ninguém nem conseguirá se aproximar. Meu Stand se chama Ozon Baby. Não importa quem seja, ninguém conseguirá chegar a nenhum galho naquele pomar.",
+        "Part": "JoJolion",
+        "Target": "Jobin Higashikata"
+    },
+    {
+        "Name": "Wu Tomoki",
+        "Quote": "Quero deixar algo claro... Vocês todos são os maus aqui.",
+        "Part": "JoJolion",
+        "Target": "Mitsuba Higashikata | Yasuho Hirose"
+    },
+    {
+        "Name": "Wu Tomoki",
+        "Quote": "Preciso evitar qualquer falha previsível. 100% dos pacientes que aceito são curados. Todos os pacientes querem ser 100% curados. E eu realizo esses desejos.",
+        "Part": "JoJolion",
+        "Target": "Mitsuba Higashikata | Yasuho Hirose"
+    },
+    {
+        "Name": "Hato Higashikata",
+        "Quote": "Oh, nossa! Alguém deixou uma revista com uma garota tão bonita na capa num lugar como esse?! Nossa, tenho certeza de que já vi essa pessoa em algum lugaaaar... Sou euuuu, muhuhuhuhu!!",
+        "Part": "JoJolion",
+        "Target": "Joshu Higashikata"
+    },
+    {
+        "Name": "Holy-Joestar Kira",
+        "Quote": "Obrigado. Você fez bem em vir aqui. Você disse que se chama Yasuho, certo...? Venha novamente, tá bom?! Uma garota tão bonita... Ela... já está usando \"isso\" subconscientemente, parece. Mas se ela perceber como usar, então... investigue a árvore genealógica. Se perceber isso, ela dará força ao meu filho... certamente isso também é o Destino.",
+        "Part": "JoJolion",
+        "Target": "Yasuho Hirose"
+    },
+    {
+        "Name": "Holy-Joestar Kira",
+        "Quote": "A forma do diretor do hospital não pode ser capturada... Yoshikage... você absolutamente não deve persegui-lo. Mas está tudo bem em fazer ele correr atrás de você. Por favor... Tenha cuidado... Porque eu quero... Ver você... Novamente.",
+        "Part": "JoJolion",
+        "Target": "Josuke Higashikata (JJL)"
+    },
+    {
+        "Name": "Karera Sakunami",
+        "Quote": "Foi o conhecimento de Kira que me escondeu do mundo, certo? Prometo que não contarei a ninguém, Josefumi Kujo.",
+        "Part": "JoJolion",
+        "Target": "Josuke Higashikata (JJL)"
+    },
+    {
+        "Name": "Kaato Higashikata",
+        "Quote": "Esses 15 anos de sucesso da Companhia de Frutas Higashikata também são graças a mim. Ele pode ter se divorciado de mim enquanto eu estava na cadeia, mas vou ser compensada com dinheiro! Porque estou recuperando minha vida. Caso contrário, não teria valido a pena.",
+        "Part": "JoJolion",
+        "Target": "Norisuke Higashikata IV"
+    },
+    {
+        "Name": "Kaato Higashikata",
+        "Quote": "Não deveria ser óbvio que eu gostaria de ver meus filhos?!! Eu dei à luz a cada um deles! E eu não fiz nada de errado. Naquela época... eu juro pelas almas dos meus antepassados que fiz a coisa certa. Mas... você me abandonou... me colocou na cadeia... e se divorciou de mim!! Eu vou ser compensada por tudo isso.",
+        "Part": "JoJolion",
+        "Target": "Norisuke Higashikata IV"
+    },
+    {
+        "Name": "Yoshikage Kira (JJL)",
+        "Quote": "Este é um porto. Ojiro Sasame... você diz que é surfista, mas isso é um trabalho? Você é um homem do mar? Ou um homem da terra? Se decida!",
+        "Part": "JoJolion",
+        "Target": "Ojiro Sasame"
+    },
+    {
+        "Name": "Yoshikage Kira (JJL)",
+        "Quote": "Ela é apenas uma stalker, mas... as habilidades Stand estão conectadas de alguma forma. É isso que quero dizer. Temos algum tipo de conexão predestinada.",
+        "Part": "JoJolion",
+        "Target": "Josefumi Kujo"
+    },
+    {
+        "Name": "Yoshikage Kira (JJL)",
+        "Quote": "Vocês nem conseguem descobrir onde estão os galhos da Locacaca. Vocês não sabem de nada. E com certeza não conseguem prever meu plano.",
+        "Part": "JoJolion",
+        "Target": "Tamaki Damo | Yotsuyu Yagiyama"
+    },
+    {
+        "Name": "Josefumi Kujo",
+        "Quote": "Não aguento mais... Estou sempre sendo abandonado... Ninguém nunca me dá atenção... Eu trabalhei tanto, tanto... mas sempre acabou do mesmo jeito. Acabo sempre abandonado.",
+        "Part": "JoJolion",
+        "Target": "Yoshikage Kira (JJL)"
+    },
+    {
+        "Name": "Josefumi Kujo",
+        "Quote": "Por favor... Salve a Holy. Coma... quebre a maldição... e olharemos para um novo céu.",
+        "Part": "JoJolion",
+        "Target": "Yoshikage Kira (JJL)"
+    },
+    {
+        "Name": "Lucy Steel (JJL)",
+        "Quote": "Eu sei... Aquela marca de nascença em forma de estrela no seu ombro... E eu sei... que estamos conectados por uma missão. E, embora eu não possa ver isso com meus olhos... Eu sei que você tem o poder do coração, um Stand!!",
+        "Part": "JoJolion",
+        "Target": "Joseph Joestar (JJL)"
+    },
+    {
+        "Name": "Joseph Joestar (JJL)",
+        "Quote": "Me chamam de Fumi.",
+        "Part": "JoJolion",
+        "Target": "Lucy Steel (JJL)"
+    },
+    {
+        "Name": "Joseph Joestar (JJL)",
+        "Quote": "Vamos sair daqui!! O Incidente de Radio Gaga não foi só uma história inventada! Chame alguém! Vamos procurar o motorista com a polícia! Eu... Eu quero ir pra casa!",
+        "Part": "JoJolion",
+        "Target": "Lucy Steel (JJL)"
+    },
+    {
+        "Name": "Jodio Joestar",
+        "Quote": "Provavelmente porque você estava curtindo Dua Lipa demais.",
+        "Part": "The JOJOLands",
+        "Target": "Dragona Joestar"
+    },
+    {
+        "Name": "Jodio Joestar",
+        "Quote": "Todos amam nossa mãe. Então, nossa mãe consegue ir ao aeroporto em segurança todos os dias. Isso porque nós, irmãos, a protegemos.",
+        "Part": "The JOJOLands",
+        "Target": "Dragona Joestar"
+    },
+    {
+        "Name": "Jodio Joestar",
+        "Quote": "Não toque nele de novo! Ele é um mangaka! Pode ser um cara rico, mas é um rico especial! Eu o respeito. E acredito que hoje vai ser um ótimo dia.",
+        "Part": "The JOJOLands",
+        "Target": "Usagi Alohaoe"
+    },
+    {
+        "Name": "Dragona Joestar",
+        "Quote": "Paco! Consegue me ouvir? É melhor você cair fora daqui antes que eu enrole sua orelha na sua cabeça! Não ouse mexer com os clientes da minha loja! Seu idiota!",
+        "Part": "The JOJOLands",
+        "Target": "Paco Laburantes"
+    },
+    {
+        "Name": "Dragona Joestar",
+        "Quote": "Não se esforce demais, mas não desista.",
+        "Part": "The JOJOLands",
+        "Target": "Jodio Joestar"
+    }
+]
