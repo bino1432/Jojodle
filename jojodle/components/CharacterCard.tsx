@@ -42,11 +42,23 @@ interface characterCardProps {
 export default function CharacterCard({ imageUrl, gender, height, age, nationality, affiliation, occupation, standType, debutPart, character }: characterCardProps) {
     const [partNumber, setPartNumber] = useState(0);
     const [attemptPartNumber, setAttemptPartNumber] = useState(0);
+    const [characterHeight, setCharacterHeight] = useState(0);
+    const [attemptCharacterHeight, setAttemptCharacterHeight] = useState(0);
 
     useEffect(() => {
         setPartNumber(getPartNumber(character.Debut));
         setAttemptPartNumber(getPartNumber(debutPart))
+        setCharacterHeight(getHeight(character.Height));
+        setAttemptCharacterHeight(getHeight(height));
     }, [])
+
+    const getHeight = (height: string) => {
+        const match = height.match(/\d+/);
+        if (match) {
+            return Number(match[0]);
+        }
+        return 0;
+    }
 
     const getPartNumber = (part: string) => {
         if (part == "Phantom Blood") {
@@ -91,6 +103,7 @@ export default function CharacterCard({ imageUrl, gender, height, age, nationali
                 <h2>{gender}</h2>
             </div>
             <div className={`
+                relative
                 ${archivo.className}
                 text-center
                 w-[96] 
@@ -101,7 +114,28 @@ export default function CharacterCard({ imageUrl, gender, height, age, nationali
                 rounded-lg 
                 text-xl
                 ${height == character.Height ? "bg-[var(--Correct)]" : "bg-[var(--Wrong)]"}`}>
-                <h2>{height}</h2>
+
+                {
+                    attemptCharacterHeight < characterHeight ?
+                        <Image
+                            src={UpArrow}
+                            alt={'Character Image'}
+                            width={40}
+                            height={64}
+                            className="absolute"
+                        ></Image> :
+                        attemptCharacterHeight > characterHeight ?
+                            <Image
+                                src={DownArrow}
+                                alt={'Character Image'}
+                                width={40}
+                                height={64}
+                                className="absolute"
+                            ></Image> :
+                            null
+                }
+
+                <h2 className='relative z-[1]'>{height}</h2>
             </div>
             <div className={`
                 relative
@@ -114,6 +148,7 @@ export default function CharacterCard({ imageUrl, gender, height, age, nationali
                 justify-center 
                 rounded-lg 
                 ${age == character.Age ? "bg-[var(--Correct)]" : "bg-[var(--Wrong)]"}`}>
+
                 {
                     age < character.Age ?
                         <Image
