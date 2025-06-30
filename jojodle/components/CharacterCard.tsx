@@ -1,6 +1,7 @@
 "use client";
 import { Archivo } from 'next/font/google';
 import Image from 'next/image'
+import UsaIcon from '@/public/images/icon/Countries/USASVG.svg'
 
 interface character {
     ID: number,
