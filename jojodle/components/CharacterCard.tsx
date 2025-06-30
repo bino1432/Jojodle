@@ -1,7 +1,9 @@
 "use client";
 import { Archivo } from 'next/font/google';
 import Image from 'next/image'
-import UsaIcon from '@/public/images/icon/Countries/USASVG.svg'
+import UpArrow from "@/public/images/icon/Arrows/UpArrow.svg"
+import DownArrow from "@/public/images/icon/Arrows/DownArrow.svg"
+import { useEffect, useState } from 'react';
 
 interface character {
     ID: number,
@@ -38,6 +40,36 @@ interface characterCardProps {
 }
 
 export default function CharacterCard({ imageUrl, gender, height, age, nationality, affiliation, occupation, standType, debutPart, character }: characterCardProps) {
+    const [partNumber, setPartNumber] = useState(0);
+    const [attemptPartNumber, setAttemptPartNumber] = useState(0);
+
+    useEffect(() => {
+        setPartNumber(getPartNumber(character.Debut));
+        setAttemptPartNumber(getPartNumber(debutPart))
+    }, [])
+
+    const getPartNumber = (part: string) => {
+        if (part == "Phantom Blood") {
+            return 1;
+        } else if (part == "Battle Tendency") {
+            return 2;
+        } else if (part == "Stardust Crusaders") {
+            return 3;
+        } else if (part == "Diamond is Unbreakable") {
+            return 4;
+        } else if (part == "Golden Wind") {
+            return 5;
+        } else if (part == "Stone Ocean") {
+            return 6;
+        } else if (part == "Steel Ball Run") {
+            return 7;
+        } else if (part == "JoJolion") {
+            return 8;
+        } else {
+            return 0;
+        }
+    }
+
     return (
         <div className='flex justify-center gap-[8] text-[var(--White)] mt-2'>
             <Image
@@ -72,6 +104,7 @@ export default function CharacterCard({ imageUrl, gender, height, age, nationali
                 <h2>{height}</h2>
             </div>
             <div className={`
+                relative
                 ${archivo.className}
                 ${age >= 1000 ? "text-xl" : "text-5xl"}
                 w-[96] 
@@ -81,7 +114,27 @@ export default function CharacterCard({ imageUrl, gender, height, age, nationali
                 justify-center 
                 rounded-lg 
                 ${age == character.Age ? "bg-[var(--Correct)]" : "bg-[var(--Wrong)]"}`}>
-                <h2>{age}</h2>
+                {
+                    age < character.Age ?
+                        <Image
+                            src={UpArrow}
+                            alt={'Character Image'}
+                            width={40}
+                            height={64}
+                            className="absolute"
+                        ></Image> :
+                        age > character.Age ?
+                            <Image
+                                src={DownArrow}
+                                alt={'Character Image'}
+                                width={40}
+                                height={64}
+                                className="absolute"
+                            ></Image> :
+                            null
+                }
+
+                <h2 className='relative z-[1]'>{age}</h2>
             </div>
             <div className={`
                 text-center
@@ -140,6 +193,7 @@ export default function CharacterCard({ imageUrl, gender, height, age, nationali
                 <h2>{standType}</h2>
             </div>
             <div className={`
+                relative
                 ${archivo.className}
                 ${debutPart.length > 15 ? "" : "text-xl"}
                 text-center
@@ -150,7 +204,28 @@ export default function CharacterCard({ imageUrl, gender, height, age, nationali
                 justify-center 
                 rounded-lg 
                 ${debutPart == character.Debut ? "bg-[var(--Correct)]" : "bg-[var(--Wrong)]"}`}>
-                <h2>{debutPart}</h2>
+
+                {
+                    attemptPartNumber < partNumber ?
+                        <Image
+                            src={UpArrow}
+                            alt={'Character Image'}
+                            width={40}
+                            height={64}
+                            className="absolute"
+                        ></Image> :
+                        attemptPartNumber > partNumber ?
+                            <Image
+                                src={DownArrow}
+                                alt={'Character Image'}
+                                width={40}
+                                height={64}
+                                className="absolute"
+                            ></Image> :
+                            null
+                }
+
+                <h2 className='relative z-[1]'>{debutPart}</h2>
             </div>
         </div>
     );
