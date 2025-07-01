@@ -495,7 +495,7 @@
         "Name": "Mariah",
         "Quote": "Sua força magnética continuará crescendo... até que seus corpos se esmaguem um contra o outro.",
         "Part": "Stardust Crusaders",
-        "Target": "Joseph Joestar (SC) | Muhammed Avdol"
+        "Target": "Joseph Joestar (SC), Muhammed Avdol"
     },
     {
         "Name": "Alessi",
@@ -651,13 +651,13 @@
         "Name": "Tonio Trussardi",
         "Quote": "Cardápio? Uma lista de comidas? Receio não temos isso aqui.",
         "Part": "Diamond is Unbreakable",
-        "Target": "Josuke Higashikata | Okuyasu Nijimura"
+        "Target": "Josuke Higashikata, Okuyasu Nijimura"
     },
     {
         "Name": "Tonio Trussardi",
         "Quote": "Isso é simplesmente fantástico! Minha maior alegria é ver meus clientes aproveitarem minha comida e se sentirem melhor depois.",
         "Part": "Diamond is Unbreakable",
-        "Target": "Josuke Higashikata | Okuyasu Nijimura"
+        "Target": "Josuke Higashikata, Okuyasu Nijimura"
     },
     {
         "Name": "Aya Tsuji",
@@ -1329,7 +1329,7 @@
         "Name": "Tamaki Damo",
         "Quote": "Bem, então, vim aqui com dois objetivos. Mas antes de fazer minhas perguntas, quero lhe dar um conselho que deve ser bastante óbvio. Não minta para mim.",
         "Part": "JoJolion",
-        "Target": "Yoshikage Kira (JJL) | Josefumi Kujo"
+        "Target": "Yoshikage Kira (JJL), Josefumi Kujo"
     },
     {
         "Name": "Tamaki Damo",
@@ -1479,13 +1479,13 @@
         "Name": "Wu Tomoki",
         "Quote": "Quero deixar algo claro... Vocês todos são os maus aqui.",
         "Part": "JoJolion",
-        "Target": "Mitsuba Higashikata | Yasuho Hirose"
+        "Target": "Mitsuba Higashikata, Yasuho Hirose"
     },
     {
         "Name": "Wu Tomoki",
         "Quote": "Preciso evitar qualquer falha previsível. 100% dos pacientes que aceito são curados. Todos os pacientes querem ser 100% curados. E eu realizo esses desejos.",
         "Part": "JoJolion",
-        "Target": "Mitsuba Higashikata | Yasuho Hirose"
+        "Target": "Mitsuba Higashikata, Yasuho Hirose"
     },
     {
         "Name": "Hato Higashikata",
@@ -1539,7 +1539,7 @@
         "Name": "Yoshikage Kira (JJL)",
         "Quote": "Vocês nem conseguem descobrir onde estão os galhos da Locacaca. Vocês não sabem de nada. E com certeza não conseguem prever meu plano.",
         "Part": "JoJolion",
-        "Target": "Tamaki Damo | Yotsuyu Yagiyama"
+        "Target": "Tamaki Damo, Yotsuyu Yagiyama"
     },
     {
         "Name": "Josefumi Kujo",

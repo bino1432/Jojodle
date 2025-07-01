@@ -13,7 +13,7 @@
     },
     {
         "Name": "Tonpetty",
-        "Variants": "Tompeti | Tonpeti | Tompetty"
+        "Variants": "Tompeti, Tonpeti, Tompetty"
     },
     {
         "Name": "Poco's Sister",
@@ -41,7 +41,7 @@
     },
     {
         "Name": "Suzi Q",
-        "Variants": "Suzi Q Joestar | Suzie Q"
+        "Variants": "Suzi Q Joestar, Suzie Q"
     },
     {
         "Name": "George Joestar II",
@@ -57,7 +57,7 @@
     },
     {
         "Name": "Muhammad Avdol",
-        "Variants": "Mohammed Avdol | Mohammed Abdul"
+        "Variants": "Mohammed Avdol, Mohammed Abdul"
     },
     {
         "Name": "DIO",
@@ -69,11 +69,11 @@
     },
     {
         "Name": "Holy Kujo",
-        "Variants": "Holy Joestar | Holly Kujo | Seiko"
+        "Variants": "Holy Joestar, Holly Kujo, Seiko"
     },
     {
         "Name": "Suzi Q Joestar",
-        "Variants": "Suzi Q | Suzie Q"
+        "Variants": "Suzi Q, Suzie Q"
     },
     {
         "Name": "Merlai Anne",
@@ -93,19 +93,19 @@
     },
     {
         "Name": "Oingo",
-        "Variants": "Zenyatta | Ongo"
+        "Variants": "Zenyatta, Ongo"
     },
     {
         "Name": "Boingo",
-        "Variants": "Mondatta | Bongo"
+        "Variants": "Mondatta, Bongo"
     },
     {
         "Name": "Daniel J. D'Arby",
-        "Variants": "D'arby the Elder | Darby the Elder"
+        "Variants": "D'arby the Elder, Darby the Elder"
     },
     {
         "Name": "Telence T. D'Arby",
-        "Variants": "D'arby the Younger | Darby the Younger"
+        "Variants": "D'arby the Younger, Darby the Younger"
     },
     {
         "Name": "Kenny G.",
@@ -153,11 +153,11 @@
     },
     {
         "Name": "Giorno Giovanna",
-        "Variants": "JoJo | GioGio | Haruno Shiobana"
+        "Variants": "JoJo, GioGio, Haruno Shiobana"
     },
     {
         "Name": "Diavolo",
-        "Variants": "Boss | Solid Naso"
+        "Variants": "Boss, Solid Naso"
     },
     {
         "Name": "Illuso",
@@ -165,15 +165,15 @@
     },
     {
         "Name": "Giorno's Mother",
-        "Variants": "Mrs. Shiobana | Mrs. Giovanna"
+        "Variants": "Mrs. Shiobana, Mrs. Giovanna"
     },
     {
         "Name": "Donatella Una",
-        "Variants": "Trish's Mother | Diavolo's Affair"
+        "Variants": "Trish's Mother, Diavolo's Affair"
     },
     {
         "Name": "Jolyne Cujoh",
-        "Variants": "JoJo | Jolyne Kujo"
+        "Variants": "JoJo, Jolyne Kujo"
     },
     {
         "Name": "Ermes Costello",
@@ -189,11 +189,11 @@
     },
     {
         "Name": "Foo Fighters",
-        "Variants": "F.F. | F. F. | FF"
+        "Variants": "F.F., F. F., FF"
     },
     {
         "Name": "Weather Report",
-        "Variants": "Weather Forecast | Domenico Pucci | Wes Bluemarine"
+        "Variants": "Weather Forecast, Domenico Pucci, Wes Bluemarine"
     },
     {
         "Name": "Narciso Anasui",
@@ -233,11 +233,11 @@
     },
     {
         "Name": "Perla Pucci",
-        "Variants": "Enrico Pucci's Sister | Weather Report's Girlfriend | Wes's Girlfriend"
+        "Variants": "Enrico Pucci's Sister, Weather Report's Girlfriend, Wes's Girlfriend"
     },
     {
         "Name": "Johnny Joestar",
-        "Variants": "JoJo | Jonathan Joestar"
+        "Variants": "JoJo, Jonathan Joestar"
     },
     {
         "Name": "Gyro Zeppeli",
@@ -257,11 +257,11 @@
     },
     {
         "Name": "Parallel World Diego",
-        "Variants": "Alternate World Diego Brando | Diego From Another Univese | The World Diego | Dio"
+        "Variants": "Alternate World Diego Brando, Diego From Another Univese, The World Diego, Dio"
     },
     {
         "Name": "Jesus",
-        "Variants": "The Holy Saint | Jesus Christ | The Saint's Corpse"
+        "Variants": "The Holy Saint, Jesus Christ, The Saint's Corpse"
     },
     {
         "Name": "D-I-S-C-O",
@@ -273,7 +273,7 @@
     },
     {
         "Name": "Josuke Higashikata (JJL)",
-        "Variants": "JoJo | Gappy"
+        "Variants": "JoJo, Gappy"
     },
     {
         "Name": "Norisuke Higashikata IV",
@@ -281,7 +281,7 @@
     },
     {
         "Name": "Toru",
-        "Variants": "Tooru | Satoru Akefu"
+        "Variants": "Tooru, Satoru Akefu"
     },
     {
         "Name": "Rina Higashikata",
@@ -297,7 +297,7 @@
     },
     {
         "Name": "Satoru Akefu",
-        "Variants": "Tooru | Toru"
+        "Variants": "Tooru, Toru"
     },
     {
         "Name": "Josefumi Kujo",
@@ -313,7 +313,7 @@
     },
     {
         "Name": "Holy Joestar-Kira",
-        "Variants": "Holly Joestar-Kira | Seiko"
+        "Variants": "Holly Joestar-Kira, Seiko"
     },
     {
         "Name": "Kei Nijimura",
@@ -329,7 +329,7 @@
     },
     {
         "Name": "Johnny Joestar (JJL)",
-        "Variants": "JoJo | Jonathan Joestar"
+        "Variants": "JoJo, Jonathan Joestar"
     },
     {
         "Name": "Joseph Joestar (JJL)",

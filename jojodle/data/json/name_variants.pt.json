@@ -61,22 +61,22 @@
     },
     {
         "Name": "Giorno's Mother",
-        "Variants": "Sra. Giovanna | Mãe do Giorno",
+        "Variants": "Sra. Giovanna, Mãe do Giorno",
         "Default Name": "Mãe do Giorno"
     },
     {
         "Name": "Donatella Una",
-        "Variants": "Mãe da Trish | Amante do Diavolo",
+        "Variants": "Mãe da Trish, Amante do Diavolo",
         "Default Name": ""
     },
     {
         "Name": "Corrupt Lawyer",
-        "Variants": "Advogado da Jolyne | Advogado Corrupto",
+        "Variants": "Advogado da Jolyne, Advogado Corrupto",
         "Default Name": "Advogado Corrupto"
     },
     {
         "Name": "Jolyne's Mother",
-        "Variants": "Esposa do Jotaro | Mãe da Jolyne",
+        "Variants": "Esposa do Jotaro, Mãe da Jolyne",
         "Default Name": "Mãe da Jolyne"
     },
     {
@@ -86,7 +86,7 @@
     },
     {
         "Name": "Perla Pucci",
-        "Variants": "Irmã do Pucci | Namorada do Weather | Namorada do Wes",
+        "Variants": "Irmã do Pucci, Namorada do Weather, Namorada do Wes",
         "Default Name": ""
     },
     {
@@ -96,12 +96,12 @@
     },
     {
         "Name": "Parallel World Diego",
-        "Variants": "Diego Brando de Outro Mundo | Diego de Outro Universo",
+        "Variants": "Diego Brando de Outro Mundo, Diego de Outro Universo",
         "Default Name": "Diego Brando de Outro Mundo"
     },
     {
         "Name": "Jesus",
-        "Variants": "O Cadáver Santo | Jesus Cristo",
+        "Variants": "O Cadáver Santo, Jesus Cristo",
         "Default Name": ""
     },
     {
@@ -126,12 +126,12 @@
     },
     {
         "Name": "Elder A. Phex",
-        "Variants": "A. Phex Mais Velho | Irmãos A. Phex",
+        "Variants": "A. Phex Mais Velho, Irmãos A. Phex",
         "Default Name": "A. Phex Mais Velho"
     },
     {
         "Name": "Younger A. Phex",
-        "Variants": "A. Phex Mais Novo | Irmãos A. Phex",
+        "Variants": "A. Phex Mais Novo, Irmãos A. Phex",
         "Default Name": "A. Phex Mais Novo"
     }
 ]

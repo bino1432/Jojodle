@@ -30,7 +30,7 @@ export default function HintButtons({ title, guesses, image, attempts, hint, rec
   const [currentHint, setCurrentHint] = useState('');
   const [isClicked, setIsclicked] = useState(false);
 
-  const giveHint = (e: string | void) => {
+  const giveHint = (e: string, void) => {
     if (guesses <= attempts) {
       setCurrentHint(hint);
       if(side == "left"){
