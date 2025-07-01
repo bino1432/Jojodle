@@ -19,7 +19,7 @@ const archivoBold = Archivo({
 export default function Classicpage() {
 
   useEffect(() => {
-    const randomCharacter = classicJson[Math.floor(Math.random() * (270 - 0 + 1)) + 0]
+    const randomCharacter = classicJson[Math.floor(Math.random() * (5 - 0 + 1)) + 0]
     setCorrectCharacter(randomCharacter);
     console.log(attempts)
   }, []);

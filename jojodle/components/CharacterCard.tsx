@@ -100,9 +100,9 @@ export default function CharacterCard({ imageUrl, gender, height, age, nationali
                 flex items-center 
                 justify-center 
                 rounded-lg 
-                text-2xl 
+                ${gender != "Unknown" ? "text-2xl" : "text-5xl"}
                 ${gender == character.Gender ? "bg-[var(--Correct)]" : "bg-[var(--Wrong)]"}`}>
-                <h2>{gender}</h2>
+                <h2>{gender != "Unknown" ? gender : "?"}</h2>
             </div>
             <div className={`
                 relative
@@ -114,7 +114,7 @@ export default function CharacterCard({ imageUrl, gender, height, age, nationali
                 items-center 
                 justify-center 
                 rounded-lg 
-                text-xl
+                ${height != "Unknown" ? "text-xl" : "text-5xl"}
                 ${height == character.Height ? "bg-[var(--Correct)]" : "bg-[var(--Wrong)]"}`}>
 
                 {
@@ -137,7 +137,7 @@ export default function CharacterCard({ imageUrl, gender, height, age, nationali
                             null
                 }
 
-                <h2 className='relative z-[1]'>{height}</h2>
+                <h2 className='relative z-[1]'>{height != "Unknown" ? height : "?"}</h2>
             </div>
             <div className={`
                 relative
@@ -171,7 +171,7 @@ export default function CharacterCard({ imageUrl, gender, height, age, nationali
                             null
                 }
 
-                <h2 className='relative z-[1]'>{age}</h2>
+                <h2 className='relative z-[1]'>{age != null ? age : "?"}</h2>
             </div>
             <div className={`
                 text-center

@@ -12,7 +12,7 @@
     "Debut": "Phantom Blood",
     "Technique": "None",
     "Difficulty": "Easy",
-    "Image": "/images/icon/Character/PB/PB_6.png"
+    "Image": "/images/icon/character/PB/PB_6.png"
   },
   {
     "ID": 25,
@@ -27,7 +27,7 @@
     "Debut": "Battle Tendency",
     "Technique": "Light Blades",
     "Difficulty": "Easy",
-    "Image": "/images/icon/Character/BT/BT_5.png"
+    "Image": "/images/icon/character/BT/BT_5.png"
   },
   {
     "ID": 40,
@@ -42,7 +42,7 @@
     "Debut": "Stardust Crusaders",
     "Technique": "Star Finger",
     "Difficulty": "Easy",
-    "Image": "/images/icon/Character/SC/SC_1.png"
+    "Image": "/images/icon/character/SC/SC_1.png"
   },
   {
     "ID": 173,
@@ -57,7 +57,7 @@
     "Debut": "Steel Ball Run",
     "Technique": "Infinite Rotation",
     "Difficulty": "Easy",
-    "Image": "/images/icon/Character/SBR/SBR_1.png"
+    "Image": "/images/icon/character/SBR/SBR_1.png"
   },
   {
     "ID": 174,
@@ -72,6 +72,20 @@
     "Debut": "Steel Ball Run",
     "Technique": "Spin",
     "Difficulty": "Easy",
-    "Image": "/images/icon/Character/SBR/SBR_2.png"
-  }
+    "Image": "/images/icon/character/SBR/SBR_2.png"
+  },
+  {
+    "ID": 267,
+    "Name": "Wild Cat Size",
+    "Gender": "Unknown",
+    "Height": "Unknown",
+    "Age": null,
+    "Nationality": "/images/icon/Countries/USA.svg",
+    "Affiliation": "None",
+    "Occupation": "None",
+    "StandType": "Integrated, Close-Range, Artificial Non-Humanoid, Shared",
+    "Debut": "The JOJOLands",
+    "Technique": "Constricting Wires",
+    "Image": "/images/icon/character/TJJL/TJJL_10.png"
+    }
 ]
