@@ -6,7 +6,7 @@ import PartClueIcon from "@/public/images/icon/PartClue-Icon.png";
 import TechniqueClueIcon from "@/public/images/icon/TechniqueClue-Icon.png";
 import { Archivo } from "next/font/google";
 import { useEffect, useState } from "react";
-import classicJson from "@/data/json/classicMinigame.json";
+import classicJson from "@/data/json/classic.en.json";
 import InputCharacter from "@/components/InputCharacter";
 import CharacterCard from "@/components/CharacterCard";
 import ClassicInfoComponent from "@/components/ClassicInfoComponent";
@@ -16,29 +16,30 @@ const archivoBold = Archivo({
   weight: "700",
 },);
 
+interface Character {
+  ID: number;
+  Name: string;
+  Gender: string;
+  Height: string;
+  Age: number | null;
+  Nationality: string;
+  Affiliation: string;
+  Occupation: string;
+  StandType: string;
+  Debut: string;
+  Technique: string;
+  Image: string;
+}
+
 export default function Classicpage() {
 
   useEffect(() => {
-    const randomCharacter = classicJson[Math.floor(Math.random() * (5 - 0 + 1)) + 0]
+    const randomCharacter = classicJson[Math.floor(Math.random() * (269 - 0 + 1)) + 0]
     setCorrectCharacter(randomCharacter);
     console.log(attempts)
   }, []);
 
-  const [correctCharacter, setCorrectCharacter] = useState({
-    ID: 0,
-    Name: "",
-    Gender: "",
-    Height: "",
-    Age: 0,
-    Nationality: "",
-    Affiliation: "",
-    Occupation: "",
-    StandType: "",
-    Debut: "",
-    Technique: "",
-    Difficulty: "",
-    Image: ""
-  });
+  const [correctCharacter, setCorrectCharacter] = useState<Character | null>(null);
 
   useEffect(() => {
     console.log(correctCharacter)
@@ -75,7 +76,7 @@ export default function Classicpage() {
         <div className={`flex flex-col p-4 bg-[var(--Background)] items-center text-center mt-4 max-w-98 rounded-lg m-auto ${triedCharacter.length !== 0 ? "gap-4" : ""}`}>
           <p className={`${archivoBold.className} text-xl text-white text-balance`}>Take a guess at today's Jojo's Bizarre Adventure character!</p>
           <div className="flex gap-4">
-            {triedCharacter.length !== 0 ? (<>
+            {triedCharacter.length !== 0 && correctCharacter ? (<>
               <HintButtons title="Part Clue" guesses={3} image={PartClueIcon} attempts={attempts} hint={correctCharacter.Debut} reciveHintAndSide={reciveHintAndSideFromComponent} side={"left"} isRounded={isRight} />
               <HintButtons title="Technique Clue" guesses={6} image={TechniqueClueIcon} attempts={attempts} hint={correctCharacter.Technique} reciveHintAndSide={reciveHintAndSideFromComponent} side={"right"} isRounded={isLeft} />
             </>) : null
@@ -106,19 +107,21 @@ export default function Classicpage() {
               if (!characterData) return null;
 
               return (
-                <CharacterCard
-                  key={characterData.ID}
-                  imageUrl={characterData.Image}
-                  gender={characterData.Gender}
-                  height={characterData.Height}
-                  age={characterData.Age}
-                  nationality={characterData.Nationality}
-                  affiliation={characterData.Affiliation}
-                  occupation={characterData.Occupation}
-                  standType={characterData.StandType}
-                  debutPart={characterData.Debut}
-                  character={correctCharacter}
-                />
+                correctCharacter && (
+                  <CharacterCard
+                    key={characterData.ID}
+                    imageUrl={characterData.Image}
+                    gender={characterData.Gender}
+                    height={characterData.Height}
+                    age={characterData.Age}
+                    nationality={characterData.Nationality}
+                    affiliation={characterData.Affiliation}
+                    occupation={characterData.Occupation}
+                    standType={characterData.StandType}
+                    debutPart={characterData.Debut}
+                    character={correctCharacter}
+                  />
+                )
               );
             })}
           </div>

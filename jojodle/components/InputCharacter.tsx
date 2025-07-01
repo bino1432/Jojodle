@@ -9,14 +9,13 @@ type Character = {
   Name: string;
   Gender: string,
   Height: string,
-  Age: number,
+  Age: number | null,
   Nationality: string,
   Affiliation: string,
   Occupation: string,
   StandType: string,
   Debut: string,
   Technique: string,
-  Difficulty: string,
   Image: string
 }
 

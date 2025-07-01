@@ -10,14 +10,13 @@ interface character {
     Name: string,
     Gender: string,
     Height: string,
-    Age: number,
+    Age: number | null,
     Nationality: string,
     Affiliation: string,
     Occupation: string,
     StandType: string,
     Debut: string,
     Technique: string,
-    Difficulty: string,
     Image: string
 }
 
@@ -30,7 +29,7 @@ interface characterCardProps {
     imageUrl: string,
     gender: string,
     height: string,
-    age: number,
+    age: number | null,
     nationality: string,
     affiliation: string,
     occupation: string,
@@ -44,12 +43,16 @@ export default function CharacterCard({ imageUrl, gender, height, age, nationali
     const [attemptPartNumber, setAttemptPartNumber] = useState(0);
     const [characterHeight, setCharacterHeight] = useState(0);
     const [attemptCharacterHeight, setAttemptCharacterHeight] = useState(0);
+    const [characterAge, setCharacterAge] = useState<number>(0);
+    const [attemptCharacterAge, setAttemptCharacterAge] = useState<number>(0);
 
     useEffect(() => {
         setPartNumber(getPartNumber(character.Debut));
         setAttemptPartNumber(getPartNumber(debutPart))
         setCharacterHeight(getHeight(character.Height));
         setAttemptCharacterHeight(getHeight(height));
+        setCharacterAge(getAge(character.Age));
+        setAttemptCharacterAge(getAge(age));
     }, [])
 
     const getHeight = (height: string) => {
@@ -58,6 +61,13 @@ export default function CharacterCard({ imageUrl, gender, height, age, nationali
             return Number(match[0]);
         }
         return 0;
+    }
+
+    const getAge = (age: number | null) => {
+        if (age === null) {
+            return 0;
+        }
+        return age;
     }
 
     const getPartNumber = (part: string) => {
@@ -142,7 +152,7 @@ export default function CharacterCard({ imageUrl, gender, height, age, nationali
             <div className={`
                 relative
                 ${archivo.className}
-                ${age >= 1000 ? "text-xl" : "text-5xl"}
+                ${attemptCharacterAge >= 1000 ? "text-xl" : "text-5xl"}
                 w-[96] 
                 h-[96] 
                 flex 
@@ -152,7 +162,7 @@ export default function CharacterCard({ imageUrl, gender, height, age, nationali
                 ${age == character.Age ? "bg-[var(--Correct)]" : "bg-[var(--Wrong)]"}`}>
 
                 {
-                    age < character.Age ?
+                    attemptCharacterAge < characterAge ?
                         <Image
                             src={UpArrow}
                             alt={'Character Image'}
@@ -160,7 +170,7 @@ export default function CharacterCard({ imageUrl, gender, height, age, nationali
                             height={64}
                             className="absolute"
                         ></Image> :
-                        age > character.Age ?
+                        attemptCharacterAge > characterAge ?
                             <Image
                                 src={DownArrow}
                                 alt={'Character Image'}
