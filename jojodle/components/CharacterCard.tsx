@@ -77,6 +77,8 @@ export default function CharacterCard({ imageUrl, gender, height, age, nationali
             return 7;
         } else if (part == "JoJolion") {
             return 8;
+        } else if (part == "The JOJOLands") {
+            return 9;
         } else {
             return 0;
         }

@@ -5,13 +5,13 @@
         "Gender": "Male",
         "Height": "195 cm (6 ft 5 in)",
         "Age": "20",
-        "Nationality": "United Kingdom",
+        "Nationality": "/images/icon/Countries/UnitedKingdom.svg",
         "Affiliation": "Joestar Family",
         "Occupation": "Archaeologist",
         "Stand Type": "N/A",
         "Debut": "Phantom Blood",
         "Technique": "Sunlight Yellow Overdrive",
-        "Image_ID": "PB_1"
+        "Image_ID": "/images/icon/Character/PB/PB_1"
     },
     {
         "ID": "2",
@@ -19,13 +19,13 @@
         "Gender": "Male",
         "Height": "178 cm (5 ft 10 in)",
         "Age": "50",
-        "Nationality": "Italy",
+        "Nationality": "/images/icon/Countries/Italy.svg",
         "Affiliation": "Zeppeli Family, Tibet Hamon Masters",
         "Occupation": "Hamon Master",
         "Stand Type": "N/A",
         "Debut": "Phantom Blood",
         "Technique": "Hamon Breathing",
-        "Image_ID": "PB_2"
+        "Image_ID": "/images/icon/Character/PB/PB_2"
     },
     {
         "ID": "3",
@@ -33,13 +33,13 @@
         "Gender": "Male",
         "Height": "175 cm (5 ft  in)",
         "Age": "25",
-        "Nationality": "United Kingdom",
+        "Nationality": "/images/icon/Countries/UnitedKingdom.svg",
         "Affiliation": "Ogre Street",
         "Occupation": "Thief",
         "Stand Type": "N/A",
         "Debut": "Phantom Blood",
         "Technique": "Saw-Hat",
-        "Image_ID": "PB_3"
+        "Image_ID": "/images/icon/Character/PB/PB_3"
     },
     {
         "ID": "4",
@@ -47,13 +47,13 @@
         "Gender": "Male",
         "Height": "185 cm (6 ft 1 in)",
         "Age": "20",
-        "Nationality": "United Kingdom",
+        "Nationality": "/images/icon/Countries/UnitedKingdom.svg",
         "Affiliation": "Joestar Family, Brando Family",
         "Occupation": "Vampire",
         "Stand Type": "N/A",
         "Debut": "Phantom Blood",
         "Technique": "Vampirism",
-        "Image_ID": "PB_4"
+        "Image_ID": "/images/icon/Character/PB/PB_4"
     },
     {
         "ID": "5",
@@ -61,13 +61,13 @@
         "Gender": "Male",
         "Height": "183 cm (6 ft 0 in)",
         "Age": "50",
-        "Nationality": "United Kingdom",
+        "Nationality": "/images/icon/Countries/UnitedKingdom.svg",
         "Affiliation": "Joestar Family",
         "Occupation": "Aristocrat, Merchant",
         "Stand Type": "N/A",
         "Debut": "Phantom Blood",
         "Technique": "None",
-        "Image_ID": "PB_5"
+        "Image_ID": "/images/icon/Character/PB/PB_5"
     },
     {
         "ID": "6",
@@ -75,13 +75,13 @@
         "Gender": "Female",
         "Height": "183 cm (6 ft 0 in)",
         "Age": "19",
-        "Nationality": "United Kingdom",
+        "Nationality": "/images/icon/Countries/UnitedKingdom.svg",
         "Affiliation": "Joestar Family",
         "Occupation": "Nurse",
         "Stand Type": "N/A",
         "Debut": "Phantom Blood",
         "Technique": "None",
-        "Image_ID": "PB_6"
+        "Image_ID": "/images/icon/Character/PB/PB_6"
     },
     {
         "ID": "7",
@@ -89,13 +89,13 @@
         "Gender": "Male",
         "Height": "139 cm (4 ft 7 in)",
         "Age": "12",
-        "Nationality": "United Kingdom",
+        "Nationality": "/images/icon/Countries/UnitedKingdom.svg",
         "Affiliation": "None",
         "Occupation": "None",
         "Stand Type": "N/A",
         "Debut": "Phantom Blood",
         "Technique": "None",
-        "Image_ID": "PB_7"
+        "Image_ID": "/images/icon/Character/PB/PB_7"
     },
     {
         "ID": "8",
@@ -103,13 +103,13 @@
         "Gender": "Male",
         "Height": "185 cm (6 ft 1 in)",
         "Age": "70",
-        "Nationality": "Tibet",
+        "Nationality": "/images/icon/Countries/Tibet.svg",
         "Affiliation": "Tibet Hamon Masters",
         "Occupation": "Hamon Master",
         "Stand Type": "N/A",
         "Debut": "Phantom Blood",
         "Technique": "Hamon Precognition",
-        "Image_ID": "PB_8"
+        "Image_ID": "/images/icon/Character/PB/PB_8"
     },
     {
         "ID": "9",
@@ -117,13 +117,13 @@
         "Gender": "Male",
         "Height": "185 cm (6 ft 1 in)",
         "Age": "40",
-        "Nationality": "Tibet",
+        "Nationality": "/images/icon/Countries/Tibet.svg",
         "Affiliation": "Tibet Hamon Masters",
         "Occupation": "Hamon Master",
         "Stand Type": "N/A",
         "Debut": "Phantom Blood",
         "Technique": "Thunder Cross Split Attack",
-        "Image_ID": "PB_9"
+        "Image_ID": "/images/icon/Character/PB/PB_9"
     },
     {
         "ID": "10",
@@ -131,13 +131,13 @@
         "Gender": "Male",
         "Height": "180 cm (5 ft 11 in)",
         "Age": "25",
-        "Nationality": "Tibet",
+        "Nationality": "/images/icon/Countries/Tibet.svg",
         "Affiliation": "Tibet Hamon Masters",
         "Occupation": "Hamon Master",
         "Stand Type": "N/A",
         "Debut": "Phantom Blood",
         "Technique": "Hamon Breathing",
-        "Image_ID": "PB_10"
+        "Image_ID": "/images/icon/Character/PB/PB_10"
     },
     {
         "ID": "11",
@@ -145,13 +145,13 @@
         "Gender": "Male",
         "Height": "170 cm (5 ft 7 in)",
         "Age": "70",
-        "Nationality": "China",
+        "Nationality": "/images/icon/Countries/China.svg",
         "Affiliation": "Ogre Street, Dio Brando's Zombies",
         "Occupation": "Merchant",
         "Stand Type": "N/A",
         "Debut": "Phantom Blood",
         "Technique": "Poisonous Needles",
-        "Image_ID": "PB_11"
+        "Image_ID": "/images/icon/Character/PB/PB_11"
     },
     {
         "ID": "12",
@@ -159,13 +159,13 @@
         "Gender": "Male",
         "Height": "196 cm (6 ft 0 in)",
         "Age": "300",
-        "Nationality": "United Kingdom",
+        "Nationality": "/images/icon/Countries/UnitedKingdom.svg",
         "Affiliation": "Dio Brando's Zombies",
         "Occupation": "Knight",
         "Stand Type": "N/A",
         "Debut": "Phantom Blood",
         "Technique": "Hair Manipulation",
-        "Image_ID": "PB_12"
+        "Image_ID": "/images/icon/Character/PB/PB_12"
     },
     {
         "ID": "13",
@@ -173,13 +173,13 @@
         "Gender": "Male",
         "Height": "262 cm (8 ft 7 in)",
         "Age": "300",
-        "Nationality": "United Kingdom",
+        "Nationality": "/images/icon/Countries/UnitedKingdom.svg",
         "Affiliation": "Dio Brando's Zombies",
         "Occupation": "Knight",
         "Stand Type": "N/A",
         "Debut": "Phantom Blood",
         "Technique": "Hell Heaven Snake Kill",
-        "Image_ID": "PB_13"
+        "Image_ID": "/images/icon/Character/PB/PB_13"
     },
     {
         "ID": "14",
@@ -187,13 +187,13 @@
         "Gender": "Male",
         "Height": "170 cm (5 ft 7 in)",
         "Age": "52",
-        "Nationality": "United Kingdom",
+        "Nationality": "/images/icon/Countries/UnitedKingdom.svg",
         "Affiliation": "Joestar Family, Brando Family",
         "Occupation": "Thief",
         "Stand Type": "N/A",
         "Debut": "Phantom Blood",
         "Technique": "None",
-        "Image_ID": "PB_14"
+        "Image_ID": "/images/icon/Character/PB/PB_14"
     },
     {
         "ID": "15",
@@ -201,13 +201,13 @@
         "Gender": "Male",
         "Height": "83cm (2 ft 9 in)",
         "Age": "Unknown",
-        "Nationality": "United Kingdom",
+        "Nationality": "/images/icon/Countries/UnitedKingdom.svg",
         "Affiliation": "Joestar Family",
         "Occupation": "None",
         "Stand Type": "N/A",
         "Debut": "Phantom Blood",
         "Technique": "None",
-        "Image_ID": "PB_15"
+        "Image_ID": "/images/icon/Character/PB/PB_15"
     },
     {
         "ID": "16",
@@ -215,13 +215,13 @@
         "Gender": "Female",
         "Height": "162 cm (5 ft 4 in)",
         "Age": "16",
-        "Nationality": "United Kingdom",
+        "Nationality": "/images/icon/Countries/UnitedKingdom.svg",
         "Affiliation": "None",
         "Occupation": "None",
         "Stand Type": "N/A",
         "Debut": "Phantom Blood",
         "Technique": "None",
-        "Image_ID": "PB_16"
+        "Image_ID": "/images/icon/Character/PB/PB_16"
     },
     {
         "ID": "17",
@@ -229,13 +229,13 @@
         "Gender": "Male",
         "Height": "185 cm (6 ft 1 in)",
         "Age": "Unknown",
-        "Nationality": "United Kingdom",
+        "Nationality": "/images/icon/Countries/UnitedKingdom.svg",
         "Affiliation": "Dio Brando's Zombies",
         "Occupation": "Assassin",
         "Stand Type": "N/A",
         "Debut": "Phantom Blood",
         "Technique": "Tongue Manipulation",
-        "Image_ID": "PB_17"
+        "Image_ID": "/images/icon/Character/PB/PB_17"
     },
     {
         "ID": "18",
@@ -243,13 +243,13 @@
         "Gender": "Male",
         "Height": "185 cm (6 ft 1 in)",
         "Age": "Unknown",
-        "Nationality": "United Kingdom",
+        "Nationality": "/images/icon/Countries/UnitedKingdom.svg",
         "Affiliation": "Dio Brando's Zombies",
         "Occupation": "Assassin, Criminal",
         "Stand Type": "N/A",
         "Debut": "Phantom Blood",
         "Technique": "Scalpels",
-        "Image_ID": "PB_18"
+        "Image_ID": "/images/icon/Character/PB/PB_18"
     },
     {
         "ID": "19",
@@ -257,13 +257,13 @@
         "Gender": "Male",
         "Height": "200 cm (6 ft 6 in)",
         "Age": "Unknown",
-        "Nationality": "United Kingdom",
+        "Nationality": "/images/icon/Countries/UnitedKingdom.svg",
         "Affiliation": "Dio Brando's Zombies",
         "Occupation": "Assassin",
         "Stand Type": "N/A",
         "Debut": "Phantom Blood",
         "Technique": "Snake Manipulation",
-        "Image_ID": "PB_19"
+        "Image_ID": "/images/icon/Character/PB/PB_19"
     },
     {
         "ID": "20",
@@ -271,13 +271,13 @@
         "Gender": "Male",
         "Height": "195 cm (6 ft 5 in)",
         "Age": "18",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Joestar Family, Speedwagon Foundation",
         "Occupation": "None",
         "Stand Type": "N/A",
         "Debut": "Battle Tendency",
         "Technique": "Clacker Balls",
-        "Image_ID": "BT_1"
+        "Image_ID": "/images/icon/Character/BT/BT_1"
     },
     {
         "ID": "21",
@@ -285,13 +285,13 @@
         "Gender": "Male",
         "Height": "186 cm (6 ft 1 in)",
         "Age": "20",
-        "Nationality": "Italy",
+        "Nationality": "/images/icon/Countries/Italy.svg",
         "Affiliation": "Zeppeli Family, Speedwagon Foundation",
         "Occupation": "None",
         "Stand Type": "N/A",
         "Debut": "Battle Tendency",
         "Technique": "Bubble Lenses",
-        "Image_ID": "BT_2"
+        "Image_ID": "/images/icon/Character/BT/BT_2"
     },
     {
         "ID": "22",
@@ -299,13 +299,13 @@
         "Gender": "Female",
         "Height": "175 cm (5 ft 7 in)",
         "Age": "50",
-        "Nationality": "Unknown",
+        "Nationality": "/images/icon/Countries/Unknown.svg",
         "Affiliation": "Joestar Family, Speedwagon Foundation",
         "Occupation": "Hamon Master",
         "Stand Type": "N/A",
         "Debut": "Battle Tendency",
         "Technique": "Hamon Scarf",
-        "Image_ID": "BT_3"
+        "Image_ID": "/images/icon/Character/BT/BT_3"
     },
     {
         "ID": "23",
@@ -313,13 +313,13 @@
         "Gender": "Male",
         "Height": "195 cm (6 ft 5 in)",
         "Age": "31",
-        "Nationality": "Germany",
+        "Nationality": "/images/icon/Countries/Germany.svg",
         "Affiliation": "Nazi Germany, Speedwagon Foundation",
         "Occupation": "Soldier",
         "Stand Type": "N/A",
         "Debut": "Battle Tendency",
         "Technique": "Abdominal Machine Gun",
-        "Image_ID": "BT_4"
+        "Image_ID": "/images/icon/Character/BT/BT_4"
     },
     {
         "ID": "24",
@@ -327,13 +327,13 @@
         "Gender": "Male",
         "Height": "196 cm (6 ft 5 in)",
         "Age": "102.000",
-        "Nationality": "Unknown",
+        "Nationality": "/images/icon/Countries/Unknown.svg",
         "Affiliation": "Pillar Men",
         "Occupation": "None",
         "Stand Type": "N/A",
         "Debut": "Battle Tendency",
         "Technique": "Light Mode",
-        "Image_ID": "BT_5"
+        "Image_ID": "/images/icon/Character/BT/BT_5"
     },
     {
         "ID": "25",
@@ -341,13 +341,13 @@
         "Gender": "Male",
         "Height": "198 cm (6 ft 5 in)",
         "Age": "12.000",
-        "Nationality": "Unknown",
+        "Nationality": "/images/icon/Countries/Unknown.svg",
         "Affiliation": "Pillar Men",
         "Occupation": "None",
         "Stand Type": "N/A",
         "Debut": "Battle Tendency",
         "Technique": "Flame Mode",
-        "Image_ID": "BT_6"
+        "Image_ID": "/images/icon/Character/BT/BT_6"
     },
     {
         "ID": "26",
@@ -355,13 +355,13 @@
         "Gender": "Male",
         "Height": "197 cm (6 ft 6 in)",
         "Age": "12.000",
-        "Nationality": "Unknown",
+        "Nationality": "/images/icon/Countries/Unknown.svg",
         "Affiliation": "Pillar Men",
         "Occupation": "None",
         "Stand Type": "N/A",
         "Debut": "Battle Tendency",
         "Technique": "Wind Mode",
-        "Image_ID": "BT_7"
+        "Image_ID": "/images/icon/Character/BT/BT_7"
     },
     {
         "ID": "27",
@@ -369,13 +369,13 @@
         "Gender": "Male",
         "Height": "175 cm (5 ft 9 in)",
         "Age": "74",
-        "Nationality": "United Kingdom",
+        "Nationality": "/images/icon/Countries/UnitedKingdom.svg",
         "Affiliation": "Speedwagon Foundation",
         "Occupation": "Oil magnate, Speedwagon Foundation CEO",
         "Stand Type": "N/A",
         "Debut": "Phantom Blood",
         "Technique": "Saw-Hat",
-        "Image_ID": "BT_8"
+        "Image_ID": "/images/icon/Character/BT/BT_8"
     },
     {
         "ID": "28",
@@ -383,13 +383,13 @@
         "Gender": "Male",
         "Height": "186 cm (6 ft 1 in)",
         "Age": "30",
-        "Nationality": "Unknown",
+        "Nationality": "/images/icon/Countries/Unknown.svg",
         "Affiliation": "None",
         "Occupation": "Hamon Master",
         "Stand Type": "N/A",
         "Debut": "Battle Tendency",
         "Technique": "Hamon Breathing",
-        "Image_ID": "BT_9"
+        "Image_ID": "/images/icon/Character/BT/BT_9"
     },
     {
         "ID": "29",
@@ -397,13 +397,13 @@
         "Gender": "Male",
         "Height": "188 cm (6 ft 2 in)",
         "Age": "30",
-        "Nationality": "Unknown",
+        "Nationality": "/images/icon/Countries/Unknown.svg",
         "Affiliation": "None",
         "Occupation": "Hamon Master",
         "Stand Type": "N/A",
         "Debut": "Battle Tendency",
         "Technique": "Hamon Breathing",
-        "Image_ID": "BT_10"
+        "Image_ID": "/images/icon/Character/BT/BT_10"
     },
     {
         "ID": "30",
@@ -411,13 +411,13 @@
         "Gender": "Male",
         "Height": "180 cm (5 ft 11 in)",
         "Age": "75",
-        "Nationality": "Tibet",
+        "Nationality": "/images/icon/Countries/Tibet.svg",
         "Affiliation": "Tibet Hamon Masters",
         "Occupation": "Hamon Master, Vampire",
         "Stand Type": "N/A",
         "Debut": "Battle Tendency",
         "Technique": "Vampirism",
-        "Image_ID": "BT_11"
+        "Image_ID": "/images/icon/Character/BT/BT_11"
     },
     {
         "ID": "31",
@@ -425,13 +425,13 @@
         "Gender": "Male",
         "Height": "191 cm (6 ft 3 in)",
         "Age": "10.000",
-        "Nationality": "Unknown",
+        "Nationality": "/images/icon/Countries/Unknown.svg",
         "Affiliation": "Pillar Men",
         "Occupation": "None",
         "Stand Type": "N/A",
         "Debut": "Battle Tendency",
         "Technique": "Absorption",
-        "Image_ID": "BT_12"
+        "Image_ID": "/images/icon/Character/BT/BT_12"
     },
     {
         "ID": "32",
@@ -439,13 +439,13 @@
         "Gender": "Male",
         "Height": "167 cm (5 ft 6 in)",
         "Age": "14",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "None",
         "Occupation": "None",
         "Stand Type": "N/A",
         "Debut": "Battle Tendency",
         "Technique": "None",
-        "Image_ID": "BT_13"
+        "Image_ID": "/images/icon/Character/BT/BT_13"
     },
     {
         "ID": "33",
@@ -453,13 +453,13 @@
         "Gender": "Female",
         "Height": "183 cm (6 ft 0 in)",
         "Age": "70",
-        "Nationality": "United Kingdom",
+        "Nationality": "/images/icon/Countries/UnitedKingdom.svg",
         "Affiliation": "Joestar Family, Speedwagon Foundation",
         "Occupation": "Teacher",
         "Stand Type": "N/A",
         "Debut": "Phantom Blood",
         "Technique": "None",
-        "Image_ID": "BT_14"
+        "Image_ID": "/images/icon/Character/BT/BT_14"
     },
     {
         "ID": "34",
@@ -467,13 +467,13 @@
         "Gender": "Male",
         "Height": "179 cm (5 ft 10 in)",
         "Age": "22",
-        "Nationality": "Germany",
+        "Nationality": "/images/icon/Countries/Germany.svg",
         "Affiliation": "Nazi Germany",
         "Occupation": "Soldier",
         "Stand Type": "N/A",
         "Debut": "Battle Tendency",
         "Technique": "None",
-        "Image_ID": "BT_15"
+        "Image_ID": "/images/icon/Character/BT/BT_15"
     },
     {
         "ID": "35",
@@ -481,13 +481,13 @@
         "Gender": "Male",
         "Height": "168 cm (5 ft 6 in)",
         "Age": "21",
-        "Nationality": "Italy",
+        "Nationality": "/images/icon/Countries/Italy.svg",
         "Affiliation": "Joestar Family, Speedwagon Foundation",
         "Occupation": "Unknown",
         "Stand Type": "N/A",
         "Debut": "Battle Tendency",
         "Technique": "None",
-        "Image_ID": "BT_16"
+        "Image_ID": "/images/icon/Character/BT/BT_16"
     },
     {
         "ID": "36",
@@ -495,13 +495,13 @@
         "Gender": "Male",
         "Height": "179 cm (5 ft 10 in)",
         "Age": "30",
-        "Nationality": "Germany",
+        "Nationality": "/images/icon/Countries/Germany.svg",
         "Affiliation": "Nazi Germany",
         "Occupation": "Soldier",
         "Stand Type": "N/A",
         "Debut": "Battle Tendency",
         "Technique": "Whip-Knife",
-        "Image_ID": "BT_17"
+        "Image_ID": "/images/icon/Character/BT/BT_17"
     },
     {
         "ID": "37",
@@ -509,13 +509,13 @@
         "Gender": "Male",
         "Height": "185 cm (6 ft 1 in)",
         "Age": "Unknown",
-        "Nationality": "Unknown",
+        "Nationality": "/images/icon/Countries/Unknown.svg",
         "Affiliation": "None",
         "Occupation": "Criminal",
         "Stand Type": "N/A",
         "Debut": "Battle Tendency",
         "Technique": "Body Spikes",
-        "Image_ID": "BT_18"
+        "Image_ID": "/images/icon/Character/BT/BT_18"
     },
     {
         "ID": "38",
@@ -523,13 +523,13 @@
         "Gender": "Male",
         "Height": "185 cm (6 ft 1 in)",
         "Age": "29",
-        "Nationality": "United Kingdom",
+        "Nationality": "/images/icon/Countries/UnitedKingdom.svg",
         "Affiliation": "Joestar Family",
         "Occupation": "Pilot",
         "Stand Type": "N/A",
         "Debut": "Battle Tendency",
         "Technique": "None",
-        "Image_ID": "BT_19"
+        "Image_ID": "/images/icon/Character/BT/BT_19"
     },
     {
         "ID": "39",
@@ -537,13 +537,13 @@
         "Gender": "Male",
         "Height": "185 cm (6 ft 1 in)",
         "Age": "35",
-        "Nationality": "Italy",
+        "Nationality": "/images/icon/Countries/Italy.svg",
         "Affiliation": "Zeppeli Family, Speedwagon Foundation",
         "Occupation": "Carpenter",
         "Stand Type": "N/A",
         "Debut": "Battle Tendency",
         "Technique": "Hamon Breathing",
-        "Image_ID": "BT_20"
+        "Image_ID": "/images/icon/Character/BT/BT_20"
     },
     {
         "ID": "40",
@@ -551,13 +551,13 @@
         "Gender": "Male",
         "Height": "195 cm (6 ft 5 in)",
         "Age": "17",
-        "Nationality": "Japan",
+        "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Joestar Family, Joestar Group, Speedwagon Foundation",
         "Occupation": "Student",
         "Stand Type": "Close-Range, Range Irrelevant, Natural Humanoid",
         "Debut": "Stardust Crusaders",
         "Technique": "Star Finger",
-        "Image_ID": "SC_1"
+        "Image_ID": "/images/icon/Character/SC/SC_1"
     },
     {
         "ID": "41",
@@ -565,13 +565,13 @@
         "Gender": "Male",
         "Height": "195 cm (6 ft 5 in)",
         "Age": "68",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Joestar Family, Joestar Group, Speedwagon Foundation",
         "Occupation": "Real Estate",
         "Stand Type": "Close-Range, Reconnaissance, Natural Non-Humanoid",
         "Debut": "Battle Tendency",
         "Technique": "Divination",
-        "Image_ID": "SC_2"
+        "Image_ID": "/images/icon/Character/SC/SC_2"
     },
     {
         "ID": "42",
@@ -579,13 +579,13 @@
         "Gender": "Male",
         "Height": "188 cm (6 ft 2 in)",
         "Age": "27",
-        "Nationality": "Egypt",
+        "Nationality": "/images/icon/Countries/Egypt.svg",
         "Affiliation": "Joestar Group, Speedwagon Foundation",
         "Occupation": "Astrologer, Fortune Teller",
         "Stand Type": "Close-Range, Natural Humanoid",
         "Debut": "Stardust Crusaders",
         "Technique": "Cross Fire Hurricane",
-        "Image_ID": "SC_3"
+        "Image_ID": "/images/icon/Character/SC/SC_3"
     },
     {
         "ID": "43",
@@ -593,13 +593,13 @@
         "Gender": "Male",
         "Height": "178 cm (5 ft 10 in)",
         "Age": "17",
-        "Nationality": "Japan",
+        "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Joestar Group",
         "Occupation": "Student",
         "Stand Type": "Long-Range, Reconnaissance, Artificial Humanoid",
         "Debut": "Stardust Crusaders",
         "Technique": "Emerald Splash",
-        "Image_ID": "SC_4"
+        "Image_ID": "/images/icon/Character/SC/SC_4"
     },
     {
         "ID": "44",
@@ -607,13 +607,13 @@
         "Gender": "Male",
         "Height": "185 cm (6 ft 1 in)",
         "Age": "23",
-        "Nationality": "France",
+        "Nationality": "/images/icon/Countries/France.svg",
         "Affiliation": "Joestar Group",
         "Occupation": "None",
         "Stand Type": "Close-Range, Artificial Humanoid",
         "Debut": "Stardust Crusaders",
         "Technique": "Hora Rush",
-        "Image_ID": "SC_5"
+        "Image_ID": "/images/icon/Character/SC/SC_5"
     },
     {
         "ID": "45",
@@ -621,13 +621,13 @@
         "Gender": "Male",
         "Height": "33 cm (1 ft 1 in)",
         "Age": "8",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Joestar Group, Speedwagon Foundation",
         "Occupation": "Freeloader",
         "Stand Type": "Close-Range, Materialized, Artificial Non-Humanoid",
         "Debut": "Stardust Crusaders",
         "Technique": "Sand Manipulation",
-        "Image_ID": "SC_6"
+        "Image_ID": "/images/icon/Character/SC/SC_6"
     },
     {
         "ID": "46",
@@ -635,13 +635,13 @@
         "Gender": "Male",
         "Height": "195 cm (6 ft 5 in)",
         "Age": "120",
-        "Nationality": "United Kingdom",
+        "Nationality": "/images/icon/Countries/UnitedKingdom.svg",
         "Affiliation": "Joestar Family, Brando Family",
         "Occupation": "Vampire",
         "Stand Type": "Close-Range, Range Irrelevant, Natural Humanoid",
         "Debut": "Phantom Blood",
         "Technique": "Time Stop",
-        "Image_ID": "SC_7"
+        "Image_ID": "/images/icon/Character/SC/SC_7"
     },
     {
         "ID": "47",
@@ -649,13 +649,13 @@
         "Gender": "Female",
         "Height": "155 cm (5 ft 1 in)",
         "Age": "80",
-        "Nationality": "Egypt",
+        "Nationality": "/images/icon/Countries/Egypt.svg",
         "Affiliation": "Agents of DIO",
         "Occupation": "Witch",
         "Stand Type": "Close-Range, Natural Non-Humanoid",
         "Debut": "Stardust Crusaders",
         "Technique": "Fog String Puppetry",
-        "Image_ID": "SC_8"
+        "Image_ID": "/images/icon/Character/SC/SC_8"
     },
     {
         "ID": "48",
@@ -663,13 +663,13 @@
         "Gender": "Female",
         "Height": "174 cm (5 ft 9 in)",
         "Age": "45",
-        "Nationality": "Japan",
+        "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Joestar Family, Speedwagon Foundation",
         "Occupation": "Housewife",
         "Stand Type": "Close-Range, Natural Non-Humanoid",
         "Debut": "Stardust Crusaders",
         "Technique": "None",
-        "Image_ID": "SC_9"
+        "Image_ID": "/images/icon/Character/SC/SC_9"
     },
     {
         "ID": "49",
@@ -677,13 +677,13 @@
         "Gender": "Male",
         "Height": "178 cm (5 ft 10 in)",
         "Age": "29",
-        "Nationality": "Egypt",
+        "Nationality": "/images/icon/Countries/Egypt.svg",
         "Affiliation": "Agents of DIO",
         "Occupation": "Assassin",
         "Stand Type": "Long-Range, Artificial Humanoid",
         "Debut": "Stardust Crusaders",
         "Technique": "Light Manifestation",
-        "Image_ID": "SC_10"
+        "Image_ID": "/images/icon/Character/SC/SC_10"
     },
     {
         "ID": "50",
@@ -691,13 +691,13 @@
         "Gender": "Male",
         "Height": "185 cm (6 ft 1 in)",
         "Age": "29",
-        "Nationality": "Egypt",
+        "Nationality": "/images/icon/Countries/Egypt.svg",
         "Affiliation": "Agents of DIO",
         "Occupation": "Assassin",
         "Stand Type": "Close-Range, Artificial Non-Humanoid",
         "Debut": "Stardust Crusaders",
         "Technique": "Homing Bullets",
-        "Image_ID": "SC_11"
+        "Image_ID": "/images/icon/Character/SC/SC_11"
     },
     {
         "ID": "51",
@@ -705,13 +705,13 @@
         "Gender": "Male",
         "Height": "177 cm (5 ft 10 in)",
         "Age": "28",
-        "Nationality": "Egypt",
+        "Nationality": "/images/icon/Countries/Egypt.svg",
         "Affiliation": "Agents of DIO",
         "Occupation": "Assassin",
         "Stand Type": "Long-Range, Materialized, Natural Non-Humanoid",
         "Debut": "Stardust Crusaders",
         "Technique": "Water Amorphism",
-        "Image_ID": "SC_12"
+        "Image_ID": "/images/icon/Character/SC/SC_12"
     },
     {
         "ID": "52",
@@ -719,13 +719,13 @@
         "Gender": "Male",
         "Height": "65 cm (2 ft 1 in)",
         "Age": "Unknown",
-        "Nationality": "Egypt",
+        "Nationality": "/images/icon/Countries/Egypt.svg",
         "Affiliation": "Agents of DIO",
         "Occupation": "Assassin",
         "Stand Type": "Close-Range, Materialized, Artificial Humanoid",
         "Debut": "Stardust Crusaders",
         "Technique": "Cryokinesis",
-        "Image_ID": "SC_13"
+        "Image_ID": "/images/icon/Character/SC/SC_13"
     },
     {
         "ID": "53",
@@ -733,13 +733,13 @@
         "Gender": "Male",
         "Height": "195 cm (6 ft 5 in)",
         "Age": "26",
-        "Nationality": "United Kingdom",
+        "Nationality": "/images/icon/Countries/UnitedKingdom.svg",
         "Affiliation": "Agents of DIO",
         "Occupation": "Assassin",
         "Stand Type": "Close-Range, Natural Humanoid",
         "Debut": "Stardust Crusaders",
         "Technique": "Void",
-        "Image_ID": "SC_14"
+        "Image_ID": "/images/icon/Character/SC/SC_14"
     },
     {
         "ID": "54",
@@ -747,13 +747,13 @@
         "Gender": "Female",
         "Height": "168 cm (5 ft 6 in)",
         "Age": "61",
-        "Nationality": "Italy",
+        "Nationality": "/images/icon/Countries/Italy.svg",
         "Affiliation": "Joestar Family, Speedwagon Foundation",
         "Occupation": "Housewife",
         "Stand Type": "N/A",
         "Debut": "Battle Tendency",
         "Technique": "None",
-        "Image_ID": "SC_15"
+        "Image_ID": "/images/icon/Character/SC/SC_15"
     },
     {
         "ID": "55",
@@ -761,13 +761,13 @@
         "Gender": "Male",
         "Height": "187 cm (6 ft 2 in)",
         "Age": "60",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Speedwagon Foundation",
         "Occupation": "Bodyguard",
         "Stand Type": "N/A",
         "Debut": "Stardust Crusaders",
         "Technique": "None",
-        "Image_ID": "SC_16"
+        "Image_ID": "/images/icon/Character/SC/SC_16"
     },
     {
         "ID": "56",
@@ -775,13 +775,13 @@
         "Gender": "Female",
         "Height": "150 cm (4 ft 11 in)",
         "Age": "12",
-        "Nationality": "Unknown",
+        "Nationality": "/images/icon/Countries/Unknown.svg",
         "Affiliation": "None",
         "Occupation": "None",
         "Stand Type": "N/A",
         "Debut": "Stardust Crusaders",
         "Technique": "None",
-        "Image_ID": "SC_17"
+        "Image_ID": "/images/icon/Character/SC/SC_17"
     },
     {
         "ID": "57",
@@ -789,13 +789,13 @@
         "Gender": "Male",
         "Height": "174 cm (5 ft 8 in)",
         "Age": "60",
-        "Nationality": "Egypt",
+        "Nationality": "/images/icon/Countries/Egypt.svg",
         "Affiliation": "Agents of DIO",
         "Occupation": "Assassin",
         "Stand Type": "Long-Range, Artificial Humanoid",
         "Debut": "Stardust Crusaders",
         "Technique": "Tower Needle",
-        "Image_ID": "SC_18"
+        "Image_ID": "/images/icon/Character/SC/SC_18"
     },
     {
         "ID": "58",
@@ -803,13 +803,13 @@
         "Gender": "Male",
         "Height": "188 cm (6 ft 2 in)",
         "Age": "45",
-        "Nationality": "Egypt",
+        "Nationality": "/images/icon/Countries/Egypt.svg",
         "Affiliation": "Agents of DIO",
         "Occupation": "Assassin",
         "Stand Type": "Close-Range, Natural Humanoid",
         "Debut": "Stardust Crusaders",
         "Technique": "Barnacles",
-        "Image_ID": "SC_19"
+        "Image_ID": "/images/icon/Character/SC/SC_19"
     },
     {
         "ID": "59",
@@ -817,13 +817,13 @@
         "Gender": "Male",
         "Height": "250 cm (8 ft 2 in)",
         "Age": "Unknown",
-        "Nationality": "Unknown",
+        "Nationality": "/images/icon/Countries/Unknown.svg",
         "Affiliation": "Agents of DIO",
         "Occupation": "Assassin",
         "Stand Type": "Close-Range, Materialized, Artificial Non-Humanoid",
         "Debut": "Stardust Crusaders",
         "Technique": "Ship Manipulation",
-        "Image_ID": "SC_20"
+        "Image_ID": "/images/icon/Character/SC/SC_20"
     },
     {
         "ID": "60",
@@ -831,13 +831,13 @@
         "Gender": "Male",
         "Height": "177 cm (5 ft 10 in)",
         "Age": "30",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Agents of DIO",
         "Occupation": "Assassin",
         "Stand Type": "Long-Range, Artificial Humanoid",
         "Debut": "Stardust Crusaders",
         "Technique": "Doll Possession",
-        "Image_ID": "SC_21"
+        "Image_ID": "/images/icon/Character/SC/SC_21"
     },
     {
         "ID": "61",
@@ -845,13 +845,13 @@
         "Gender": "Male",
         "Height": "182 cm (6 ft  0 in)",
         "Age": "22",
-        "Nationality": "Egypt",
+        "Nationality": "/images/icon/Countries/Egypt.svg",
         "Affiliation": "Agents of DIO",
         "Occupation": "Assassin",
         "Stand Type": "Close-Range, Materialized, Natural Non-Humanoid",
         "Debut": "Stardust Crusaders",
         "Technique": "Organic Mass Assimilation",
-        "Image_ID": "SC_22"
+        "Image_ID": "/images/icon/Character/SC/SC_22"
     },
     {
         "ID": "62",
@@ -859,13 +859,13 @@
         "Gender": "Female",
         "Height": "155 cm (5 ft 1 in)",
         "Age": "Unknown",
-        "Nationality": "Egypt",
+        "Nationality": "/images/icon/Countries/Egypt.svg",
         "Affiliation": "Agents of DIO",
         "Occupation": "Assassin",
         "Stand Type": "Long-Range, Materialized, Natural Humanoid",
         "Debut": "Stardust Crusaders",
         "Technique": "Parasitism",
-        "Image_ID": "SC_23"
+        "Image_ID": "/images/icon/Character/SC/SC_23"
     },
     {
         "ID": "63",
@@ -873,13 +873,13 @@
         "Gender": "Male",
         "Height": "183 cm (6 ft  0 in)",
         "Age": "40",
-        "Nationality": "Egypt",
+        "Nationality": "/images/icon/Countries/Egypt.svg",
         "Affiliation": "Agents of DIO",
         "Occupation": "Assassin",
         "Stand Type": "Close-Range, Materialized, Artificial Non-Humanoid",
         "Debut": "Stardust Crusaders",
         "Technique": "Car Manipulation",
-        "Image_ID": "SC_24"
+        "Image_ID": "/images/icon/Character/SC/SC_24"
     },
     {
         "ID": "64",
@@ -887,13 +887,13 @@
         "Gender": "Male",
         "Height": "181 cm (5 ft 11 in)",
         "Age": "29",
-        "Nationality": "Egypt",
+        "Nationality": "/images/icon/Countries/Egypt.svg",
         "Affiliation": "Agents of DIO",
         "Occupation": "Assassin",
         "Stand Type": "Long-Range, Artificial Humanoid",
         "Debut": "Stardust Crusaders",
         "Technique": "Pain Synchronization",
-        "Image_ID": "SC_25"
+        "Image_ID": "/images/icon/Character/SC/SC_25"
     },
     {
         "ID": "65",
@@ -901,13 +901,13 @@
         "Gender": "Male",
         "Height": "168 cm (5 ft 6 in)",
         "Age": "45",
-        "Nationality": "Egypt",
+        "Nationality": "/images/icon/Countries/Egypt.svg",
         "Affiliation": "Agents of DIO",
         "Occupation": "Assassin",
         "Stand Type": "Long-Range, Natural Non-Humanoid",
         "Debut": "Stardust Crusaders",
         "Technique": "Sun Replica",
-        "Image_ID": "SC_26"
+        "Image_ID": "/images/icon/Character/SC/SC_26"
     },
     {
         "ID": "66",
@@ -915,13 +915,13 @@
         "Gender": "Male",
         "Height": "65 cm (2 ft 1 in)",
         "Age": "1",
-        "Nationality": "Egypt",
+        "Nationality": "/images/icon/Countries/Egypt.svg",
         "Affiliation": "Agents of DIO",
         "Occupation": "Assassin",
         "Stand Type": "Close-Range, Psychological Assault, Artificial Humanoid",
         "Debut": "Stardust Crusaders",
         "Technique": "Dream World Control",
-        "Image_ID": "SC_27"
+        "Image_ID": "/images/icon/Character/SC/SC_27"
     },
     {
         "ID": "67",
@@ -929,13 +929,13 @@
         "Gender": "Male",
         "Height": "178 cm (5 ft 10 in)",
         "Age": "28",
-        "Nationality": "Egypt",
+        "Nationality": "/images/icon/Countries/Egypt.svg",
         "Affiliation": "Agents of DIO",
         "Occupation": "Assassin",
         "Stand Type": "Close-Range, Artificial Humanoid",
         "Debut": "Stardust Crusaders",
         "Technique": "Wish Granting",
-        "Image_ID": "SC_28"
+        "Image_ID": "/images/icon/Character/SC/SC_28"
     },
     {
         "ID": "68",
@@ -943,13 +943,13 @@
         "Gender": "Female",
         "Height": "166 cm (5 ft 5 in)",
         "Age": "24",
-        "Nationality": "Egypt",
+        "Nationality": "/images/icon/Countries/Egypt.svg",
         "Affiliation": "Agents of DIO",
         "Occupation": "Assassin",
         "Stand Type": "Long-Range, Natural Non-Humanoid",
         "Debut": "Stardust Crusaders",
         "Technique": "Mineral Possesion and Reformation",
-        "Image_ID": "SC_29"
+        "Image_ID": "/images/icon/Character/SC/SC_29"
     },
     {
         "ID": "69",
@@ -957,13 +957,13 @@
         "Gender": "Male",
         "Height": "185 cm (6 ft 1 in)",
         "Age": "22",
-        "Nationality": "Egypt",
+        "Nationality": "/images/icon/Countries/Egypt.svg",
         "Affiliation": "Agents of DIO",
         "Occupation": "Assassin",
         "Stand Type": "Integrated, Phenomenon",
         "Debut": "Stardust Crusaders",
         "Technique": "Transformation",
-        "Image_ID": "SC_30"
+        "Image_ID": "/images/icon/Character/SC/SC_30"
     },
     {
         "ID": "70",
@@ -971,13 +971,13 @@
         "Gender": "Male",
         "Height": "90 cm (2 ft 11 in)",
         "Age": "11",
-        "Nationality": "Egypt",
+        "Nationality": "/images/icon/Countries/Egypt.svg",
         "Affiliation": "Agents of DIO",
         "Occupation": "Assassin",
         "Stand Type": "Automatic, Foresight, Materialized, Phenomenon",
         "Debut": "Stardust Crusaders",
         "Technique": "Profecies",
-        "Image_ID": "SC_31"
+        "Image_ID": "/images/icon/Character/SC/SC_31"
     },
     {
         "ID": "71",
@@ -985,13 +985,13 @@
         "Gender": "Male",
         "Height": "100 cm (3 ft 3 in)",
         "Age": "500",
-        "Nationality": "Egypt",
+        "Nationality": "/images/icon/Countries/Egypt.svg",
         "Affiliation": "Agents of DIO",
         "Occupation": "Assassin",
         "Stand Type": "Automatic, Materialized, Psychological Assault, Artificial Non-Humanoid, Shared, Sentient",
         "Debut": "Stardust Crusaders",
         "Technique": "Mind Control",
-        "Image_ID": "SC_32"
+        "Image_ID": "/images/icon/Character/SC/SC_32"
     },
     {
         "ID": "72",
@@ -999,13 +999,13 @@
         "Gender": "Male",
         "Height": "175 cm (5’9’’) ",
         "Age": "21",
-        "Nationality": "Egypt",
+        "Nationality": "/images/icon/Countries/Egypt.svg",
         "Affiliation": "None",
         "Occupation": "Farmer",
         "Stand Type": "Automatic, Materialized, Psychological Assault, Artificial Non-Humanoid, Shared, Sentient",
         "Debut": "Stardust Crusaders",
         "Technique": "Mind Control",
-        "Image_ID": "SC_33"
+        "Image_ID": "/images/icon/Character/SC/SC_33"
     },
     {
         "ID": "73",
@@ -1013,13 +1013,13 @@
         "Gender": "Male",
         "Height": "170 cm (5 ft 7 in)",
         "Age": "26",
-        "Nationality": "Egypt",
+        "Nationality": "/images/icon/Countries/Egypt.svg",
         "Affiliation": "None",
         "Occupation": "Barber",
         "Stand Type": "Automatic, Materialized, Psychological Assault, Artificial Non-Humanoid, Shared, Sentient",
         "Debut": "Stardust Crusaders",
         "Technique": "Mind Control",
-        "Image_ID": "SC_34"
+        "Image_ID": "/images/icon/Character/SC/SC_34"
     },
     {
         "ID": "74",
@@ -1027,13 +1027,13 @@
         "Gender": "Female",
         "Height": "180 cm (5 ft 11 in)",
         "Age": "20",
-        "Nationality": "Egypt",
+        "Nationality": "/images/icon/Countries/Egypt.svg",
         "Affiliation": "Agents of DIO",
         "Occupation": "Assassin",
         "Stand Type": "Long-Range, Artificial Non-Humanoid",
         "Debut": "Stardust Crusaders",
         "Technique": "Magnectic Attraction",
-        "Image_ID": "SC_35"
+        "Image_ID": "/images/icon/Character/SC/SC_35"
     },
     {
         "ID": "75",
@@ -1041,13 +1041,13 @@
         "Gender": "Male",
         "Height": "165 cm (5 ft 5 in)",
         "Age": "38",
-        "Nationality": "Egypt",
+        "Nationality": "/images/icon/Countries/Egypt.svg",
         "Affiliation": "Agents of DIO",
         "Occupation": "Assassin",
         "Stand Type": "Close-Range |Materialized, Natural Humanoid",
         "Debut": "Stardust Crusaders",
         "Technique": "Age Reversal",
-        "Image_ID": "SC_36"
+        "Image_ID": "/images/icon/Character/SC/SC_36"
     },
     {
         "ID": "76",
@@ -1055,13 +1055,13 @@
         "Gender": "Male",
         "Height": "183 cm (6 ft  0 in)",
         "Age": "31",
-        "Nationality": "Egypt",
+        "Nationality": "/images/icon/Countries/Egypt.svg",
         "Affiliation": "Agents of DIO",
         "Occupation": "Gambler",
         "Stand Type": "Close-Range, Automatic, Psychological Assault, Artificial Humanoid",
         "Debut": "Stardust Crusaders",
         "Technique": "Soul Steal",
-        "Image_ID": "SC_37"
+        "Image_ID": "/images/icon/Character/SC/SC_37"
     },
     {
         "ID": "77",
@@ -1069,13 +1069,13 @@
         "Gender": "Male",
         "Height": "179 cm (5 ft 10 in)",
         "Age": "22",
-        "Nationality": "Egypt",
+        "Nationality": "/images/icon/Countries/Egypt.svg",
         "Affiliation": "Agents of DIO",
         "Occupation": "Gamer",
         "Stand Type": "Close-Range, Psychological Assault, Artificial Humanoid",
         "Debut": "Stardust Crusaders",
         "Technique": "Binary Soul Reading",
-        "Image_ID": "SC_38"
+        "Image_ID": "/images/icon/Character/SC/SC_38"
     },
     {
         "ID": "78",
@@ -1083,13 +1083,13 @@
         "Gender": "Male",
         "Height": "170 cm (5 ft 7 in)",
         "Age": "28",
-        "Nationality": "Egypt",
+        "Nationality": "/images/icon/Countries/Egypt.svg",
         "Affiliation": "Agents of DIO",
         "Occupation": "Assassin",
         "Stand Type": "Phenomenon, Psychological Assault",
         "Debut": "Stardust Crusaders",
         "Technique": "Illusions",
-        "Image_ID": "SC_39"
+        "Image_ID": "/images/icon/Character/SC/SC_39"
     },
     {
         "ID": "79",
@@ -1097,13 +1097,13 @@
         "Gender": "Male",
         "Height": "185 cm (6 ft 1 in)",
         "Age": "16",
-        "Nationality": "Japan",
+        "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Joestar Family, Higashikata Family",
         "Occupation": "Student",
         "Stand Type": "Close-Range, Natural Humanoid",
         "Debut": "Diamond is Unbreakable",
         "Technique": "Restoration",
-        "Image_ID": "DiU_1"
+        "Image_ID": "/images/icon/Character/DiU/DiU_1"
     },
     {
         "ID": "80",
@@ -1111,13 +1111,13 @@
         "Gender": "Male",
         "Height": "157 cm (5 ft 2 in)",
         "Age": "15",
-        "Nationality": "Japan",
+        "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "None",
         "Occupation": "Student",
         "Stand Type": "Close-Range, Artificial Humanoid, Sentient, Evolved",
         "Debut": "Diamond is Unbreakable",
         "Technique": "Weight Increase",
-        "Image_ID": "DiU_2"
+        "Image_ID": "/images/icon/Character/DiU/DiU_2"
     },
     {
         "ID": "81",
@@ -1125,13 +1125,13 @@
         "Gender": "Male",
         "Height": "195 cm (6 ft 5 in)",
         "Age": "28",
-        "Nationality": "Japan",
+        "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Joestar Family, Joestar Group, Speedwagon Foundation",
         "Occupation": "Marine Biologist",
         "Stand Type": "Close-Range, Range Irrelevant, Natural Humanoid",
         "Debut": "Stardust Crusaders",
         "Technique": "Time Stop",
-        "Image_ID": "DiU_3"
+        "Image_ID": "/images/icon/Character/DiU/DiU_3"
     },
     {
         "ID": "82",
@@ -1139,13 +1139,13 @@
         "Gender": "Male",
         "Height": "178 cm (5 ft 8 in)",
         "Age": "16",
-        "Nationality": "Japan",
+        "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "None",
         "Occupation": "Student",
         "Stand Type": "Close-Range, Artificial Humanoid",
         "Debut": "Diamond is Unbreakable",
         "Technique": "Spatial Erasure",
-        "Image_ID": "DiU_4"
+        "Image_ID": "/images/icon/Character/DiU/DiU_4"
     },
     {
         "ID": "83",
@@ -1153,13 +1153,13 @@
         "Gender": "Male",
         "Height": "175 cm (5 ft 9 in)",
         "Age": "20",
-        "Nationality": "Japan",
+        "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "None",
         "Occupation": "Manga Artist",
         "Stand Type": "Close-Range, Reconnaissance, Natural Humanoid",
         "Debut": "Diamond is Unbreakable",
         "Technique": "Book Transmutation",
-        "Image_ID": "DiU_5"
+        "Image_ID": "/images/icon/Character/DiU/DiU_5"
     },
     {
         "ID": "84",
@@ -1167,13 +1167,13 @@
         "Gender": "Female",
         "Height": "162 cm (5 ft 4 in)",
         "Age": "16",
-        "Nationality": "Japan",
+        "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "None",
         "Occupation": "Student",
         "Stand Type": "N/A",
         "Debut": "Diamond is Unbreakable",
         "Technique": "None",
-        "Image_ID": "DiU_6"
+        "Image_ID": "/images/icon/Character/DiU/DiU_6"
     },
     {
         "ID": "85",
@@ -1181,13 +1181,13 @@
         "Gender": "Male",
         "Height": "132 cm (4 ft 4 in)",
         "Age": "11",
-        "Nationality": "Japan",
+        "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "None",
         "Occupation": "Student",
         "Stand Type": "N/A",
         "Debut": "Diamond is Unbreakable",
         "Technique": "None",
-        "Image_ID": "DiU_7"
+        "Image_ID": "/images/icon/Character/DiU/DiU_7"
     },
     {
         "ID": "86",
@@ -1195,13 +1195,13 @@
         "Gender": "Male",
         "Height": "175 cm (5 ft 9 in)",
         "Age": "33",
-        "Nationality": "Japan",
+        "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Kira Family",
         "Occupation": "Salaryman",
         "Stand Type": "Close-Range, Natural Humanoid, Automatic, Psychological Assault, Evolved",
         "Debut": "Diamond is Unbreakable",
         "Technique": "Bomb Transmutation",
-        "Image_ID": "DiU_8"
+        "Image_ID": "/images/icon/Character/DiU/DiU_8"
     },
     {
         "ID": "87",
@@ -1209,13 +1209,13 @@
         "Gender": "Male",
         "Height": "179 cm (5 ft 10 in)",
         "Age": "19",
-        "Nationality": "Japan",
+        "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "None",
         "Occupation": "Musician",
         "Stand Type": "Long-Range, Natural Humanoid",
         "Debut": "Diamond is Unbreakable",
         "Technique": "Electrical Transfer",
-        "Image_ID": "DiU_9"
+        "Image_ID": "/images/icon/Character/DiU/DiU_9"
     },
     {
         "ID": "88",
@@ -1223,13 +1223,13 @@
         "Gender": "Male",
         "Height": "175 cm (5 ft 9 in)",
         "Age": "79",
-        "Nationality": "Japan",
+        "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Kira Family",
         "Occupation": "None",
         "Stand Type": "Range Irrelevant, Materialized, Psychological Assault, Phenomenon",
         "Debut": "Diamond is Unbreakable",
         "Technique": "Supernatural Photography",
-        "Image_ID": "DiU_10"
+        "Image_ID": "/images/icon/Character/DiU/DiU_10"
     },
     {
         "ID": "89",
@@ -1237,13 +1237,13 @@
         "Gender": "Male",
         "Height": "195 cm (6 ft 5 in)",
         "Age": "79",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Joestar Family, Joestar Group, Speedwagon Foundation",
         "Occupation": "Real Estate",
         "Stand Type": "Close-Range, Reconnaissance, Natural Non-Humanoid",
         "Debut": "Battle Tendency",
         "Technique": "Divination",
-        "Image_ID": "DiU_11"
+        "Image_ID": "/images/icon/Character/DiU/DiU_11"
     },
     {
         "ID": "90",
@@ -1251,13 +1251,13 @@
         "Gender": "Male",
         "Height": "158 cm (5 ft 2 in)",
         "Age": "14",
-        "Nationality": "Japan",
+        "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "None",
         "Occupation": "Student",
         "Stand Type": "Long-Range, Reconnaissance, Artificial Non-Humanoid, Colony",
         "Debut": "Diamond is Unbreakable",
         "Technique": "Harvesting",
-        "Image_ID": "DiU_12"
+        "Image_ID": "/images/icon/Character/DiU/DiU_12"
     },
     {
         "ID": "91",
@@ -1265,13 +1265,13 @@
         "Gender": "Male",
         "Height": "177 cm (5 ft 10 in)",
         "Age": "216",
-        "Nationality": "Magellan Nebula",
+        "Nationality": "/images/icon/Countries/MagellanNebula.svg",
         "Affiliation": "None",
         "Occupation": "Student, Pilot",
         "Stand Type": "Range Irrelevant, Integrated, Phenomenon",
         "Debut": "Diamond is Unbreakable",
         "Technique": "Shapeshifting",
-        "Image_ID": "DiU_13"
+        "Image_ID": "/images/icon/Character/DiU/DiU_13"
     },
     {
         "ID": "92",
@@ -1279,13 +1279,13 @@
         "Gender": "Male",
         "Height": "175 cm (5 ft 9 in)",
         "Age": "17",
-        "Nationality": "Japan",
+        "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "None",
         "Occupation": "Student",
         "Stand Type": "Long-Range, Automatic, Reconnaissance, Natural Humanoid",
         "Debut": "Diamond is Unbreakable",
         "Technique": "Body Dismantlement",
-        "Image_ID": "DiU_14"
+        "Image_ID": "/images/icon/Character/DiU/DiU_14"
     },
     {
         "ID": "93",
@@ -1293,13 +1293,13 @@
         "Gender": "Male",
         "Height": "180 cm (5 ft 11 in)",
         "Age": "28",
-        "Nationality": "Japan",
+        "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "None",
         "Occupation": "Criminal",
         "Stand Type": "Long-Range, Materialized, Natural Humanoid, Natural Non-Humanoid",
         "Debut": "Diamond is Unbreakable",
         "Technique": "Liquid Form",
-        "Image_ID": "DiU_15"
+        "Image_ID": "/images/icon/Character/DiU/DiU_15"
     },
     {
         "ID": "94",
@@ -1307,13 +1307,13 @@
         "Gender": "Male",
         "Height": "180 cm (5 ft 11 in)",
         "Age": "19",
-        "Nationality": "Japan",
+        "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "None",
         "Occupation": "None",
         "Stand Type": "Close-Range, Reconnaissance, Artificial Humanoid, Colony",
         "Debut": "Diamond is Unbreakable",
         "Technique": "Military Firepower",
-        "Image_ID": "DiU_16"
+        "Image_ID": "/images/icon/Character/DiU/DiU_16"
     },
     {
         "ID": "95",
@@ -1321,13 +1321,13 @@
         "Gender": "Male",
         "Height": "153 cm (5 ft)",
         "Age": "23",
-        "Nationality": "Japan",
+        "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "None",
         "Occupation": "Thief",
         "Stand Type": "Range Irrelevant, Psychological Assault, Artificial Non-Humanoid",
         "Debut": "Diamond is Unbreakable",
         "Technique": "Guilt Entrapment",
-        "Image_ID": "DiU_17"
+        "Image_ID": "/images/icon/Character/DiU/DiU_17"
     },
     {
         "ID": "96",
@@ -1335,13 +1335,13 @@
         "Gender": "Female",
         "Height": "167 cm (5 ft 6 in)",
         "Age": "16",
-        "Nationality": "Japan",
+        "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "None",
         "Occupation": "Student",
         "Stand Type": "Range Irrelevant, Integrated, Materialized, Phenomenon",
         "Debut": "Diamond is Unbreakable",
         "Technique": "Hair Manipulation",
-        "Image_ID": "DiU_18"
+        "Image_ID": "/images/icon/Character/DiU/DiU_18"
     },
     {
         "ID": "97",
@@ -1349,13 +1349,13 @@
         "Gender": "Female",
         "Height": "166 cm (5 ft 5 in)",
         "Age": "36",
-        "Nationality": "Japan",
+        "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Higashikata Family",
         "Occupation": "Teacher",
         "Stand Type": "N/A",
         "Debut": "Diamond is Unbreakable",
         "Technique": "None",
-        "Image_ID": "DiU_19"
+        "Image_ID": "/images/icon/Character/DiU/DiU_19"
     },
     {
         "ID": "98",
@@ -1363,13 +1363,13 @@
         "Gender": "Male",
         "Height": "50 cm (1 ft 8 in)",
         "Age": "Unknown",
-        "Nationality": "Japan",
+        "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "None",
         "Occupation": "None",
         "Stand Type": "Range Irrelevant, Integrated, Materialized, Phenomenon, Sentient",
         "Debut": "Diamond is Unbreakable",
         "Technique": "Aerokinesis",
-        "Image_ID": "DiU_20"
+        "Image_ID": "/images/icon/Character/DiU/DiU_20"
     },
     {
         "ID": "99",
@@ -1377,13 +1377,13 @@
         "Gender": "Female",
         "Height": "161 cm (5 ft 3 in)",
         "Age": "35",
-        "Nationality": "Japan",
+        "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "None",
         "Occupation": "Housewife",
         "Stand Type": "N/A",
         "Debut": "Diamond is Unbreakable",
         "Technique": "None",
-        "Image_ID": "DiU_21"
+        "Image_ID": "/images/icon/Character/DiU/DiU_21"
     },
     {
         "ID": "100",
@@ -1391,13 +1391,13 @@
         "Gender": "Male",
         "Height": "165 cm (5 ft 5 in)",
         "Age": "16",
-        "Nationality": "Japan",
+        "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "None",
         "Occupation": "Student",
         "Stand Type": "Automatic, Materialized, Sentient, Phenomenon",
         "Debut": "Diamond is Unbreakable",
         "Technique": "Mimicry",
-        "Image_ID": "DiU_22"
+        "Image_ID": "/images/icon/Character/DiU/DiU_22"
     },
     {
         "ID": "101",
@@ -1405,13 +1405,13 @@
         "Gender": "Male",
         "Height": "175 cm (5 ft 9 in)",
         "Age": "30",
-        "Nationality": "Italy",
+        "Nationality": "/images/icon/Countries/Italy.svg",
         "Affiliation": "None",
         "Occupation": "Chef",
         "Stand Type": "Range Irrelevant, Natural Non-Humanoid, Colony",
         "Debut": "Diamond is Unbreakable",
         "Technique": "Curative Cooking",
-        "Image_ID": "DiU_23"
+        "Image_ID": "/images/icon/Character/DiU/DiU_23"
     },
     {
         "ID": "102",
@@ -1419,13 +1419,13 @@
         "Gender": "Female",
         "Height": "70 cm (2 ft 3 in)",
         "Age": "1",
-        "Nationality": "Japan",
+        "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Joestar Family",
         "Occupation": "None",
         "Stand Type": "Range Irrelevant, Integrated, Phenomenon",
         "Debut": "Diamond is Unbreakable",
         "Technique": "Invisibility",
-        "Image_ID": "DiU_24"
+        "Image_ID": "/images/icon/Character/DiU/DiU_24"
     },
     {
         "ID": "103",
@@ -1433,13 +1433,13 @@
         "Gender": "Male",
         "Height": "80 cm (2 ft 7 in)",
         "Age": "Unknown",
-        "Nationality": "Japan",
+        "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "None",
         "Occupation": "None",
         "Stand Type": "N/A",
         "Debut": "Diamond is Unbreakable",
         "Technique": "None",
-        "Image_ID": "DiU_25"
+        "Image_ID": "/images/icon/Character/DiU/DiU_25"
     },
     {
         "ID": "104",
@@ -1447,13 +1447,13 @@
         "Gender": "Female",
         "Height": "165 cm (5 ft 5 in)",
         "Age": "24",
-        "Nationality": "Japan",
+        "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "None",
         "Occupation": "Esthetician",
         "Stand Type": "Close-Range, Artificial Humanoid",
         "Debut": "Diamond is Unbreakable",
         "Technique": "Body Part Replacement",
-        "Image_ID": "DiU_26"
+        "Image_ID": "/images/icon/Character/DiU/DiU_26"
     },
     {
         "ID": "105",
@@ -1461,13 +1461,13 @@
         "Gender": "Male",
         "Height": "30 cm (1 ft  0 in)",
         "Age": "Unknown",
-        "Nationality": "Japan",
+        "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "None",
         "Occupation": "None",
         "Stand Type": "Close-Range, Artificial Non-Humanoid, Shared",
         "Debut": "Diamond is Unbreakable",
         "Technique": "Melting Darts",
-        "Image_ID": "DiU_27"
+        "Image_ID": "/images/icon/Character/DiU/DiU_27"
     },
     {
         "ID": "106",
@@ -1475,13 +1475,13 @@
         "Gender": "Male",
         "Height": "30 cm (1 ft  0 in)",
         "Age": "Unknown",
-        "Nationality": "Japan",
+        "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "None",
         "Occupation": "None",
         "Stand Type": "Close-Range, Artificial Non-Humanoid, Shared",
         "Debut": "Diamond is Unbreakable",
         "Technique": "Melting Darts",
-        "Image_ID": "DiU_28"
+        "Image_ID": "/images/icon/Character/DiU/DiU_28"
     },
     {
         "ID": "107",
@@ -1489,13 +1489,13 @@
         "Gender": "Male",
         "Height": "160 cm (5 ft 3 in)",
         "Age": "12",
-        "Nationality": "Japan",
+        "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "None",
         "Occupation": "Student",
         "Stand Type": "Close-Range, Psychological Assault, Artificial Humanoid",
         "Debut": "Diamond is Unbreakable",
         "Technique": "Energy Theft",
-        "Image_ID": "DiU_29"
+        "Image_ID": "/images/icon/Character/DiU/DiU_29"
     },
     {
         "ID": "108",
@@ -1503,13 +1503,13 @@
         "Gender": "Male",
         "Height": "170 cm (5 ft 7 in)",
         "Age": "35",
-        "Nationality": "Japan",
+        "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "None",
         "Occupation": "Hermit",
         "Stand Type": "Automatic, Materialized, Phenomenon",
         "Debut": "Diamond is Unbreakable",
         "Technique": "Occupant Restraint",
-        "Image_ID": "DiU_30"
+        "Image_ID": "/images/icon/Character/DiU/DiU_30"
     },
     {
         "ID": "109",
@@ -1517,13 +1517,13 @@
         "Gender": "Male",
         "Height": "180 cm (5 ft 11 in)",
         "Age": "35",
-        "Nationality": "Japan",
+        "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "None",
         "Occupation": "Assassin",
         "Stand Type": "Close-Range, Psychological Assault, Artificial Humanoid",
         "Debut": "Diamond is Unbreakable",
         "Technique": "Paper Seal",
-        "Image_ID": "DiU_31"
+        "Image_ID": "/images/icon/Character/DiU/DiU_31"
     },
     {
         "ID": "110",
@@ -1531,13 +1531,13 @@
         "Gender": "Male",
         "Height": "183 cm (6 ft  0 in)",
         "Age": "29",
-        "Nationality": "Japan",
+        "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "None",
         "Occupation": "Architect",
         "Stand Type": "Automatic, Psychological Assault, Artificial Humanoid, Shared, Sentient",
         "Debut": "Diamond is Unbreakable",
         "Technique": "Back Attachment",
-        "Image_ID": "DiU_32"
+        "Image_ID": "/images/icon/Character/DiU/DiU_32"
     },
     {
         "ID": "111",
@@ -1545,13 +1545,13 @@
         "Gender": "Male",
         "Height": "183 cm (6 ft  0 in)",
         "Age": "62",
-        "Nationality": "Japan",
+        "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Higashikata Family",
         "Occupation": "Police Officer",
         "Stand Type": "N/A",
         "Debut": "Diamond is Unbreakable",
         "Technique": "None",
-        "Image_ID": "DiU_33"
+        "Image_ID": "/images/icon/Character/DiU/DiU_33"
     },
     {
         "ID": "112",
@@ -1559,13 +1559,13 @@
         "Gender": "Male",
         "Height": "180 cm (5 ft 11 in)",
         "Age": "Unknown",
-        "Nationality": "Japan",
+        "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "None",
         "Occupation": "None",
         "Stand Type": "Unknown",
         "Debut": "Diamond is Unbreakable",
         "Technique": "Unknown",
-        "Image_ID": "DiU_34"
+        "Image_ID": "/images/icon/Character/DiU/DiU_34"
     },
     {
         "ID": "113",
@@ -1573,13 +1573,13 @@
         "Gender": "Male",
         "Height": "172 cm (5 ft 8 in)",
         "Age": "15",
-        "Nationality": "Japan",
+        "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Joestar Family, Brando Family, Passione, Team Bucciarati",
         "Occupation": "Mafia",
         "Stand Type": "Close-Range, Natural Humanoid",
         "Debut": "Vento Aureo",
         "Technique": "Life Giver",
-        "Image_ID": "VA_1"
+        "Image_ID": "/images/icon/Character/VA/VA_1"
     },
     {
         "ID": "114",
@@ -1587,13 +1587,13 @@
         "Gender": "Male",
         "Height": "178 cm (5 ft 10 in)",
         "Age": "20",
-        "Nationality": "Italy",
+        "Nationality": "/images/icon/Countries/Italy.svg",
         "Affiliation": "Passione, Team Bucciarati",
         "Occupation": "Mafia",
         "Stand Type": "Close-Range, Natural Humanoid",
         "Debut": "Vento Aureo",
         "Technique": "Zippers",
-        "Image_ID": "VA_2"
+        "Image_ID": "/images/icon/Character/VA/VA_2"
     },
     {
         "ID": "115",
@@ -1601,13 +1601,13 @@
         "Gender": "Male",
         "Height": "188 cm (6 ft 2 in)",
         "Age": "21",
-        "Nationality": "Italy",
+        "Nationality": "/images/icon/Countries/Italy.svg",
         "Affiliation": "Passione, Team Bucciarati",
         "Occupation": "Mafia",
         "Stand Type": "Close-Range, Natural Humanoid",
         "Debut": "Vento Aureo",
         "Technique": "Chronological Rebroadcasting",
-        "Image_ID": "VA_3"
+        "Image_ID": "/images/icon/Character/VA/VA_3"
     },
     {
         "ID": "116",
@@ -1615,13 +1615,13 @@
         "Gender": "Male",
         "Height": "179 cm (5 ft 8 in)",
         "Age": "18",
-        "Nationality": "Italy",
+        "Nationality": "/images/icon/Countries/Italy.svg",
         "Affiliation": "Passione, Team Bucciarati",
         "Occupation": "Mafia",
         "Stand Type": "Long-Range, Artificial Humanoid, Colony",
         "Debut": "Vento Aureo",
         "Technique": "Bullet Control",
-        "Image_ID": "VA_4"
+        "Image_ID": "/images/icon/Character/VA/VA_4"
     },
     {
         "ID": "117",
@@ -1629,13 +1629,13 @@
         "Gender": "Male",
         "Height": "164 cm (5 ft 3 in)",
         "Age": "17",
-        "Nationality": "Italy",
+        "Nationality": "/images/icon/Countries/Italy.svg",
         "Affiliation": "Passione, Team Bucciarati",
         "Occupation": "Mafia",
         "Stand Type": "Long-Range, Natural Humanoid",
         "Debut": "Vento Aureo",
         "Technique": "Machine Guns and Bomb",
-        "Image_ID": "VA_5"
+        "Image_ID": "/images/icon/Character/VA/VA_5"
     },
     {
         "ID": "118",
@@ -1643,13 +1643,13 @@
         "Gender": "Male",
         "Height": "174 cm (5 ft 7 in)",
         "Age": "16",
-        "Nationality": "Italy",
+        "Nationality": "/images/icon/Countries/Italy.svg",
         "Affiliation": "Passione, Team Bucciarati",
         "Occupation": "Mafia",
         "Stand Type": "Close-Range, Natural Humanoid",
         "Debut": "Vento Aureo",
         "Technique": "Killer Virus Infection",
-        "Image_ID": "VA_6"
+        "Image_ID": "/images/icon/Character/VA/VA_6"
     },
     {
         "ID": "119",
@@ -1657,13 +1657,13 @@
         "Gender": "Female",
         "Height": "163 cm (5 ft 4 in)",
         "Age": "15",
-        "Nationality": "Italy",
+        "Nationality": "/images/icon/Countries/Italy.svg",
         "Affiliation": "Passione, Team Bucciarati",
         "Occupation": "Mafia",
         "Stand Type": "Close-Range, Natural Humanoid",
         "Debut": "Vento Aureo",
         "Technique": "Softening",
-        "Image_ID": "VA_7"
+        "Image_ID": "/images/icon/Character/VA/VA_7"
     },
     {
         "ID": "120",
@@ -1671,13 +1671,13 @@
         "Gender": "Male",
         "Height": "191 cm (6 ft 3 in) ",
         "Age": "33",
-        "Nationality": "Italy",
+        "Nationality": "/images/icon/Countries/Italy.svg",
         "Affiliation": "Passione",
         "Occupation": "Mafia",
         "Stand Type": "Close-Range, Natural Humanoid",
         "Debut": "Vento Aureo",
         "Technique": "Time Erasure",
-        "Image_ID": "VA_8"
+        "Image_ID": "/images/icon/Character/VA/VA_8"
     },
     {
         "ID": "121",
@@ -1685,13 +1685,13 @@
         "Gender": "Male",
         "Height": "170 cm (5 ft 7 in)",
         "Age": "33",
-        "Nationality": "Italy",
+        "Nationality": "/images/icon/Countries/Italy.svg",
         "Affiliation": "Passione",
         "Occupation": "Mafia",
         "Stand Type": "Close-Range, Natural Humanoid",
         "Debut": "Vento Aureo",
         "Technique": "Precognition",
-        "Image_ID": "VA_9"
+        "Image_ID": "/images/icon/Character/VA/VA_9"
     },
     {
         "ID": "122",
@@ -1699,13 +1699,13 @@
         "Gender": "Male",
         "Height": "175 cm (6 ft 1 in)",
         "Age": "28",
-        "Nationality": "Italy",
+        "Nationality": "/images/icon/Countries/Italy.svg",
         "Affiliation": "Passione, La Squadra Esecuzioni",
         "Occupation": "Mafia",
         "Stand Type": "Close-Range, Natural Non-Humanoid, Colony",
         "Debut": "Vento Aureo",
         "Technique": "Iron Manipulation",
-        "Image_ID": "VA_10"
+        "Image_ID": "/images/icon/Character/VA/VA_10"
     },
     {
         "ID": "123",
@@ -1713,13 +1713,13 @@
         "Gender": "Male",
         "Height": "30 cm (1 ft 0 in)",
         "Age": "Unknown",
-        "Nationality": "Italy",
+        "Nationality": "/images/icon/Countries/Italy.svg",
         "Affiliation": "Passione",
         "Occupation": "Mafia",
         "Stand Type": "Range Irrelevant, Integrated, Natural Non-Humanoid",
         "Debut": "Vento Aureo",
         "Technique": "Hidden Room",
-        "Image_ID": "VA_11"
+        "Image_ID": "/images/icon/Character/VA/VA_11"
     },
     {
         "ID": "124",
@@ -1727,13 +1727,13 @@
         "Gender": "Male",
         "Height": "185 cm (6 ft 1 in)",
         "Age": "36",
-        "Nationality": "France",
+        "Nationality": "/images/icon/Countries/France.svg",
         "Affiliation": "Joestar Group, Speedwagon Foundation, Passione",
         "Occupation": "Investigator",
         "Stand Type": "Close-Range, Artificial Humanoid",
         "Debut": "Stardust Crusaders",
         "Technique": "Body and Soul Manipulation",
-        "Image_ID": "VA_12"
+        "Image_ID": "/images/icon/Character/VA/VA_12"
     },
     {
         "ID": "125",
@@ -1741,13 +1741,13 @@
         "Gender": "Male",
         "Height": "230 cm (7 ft 6 in)",
         "Age": "39",
-        "Nationality": "Italy",
+        "Nationality": "/images/icon/Countries/Italy.svg",
         "Affiliation": "Passione",
         "Occupation": "Mafia",
         "Stand Type": "Automatic, Artificial Humanoid",
         "Debut": "Vento Aureo",
         "Technique": "Shadow Power",
-        "Image_ID": "VA_13"
+        "Image_ID": "/images/icon/Character/VA/VA_13"
     },
     {
         "ID": "126",
@@ -1755,13 +1755,13 @@
         "Gender": "Male",
         "Height": "174 cm (5 ft 9 in)",
         "Age": "28",
-        "Nationality": "Italy",
+        "Nationality": "/images/icon/Countries/Italy.svg",
         "Affiliation": "Passione, La Squadra Esecuzioni",
         "Occupation": "Mafia",
         "Stand Type": "Automatic, Materialized, Natural Humanoid, Artificial Non-Humanoid, Sentient",
         "Debut": "Vento Aureo",
         "Technique": "Homunculus Generation",
-        "Image_ID": "VA_14"
+        "Image_ID": "/images/icon/Character/VA/VA_14"
     },
     {
         "ID": "127",
@@ -1769,13 +1769,13 @@
         "Gender": "Male",
         "Height": "105 cm (3 ft 5 in)",
         "Age": "60",
-        "Nationality": "Italy",
+        "Nationality": "/images/icon/Countries/Italy.svg",
         "Affiliation": "Passione",
         "Occupation": "Mafia",
         "Stand Type": "N/A",
         "Debut": "Vento Aureo",
         "Technique": "None",
-        "Image_ID": "VA_15"
+        "Image_ID": "/images/icon/Character/VA/VA_15"
     },
     {
         "ID": "128",
@@ -1783,13 +1783,13 @@
         "Gender": "Male",
         "Height": "173 cm (5 ft 8 in)",
         "Age": "53",
-        "Nationality": "Italy",
+        "Nationality": "/images/icon/Countries/Italy.svg",
         "Affiliation": "Passione",
         "Occupation": "Mafia",
         "Stand Type": "N/A",
         "Debut": "Vento Aureo",
         "Technique": "None",
-        "Image_ID": "VA_16"
+        "Image_ID": "/images/icon/Character/VA/VA_16"
     },
     {
         "ID": "129",
@@ -1797,13 +1797,13 @@
         "Gender": "Male",
         "Height": "182 cm (6 ft 0 in)",
         "Age": "24",
-        "Nationality": "Italy",
+        "Nationality": "/images/icon/Countries/Italy.svg",
         "Affiliation": "Passione",
         "Occupation": "Mafia",
         "Stand Type": "Close-Range, Artificial Humanoid",
         "Debut": "Vento Aureo",
         "Technique": "Pinch Deflating",
-        "Image_ID": "VA_17"
+        "Image_ID": "/images/icon/Character/VA/VA_17"
     },
     {
         "ID": "130",
@@ -1811,13 +1811,13 @@
         "Gender": "Male",
         "Height": "182 cm (6 ft 0 in)",
         "Age": "24",
-        "Nationality": "Italy",
+        "Nationality": "/images/icon/Countries/Italy.svg",
         "Affiliation": "Passione",
         "Occupation": "Mafia",
         "Stand Type": "Close-Range, Artificial Humanoid",
         "Debut": "Vento Aureo",
         "Technique": "Kinetic Energy Manipulation",
-        "Image_ID": "VA_18"
+        "Image_ID": "/images/icon/Character/VA/VA_18"
     },
     {
         "ID": "131",
@@ -1825,13 +1825,13 @@
         "Gender": "Male",
         "Height": "178 cm (5 ft 10 in)",
         "Age": "31",
-        "Nationality": "Italy",
+        "Nationality": "/images/icon/Countries/Italy.svg",
         "Affiliation": "Passione, La Squadra Esecuzioni",
         "Occupation": "Mafia",
         "Stand Type": "Close-Range, Artificial Humanoid",
         "Debut": "Vento Aureo",
         "Technique": "Shrinking",
-        "Image_ID": "VA_19"
+        "Image_ID": "/images/icon/Character/VA/VA_19"
     },
     {
         "ID": "132",
@@ -1839,13 +1839,13 @@
         "Gender": "Male",
         "Height": "188 cm (6 ft 2 in)",
         "Age": "28",
-        "Nationality": "Italy",
+        "Nationality": "/images/icon/Countries/Italy.svg",
         "Affiliation": "Passione, La Squadra Esecuzioni",
         "Occupation": "Mafia",
         "Stand Type": "Close-Range, Artificial Humanoid",
         "Debut": "Vento Aureo",
         "Technique": "Mirror World Entry",
-        "Image_ID": "VA_20"
+        "Image_ID": "/images/icon/Character/VA/VA_20"
     },
     {
         "ID": "133",
@@ -1853,13 +1853,13 @@
         "Gender": "Male",
         "Height": "178 cm (5 ft 10 in)",
         "Age": "30",
-        "Nationality": "Italy",
+        "Nationality": "/images/icon/Countries/Italy.svg",
         "Affiliation": "Passione, La Squadra Esecuzioni",
         "Occupation": "Mafia",
         "Stand Type": "Close-Range, Natural Non-Humanoid",
         "Debut": "Vento Aureo",
         "Technique": "Accelerated Aging",
-        "Image_ID": "VA_21"
+        "Image_ID": "/images/icon/Character/VA/VA_21"
     },
     {
         "ID": "134",
@@ -1867,13 +1867,13 @@
         "Gender": "Male",
         "Height": "165 cm (5 ft 5 in)",
         "Age": "29",
-        "Nationality": "Italy",
+        "Nationality": "/images/icon/Countries/Italy.svg",
         "Affiliation": "Passione, La Squadra Esecuzioni",
         "Occupation": "Mafia",
         "Stand Type": "Close-Range, Reconnaissance, Artificial Non-Humanoid",
         "Debut": "Vento Aureo",
         "Technique": "Hook and Line",
-        "Image_ID": "VA_22"
+        "Image_ID": "/images/icon/Character/VA/VA_22"
     },
     {
         "ID": "135",
@@ -1881,13 +1881,13 @@
         "Gender": "Male",
         "Height": "171 cm (5 ft 7 in)",
         "Age": "26",
-        "Nationality": "Italy",
+        "Nationality": "/images/icon/Countries/Italy.svg",
         "Affiliation": "Passione, La Squadra Esecuzioni",
         "Occupation": "Mafia",
         "Stand Type": "Close-Range, Artificial Humanoid",
         "Debut": "Vento Aureo",
         "Technique": "Cryokinesis",
-        "Image_ID": "VA_23"
+        "Image_ID": "/images/icon/Character/VA/VA_23"
     },
     {
         "ID": "136",
@@ -1895,13 +1895,13 @@
         "Gender": "Male",
         "Height": "175 cm (5 ft 9 in)",
         "Age": "28",
-        "Nationality": "Italy",
+        "Nationality": "/images/icon/Countries/Italy.svg",
         "Affiliation": "Passione, Unità Speciale",
         "Occupation": "Mafia",
         "Stand Type": "Long-Range, Natural Non-Humanoid",
         "Debut": "Vento Aureo",
         "Technique": "Liquid Warp",
-        "Image_ID": "VA_24"
+        "Image_ID": "/images/icon/Character/VA/VA_24"
     },
     {
         "ID": "137",
@@ -1909,13 +1909,13 @@
         "Gender": "Male",
         "Height": "178 cm (5 ft 10 in)",
         "Age": "29",
-        "Nationality": "Italy",
+        "Nationality": "/images/icon/Countries/Italy.svg",
         "Affiliation": "Passione, Unità Speciale",
         "Occupation": "Mafia",
         "Stand Type": "Long-Range, Natural Non-Humanoid",
         "Debut": "Vento Aureo",
         "Technique": "Forced Lying",
-        "Image_ID": "VA_25"
+        "Image_ID": "/images/icon/Character/VA/VA_25"
     },
     {
         "ID": "138",
@@ -1923,13 +1923,13 @@
         "Gender": "Male",
         "Height": "160 cm (5 ft 3 in)",
         "Age": "32",
-        "Nationality": "Italy",
+        "Nationality": "/images/icon/Countries/Italy.svg",
         "Affiliation": "Passione, Unità Speciale",
         "Occupation": "Mafia",
         "Stand Type": "Automatic, Natural Non-Humanoid, Natural Humanoid",
         "Debut": "Vento Aureo",
         "Technique": "Partial Symbiosis",
-        "Image_ID": "VA_26"
+        "Image_ID": "/images/icon/Character/VA/VA_26"
     },
     {
         "ID": "139",
@@ -1937,13 +1937,13 @@
         "Gender": "Male",
         "Height": "185 cm (6 ft 1 in)",
         "Age": "34",
-        "Nationality": "Italy",
+        "Nationality": "/images/icon/Countries/Italy.svg",
         "Affiliation": "Passione",
         "Occupation": "Mafia",
         "Stand Type": "Close-Range, Artificial Humanoid",
         "Debut": "Vento Aureo",
         "Technique": "Mold Infestation",
-        "Image_ID": "VA_27"
+        "Image_ID": "/images/icon/Character/VA/VA_27"
     },
     {
         "ID": "140",
@@ -1951,13 +1951,13 @@
         "Gender": "Male",
         "Height": "170 cm (5 ft 7 in)",
         "Age": "25",
-        "Nationality": "Italy",
+        "Nationality": "/images/icon/Countries/Italy.svg",
         "Affiliation": "Passione",
         "Occupation": "Mafia",
         "Stand Type": "Close-Range, Artificial Humanoid",
         "Debut": "Vento Aureo",
         "Technique": "Ground Liquefaction",
-        "Image_ID": "VA_28"
+        "Image_ID": "/images/icon/Character/VA/VA_28"
     },
     {
         "ID": "141",
@@ -1965,13 +1965,13 @@
         "Gender": "Male",
         "Height": "185 cm (6 ft 1 in)",
         "Age": "31",
-        "Nationality": "Italy",
+        "Nationality": "/images/icon/Countries/Italy.svg",
         "Affiliation": "Passione",
         "Occupation": "Sculptor",
         "Stand Type": "Automatic, Foresight, Natural Non-Humanoid",
         "Debut": "Vento Aureo",
         "Technique": "Homing to Dying Target",
-        "Image_ID": "VA_29"
+        "Image_ID": "/images/icon/Character/VA/VA_29"
     },
     {
         "ID": "142",
@@ -1979,13 +1979,13 @@
         "Gender": "Female",
         "Height": "166 cm (5 ft 5 in)",
         "Age": "33",
-        "Nationality": "Japan",
+        "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "None",
         "Occupation": "Unknown",
         "Stand Type": "N/A",
         "Debut": "Vento Aureo",
         "Technique": "None",
-        "Image_ID": "VA_30"
+        "Image_ID": "/images/icon/Character/VA/VA_30"
     },
     {
         "ID": "143",
@@ -1993,13 +1993,13 @@
         "Gender": "Female",
         "Height": "163 cm (5 ft 4 in)",
         "Age": "33",
-        "Nationality": "Italy",
+        "Nationality": "/images/icon/Countries/Italy.svg",
         "Affiliation": "None",
         "Occupation": "Unknown",
         "Stand Type": "N/A",
         "Debut": "Vento Aureo",
         "Technique": "None",
-        "Image_ID": "VA_31"
+        "Image_ID": "/images/icon/Character/VA/VA_31"
     },
     {
         "ID": "144",
@@ -2007,13 +2007,13 @@
         "Gender": "Female",
         "Height": "174 cm (5 ft 8 in)",
         "Age": "19",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Joestar Family, Green Dolphin Street Prison, Speedwagon Foundation",
         "Occupation": "Prisioner",
         "Stand Type": "Close-Range, Reconnaissance Natural Humanoid, Integrated",
         "Debut": "Stone Ocean",
         "Technique": "String Decomposition",
-        "Image_ID": "SO_1"
+        "Image_ID": "/images/icon/Character/SO/SO_1"
     },
     {
         "ID": "145",
@@ -2021,13 +2021,13 @@
         "Gender": "Female",
         "Height": "175 cm (5 ft 9 in)",
         "Age": "21",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Green Dolphin Street Prison",
         "Occupation": "Prisioner",
         "Stand Type": "Close-Range, Natural Humanoid",
         "Debut": "Stone Ocean",
         "Technique": "Sticker Duplication",
-        "Image_ID": "SO_2"
+        "Image_ID": "/images/icon/Character/SO/SO_2"
     },
     {
         "ID": "146",
@@ -2035,13 +2035,13 @@
         "Gender": "Male",
         "Height": "140 cm (4 ft 7 in)",
         "Age": "11",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Green Dolphin Street Prison",
         "Occupation": "None",
         "Stand Type": "Range Irrelevant, Materialized, Phenomenon",
         "Debut": "Stone Ocean",
         "Technique": "Ghost Objects",
-        "Image_ID": "SO_3"
+        "Image_ID": "/images/icon/Character/SO/SO_3"
     },
     {
         "ID": "147",
@@ -2049,13 +2049,13 @@
         "Gender": "Male",
         "Height": "195 cm (6 ft 5 in)",
         "Age": "40",
-        "Nationality": "Japan",
+        "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Joestar Family, Joestar Group, Speedwagon Foundation",
         "Occupation": "Marine Biologist",
         "Stand Type": "Close-Range, Range Irrelevant, Natural Humanoid",
         "Debut": "Stardust Crusaders",
         "Technique": "Time Stop",
-        "Image_ID": "SO_4"
+        "Image_ID": "/images/icon/Character/SO/SO_4"
     },
     {
         "ID": "148",
@@ -2063,13 +2063,13 @@
         "Gender": "Female",
         "Height": "165 cm (5 ft 5 in)",
         "Age": "22",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Green Dolphin Street Prison",
         "Occupation": "Prisioner",
         "Stand Type": "Range Irrelevant, Integrated, Phenomenon, Shared",
         "Debut": "Stone Ocean",
         "Technique": "Body Invasion",
-        "Image_ID": "SO_5"
+        "Image_ID": "/images/icon/Character/SO/SO_5"
     },
     {
         "ID": "149",
@@ -2077,13 +2077,13 @@
         "Gender": "Male",
         "Height": "181 cm (5 ft 11 in)",
         "Age": "39",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Green Dolphin Street Prison",
         "Occupation": "Prisioner",
         "Stand Type": "Close-Range, Artificial Humanoid, Natural Non-Humanoid",
         "Debut": "Stone Ocean",
         "Technique": "Atmospheric Manipulation",
-        "Image_ID": "SO_6"
+        "Image_ID": "/images/icon/Character/SO/SO_6"
     },
     {
         "ID": "150",
@@ -2091,13 +2091,13 @@
         "Gender": "Male",
         "Height": "178 cm (5 ft 10 in)",
         "Age": "25",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Green Dolphin Street Prison",
         "Occupation": "Prisioner",
         "Stand Type": "Close-Range, Artificial Humanoid",
         "Debut": "Stone Ocean",
         "Technique": "Restructuring",
-        "Image_ID": "SO_7"
+        "Image_ID": "/images/icon/Character/SO/SO_7"
     },
     {
         "ID": "151",
@@ -2105,13 +2105,13 @@
         "Gender": "Male",
         "Height": "181 cm (5 ft 11 in)",
         "Age": "39",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Green Dolphin Street Prison, Agents of DIO",
         "Occupation": "Priest",
         "Stand Type": "Close-Range, Range Irrelevant, Natural Non-Humanoid, Evolved",
         "Debut": "Stone Ocean",
         "Technique": "DISC Extraction",
-        "Image_ID": "SO_8"
+        "Image_ID": "/images/icon/Character/SO/SO_8"
     },
     {
         "ID": "152",
@@ -2119,13 +2119,13 @@
         "Gender": "Male",
         "Height": "185 cm (6 ft 1 in)",
         "Age": "35",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Green Dolphin Street Prison, Agents of DIO",
         "Occupation": "Prisioner",
         "Stand Type": "Long-Range, Reconnaissance, Artificial Non-Humanoid",
         "Debut": "Stone Ocean",
         "Technique": "Bullet Redirection",
-        "Image_ID": "SO_9"
+        "Image_ID": "/images/icon/Character/SO/SO_9"
     },
     {
         "ID": "153",
@@ -2133,13 +2133,13 @@
         "Gender": "Male",
         "Height": "176 cm (5 ft 9 in)",
         "Age": "25",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Green Dolphin Street Prison",
         "Occupation": "Prisioner",
         "Stand Type": "Close-Range, Artificial Humanoid",
         "Debut": "Stone Ocean",
         "Technique": "Gravity Removal",
-        "Image_ID": "SO_10"
+        "Image_ID": "/images/icon/Character/SO/SO_10"
     },
     {
         "ID": "154",
@@ -2147,13 +2147,13 @@
         "Gender": "Male",
         "Height": "176 cm (5 ft 9 in)",
         "Age": "33",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Green Dolphin Street Prison",
         "Occupation": "Prisioner",
         "Stand Type": "Close-Range, Artificial Humanoid",
         "Debut": "Stone Ocean",
         "Technique": "Invisible Reanimation",
-        "Image_ID": "SO_11"
+        "Image_ID": "/images/icon/Character/SO/SO_11"
     },
     {
         "ID": "155",
@@ -2161,13 +2161,13 @@
         "Gender": "Male",
         "Height": "50 cm (1 ft 7 in)",
         "Age": "0",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Joestar Family, Brando Family",
         "Occupation": "None",
         "Stand Type": "Close-Range, Artificial Humanoid",
         "Debut": "Stone Ocean",
         "Technique": "Shrinking",
-        "Image_ID": "SO_12"
+        "Image_ID": "/images/icon/Character/SO/SO_12"
     },
     {
         "ID": "156",
@@ -2175,13 +2175,13 @@
         "Gender": "Female",
         "Height": "171 cm (5 ft 7 in)",
         "Age": "22",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Green Dolphin Street Prison",
         "Occupation": "Prisioner",
         "Stand Type": "Long-Range, Artificial Humanoid",
         "Debut": "Stone Ocean",
         "Technique": "Size Reduction",
-        "Image_ID": "SO_13"
+        "Image_ID": "/images/icon/Character/SO/SO_13"
     },
     {
         "ID": "157",
@@ -2189,13 +2189,13 @@
         "Gender": "Female",
         "Height": "170 cm (5 ft 7 in)",
         "Age": "23",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Green Dolphin Street Prison",
         "Occupation": "Prisioner",
         "Stand Type": "Long-Range, Psychological Assault, Artificial Humanoid, Automatic",
         "Debut": "Stone Ocean",
         "Technique": "Debt Collection",
-        "Image_ID": "SO_14"
+        "Image_ID": "/images/icon/Character/SO/SO_14"
     },
     {
         "ID": "158",
@@ -2203,13 +2203,13 @@
         "Gender": "Male",
         "Height": "186 cm (6 ft 1 in)",
         "Age": "28",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Green Dolphin Street Prison",
         "Occupation": "Prison Guard",
         "Stand Type": "Close-Range, Natural Humanoid",
         "Debut": "Stone Ocean",
         "Technique": "Meteorite Attraction",
-        "Image_ID": "SO_15"
+        "Image_ID": "/images/icon/Character/SO/SO_15"
     },
     {
         "ID": "159",
@@ -2217,13 +2217,13 @@
         "Gender": "Male",
         "Height": "152 cm (5 ft 0 in)",
         "Age": "78",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Green Dolphin Street Prison",
         "Occupation": "Prisioner",
         "Stand Type": "Automatic, Artificial Non-Humanoid, Sentient",
         "Debut": "Stone Ocean",
         "Technique": "Feng Shui Divination",
-        "Image_ID": "SO_16"
+        "Image_ID": "/images/icon/Character/SO/SO_16"
     },
     {
         "ID": "160",
@@ -2231,13 +2231,13 @@
         "Gender": "Male",
         "Height": "181 cm (5 ft 11 in)",
         "Age": "27",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Green Dolphin Street Prison",
         "Occupation": "Prisioner",
         "Stand Type": "Long-Range, Artificial Non-Humanoid",
         "Debut": "Stone Ocean",
         "Technique": "Damage Sharing",
-        "Image_ID": "SO_17"
+        "Image_ID": "/images/icon/Character/SO/SO_17"
     },
     {
         "ID": "161",
@@ -2245,13 +2245,13 @@
         "Gender": "Male",
         "Height": "182 cm (6 ft 0 in)",
         "Age": "23",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Joestar Family, Brando Family, Agents of DIO",
         "Occupation": "Assassin",
         "Stand Type": "Close-Range, Natural Humanoid",
         "Debut": "Stone Ocean",
         "Technique": "Rod Manipulation",
-        "Image_ID": "SO_18"
+        "Image_ID": "/images/icon/Character/SO/SO_18"
     },
     {
         "ID": "162",
@@ -2259,13 +2259,13 @@
         "Gender": "Male",
         "Height": "186 cm (6 ft 1 in)",
         "Age": "24",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Joestar Family, Brando Family, Agents of DIO",
         "Occupation": "Assassin",
         "Stand Type": "Range Irrelevant, Psychological Assault, Phenomenon",
         "Debut": "Stone Ocean",
         "Technique": "Fiction Realization",
-        "Image_ID": "SO_19"
+        "Image_ID": "/images/icon/Character/SO/SO_19"
     },
     {
         "ID": "163",
@@ -2273,13 +2273,13 @@
         "Gender": "Male",
         "Height": "181 cm (5 ft 11 in)",
         "Age": "25",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Joestar Family, Brando Family, Agents of DIO",
         "Occupation": "Assassin, Unemployed",
         "Stand Type": "Close-Range, Psychological Assault, Artificial Humanoid, Sentient",
         "Debut": "Stone Ocean",
         "Technique": "Demonic Excavation",
-        "Image_ID": "SO_20"
+        "Image_ID": "/images/icon/Character/SO/SO_20"
     },
     {
         "ID": "164",
@@ -2287,13 +2287,13 @@
         "Gender": "Female",
         "Height": "175 cm (5 ft 9 in)",
         "Age": "25",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Green Dolphin Street Prison",
         "Occupation": "Prison Guard",
         "Stand Type": "Close-Range, Psychological Assault, Artificial Humanoid",
         "Debut": "Stone Ocean",
         "Technique": "Memory Lock",
-        "Image_ID": "SO_21"
+        "Image_ID": "/images/icon/Character/SO/SO_21"
     },
     {
         "ID": "165",
@@ -2301,13 +2301,13 @@
         "Gender": "Unknown",
         "Height": "30 cm (1 ft 0 in)",
         "Age": "Unknown",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Speedwagon Foundation",
         "Occupation": "Carrier Pidgeon",
         "Stand Type": "N/A",
         "Debut": "Stone Ocean",
         "Technique": "Item Retrieval",
-        "Image_ID": "SO_22"
+        "Image_ID": "/images/icon/Character/SO/SO_22"
     },
     {
         "ID": "166",
@@ -2315,13 +2315,13 @@
         "Gender": "Male",
         "Height": "163 cm (5 ft 4 in)",
         "Age": "31",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Green Dolphin Street Prison",
         "Occupation": "Prisioner",
         "Stand Type": "Automatic, Psychological Assault, Natural Non-Humanoid, Colony",
         "Debut": "Stone Ocean",
         "Technique": "Agressiveness Stimulation",
-        "Image_ID": "SO_23"
+        "Image_ID": "/images/icon/Character/SO/SO_23"
     },
     {
         "ID": "167",
@@ -2329,13 +2329,13 @@
         "Gender": "Male",
         "Height": "182 cm (6 ft 0 in)",
         "Age": "36",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Green Dolphin Street Prison",
         "Occupation": "Lawyer",
         "Stand Type": "N/A",
         "Debut": "Stone Ocean",
         "Technique": "None",
-        "Image_ID": "SO_24"
+        "Image_ID": "/images/icon/Character/SO/SO_24"
     },
     {
         "ID": "168",
@@ -2343,13 +2343,13 @@
         "Gender": "Male",
         "Height": "122 cm (4 ft 0 in)",
         "Age": "38",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Green Dolphin Street Prison",
         "Occupation": "Prison Guard",
         "Stand Type": "N/A",
         "Debut": "Stone Ocean",
         "Technique": "None",
-        "Image_ID": "SO_25"
+        "Image_ID": "/images/icon/Character/SO/SO_25"
     },
     {
         "ID": "169",
@@ -2357,13 +2357,13 @@
         "Gender": "Male",
         "Height": "178 cm (5 ft 10 in)",
         "Age": "23",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Green Dolphin Street Prison",
         "Occupation": "Unknown",
         "Stand Type": "N/A",
         "Debut": "Stone Ocean",
         "Technique": "None",
-        "Image_ID": "SO_26"
+        "Image_ID": "/images/icon/Character/SO/SO_26"
     },
     {
         "ID": "170",
@@ -2371,13 +2371,13 @@
         "Gender": "Female",
         "Height": "173 cm (5 ft 8 in)",
         "Age": "36",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "None",
         "Occupation": "Unknown",
         "Stand Type": "N/A",
         "Debut": "Stone Ocean",
         "Technique": "None",
-        "Image_ID": "SO_27"
+        "Image_ID": "/images/icon/Character/SO/SO_27"
     },
     {
         "ID": "171",
@@ -2385,13 +2385,13 @@
         "Gender": "Female",
         "Height": "175 cm (5 ft 9 in)",
         "Age": "27",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "None",
         "Occupation": "Chef",
         "Stand Type": "N/A",
         "Debut": "Stone Ocean",
         "Technique": "None",
-        "Image_ID": "SO_28"
+        "Image_ID": "/images/icon/Character/SO/SO_28"
     },
     {
         "ID": "172",
@@ -2399,13 +2399,13 @@
         "Gender": "Female",
         "Height": "158 cm (5 ft 2 in)",
         "Age": "14",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "None",
         "Occupation": "Student",
         "Stand Type": "N/A",
         "Debut": "Stone Ocean",
         "Technique": "None",
-        "Image_ID": "SO_29"
+        "Image_ID": "/images/icon/Character/SO/SO_29"
     },
     {
         "ID": "173",
@@ -2413,13 +2413,13 @@
         "Gender": "Male",
         "Height": "163 cm (5 ft 4 in)",
         "Age": "19",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Joestar Family, Steel Ball Run",
         "Occupation": "Jockey, Racer",
         "Stand Type": "Close-Range, Evolved, Artificial Humanoid",
         "Debut": "Steel Ball Run",
         "Technique": "Spinning Nails",
-        "Image_ID": "SBR_1"
+        "Image_ID": "/images/icon/Character/SBR/SBR_1"
     },
     {
         "ID": "174",
@@ -2427,13 +2427,13 @@
         "Gender": "Male",
         "Height": "169 cm (5 ft 6 in)",
         "Age": "24",
-        "Nationality": "Italy",
+        "Nationality": "/images/icon/Countries/Italy.svg",
         "Affiliation": "Zeppeli Family, Naples Government, Steel Ball Run",
         "Occupation": "Executioner, Racer",
         "Stand Type": "Long-Range, Artificial Humanoid",
         "Debut": "Steel Ball Run",
         "Technique": "Spin",
-        "Image_ID": "SBR_2"
+        "Image_ID": "/images/icon/Character/SBR/SBR_2"
     },
     {
         "ID": "175",
@@ -2441,13 +2441,13 @@
         "Gender": "Female",
         "Height": "160 cm (5 ft 3 in)",
         "Age": "14",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Steel Ball Run",
         "Occupation": "None",
         "Stand Type": "Range Irrelevant, Integrated, Phenomenon",
         "Debut": "Steel Ball Run",
         "Technique": "Divine Protection",
-        "Image_ID": "SBR_3"
+        "Image_ID": "/images/icon/Character/SBR/SBR_3"
     },
     {
         "ID": "176",
@@ -2455,13 +2455,13 @@
         "Gender": "Male",
         "Height": "175 cm (5 ft 9 in)",
         "Age": "43",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "U.S. Government",
         "Occupation": "President",
         "Stand Type": "Close-Range, Range Irrelevant, Natural Humanoid",
         "Debut": "Steel Ball Run",
         "Technique": "Travel Between Parallel Worlds",
-        "Image_ID": "SBR_4"
+        "Image_ID": "/images/icon/Character/SBR/SBR_4"
     },
     {
         "ID": "177",
@@ -2469,13 +2469,13 @@
         "Gender": "Male",
         "Height": "165 cm (5 ft 5 in)",
         "Age": "20",
-        "Nationality": "United Kingdom",
+        "Nationality": "/images/icon/Countries/UnitedKingdom.svg",
         "Affiliation": "Brando Family, Steel Ball Run, Valentine's Subordinates",
         "Occupation": "Jockey, Racer",
         "Stand Type": "Range Irrelevant, Integrated, Phenomenon, Shared",
         "Debut": "Steel Ball Run",
         "Technique": "Dinosaur Infection",
-        "Image_ID": "SBR_5"
+        "Image_ID": "/images/icon/Character/SBR/SBR_5"
     },
     {
         "ID": "178",
@@ -2483,13 +2483,13 @@
         "Gender": "Female",
         "Height": "163 cm (5 ft 4 in)",
         "Age": "23",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Steel Ball Run",
         "Occupation": "Nun, Racer",
         "Stand Type": "Range Irrelevant, Materialized, Artificial Non-Humanoid",
         "Debut": "Steel Ball Run",
         "Technique": "Flesh Spray",
-        "Image_ID": "SBR_6"
+        "Image_ID": "/images/icon/Character/SBR/SBR_6"
     },
     {
         "ID": "179",
@@ -2497,13 +2497,13 @@
         "Gender": "Male",
         "Height": "169 cm (5 ft 6 in)",
         "Age": "31",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Steel Ball Run",
         "Occupation": "Bounty Hunter",
         "Stand Type": "Range Irrelevant, Integrated, Artificial Non-Humanoid",
         "Debut": "Steel Ball Run",
         "Technique": "Rope Transfer",
-        "Image_ID": "SBR_7"
+        "Image_ID": "/images/icon/Character/SBR/SBR_7"
     },
     {
         "ID": "180",
@@ -2511,13 +2511,13 @@
         "Gender": "Male",
         "Height": "169 cm (5 ft 6 in)",
         "Age": "31",
-        "Nationality": "Italy",
+        "Nationality": "/images/icon/Countries/Italy.svg",
         "Affiliation": "Steel Ball Run",
         "Occupation": "Royal Guard, Assassin",
         "Stand Type": "N/A",
         "Debut": "Steel Ball Run",
         "Technique": "Steel Balls and Reflection",
-        "Image_ID": "SBR_8"
+        "Image_ID": "/images/icon/Character/SBR/SBR_8"
     },
     {
         "ID": "181",
@@ -2525,13 +2525,13 @@
         "Gender": "Male",
         "Height": "190 cm (6 ft 3 in)",
         "Age": "53",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Steel Ball Run",
         "Occupation": "Steel Ball Run Promoter",
         "Stand Type": "N/A",
         "Debut": "Steel Ball Run",
         "Technique": "None",
-        "Image_ID": "SBR_9"
+        "Image_ID": "/images/icon/Character/SBR/SBR_9"
     },
     {
         "ID": "182",
@@ -2539,13 +2539,13 @@
         "Gender": "Male",
         "Height": "169 cm (5 ft 6 in)",
         "Age": "18",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Steel Ball Run",
         "Occupation": "Racer",
         "Stand Type": "Close-Range, Artificial Humanoid",
         "Debut": "Steel Ball Run",
         "Technique": "Sound Storage",
-        "Image_ID": "SBR_10"
+        "Image_ID": "/images/icon/Character/SBR/SBR_10"
     },
     {
         "ID": "183",
@@ -2553,13 +2553,13 @@
         "Gender": "Male",
         "Height": "178 cm (5 ft 10 in)",
         "Age": "31",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Steel Ball Run",
         "Occupation": "Paleontologist",
         "Stand Type": "Range Irrelevant, Integrated, Phenomenon, Shared",
         "Debut": "Steel Ball Run",
         "Technique": "Dinosaur Infection",
-        "Image_ID": "SBR_11"
+        "Image_ID": "/images/icon/Character/SBR/SBR_11"
     },
     {
         "ID": "184",
@@ -2567,13 +2567,13 @@
         "Gender": "Male",
         "Height": "182 cm (6 ft 0 in)",
         "Age": "31",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Steel Ball Run, Valentine's Subordinates",
         "Occupation": "Assassin",
         "Stand Type": "Close-Range, Range Irrelevant, Artificial Non-Humanoid",
         "Debut": "Steel Ball Run",
         "Technique": "Time Reversal",
-        "Image_ID": "SBR_12"
+        "Image_ID": "/images/icon/Character/SBR/SBR_12"
     },
     {
         "ID": "185",
@@ -2581,13 +2581,13 @@
         "Gender": "Male",
         "Height": "180 cm (5 ft 11 in)",
         "Age": "34",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "U.S. Government, Valentine's Subordinates",
         "Occupation": "Assassin",
         "Stand Type": "Close-Range, Artificial Non-Humanoid",
         "Debut": "Steel Ball Run",
         "Technique": "Rain Manipulation",
-        "Image_ID": "SBR_13"
+        "Image_ID": "/images/icon/Character/SBR/SBR_13"
     },
     {
         "ID": "186",
@@ -2595,13 +2595,13 @@
         "Gender": "Male",
         "Height": "181 cm (5 ft 11 in)",
         "Age": "29",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Valentine's Subordinates",
         "Occupation": "Soldier, Assassin",
         "Stand Type": "Long-Range, Psychological Assault, Artificial Humanoid",
         "Debut": "Steel Ball Run",
         "Technique": "Guilt Materialization",
-        "Image_ID": "SBR_14"
+        "Image_ID": "/images/icon/Character/SBR/SBR_14"
     },
     {
         "ID": "187",
@@ -2609,13 +2609,13 @@
         "Gender": "Male",
         "Height": "178 cm (5 ft 10 in)",
         "Age": "20",
-        "Nationality": "United Kingdom",
+        "Nationality": "/images/icon/Countries/UnitedKingdom.svg",
         "Affiliation": "Steel Ball Run, Valentine's Subordinates",
         "Occupation": "Jockey, Racer",
         "Stand Type": "Close-Range, Range Irrelevant, Natural Humanoid",
         "Debut": "Steel Ball Run",
         "Technique": "Time Stop",
-        "Image_ID": "SBR_15"
+        "Image_ID": "/images/icon/Character/SBR/SBR_15"
     },
     {
         "ID": "188",
@@ -2623,13 +2623,13 @@
         "Gender": "Male",
         "Height": "180 cm (5 ft 11 in)",
         "Age": "24",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Steel Ball Run",
         "Occupation": "Farmer, Racer",
         "Stand Type": "Close-Range, Artificial Humanoid, Sentient",
         "Debut": "Steel Ball Run",
         "Technique": "Cheering",
-        "Image_ID": "SBR_16"
+        "Image_ID": "/images/icon/Character/SBR/SBR_16"
     },
     {
         "ID": "189",
@@ -2637,13 +2637,13 @@
         "Gender": "Male",
         "Height": "140 cm (4 ft 7 in)",
         "Age": "12",
-        "Nationality": "Italy",
+        "Nationality": "/images/icon/Countries/Italy.svg",
         "Affiliation": "None",
         "Occupation": "None",
         "Stand Type": "N/A",
         "Debut": "Steel Ball Run",
         "Technique": "None",
-        "Image_ID": "SBR_17"
+        "Image_ID": "/images/icon/Character/SBR/SBR_17"
     },
     {
         "ID": "190",
@@ -2651,13 +2651,13 @@
         "Gender": "Male",
         "Height": "165 cm (5 ft 5 in)",
         "Age": "2.000",
-        "Nationality": "Unknown",
+        "Nationality": "/images/icon/Countries/Unknown.svg",
         "Affiliation": "None",
         "Occupation": "Carpenter, Messiah",
         "Stand Type": "N/A",
         "Debut": "Steel Ball Run",
         "Technique": "None",
-        "Image_ID": "SBR_18"
+        "Image_ID": "/images/icon/Character/SBR/SBR_18"
     },
     {
         "ID": "191",
@@ -2665,13 +2665,13 @@
         "Gender": "Male",
         "Height": "175 cm (5 ft 9 in)",
         "Age": "32",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Steel Ball Run",
         "Occupation": "Assassin",
         "Stand Type": "N/A",
         "Debut": "Steel Ball Run",
         "Technique": "Insect Control",
-        "Image_ID": "SBR_19"
+        "Image_ID": "/images/icon/Character/SBR/SBR_19"
     },
     {
         "ID": "192",
@@ -2679,13 +2679,13 @@
         "Gender": "Male",
         "Height": "176 cm (5 ft 9 in)",
         "Age": "29",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Steel Ball Run, Boomboom Family",
         "Occupation": "Criminal",
         "Stand Type": "Close-Range, Natural Non-Humanoid, Shared",
         "Debut": "Steel Ball Run",
         "Technique": "Magnetism",
-        "Image_ID": "SBR_20"
+        "Image_ID": "/images/icon/Character/SBR/SBR_20"
     },
     {
         "ID": "193",
@@ -2693,13 +2693,13 @@
         "Gender": "Male",
         "Height": "160 cm (5 ft 3 in)",
         "Age": "26",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Steel Ball Run, Boomboom Family",
         "Occupation": "Criminal",
         "Stand Type": "Close-Range, Natural Non-Humanoid, Shared",
         "Debut": "Steel Ball Run",
         "Technique": "Magnetism",
-        "Image_ID": "SBR_21"
+        "Image_ID": "/images/icon/Character/SBR/SBR_21"
     },
     {
         "ID": "194",
@@ -2707,13 +2707,13 @@
         "Gender": "Male",
         "Height": "178 cm (5 ft 10 in)",
         "Age": "55",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Steel Ball Run, Boomboom Family",
         "Occupation": "Criminal",
         "Stand Type": "Close-Range, Natural Non-Humanoid, Shared",
         "Debut": "Steel Ball Run",
         "Technique": "Magnetism",
-        "Image_ID": "SBR_22"
+        "Image_ID": "/images/icon/Character/SBR/SBR_22"
     },
     {
         "ID": "195",
@@ -2721,13 +2721,13 @@
         "Gender": "Male",
         "Height": "181 cm (5 ft 11 in)",
         "Age": "28",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Steel Ball Run",
         "Occupation": "Terrorist",
         "Stand Type": "Close-Range, Natural Non-Humanoid",
         "Debut": "Steel Ball Run",
         "Technique": "Contact Bombs",
-        "Image_ID": "SBR_23"
+        "Image_ID": "/images/icon/Character/SBR/SBR_23"
     },
     {
         "ID": "196",
@@ -2735,13 +2735,13 @@
         "Gender": "Male",
         "Height": "183 cm (6 ft 0 in)",
         "Age": "30",
-        "Nationality": "Germany",
+        "Nationality": "/images/icon/Countries/Germany.svg",
         "Affiliation": "Steel Ball Run",
         "Occupation": "Soldier",
         "Stand Type": "N/A",
         "Debut": "Steel Ball Run",
         "Technique": "Teleporting Hooks",
-        "Image_ID": "SBR_24"
+        "Image_ID": "/images/icon/Character/SBR/SBR_24"
     },
     {
         "ID": "197",
@@ -2749,13 +2749,13 @@
         "Gender": "Male",
         "Height": "170 cm (5 ft 7 in)",
         "Age": "17",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Valentine's Subordinates",
         "Occupation": "Assassin",
         "Stand Type": "Close-Range, Reconnaissance, Artificial Non-Humanoid",
         "Debut": "Steel Ball Run",
         "Technique": "Body Slide",
-        "Image_ID": "SBR_25"
+        "Image_ID": "/images/icon/Character/SBR/SBR_25"
     },
     {
         "ID": "198",
@@ -2763,13 +2763,13 @@
         "Gender": "Male",
         "Height": "Unknown",
         "Age": "Unknown",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Valentine's Subordinates",
         "Occupation": "Assassin",
         "Stand Type": "Close-Range, Integrated, Natural Non-Humanoid, Shared",
         "Debut": "Steel Ball Run",
         "Technique": "Metal Blowing",
-        "Image_ID": "SBR_26"
+        "Image_ID": "/images/icon/Character/SBR/SBR_26"
     },
     {
         "ID": "199",
@@ -2777,13 +2777,13 @@
         "Gender": "Male",
         "Height": "175 cm (5 ft 9 in)",
         "Age": "35",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Valentine's Subordinates",
         "Occupation": "Bodyguard",
         "Stand Type": "Automatic, Materialized, Phenomenon",
         "Debut": "Steel Ball Run",
         "Technique": "Metal Manipulation",
-        "Image_ID": "SBR_27"
+        "Image_ID": "/images/icon/Character/SBR/SBR_27"
     },
     {
         "ID": "200",
@@ -2791,13 +2791,13 @@
         "Gender": "Female",
         "Height": "170 cm (5 ft 7 in)",
         "Age": "32",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "U.S. Government",
         "Occupation": "First Lady",
         "Stand Type": "N/A",
         "Debut": "Steel Ball Run",
         "Technique": "None",
-        "Image_ID": "SBR_28"
+        "Image_ID": "/images/icon/Character/SBR/SBR_28"
     },
     {
         "ID": "201",
@@ -2805,13 +2805,13 @@
         "Gender": "Male",
         "Height": "173 cm (5 ft 8 in)",
         "Age": "30",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Steel Ball Run, Valentine's Subordinates",
         "Occupation": "Assassin",
         "Stand Type": "Close-Range, Artificial Non-Humanoid",
         "Debut": "Steel Ball Run",
         "Technique": "Absolute Defense",
-        "Image_ID": "SBR_29"
+        "Image_ID": "/images/icon/Character/SBR/SBR_29"
     },
     {
         "ID": "202",
@@ -2819,13 +2819,13 @@
         "Gender": "Male",
         "Height": "185 cm (6 ft 1 in)",
         "Age": "29",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Valentine's Subordinates",
         "Occupation": "Assassin",
         "Stand Type": "Close-Range, Artificial Non-Humanoid",
         "Debut": "Steel Ball Run",
         "Technique": "Repositioning",
-        "Image_ID": "SBR_30"
+        "Image_ID": "/images/icon/Character/SBR/SBR_30"
     },
     {
         "ID": "203",
@@ -2833,13 +2833,13 @@
         "Gender": "Male",
         "Height": "167 cm (5 ft 6 in)",
         "Age": "68",
-        "Nationality": "Japan",
+        "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Higashikata Family, Steel Ball Run",
         "Occupation": "Business Owner, Racer",
         "Stand Type": "N/A",
         "Debut": "Steel Ball Run",
         "Technique": "None",
-        "Image_ID": "SBR_31"
+        "Image_ID": "/images/icon/Character/SBR/SBR_31"
     },
     {
         "ID": "204",
@@ -2847,13 +2847,13 @@
         "Gender": "Female",
         "Height": "152 cm (5 ft 0 in)",
         "Age": "66",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Steel Ball Run",
         "Occupation": "None",
         "Stand Type": "Range Irrelevant, Integrated, Materialized, Phenomenon",
         "Debut": "Steel Ball Run",
         "Technique": "The Guardian",
-        "Image_ID": "SBR_32"
+        "Image_ID": "/images/icon/Character/SBR/SBR_32"
     },
     {
         "ID": "205",
@@ -2861,13 +2861,13 @@
         "Gender": "Male",
         "Height": "183 cm (6 ft 0 in)",
         "Age": "50",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "None",
         "Occupation": "Aristocrat, Horse Trainer",
         "Stand Type": "N/A",
         "Debut": "Steel Ball Run",
         "Technique": "None",
-        "Image_ID": "SBR_33"
+        "Image_ID": "/images/icon/Character/SBR/SBR_33"
     },
     {
         "ID": "206",
@@ -2875,13 +2875,13 @@
         "Gender": "Male",
         "Height": "178 cm (5 ft 10 in)",
         "Age": "50",
-        "Nationality": "Italy",
+        "Nationality": "/images/icon/Countries/Italy.svg",
         "Affiliation": "Naples Government",
         "Occupation": "Executioner",
         "Stand Type": "N/A",
         "Debut": "Steel Ball Run",
         "Technique": "None",
-        "Image_ID": "SBR_34"
+        "Image_ID": "/images/icon/Character/SBR/SBR_34"
     },
     {
         "ID": "207",
@@ -2889,13 +2889,13 @@
         "Gender": "Female",
         "Height": "166 cm (5 ft 5 in)",
         "Age": "17",
-        "Nationality": "United Kingdom",
+        "Nationality": "/images/icon/Countries/UnitedKingdom.svg",
         "Affiliation": "Brando Family",
         "Occupation": "Famer",
         "Stand Type": "N/A",
         "Debut": "Steel Ball Run",
         "Technique": "None",
-        "Image_ID": "SBR_35"
+        "Image_ID": "/images/icon/Character/SBR/SBR_35"
     },
     {
         "ID": "208",
@@ -2903,13 +2903,13 @@
         "Gender": "Male",
         "Height": "169 cm (5 ft 6 in)",
         "Age": "18",
-        "Nationality": "United Kingdom",
+        "Nationality": "/images/icon/Countries/UnitedKingdom.svg",
         "Affiliation": "Brando Family",
         "Occupation": "Farmer",
         "Stand Type": "N/A",
         "Debut": "Steel Ball Run",
         "Technique": "None",
-        "Image_ID": "SBR_36"
+        "Image_ID": "/images/icon/Character/SBR/SBR_36"
     },
     {
         "ID": "209",
@@ -2917,13 +2917,13 @@
         "Gender": "Male",
         "Height": "163 cm (5 ft 4 in)",
         "Age": "14",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "None",
         "Occupation": "Jockey",
         "Stand Type": "N/A",
         "Debut": "Steel Ball Run",
         "Technique": "None",
-        "Image_ID": "SBR_37"
+        "Image_ID": "/images/icon/Character/SBR/SBR_37"
     },
     {
         "ID": "210",
@@ -2931,13 +2931,13 @@
         "Gender": "Male",
         "Height": "175 cm (5 ft 9 in)",
         "Age": "35",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "None",
         "Occupation": "Soldier",
         "Stand Type": "N/A",
         "Debut": "Steel Ball Run",
         "Technique": "None",
-        "Image_ID": "SBR_38"
+        "Image_ID": "/images/icon/Character/SBR/SBR_38"
     },
     {
         "ID": "211",
@@ -2945,13 +2945,13 @@
         "Gender": "Female",
         "Height": "163 cm (5 ft 4 inches)",
         "Age": "4",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Steel Ball Run",
         "Occupation": "Racer",
         "Stand Type": "N/A",
         "Debut": "Steel Ball Run",
         "Technique": "None",
-        "Image_ID": "SBR_39"
+        "Image_ID": "/images/icon/Character/SBR/SBR_39"
     },
     {
         "ID": "212",
@@ -2959,13 +2959,13 @@
         "Gender": "Male",
         "Height": "163 cm (5 ft 4 inches)",
         "Age": "11",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Steel Ball Run",
         "Occupation": "Racer",
         "Stand Type": "N/A",
         "Debut": "Steel Ball Run",
         "Technique": "None",
-        "Image_ID": "SBR_40"
+        "Image_ID": "/images/icon/Character/SBR/SBR_40"
     },
     {
         "ID": "213",
@@ -2973,13 +2973,13 @@
         "Gender": "Unknown",
         "Height": "168 cm (5 ft 6 inches)",
         "Age": "4",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Steel Ball Run",
         "Occupation": "Racer",
         "Stand Type": "N/A",
         "Debut": "Steel Ball Run",
         "Technique": "None",
-        "Image_ID": "SBR_41"
+        "Image_ID": "/images/icon/Character/SBR/SBR_41"
     },
     {
         "ID": "214",
@@ -2987,13 +2987,13 @@
         "Gender": "Unknown",
         "Height": "152 cm (5 ft)",
         "Age": "3",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Steel Ball Run",
         "Occupation": "Racer",
         "Stand Type": "N/A",
         "Debut": "Steel Ball Run",
         "Technique": "None",
-        "Image_ID": "SBR_39"
+        "Image_ID": "/images/icon/Character/SBR/SBR_39"
     },
     {
         "ID": "215",
@@ -3001,13 +3001,13 @@
         "Gender": "Unknown",
         "Height": "153 cm (5 ft)",
         "Age": "5",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Steel Ball Run",
         "Occupation": "Racer",
         "Stand Type": "N/A",
         "Debut": "Steel Ball Run",
         "Technique": "None",
-        "Image_ID": "SBR_40"
+        "Image_ID": "/images/icon/Character/SBR/SBR_40"
     },
     {
         "ID": "216",
@@ -3015,13 +3015,13 @@
         "Gender": "Unknown",
         "Height": "163 cm (5 ft 4 inches)",
         "Age": "4",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Steel Ball Run",
         "Occupation": "Racer",
         "Stand Type": "N/A",
         "Debut": "Steel Ball Run",
         "Technique": "None",
-        "Image_ID": "SBR_41"
+        "Image_ID": "/images/icon/Character/SBR/SBR_41"
     },
     {
         "ID": "217",
@@ -3029,13 +3029,13 @@
         "Gender": "Male",
         "Height": "170 cm (5 ft 7 in)",
         "Age": "19",
-        "Nationality": "Japan",
+        "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Joestar Family, Higashikata Family, Kira Family",
         "Occupation": "None",
         "Stand Type": "Close-Range, Artificial Humanoid, Evolved, Shared",
         "Debut": "JoJolion",
         "Technique": "Bubble Generation",
-        "Image_ID": "JJL_1"
+        "Image_ID": "/images/icon/Character/JJL/JJL_1"
     },
     {
         "ID": "218",
@@ -3043,13 +3043,13 @@
         "Gender": "Female",
         "Height": "166 cm (5 ft 5 in)",
         "Age": "19",
-        "Nationality": "Japan",
+        "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "None",
         "Occupation": "Student",
         "Stand Type": "Long-Range, Reconnaissance, Natural Humanoid, Sentient",
         "Debut": "JoJolion",
         "Technique": "Guidance",
-        "Image_ID": "JJL_2"
+        "Image_ID": "/images/icon/Character/JJL/JJL_2"
     },
     {
         "ID": "219",
@@ -3057,13 +3057,13 @@
         "Gender": "Male",
         "Height": "187 cm (6 ft 2 in)",
         "Age": "31",
-        "Nationality": "Japan",
+        "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Higashikata Family, Higashikata Fruit Company",
         "Occupation": "Fruit Picker, Locacaca Researcher",
         "Stand Type": "Close-Range, Artificial Non-Humanoid",
         "Debut": "JoJolion",
         "Technique": "Skin Peeling",
-        "Image_ID": "JJL_3"
+        "Image_ID": "/images/icon/Character/JJL/JJL_3"
     },
     {
         "ID": "220",
@@ -3071,13 +3071,13 @@
         "Gender": "Male",
         "Height": "182 cm (6 ft 0 in)",
         "Age": "59",
-        "Nationality": "Japan",
+        "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Higashikata Family, Higashikata Fruit Company",
         "Occupation": "Business Owner",
         "Stand Type": "Long-Range, Reconnaissance, Artificial Humanoid",
         "Debut": "JoJolion",
         "Technique": "Scent Tracking",
-        "Image_ID": "JJL_4"
+        "Image_ID": "/images/icon/Character/JJL/JJL_4"
     },
     {
         "ID": "221",
@@ -3085,13 +3085,13 @@
         "Gender": "Male",
         "Height": "180 cm (5 ft 11 in)",
         "Age": "32",
-        "Nationality": "Japan",
+        "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Higashikata Family, Higashikata Fruit Company, Locacaca Organization",
         "Occupation": "Business Owner",
         "Stand Type": "Close-Range, Artificial Humanoid",
         "Debut": "JoJolion",
         "Technique": "Heat Accumulation",
-        "Image_ID": "JJL_5"
+        "Image_ID": "/images/icon/Character/JJL/JJL_5"
     },
     {
         "ID": "222",
@@ -3099,13 +3099,13 @@
         "Gender": "Male",
         "Height": "167 cm (5 ft 6 in)",
         "Age": "87",
-        "Nationality": "Japan",
+        "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Rock Humans, TG University Hospital, Locacaca Organization",
         "Occupation": "TG University Hospital Orderly, Leader of Locacaca Organization",
         "Stand Type": "Automatic, Sentient, Natural Humanoid, Artificial Humanoid",
         "Debut": "JoJolion",
         "Technique": "Calamity Manipulation",
-        "Image_ID": "JJL_6"
+        "Image_ID": "/images/icon/Character/JJL/JJL_6"
     },
     {
         "ID": "223",
@@ -3113,13 +3113,13 @@
         "Gender": "Male",
         "Height": "176 cm (5 ft 9 in)",
         "Age": "19",
-        "Nationality": "Japan",
+        "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Higashikata Family",
         "Occupation": "None",
         "Stand Type": "Close-Range, Artificial Humanoid",
         "Debut": "JoJolion",
         "Technique": "Nuts and Bolts",
-        "Image_ID": "JJL_7"
+        "Image_ID": "/images/icon/Character/JJL/JJL_7"
     },
     {
         "ID": "224",
@@ -3127,13 +3127,13 @@
         "Gender": "Female",
         "Height": "160 cm (5 ft 3 in)",
         "Age": "16",
-        "Nationality": "Japan",
+        "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Higashikata Family",
         "Occupation": "Student",
         "Stand Type": "Close-Range, Psychological Assault, Artificial Non-Humanoid",
         "Debut": "JoJolion",
         "Technique": "Memory Theft",
-        "Image_ID": "JJL_8"
+        "Image_ID": "/images/icon/Character/JJL/JJL_8"
     },
     {
         "ID": "225",
@@ -3141,13 +3141,13 @@
         "Gender": "Female",
         "Height": "168 cm (5 ft 6 in)",
         "Age": "24",
-        "Nationality": "Japan",
+        "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Higashikata Family",
         "Occupation": "Model",
         "Stand Type": "Close-Range, Artificial Humanoid",
         "Debut": "JoJolion",
         "Technique": "Heel Spikes",
-        "Image_ID": "JJL_9"
+        "Image_ID": "/images/icon/Character/JJL/JJL_9"
     },
     {
         "ID": "226",
@@ -3155,13 +3155,13 @@
         "Gender": "Male",
         "Height": "140 cm (4 ft 7 in)",
         "Age": "11",
-        "Nationality": "Japan",
+        "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Higashikata Family",
         "Occupation": "Student",
         "Stand Type": "Automatic, Materialized, Psychological Assault, Phenomenon",
         "Debut": "JoJolion",
         "Technique": "Living Origamis",
-        "Image_ID": "JJL_10"
+        "Image_ID": "/images/icon/Character/JJL/JJL_10"
     },
     {
         "ID": "227",
@@ -3169,13 +3169,13 @@
         "Gender": "Female",
         "Height": "170 cm (5 ft 7 in)",
         "Age": "31",
-        "Nationality": "Japan",
+        "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Higashikata Family, Higashikata Fruit Company",
         "Occupation": "Housewife",
         "Stand Type": "Close-Range, Artificial Humanoid",
         "Debut": "JoJolion",
         "Technique": "Vector Manipulation",
-        "Image_ID": "JJL_11"
+        "Image_ID": "/images/icon/Character/JJL/JJL_11"
     },
     {
         "ID": "228",
@@ -3183,13 +3183,13 @@
         "Gender": "Female",
         "Height": "174 cm (5 ft 8 in)",
         "Age": "52",
-        "Nationality": "Japan",
+        "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Higashikata Family",
         "Occupation": "Prisioner, Housewife",
         "Stand Type": "Materialized, Artificial Humanoid",
         "Debut": "JoJolion",
         "Technique": "Dimensional Storage",
-        "Image_ID": "JJL_12"
+        "Image_ID": "/images/icon/Character/JJL/JJL_12"
     },
     {
         "ID": "229",
@@ -3197,13 +3197,13 @@
         "Gender": "Female",
         "Height": "160 cm (5 ft 3 in)",
         "Age": "27",
-        "Nationality": "Japan",
+        "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Higashikata Family",
         "Occupation": "None",
         "Stand Type": "N/A",
         "Debut": "JoJolion",
         "Technique": "None",
-        "Image_ID": "JJL_13"
+        "Image_ID": "/images/icon/Character/JJL/JJL_13"
     },
     {
         "ID": "230",
@@ -3211,13 +3211,13 @@
         "Gender": "Male",
         "Height": "178 cm (5 ft 10 in)",
         "Age": "23",
-        "Nationality": "Japan",
+        "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Rock Humans, Locacaca Organization",
         "Occupation": "Smuggler",
         "Stand Type": "Close-Range, Artificial Humanoid",
         "Debut": "JoJolion",
         "Technique": "Organic Softening",
-        "Image_ID": "JJL_14"
+        "Image_ID": "/images/icon/Character/JJL/JJL_14"
     },
     {
         "ID": "231",
@@ -3225,13 +3225,13 @@
         "Gender": "Male",
         "Height": "185 cm (6 ft 1 in)",
         "Age": "28",
-        "Nationality": "Japan",
+        "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Rock Humans, Locacaca Organization",
         "Occupation": "Architect",
         "Stand Type": "Close-Range, Artificial Humanoid",
         "Debut": "JoJolion",
         "Technique": "Selective Attraction",
-        "Image_ID": "JJL_15"
+        "Image_ID": "/images/icon/Character/JJL/JJL_15"
     },
     {
         "ID": "232",
@@ -3239,13 +3239,13 @@
         "Gender": "Male",
         "Height": "170 cm (5 ft 7 in)",
         "Age": "38",
-        "Nationality": "Japan",
+        "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Rock Humans, TG University Hospital, Locacaca Organization",
         "Occupation": "Doctor",
         "Stand Type": "Long-Range, Artificial Non-Humanoid, Colony",
         "Debut": "JoJolion",
         "Technique": "Hemolysis",
-        "Image_ID": "JJL_16"
+        "Image_ID": "/images/icon/Character/JJL/JJL_16"
     },
     {
         "ID": "233",
@@ -3253,13 +3253,13 @@
         "Gender": "Male",
         "Height": "185 cm (6 ft 1 in)",
         "Age": "70",
-        "Nationality": "Japan",
+        "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Rock Humans, TG University Hospital, Locacaca Organization",
         "Occupation": "Doctor",
         "Stand Type": "Range Irrelevant, Integrated, Phenomenon",
         "Debut": "JoJolion",
         "Technique": "Gravel Transformation",
-        "Image_ID": "JJL_17"
+        "Image_ID": "/images/icon/Character/JJL/JJL_17"
     },
     {
         "ID": "234",
@@ -3267,13 +3267,13 @@
         "Gender": "Male",
         "Height": "177 cm (5 ft 10 in)",
         "Age": "39",
-        "Nationality": "Japan",
+        "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Rock Humans",
         "Occupation": "Hermit",
         "Stand Type": "Automatic, Psychological Assault, Natural Non-Humanoid",
         "Debut": "JoJolion",
         "Technique": "Contagious Possession",
-        "Image_ID": "JJL_18"
+        "Image_ID": "/images/icon/Character/JJL/JJL_18"
     },
     {
         "ID": "235",
@@ -3281,13 +3281,13 @@
         "Gender": "Male",
         "Height": "83 cm (2 ft 9 in)",
         "Age": "57",
-        "Nationality": "Japan",
+        "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Rock Humans, TG University Hospital, Locacaca Organization",
         "Occupation": "Doctor",
         "Stand Type": "Automatic, Materialized, Artificial Non-Humanoid",
         "Debut": "JoJolion",
         "Technique": "Pressure Manipulation",
-        "Image_ID": "JJL_19"
+        "Image_ID": "/images/icon/Character/JJL/JJL_19"
     },
     {
         "ID": "236",
@@ -3295,13 +3295,13 @@
         "Gender": "Male",
         "Height": "175 cm (5 ft 9 in)",
         "Age": "29",
-        "Nationality": "Japan",
+        "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Rock Humans, Locacaca Organization",
         "Occupation": "None",
         "Stand Type": "Automatic, Artificial Non-Humanoid, Natural Non-Humanoid",
         "Debut": "JoJolion",
         "Technique": "Pursuing Vortex",
-        "Image_ID": "JJL_20"
+        "Image_ID": "/images/icon/Character/JJL/JJL_20"
     },
     {
         "ID": "237",
@@ -3309,13 +3309,13 @@
         "Gender": "Male",
         "Height": "1 cm (0 ft 0.3 in)",
         "Age": "Unknown",
-        "Nationality": "Japan",
+        "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Rock Animals",
         "Occupation": "None",
         "Stand Type": "N/A",
         "Debut": "JoJolion",
         "Technique": "Jewelry Disguise",
-        "Image_ID": "JJL_21"
+        "Image_ID": "/images/icon/Character/JJL/JJL_21"
     },
     {
         "ID": "238",
@@ -3323,13 +3323,13 @@
         "Gender": "Male",
         "Height": "Unknown",
         "Age": "Unknown",
-        "Nationality": "Japan",
+        "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Rock Animals, Locacaca Organization",
         "Occupation": "None",
         "Stand Type": "N/A",
         "Debut": "JoJolion",
         "Technique": "Scaffolding",
-        "Image_ID": "JJL_22"
+        "Image_ID": "/images/icon/Character/JJL/JJL_22"
     },
     {
         "ID": "239",
@@ -3337,13 +3337,13 @@
         "Gender": "Unknown",
         "Height": "15 cm (0 ft 6 in)",
         "Age": "Unknown",
-        "Nationality": "Japan",
+        "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Rock Animals, Locacaca Organization",
         "Occupation": "None",
         "Stand Type": "N/A",
         "Debut": "JoJolion",
         "Technique": "Latching",
-        "Image_ID": "JJL_23"
+        "Image_ID": "/images/icon/Character/JJL/JJL_23"
     },
     {
         "ID": "240",
@@ -3351,13 +3351,13 @@
         "Gender": "Male",
         "Height": "Unknown",
         "Age": "Unknown",
-        "Nationality": "Japan",
+        "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Rock Animals",
         "Occupation": "None",
         "Stand Type": "N/A",
         "Debut": "JoJolion",
         "Technique": "Luring",
-        "Image_ID": "JJL_24"
+        "Image_ID": "/images/icon/Character/JJL/JJL_24"
     },
     {
         "ID": "241",
@@ -3365,13 +3365,13 @@
         "Gender": "Unknown",
         "Height": "250 cm (8 ft 2 in)",
         "Age": "Unknown",
-        "Nationality": "Japan",
+        "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Rock Animals, Locacaca Organization",
         "Occupation": "None",
         "Stand Type": "N/A",
         "Debut": "JoJolion",
         "Technique": "Caterpillar Propulsion",
-        "Image_ID": "JJL_25"
+        "Image_ID": "/images/icon/Character/JJL/JJL_25"
     },
     {
         "ID": "242",
@@ -3379,13 +3379,13 @@
         "Gender": "Male",
         "Height": "50 cm (1 ft 8 in)",
         "Age": "Unknown",
-        "Nationality": "Japan",
+        "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Rock Animals, Higashikata Family",
         "Occupation": "None",
         "Stand Type": "N/A",
         "Debut": "JoJolion",
         "Technique": "Intangibility",
-        "Image_ID": "JJL_26"
+        "Image_ID": "/images/icon/Character/JJL/JJL_26"
     },
     {
         "ID": "243",
@@ -3393,13 +3393,13 @@
         "Gender": "Male",
         "Height": "170 cm (5 ft 7 in)",
         "Age": "87",
-        "Nationality": "Japan",
+        "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "TG University Hospital, Locacaca Organization",
         "Occupation": "Doctor",
         "Stand Type": "Automatic, Sentient, Natural Humanoid, Artificial Humanoid",
         "Debut": "JoJolion",
         "Technique": "Human Disguise",
-        "Image_ID": "JJL_27"
+        "Image_ID": "/images/icon/Character/JJL/JJL_27"
     },
     {
         "ID": "244",
@@ -3407,13 +3407,13 @@
         "Gender": "Male",
         "Height": "174 cm (5 ft 8 in)",
         "Age": "29",
-        "Nationality": "Japan",
+        "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Joestar Family, Kira Family",
         "Occupation": "Doctor",
         "Stand Type": "Close-Range, Natural Humanoid",
         "Debut": "JoJolion",
         "Technique": "Explosive Bubbles",
-        "Image_ID": "JJL_28"
+        "Image_ID": "/images/icon/Character/JJL/JJL_28"
     },
     {
         "ID": "245",
@@ -3421,13 +3421,13 @@
         "Gender": "Male",
         "Height": "170 cm (5 ft 7 in)",
         "Age": "19",
-        "Nationality": "Japan",
+        "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "None",
         "Occupation": "None",
         "Stand Type": "Close-Range, Artificial Humanoid",
         "Debut": "JoJolion",
         "Technique": "Bubble Generation",
-        "Image_ID": "JJL_29"
+        "Image_ID": "/images/icon/Character/JJL/JJL_29"
     },
     {
         "ID": "246",
@@ -3435,13 +3435,13 @@
         "Gender": "Female",
         "Height": "165 cm (5 ft 5 in)",
         "Age": "20",
-        "Nationality": "Japan",
+        "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "None",
         "Occupation": "None",
         "Stand Type": "Close-Range, Artificial Humanoid",
         "Debut": "JoJolion",
         "Technique": "Hair Growth",
-        "Image_ID": "JJL_30"
+        "Image_ID": "/images/icon/Character/JJL/JJL_30"
     },
     {
         "ID": "247",
@@ -3449,13 +3449,13 @@
         "Gender": "Male",
         "Height": "173 cm (5 ft 8 in)",
         "Age": "23",
-        "Nationality": "Japan",
+        "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "None",
         "Occupation": "None",
         "Stand Type": "Close-Range, Natural Non-Humanoid",
         "Debut": "JoJolion",
         "Technique": "Body Puppeteering",
-        "Image_ID": "JJL_31"
+        "Image_ID": "/images/icon/Character/JJL/JJL_31"
     },
     {
         "ID": "248",
@@ -3463,13 +3463,13 @@
         "Gender": "Male",
         "Height": "176 cm (5 ft 9 in)",
         "Age": "20",
-        "Nationality": "Japan",
+        "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Locacaca Organization",
         "Occupation": "Assassin",
         "Stand Type": "Range Irrelevant, Integrated, Natural Non-Humanoid",
         "Debut": "JoJolion",
         "Technique": "Left Hand-Right Hand Transfer",
-        "Image_ID": "JJL_32"
+        "Image_ID": "/images/icon/Character/JJL/JJL_32"
     },
     {
         "ID": "249",
@@ -3477,13 +3477,13 @@
         "Gender": "Male",
         "Height": "176 cm (5 ft 9 in)",
         "Age": "20",
-        "Nationality": "Japan",
+        "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Locacaca Organization",
         "Occupation": "Assassin",
         "Stand Type": "Close-Range, Automatic, Natural Non-Humanoid",
         "Debut": "JoJolion",
         "Technique": "Toxic Gas",
-        "Image_ID": "JJL_33"
+        "Image_ID": "/images/icon/Character/JJL/JJL_33"
     },
     {
         "ID": "250",
@@ -3491,13 +3491,13 @@
         "Gender": "Male",
         "Height": "171 cm (5 ft 7 in)",
         "Age": "31",
-        "Nationality": "Japan",
+        "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "None",
         "Occupation": "Journalist",
         "Stand Type": "Range Irrelevant, Artificial Humanoid, Shared",
         "Debut": "JoJolion",
         "Technique": "Monetary Generation",
-        "Image_ID": "JJL_34"
+        "Image_ID": "/images/icon/Character/JJL/JJL_34"
     },
     {
         "ID": "251",
@@ -3505,13 +3505,13 @@
         "Gender": "Female",
         "Height": "170 cm (5 ft 7 in)",
         "Age": "52",
-        "Nationality": "Japan",
+        "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Joestar Family, TG University Hospital, Kira Family",
         "Occupation": "Doctor",
         "Stand Type": "Unknown",
         "Debut": "JoJolion",
         "Technique": "Unknown",
-        "Image_ID": "JJL_35"
+        "Image_ID": "/images/icon/Character/JJL/JJL_35"
     },
     {
         "ID": "252",
@@ -3519,13 +3519,13 @@
         "Gender": "Female",
         "Height": "163 cm (5 ft 4 in)",
         "Age": "22",
-        "Nationality": "Japan",
+        "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Kira Family",
         "Occupation": "Bodyguard",
         "Stand Type": "Automatic, Artificial Humanoid",
         "Debut": "JoJolion",
         "Technique": "Summon Through Opening",
-        "Image_ID": "JJL_36"
+        "Image_ID": "/images/icon/Character/JJL/JJL_36"
     },
     {
         "ID": "253",
@@ -3533,13 +3533,13 @@
         "Gender": "Female",
         "Height": "163 cm (5 ft 4 in)",
         "Age": "44",
-        "Nationality": "Japan",
+        "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "None",
         "Occupation": "Housewife",
         "Stand Type": "N/A",
         "Debut": "JoJolion",
         "Technique": "None",
-        "Image_ID": "JJL_37"
+        "Image_ID": "/images/icon/Character/JJL/JJL_37"
     },
     {
         "ID": "254",
@@ -3547,13 +3547,13 @@
         "Gender": "Female",
         "Height": "168 cm (5 ft 6 in)",
         "Age": "43",
-        "Nationality": "Japan",
+        "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "None",
         "Occupation": "Housewife",
         "Stand Type": "N/A",
         "Debut": "JoJolion",
         "Technique": "None",
-        "Image_ID": "JJL_38"
+        "Image_ID": "/images/icon/Character/JJL/JJL_38"
     },
     {
         "ID": "255",
@@ -3561,13 +3561,13 @@
         "Gender": "Female",
         "Height": "160 cm (5 ft 3 in)",
         "Age": "65",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "None",
         "Occupation": "Botanic, Geomorphologist",
         "Stand Type": "Range Irrelevant, Integrated, Phenomenon",
         "Debut": "Steel Ball Run",
         "Technique": "Divine Protection",
-        "Image_ID": "JJL_39"
+        "Image_ID": "/images/icon/Character/JJL/JJL_39"
     },
     {
         "ID": "256",
@@ -3575,13 +3575,13 @@
         "Gender": "Male",
         "Height": "163 cm (5 ft 4 in)",
         "Age": "29",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Joestar Family, Higashikata Fruit Company",
         "Occupation": "Equestrian Coach, Fruit Importer",
         "Stand Type": "Close-Range, Evolved, Artificial Humanoid",
         "Debut": "Steel Ball Run",
         "Technique": "Spinning Nails",
-        "Image_ID": "JJL_40"
+        "Image_ID": "/images/icon/Character/JJL/JJL_40"
     },
     {
         "ID": "257",
@@ -3589,13 +3589,13 @@
         "Gender": "Male",
         "Height": "180 cm (5 ft 11 in)",
         "Age": "17",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Joestar Family",
         "Occupation": "Assistant, Hotel Staff",
         "Stand Type": "Close-Range, Reconnaissance, Natural Non-Humanoid, Natural Humanoid",
         "Debut": "JoJolion",
         "Technique": "Vine Tendril Projection",
-        "Image_ID": "JJL_41"
+        "Image_ID": "/images/icon/Character/JJL/JJL_41"
     },
     {
         "ID": "258",
@@ -3603,13 +3603,13 @@
         "Gender": "Male",
         "Height": "175 cm (5 ft 9 in)​",
         "Age": "15",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Joestar Family, Team Jodio",
         "Occupation": "Student, Gofer",
         "Stand Type": "Close-Range, Natural Non-Humanoid",
         "Debut": "The JOJOLands",
         "Technique": "Rain Generator",
-        "Image_ID": "TJJL_1"
+        "Image_ID": "/images/icon/Character/TJJL/TJJL_1"
     },
     {
         "ID": "259",
@@ -3617,13 +3617,13 @@
         "Gender": "Male",
         "Height": "172 cm (5 ft 8 in)",
         "Age": "18",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Joestar Family, Team Jodio",
         "Occupation": "Boutique Employee",
         "Stand Type": "Close-Range, Colony, Artificial Non-Humanoid",
         "Debut": "The JOJOLands",
         "Technique": "Displacement",
-        "Image_ID": "TJJL_2"
+        "Image_ID": "/images/icon/Character/TJJL/TJJL_2"
     },
     {
         "ID": "260",
@@ -3631,13 +3631,13 @@
         "Gender": "Male",
         "Height": "185 cm (6 ft 1 in)",
         "Age": "19",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Team Jodio",
         "Occupation": "Student, Gofer",
         "Stand Type": "Integrated",
         "Debut": "The JOJOLands",
         "Technique": "Prehensile Muscles",
-        "Image_ID": "TJJL_3"
+        "Image_ID": "/images/icon/Character/TJJL/TJJL_3"
     },
     {
         "ID": "261",
@@ -3645,13 +3645,13 @@
         "Gender": "Male",
         "Height": "176 cm (5 ft 9 in)",
         "Age": "17",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Team Jodio",
         "Occupation": "Student",
         "Stand Type": "Artificial Non-Humanoid",
         "Debut": "The JOJOLands",
         "Technique": "Wish Granting Transformation",
-        "Image_ID": "TJJL_4"
+        "Image_ID": "/images/icon/Character/TJJL/TJJL_4"
     },
     {
         "ID": "262",
@@ -3659,13 +3659,13 @@
         "Gender": "Male",
         "Height": "175 cm (5 ft 9 in)",
         "Age": "20",
-        "Nationality": "Japan",
+        "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "None",
         "Occupation": "Manga Artist",
         "Stand Type": "Close-Range, Reconnaissance, Natural Humanoid",
         "Debut": "The JOJOLands",
         "Technique": "Book Writing",
-        "Image_ID": "TJJL_5"
+        "Image_ID": "/images/icon/Character/TJJL/TJJL_5"
     },
     {
         "ID": "263",
@@ -3673,13 +3673,13 @@
         "Gender": "Female",
         "Height": "Unknown",
         "Age": "49",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "None",
         "Occupation": "Principal, Business Owner, Housewife ",
         "Stand Type": "N/A",
         "Debut": "The JOJOLands",
         "Technique": "None",
-        "Image_ID": "TJJL_6"
+        "Image_ID": "/images/icon/Character/TJJL/TJJL_6"
     },
     {
         "ID": "264",
@@ -3687,13 +3687,13 @@
         "Gender": "Male",
         "Height": "Unknown",
         "Age": "21",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Team Jodio",
         "Occupation": "None",
         "Stand Type": "Integrated, Phenomenon",
         "Debut": "The JOJOLands",
         "Technique": "Skin Dispersion",
-        "Image_ID": "TJJL_7"
+        "Image_ID": "/images/icon/Character/TJJL/TJJL_7"
     },
     {
         "ID": "265",
@@ -3701,13 +3701,13 @@
         "Gender": "Female",
         "Height": "Unknown",
         "Age": "Unknown",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Joestar Family",
         "Occupation": "Airport Employee",
         "Stand Type": "N/A",
         "Debut": "The JOJOLands",
         "Technique": "None",
-        "Image_ID": "TJJL_8"
+        "Image_ID": "/images/icon/Character/TJJL/TJJL_8"
     },
     {
         "ID": "266",
@@ -3715,13 +3715,13 @@
         "Gender": "Male",
         "Height": "Unknown",
         "Age": "42",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "HOWLER Company",
         "Occupation": "Business Owner",
         "Stand Type": "Natural Humanoid",
         "Debut": "The JOJOLands",
         "Technique": "Unknown",
-        "Image_ID": "TJJL_9"
+        "Image_ID": "/images/icon/Character/TJJL/TJJL_9"
     },
     {
         "ID": "267",
@@ -3729,13 +3729,13 @@
         "Gender": "Unknown",
         "Height": "Unknown",
         "Age": "Unknown",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "None",
         "Occupation": "None",
         "Stand Type": "Integrated, Close-Range, Artificial Non-Humanoid, Shared",
         "Debut": "The JOJOLands",
         "Technique": "Constricting Wires",
-        "Image_ID": "TJJL_10"
+        "Image_ID": "/images/icon/Character/TJJL/TJJL_10"
     },
     {
         "ID": "268",
@@ -3743,13 +3743,13 @@
         "Gender": "Female",
         "Height": "150 cm (4 ft 11 in)",
         "Age": "12",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "HOWLER Company",
         "Occupation": "Unknown",
         "Stand Type": "Automatic, Long-Range, Artificial Humanoid, Colony",
         "Debut": "The JOJOLands",
         "Technique": "Lesion Infliction",
-        "Image_ID": "TJJL_11"
+        "Image_ID": "/images/icon/Character/TJJL/TJJL_11"
     },
     {
         "ID": "269",
@@ -3757,13 +3757,13 @@
         "Gender": "Male",
         "Height": "Unknown",
         "Age": "Unknown",
-        "Nationality": "USA",
+        "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "HOWLER Company",
         "Occupation": "Investigator",
         "Stand Type": "Materialized",
         "Debut": "The JOJOLands",
         "Technique": "Bullet Speed Manipulation",
-        "Image_ID": "TJJL_12"
+        "Image_ID": "/images/icon/Character/TJJL/TJJL_12"
     },
     {
         "ID": "270",
@@ -3771,12 +3771,12 @@
         "Gender": "Male",
         "Height": "Unknown",
         "Age": "Unknown",
-        "Nationality": "Italy",
+        "Nationality": "/images/icon/Countries/Italy.svg",
         "Affiliation": "HOWLER Company",
         "Occupation": "Business Owner",
         "Stand Type": "N/A",
         "Debut": "The JOJOLands",
         "Technique": "None",
-        "Image_ID": "TJJL_13"
+        "Image_ID": "/images/icon/Character/TJJL/TJJL_13"
     }
 ]
