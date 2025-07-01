@@ -1,10 +1,10 @@
 [
     {
-        "ID": "1",
+        "ID": 1,
         "Name": "Jonathan Joestar",
         "Gender": "Male",
         "Height": "195 cm (6 ft 5 in)",
-        "Age": "20",
+        "Age": 20,
         "Nationality": "/images/icon/Countries/UnitedKingdom.svg",
         "Affiliation": "Joestar Family",
         "Occupation": "Archaeologist",
@@ -14,11 +14,11 @@
         "Image_ID": "/images/icon/Character/PB/PB_1"
     },
     {
-        "ID": "2",
+        "ID": 2,
         "Name": "Will Anthonio Zeppeli",
         "Gender": "Male",
         "Height": "178 cm (5 ft 10 in)",
-        "Age": "50",
+        "Age": 50,
         "Nationality": "/images/icon/Countries/Italy.svg",
         "Affiliation": "Zeppeli Family, Tibet Hamon Masters",
         "Occupation": "Hamon Master",
@@ -28,11 +28,11 @@
         "Image_ID": "/images/icon/Character/PB/PB_2"
     },
     {
-        "ID": "3",
+        "ID": 3,
         "Name": "Robert E. O. Speedwagon",
         "Gender": "Male",
         "Height": "175 cm (5 ft  in)",
-        "Age": "25",
+        "Age": 25,
         "Nationality": "/images/icon/Countries/UnitedKingdom.svg",
         "Affiliation": "Ogre Street",
         "Occupation": "Thief",
@@ -42,11 +42,11 @@
         "Image_ID": "/images/icon/Character/PB/PB_3"
     },
     {
-        "ID": "4",
+        "ID": 4,
         "Name": "Dio Brando (PB)",
         "Gender": "Male",
         "Height": "185 cm (6 ft 1 in)",
-        "Age": "20",
+        "Age": 20,
         "Nationality": "/images/icon/Countries/UnitedKingdom.svg",
         "Affiliation": "Joestar Family, Brando Family",
         "Occupation": "Vampire",
@@ -56,11 +56,11 @@
         "Image_ID": "/images/icon/Character/PB/PB_4"
     },
     {
-        "ID": "5",
+        "ID": 5,
         "Name": "George Joestar I",
         "Gender": "Male",
         "Height": "183 cm (6 ft 0 in)",
-        "Age": "50",
+        "Age": 50,
         "Nationality": "/images/icon/Countries/UnitedKingdom.svg",
         "Affiliation": "Joestar Family",
         "Occupation": "Aristocrat, Merchant",
@@ -70,11 +70,11 @@
         "Image_ID": "/images/icon/Character/PB/PB_5"
     },
     {
-        "ID": "6",
+        "ID": 6,
         "Name": "Erina Pendleton",
         "Gender": "Female",
         "Height": "183 cm (6 ft 0 in)",
-        "Age": "19",
+        "Age": 19,
         "Nationality": "/images/icon/Countries/UnitedKingdom.svg",
         "Affiliation": "Joestar Family",
         "Occupation": "Nurse",
@@ -84,11 +84,11 @@
         "Image_ID": "/images/icon/Character/PB/PB_6"
     },
     {
-        "ID": "7",
+        "ID": 7,
         "Name": "Poco",
         "Gender": "Male",
         "Height": "139 cm (4 ft 7 in)",
-        "Age": "12",
+        "Age": 12,
         "Nationality": "/images/icon/Countries/UnitedKingdom.svg",
         "Affiliation": "None",
         "Occupation": "None",
@@ -98,11 +98,11 @@
         "Image_ID": "/images/icon/Character/PB/PB_7"
     },
     {
-        "ID": "8",
+        "ID": 8,
         "Name": "Tonpetty",
         "Gender": "Male",
         "Height": "185 cm (6 ft 1 in)",
-        "Age": "70",
+        "Age": 70,
         "Nationality": "/images/icon/Countries/Tibet.svg",
         "Affiliation": "Tibet Hamon Masters",
         "Occupation": "Hamon Master",
@@ -112,11 +112,11 @@
         "Image_ID": "/images/icon/Character/PB/PB_8"
     },
     {
-        "ID": "9",
+        "ID": 9,
         "Name": "Dire",
         "Gender": "Male",
         "Height": "185 cm (6 ft 1 in)",
-        "Age": "40",
+        "Age": 40,
         "Nationality": "/images/icon/Countries/Tibet.svg",
         "Affiliation": "Tibet Hamon Masters",
         "Occupation": "Hamon Master",
@@ -126,11 +126,11 @@
         "Image_ID": "/images/icon/Character/PB/PB_9"
     },
     {
-        "ID": "10",
+        "ID": 10,
         "Name": "Straizo",
         "Gender": "Male",
         "Height": "180 cm (5 ft 11 in)",
-        "Age": "25",
+        "Age": 25,
         "Nationality": "/images/icon/Countries/Tibet.svg",
         "Affiliation": "Tibet Hamon Masters",
         "Occupation": "Hamon Master",
@@ -140,11 +140,11 @@
         "Image_ID": "/images/icon/Character/PB/PB_10"
     },
     {
-        "ID": "11",
+        "ID": 11,
         "Name": "Wang Chan",
         "Gender": "Male",
         "Height": "170 cm (5 ft 7 in)",
-        "Age": "70",
+        "Age": 70,
         "Nationality": "/images/icon/Countries/China.svg",
         "Affiliation": "Ogre Street, Dio Brando's Zombies",
         "Occupation": "Merchant",
@@ -154,11 +154,11 @@
         "Image_ID": "/images/icon/Character/PB/PB_11"
     },
     {
-        "ID": "12",
+        "ID": 12,
         "Name": "Bruford",
         "Gender": "Male",
         "Height": "196 cm (6 ft 0 in)",
-        "Age": "300",
+        "Age": 300,
         "Nationality": "/images/icon/Countries/UnitedKingdom.svg",
         "Affiliation": "Dio Brando's Zombies",
         "Occupation": "Knight",
@@ -168,11 +168,11 @@
         "Image_ID": "/images/icon/Character/PB/PB_12"
     },
     {
-        "ID": "13",
+        "ID": 13,
         "Name": "Tarkus",
         "Gender": "Male",
         "Height": "262 cm (8 ft 7 in)",
-        "Age": "300",
+        "Age": 300,
         "Nationality": "/images/icon/Countries/UnitedKingdom.svg",
         "Affiliation": "Dio Brando's Zombies",
         "Occupation": "Knight",
@@ -182,11 +182,11 @@
         "Image_ID": "/images/icon/Character/PB/PB_13"
     },
     {
-        "ID": "14",
+        "ID": 14,
         "Name": "Dario Brando",
         "Gender": "Male",
         "Height": "170 cm (5 ft 7 in)",
-        "Age": "52",
+        "Age": 52,
         "Nationality": "/images/icon/Countries/UnitedKingdom.svg",
         "Affiliation": "Joestar Family, Brando Family",
         "Occupation": "Thief",
@@ -196,7 +196,7 @@
         "Image_ID": "/images/icon/Character/PB/PB_14"
     },
     {
-        "ID": "15",
+        "ID": 15,
         "Name": "Danny",
         "Gender": "Male",
         "Height": "83cm (2 ft 9 in)",
@@ -210,11 +210,11 @@
         "Image_ID": "/images/icon/Character/PB/PB_15"
     },
     {
-        "ID": "16",
+        "ID": 16,
         "Name": "Poco's Sister",
         "Gender": "Female",
         "Height": "162 cm (5 ft 4 in)",
-        "Age": "16",
+        "Age": 16,
         "Nationality": "/images/icon/Countries/UnitedKingdom.svg",
         "Affiliation": "None",
         "Occupation": "None",
@@ -224,11 +224,11 @@
         "Image_ID": "/images/icon/Character/PB/PB_16"
     },
     {
-        "ID": "17",
+        "ID": 17,
         "Name": "Adams",
         "Gender": "Male",
         "Height": "185 cm (6 ft 1 in)",
-        "Age": "Unknown",
+        "Age": null,
         "Nationality": "/images/icon/Countries/UnitedKingdom.svg",
         "Affiliation": "Dio Brando's Zombies",
         "Occupation": "Assassin",
@@ -238,11 +238,11 @@
         "Image_ID": "/images/icon/Character/PB/PB_17"
     },
     {
-        "ID": "18",
+        "ID": 18,
         "Name": "Jack the Ripper",
         "Gender": "Male",
         "Height": "185 cm (6 ft 1 in)",
-        "Age": "Unknown",
+        "Age": null,
         "Nationality": "/images/icon/Countries/UnitedKingdom.svg",
         "Affiliation": "Dio Brando's Zombies",
         "Occupation": "Assassin, Criminal",
@@ -252,11 +252,11 @@
         "Image_ID": "/images/icon/Character/PB/PB_18"
     },
     {
-        "ID": "19",
+        "ID": 19,
         "Name": "Doobie",
         "Gender": "Male",
         "Height": "200 cm (6 ft 6 in)",
-        "Age": "Unknown",
+        "Age": null,
         "Nationality": "/images/icon/Countries/UnitedKingdom.svg",
         "Affiliation": "Dio Brando's Zombies",
         "Occupation": "Assassin",
@@ -266,11 +266,11 @@
         "Image_ID": "/images/icon/Character/PB/PB_19"
     },
     {
-        "ID": "20",
+        "ID": 20,
         "Name": "Joseph Joestar",
         "Gender": "Male",
         "Height": "195 cm (6 ft 5 in)",
-        "Age": "18",
+        "Age": 18,
         "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Joestar Family, Speedwagon Foundation",
         "Occupation": "None",
@@ -280,11 +280,11 @@
         "Image_ID": "/images/icon/Character/BT/BT_1"
     },
     {
-        "ID": "21",
+        "ID": 21,
         "Name": "Caesar Anthonio Zeppeli",
         "Gender": "Male",
         "Height": "186 cm (6 ft 1 in)",
-        "Age": "20",
+        "Age": 20,
         "Nationality": "/images/icon/Countries/Italy.svg",
         "Affiliation": "Zeppeli Family, Speedwagon Foundation",
         "Occupation": "None",
@@ -294,11 +294,11 @@
         "Image_ID": "/images/icon/Character/BT/BT_2"
     },
     {
-        "ID": "22",
+        "ID": 22,
         "Name": "Lisa Lisa",
         "Gender": "Female",
         "Height": "175 cm (5 ft 7 in)",
-        "Age": "50",
+        "Age": 50,
         "Nationality": "/images/icon/Countries/Unknown.svg",
         "Affiliation": "Joestar Family, Speedwagon Foundation",
         "Occupation": "Hamon Master",
@@ -308,11 +308,11 @@
         "Image_ID": "/images/icon/Character/BT/BT_3"
     },
     {
-        "ID": "23",
+        "ID": 23,
         "Name": "Rudol von Stroheim",
         "Gender": "Male",
         "Height": "195 cm (6 ft 5 in)",
-        "Age": "31",
+        "Age": 31,
         "Nationality": "/images/icon/Countries/Germany.svg",
         "Affiliation": "Nazi Germany, Speedwagon Foundation",
         "Occupation": "Soldier",
@@ -322,11 +322,11 @@
         "Image_ID": "/images/icon/Character/BT/BT_4"
     },
     {
-        "ID": "24",
+        "ID": 24,
         "Name": "Kars",
         "Gender": "Male",
         "Height": "196 cm (6 ft 5 in)",
-        "Age": "102.000",
+        "Age": 102.000,
         "Nationality": "/images/icon/Countries/Unknown.svg",
         "Affiliation": "Pillar Men",
         "Occupation": "None",
@@ -336,11 +336,11 @@
         "Image_ID": "/images/icon/Character/BT/BT_5"
     },
     {
-        "ID": "25",
+        "ID": 25,
         "Name": "Esidisi",
         "Gender": "Male",
         "Height": "198 cm (6 ft 5 in)",
-        "Age": "12.000",
+        "Age": 12.000,
         "Nationality": "/images/icon/Countries/Unknown.svg",
         "Affiliation": "Pillar Men",
         "Occupation": "None",
@@ -350,11 +350,11 @@
         "Image_ID": "/images/icon/Character/BT/BT_6"
     },
     {
-        "ID": "26",
+        "ID": 26,
         "Name": "Wamuu",
         "Gender": "Male",
         "Height": "197 cm (6 ft 6 in)",
-        "Age": "12.000",
+        "Age": 12.000,
         "Nationality": "/images/icon/Countries/Unknown.svg",
         "Affiliation": "Pillar Men",
         "Occupation": "None",
@@ -364,11 +364,11 @@
         "Image_ID": "/images/icon/Character/BT/BT_7"
     },
     {
-        "ID": "27",
+        "ID": 27,
         "Name": "Robert E. O. Speedwagon (BT)",
         "Gender": "Male",
         "Height": "175 cm (5 ft 9 in)",
-        "Age": "74",
+        "Age": 74,
         "Nationality": "/images/icon/Countries/UnitedKingdom.svg",
         "Affiliation": "Speedwagon Foundation",
         "Occupation": "Oil magnate, Speedwagon Foundation CEO",
@@ -378,11 +378,11 @@
         "Image_ID": "/images/icon/Character/BT/BT_8"
     },
     {
-        "ID": "28",
+        "ID": 28,
         "Name": "Messina",
         "Gender": "Male",
         "Height": "186 cm (6 ft 1 in)",
-        "Age": "30",
+        "Age": 30,
         "Nationality": "/images/icon/Countries/Unknown.svg",
         "Affiliation": "None",
         "Occupation": "Hamon Master",
@@ -392,11 +392,11 @@
         "Image_ID": "/images/icon/Character/BT/BT_9"
     },
     {
-        "ID": "29",
+        "ID": 29,
         "Name": "Loggins",
         "Gender": "Male",
         "Height": "188 cm (6 ft 2 in)",
-        "Age": "30",
+        "Age": 30,
         "Nationality": "/images/icon/Countries/Unknown.svg",
         "Affiliation": "None",
         "Occupation": "Hamon Master",
@@ -406,11 +406,11 @@
         "Image_ID": "/images/icon/Character/BT/BT_10"
     },
     {
-        "ID": "30",
+        "ID": 30,
         "Name": "Straizo (BT)",
         "Gender": "Male",
         "Height": "180 cm (5 ft 11 in)",
-        "Age": "75",
+        "Age": 75,
         "Nationality": "/images/icon/Countries/Tibet.svg",
         "Affiliation": "Tibet Hamon Masters",
         "Occupation": "Hamon Master, Vampire",
