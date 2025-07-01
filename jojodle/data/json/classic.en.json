@@ -1400,11 +1400,11 @@
         "Image_ID": "/images/icon/Character/DiU/DiU_22"
     },
     {
-        "ID": "101",
+        "ID": 101,
         "Name": "Tonio Trussardi",
         "Gender": "Male",
         "Height": "175 cm (5 ft 9 in)",
-        "Age": "30",
+        "Age": 30,
         "Nationality": "/images/icon/Countries/Italy.svg",
         "Affiliation": "None",
         "Occupation": "Chef",
@@ -1414,11 +1414,11 @@
         "Image_ID": "/images/icon/Character/DiU/DiU_23"
     },
     {
-        "ID": "102",
+        "ID": 102,
         "Name": "Shizuka Joestar",
         "Gender": "Female",
         "Height": "70 cm (2 ft 3 in)",
-        "Age": "1",
+        "Age": 1,
         "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Joestar Family",
         "Occupation": "None",
@@ -1428,11 +1428,11 @@
         "Image_ID": "/images/icon/Character/DiU/DiU_24"
     },
     {
-        "ID": "103",
+        "ID": 103,
         "Name": "Arnold",
         "Gender": "Male",
         "Height": "80 cm (2 ft 7 in)",
-        "Age": "Unknown",
+        "Age": null,
         "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "None",
         "Occupation": "None",
@@ -1442,11 +1442,11 @@
         "Image_ID": "/images/icon/Character/DiU/DiU_25"
     },
     {
-        "ID": "104",
+        "ID": 104,
         "Name": "Aya Tsuji",
         "Gender": "Female",
         "Height": "165 cm (5 ft 5 in)",
-        "Age": "24",
+        "Age": 24,
         "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "None",
         "Occupation": "Esthetician",
@@ -1456,11 +1456,11 @@
         "Image_ID": "/images/icon/Character/DiU/DiU_26"
     },
     {
-        "ID": "105",
+        "ID": 105,
         "Name": "Bug-Eaten",
         "Gender": "Male",
         "Height": "30 cm (1 ft  0 in)",
-        "Age": "Unknown",
+        "Age": null,
         "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "None",
         "Occupation": "None",
@@ -1470,11 +1470,11 @@
         "Image_ID": "/images/icon/Character/DiU/DiU_27"
     },
     {
-        "ID": "106",
+        "ID": 106,
         "Name": "Not Bug-Eaten",
         "Gender": "Male",
         "Height": "30 cm (1 ft  0 in)",
-        "Age": "Unknown",
+        "Age": null,
         "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "None",
         "Occupation": "None",
@@ -1484,11 +1484,11 @@
         "Image_ID": "/images/icon/Character/DiU/DiU_28"
     },
     {
-        "ID": "107",
+        "ID": 107,
         "Name": "Ken Oyanagi",
         "Gender": "Male",
         "Height": "160 cm (5 ft 3 in)",
-        "Age": "12",
+        "Age": 12,
         "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "None",
         "Occupation": "Student",
@@ -1498,11 +1498,11 @@
         "Image_ID": "/images/icon/Character/DiU/DiU_29"
     },
     {
-        "ID": "108",
+        "ID": 108,
         "Name": "Toyohiro Kanedaichi",
         "Gender": "Male",
         "Height": "170 cm (5 ft 7 in)",
-        "Age": "35",
+        "Age": 35,
         "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "None",
         "Occupation": "Hermit",
@@ -1512,11 +1512,11 @@
         "Image_ID": "/images/icon/Character/DiU/DiU_30"
     },
     {
-        "ID": "109",
+        "ID": 109,
         "Name": "Terunosuke Miyamoto",
         "Gender": "Male",
         "Height": "180 cm (5 ft 11 in)",
-        "Age": "35",
+        "Age": 35,
         "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "None",
         "Occupation": "Assassin",
@@ -1526,11 +1526,11 @@
         "Image_ID": "/images/icon/Character/DiU/DiU_31"
     },
     {
-        "ID": "110",
+        "ID": 110,
         "Name": "Masazo Kinoto",
         "Gender": "Male",
         "Height": "183 cm (6 ft  0 in)",
-        "Age": "29",
+        "Age": 29,
         "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "None",
         "Occupation": "Architect",
@@ -1540,11 +1540,11 @@
         "Image_ID": "/images/icon/Character/DiU/DiU_32"
     },
     {
-        "ID": "111",
+        "ID": 111,
         "Name": "Ryohei Higashikata",
         "Gender": "Male",
         "Height": "183 cm (6 ft  0 in)",
-        "Age": "62",
+        "Age": 62,
         "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Higashikata Family",
         "Occupation": "Police Officer",
@@ -1554,11 +1554,11 @@
         "Image_ID": "/images/icon/Character/DiU/DiU_33"
     },
     {
-        "ID": "112",
+        "ID": 112,
         "Name": "Mansaku Nijimura",
         "Gender": "Male",
         "Height": "180 cm (5 ft 11 in)",
-        "Age": "Unknown",
+        "Age": null,
         "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "None",
         "Occupation": "None",
@@ -1568,11 +1568,11 @@
         "Image_ID": "/images/icon/Character/DiU/DiU_34"
     },
     {
-        "ID": "113",
+        "ID": 113,
         "Name": "Giorno Giovanna",
         "Gender": "Male",
         "Height": "172 cm (5 ft 8 in)",
-        "Age": "15",
+        "Age": 15,
         "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Joestar Family, Brando Family, Passione, Team Bucciarati",
         "Occupation": "Mafia",
@@ -1582,11 +1582,11 @@
         "Image_ID": "/images/icon/Character/VA/VA_1"
     },
     {
-        "ID": "114",
+        "ID": 114,
         "Name": "Bruno Bucciarati",
         "Gender": "Male",
         "Height": "178 cm (5 ft 10 in)",
-        "Age": "20",
+        "Age": 20,
         "Nationality": "/images/icon/Countries/Italy.svg",
         "Affiliation": "Passione, Team Bucciarati",
         "Occupation": "Mafia",
@@ -1596,11 +1596,11 @@
         "Image_ID": "/images/icon/Character/VA/VA_2"
     },
     {
-        "ID": "115",
+        "ID": 115,
         "Name": "Leone Abbacchio",
         "Gender": "Male",
         "Height": "188 cm (6 ft 2 in)",
-        "Age": "21",
+        "Age": 21,
         "Nationality": "/images/icon/Countries/Italy.svg",
         "Affiliation": "Passione, Team Bucciarati",
         "Occupation": "Mafia",
@@ -1610,11 +1610,11 @@
         "Image_ID": "/images/icon/Character/VA/VA_3"
     },
     {
-        "ID": "116",
+        "ID": 116,
         "Name": "Guido Mista",
         "Gender": "Male",
         "Height": "179 cm (5 ft 8 in)",
-        "Age": "18",
+        "Age": 18,
         "Nationality": "/images/icon/Countries/Italy.svg",
         "Affiliation": "Passione, Team Bucciarati",
         "Occupation": "Mafia",
@@ -1624,11 +1624,11 @@
         "Image_ID": "/images/icon/Character/VA/VA_4"
     },
     {
-        "ID": "117",
+        "ID": 117,
         "Name": "Narancia Ghirga",
         "Gender": "Male",
         "Height": "164 cm (5 ft 3 in)",
-        "Age": "17",
+        "Age": 17,
         "Nationality": "/images/icon/Countries/Italy.svg",
         "Affiliation": "Passione, Team Bucciarati",
         "Occupation": "Mafia",
@@ -1638,11 +1638,11 @@
         "Image_ID": "/images/icon/Character/VA/VA_5"
     },
     {
-        "ID": "118",
+        "ID": 118,
         "Name": "Pannacotta Fugo",
         "Gender": "Male",
         "Height": "174 cm (5 ft 7 in)",
-        "Age": "16",
+        "Age": 16,
         "Nationality": "/images/icon/Countries/Italy.svg",
         "Affiliation": "Passione, Team Bucciarati",
         "Occupation": "Mafia",
@@ -1652,11 +1652,11 @@
         "Image_ID": "/images/icon/Character/VA/VA_6"
     },
     {
-        "ID": "119",
+        "ID": 119,
         "Name": "Trish Una",
         "Gender": "Female",
         "Height": "163 cm (5 ft 4 in)",
-        "Age": "15",
+        "Age": 15,
         "Nationality": "/images/icon/Countries/Italy.svg",
         "Affiliation": "Passione, Team Bucciarati",
         "Occupation": "Mafia",
@@ -1666,11 +1666,11 @@
         "Image_ID": "/images/icon/Character/VA/VA_7"
     },
     {
-        "ID": "120",
+        "ID": 120,
         "Name": "Diavolo",
         "Gender": "Male",
         "Height": "191 cm (6 ft 3 in) ",
-        "Age": "33",
+        "Age": 33,
         "Nationality": "/images/icon/Countries/Italy.svg",
         "Affiliation": "Passione",
         "Occupation": "Mafia",
@@ -1680,11 +1680,11 @@
         "Image_ID": "/images/icon/Character/VA/VA_8"
     },
     {
-        "ID": "121",
+        "ID": 121,
         "Name": "Vinegar Doppio",
         "Gender": "Male",
         "Height": "170 cm (5 ft 7 in)",
-        "Age": "33",
+        "Age": 33,
         "Nationality": "/images/icon/Countries/Italy.svg",
         "Affiliation": "Passione",
         "Occupation": "Mafia",
@@ -1694,11 +1694,11 @@
         "Image_ID": "/images/icon/Character/VA/VA_9"
     },
     {
-        "ID": "122",
+        "ID": 122,
         "Name": "Risotto Nero",
         "Gender": "Male",
         "Height": "175 cm (6 ft 1 in)",
-        "Age": "28",
+        "Age": 28,
         "Nationality": "/images/icon/Countries/Italy.svg",
         "Affiliation": "Passione, La Squadra Esecuzioni",
         "Occupation": "Mafia",
@@ -1708,11 +1708,11 @@
         "Image_ID": "/images/icon/Character/VA/VA_10"
     },
     {
-        "ID": "123",
+        "ID": 123,
         "Name": "Coco Jumbo",
         "Gender": "Male",
         "Height": "30 cm (1 ft 0 in)",
-        "Age": "Unknown",
+        "Age": null,
         "Nationality": "/images/icon/Countries/Italy.svg",
         "Affiliation": "Passione",
         "Occupation": "Mafia",
@@ -1722,11 +1722,11 @@
         "Image_ID": "/images/icon/Character/VA/VA_11"
     },
     {
-        "ID": "124",
+        "ID": 124,
         "Name": "Jean Pierre Polnareff (VA)",
         "Gender": "Male",
         "Height": "185 cm (6 ft 1 in)",
-        "Age": "36",
+        "Age": 36,
         "Nationality": "/images/icon/Countries/France.svg",
         "Affiliation": "Joestar Group, Speedwagon Foundation, Passione",
         "Occupation": "Investigator",
@@ -1736,11 +1736,11 @@
         "Image_ID": "/images/icon/Character/VA/VA_12"
     },
     {
-        "ID": "125",
+        "ID": 125,
         "Name": "Polpo",
         "Gender": "Male",
         "Height": "230 cm (7 ft 6 in)",
-        "Age": "39",
+        "Age": 39,
         "Nationality": "/images/icon/Countries/Italy.svg",
         "Affiliation": "Passione",
         "Occupation": "Mafia",
@@ -1750,11 +1750,11 @@
         "Image_ID": "/images/icon/Character/VA/VA_13"
     },
     {
-        "ID": "126",
+        "ID": 126,
         "Name": "Melone",
         "Gender": "Male",
         "Height": "174 cm (5 ft 9 in)",
-        "Age": "28",
+        "Age": 28,
         "Nationality": "/images/icon/Countries/Italy.svg",
         "Affiliation": "Passione, La Squadra Esecuzioni",
         "Occupation": "Mafia",
@@ -1764,11 +1764,11 @@
         "Image_ID": "/images/icon/Character/VA/VA_14"
     },
     {
-        "ID": "127",
+        "ID": 127,
         "Name": "Pericolo",
         "Gender": "Male",
         "Height": "105 cm (3 ft 5 in)",
-        "Age": "60",
+        "Age": 60,
         "Nationality": "/images/icon/Countries/Italy.svg",
         "Affiliation": "Passione",
         "Occupation": "Mafia",
@@ -1778,11 +1778,11 @@
         "Image_ID": "/images/icon/Character/VA/VA_15"
     },
     {
-        "ID": "128",
+        "ID": 128,
         "Name": "Leaky-Eye Luca",
         "Gender": "Male",
         "Height": "173 cm (5 ft 8 in)",
-        "Age": "53",
+        "Age": 53,
         "Nationality": "/images/icon/Countries/Italy.svg",
         "Affiliation": "Passione",
         "Occupation": "Mafia",
@@ -1792,11 +1792,11 @@
         "Image_ID": "/images/icon/Character/VA/VA_16"
     },
     {
-        "ID": "129",
+        "ID": 129,
         "Name": "Mario Zucchero",
         "Gender": "Male",
         "Height": "182 cm (6 ft 0 in)",
-        "Age": "24",
+        "Age": 24,
         "Nationality": "/images/icon/Countries/Italy.svg",
         "Affiliation": "Passione",
         "Occupation": "Mafia",
@@ -1806,11 +1806,11 @@
         "Image_ID": "/images/icon/Character/VA/VA_17"
     },
     {
-        "ID": "130",
+        "ID": 130,
         "Name": "Sale",
         "Gender": "Male",
         "Height": "182 cm (6 ft 0 in)",
-        "Age": "24",
+        "Age": 24,
         "Nationality": "/images/icon/Countries/Italy.svg",
         "Affiliation": "Passione",
         "Occupation": "Mafia",
@@ -1820,11 +1820,11 @@
         "Image_ID": "/images/icon/Character/VA/VA_18"
     },
     {
-        "ID": "131",
+        "ID": 131,
         "Name": "Formaggio",
         "Gender": "Male",
         "Height": "178 cm (5 ft 10 in)",
-        "Age": "31",
+        "Age": 31,
         "Nationality": "/images/icon/Countries/Italy.svg",
         "Affiliation": "Passione, La Squadra Esecuzioni",
         "Occupation": "Mafia",
@@ -1834,11 +1834,11 @@
         "Image_ID": "/images/icon/Character/VA/VA_19"
     },
     {
-        "ID": "132",
+        "ID": 132,
         "Name": "Illuso",
         "Gender": "Male",
         "Height": "188 cm (6 ft 2 in)",
-        "Age": "28",
+        "Age": 28,
         "Nationality": "/images/icon/Countries/Italy.svg",
         "Affiliation": "Passione, La Squadra Esecuzioni",
         "Occupation": "Mafia",
@@ -1848,11 +1848,11 @@
         "Image_ID": "/images/icon/Character/VA/VA_20"
     },
     {
-        "ID": "133",
+        "ID": 133,
         "Name": "Prosciutto",
         "Gender": "Male",
         "Height": "178 cm (5 ft 10 in)",
-        "Age": "30",
+        "Age": 30,
         "Nationality": "/images/icon/Countries/Italy.svg",
         "Affiliation": "Passione, La Squadra Esecuzioni",
         "Occupation": "Mafia",
@@ -1862,11 +1862,11 @@
         "Image_ID": "/images/icon/Character/VA/VA_21"
     },
     {
-        "ID": "134",
+        "ID": 134,
         "Name": "Pesci",
         "Gender": "Male",
         "Height": "165 cm (5 ft 5 in)",
-        "Age": "29",
+        "Age": 29,
         "Nationality": "/images/icon/Countries/Italy.svg",
         "Affiliation": "Passione, La Squadra Esecuzioni",
         "Occupation": "Mafia",
@@ -1876,11 +1876,11 @@
         "Image_ID": "/images/icon/Character/VA/VA_22"
     },
     {
-        "ID": "135",
+        "ID": 135,
         "Name": "Ghiaccio",
         "Gender": "Male",
         "Height": "171 cm (5 ft 7 in)",
-        "Age": "26",
+        "Age": 26,
         "Nationality": "/images/icon/Countries/Italy.svg",
         "Affiliation": "Passione, La Squadra Esecuzioni",
         "Occupation": "Mafia",
@@ -1890,11 +1890,11 @@
         "Image_ID": "/images/icon/Character/VA/VA_23"
     },
     {
-        "ID": "136",
+        "ID": 136,
         "Name": "Squalo",
         "Gender": "Male",
         "Height": "175 cm (5 ft 9 in)",
-        "Age": "28",
+        "Age": 28,
         "Nationality": "/images/icon/Countries/Italy.svg",
         "Affiliation": "Passione, Unità Speciale",
         "Occupation": "Mafia",
@@ -1904,11 +1904,11 @@
         "Image_ID": "/images/icon/Character/VA/VA_24"
     },
     {
-        "ID": "137",
+        "ID": 137,
         "Name": "Tizzano",
         "Gender": "Male",
         "Height": "178 cm (5 ft 10 in)",
-        "Age": "29",
+        "Age": 29,
         "Nationality": "/images/icon/Countries/Italy.svg",
         "Affiliation": "Passione, Unità Speciale",
         "Occupation": "Mafia",
@@ -1918,11 +1918,11 @@
         "Image_ID": "/images/icon/Character/VA/VA_25"
     },
     {
-        "ID": "138",
+        "ID": 138,
         "Name": "Carne",
         "Gender": "Male",
         "Height": "160 cm (5 ft 3 in)",
-        "Age": "32",
+        "Age": 32,
         "Nationality": "/images/icon/Countries/Italy.svg",
         "Affiliation": "Passione, Unità Speciale",
         "Occupation": "Mafia",
@@ -1932,11 +1932,11 @@
         "Image_ID": "/images/icon/Character/VA/VA_26"
     },
     {
-        "ID": "139",
+        "ID": 139,
         "Name": "Cioccolata",
         "Gender": "Male",
         "Height": "185 cm (6 ft 1 in)",
-        "Age": "34",
+        "Age": 34,
         "Nationality": "/images/icon/Countries/Italy.svg",
         "Affiliation": "Passione",
         "Occupation": "Mafia",
@@ -1946,11 +1946,11 @@
         "Image_ID": "/images/icon/Character/VA/VA_27"
     },
     {
-        "ID": "140",
+        "ID": 140,
         "Name": "Secco",
         "Gender": "Male",
         "Height": "170 cm (5 ft 7 in)",
-        "Age": "25",
+        "Age": 25,
         "Nationality": "/images/icon/Countries/Italy.svg",
         "Affiliation": "Passione",
         "Occupation": "Mafia",
@@ -1960,11 +1960,11 @@
         "Image_ID": "/images/icon/Character/VA/VA_28"
     },
     {
-        "ID": "141",
+        "ID": 141",
         "Name": "Scolippi",
         "Gender": "Male",
         "Height": "185 cm (6 ft 1 in)",
-        "Age": "31",
+        "Age": 31,
         "Nationality": "/images/icon/Countries/Italy.svg",
         "Affiliation": "Passione",
         "Occupation": "Sculptor",
@@ -1974,11 +1974,11 @@
         "Image_ID": "/images/icon/Character/VA/VA_29"
     },
     {
-        "ID": "142",
+        "ID": 142,
         "Name": "Giorno's Mother",
         "Gender": "Female",
         "Height": "166 cm (5 ft 5 in)",
-        "Age": "33",
+        "Age": 33,
         "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "None",
         "Occupation": "Unknown",
@@ -1988,11 +1988,11 @@
         "Image_ID": "/images/icon/Character/VA/VA_30"
     },
     {
-        "ID": "143",
+        "ID": 143,
         "Name": "Donatella Una",
         "Gender": "Female",
         "Height": "163 cm (5 ft 4 in)",
-        "Age": "33",
+        "Age": 33,
         "Nationality": "/images/icon/Countries/Italy.svg",
         "Affiliation": "None",
         "Occupation": "Unknown",
@@ -2002,11 +2002,11 @@
         "Image_ID": "/images/icon/Character/VA/VA_31"
     },
     {
-        "ID": "144",
+        "ID": 144,
         "Name": "Jolyne Cujoh",
         "Gender": "Female",
         "Height": "174 cm (5 ft 8 in)",
-        "Age": "19",
+        "Age": 19,
         "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Joestar Family, Green Dolphin Street Prison, Speedwagon Foundation",
         "Occupation": "Prisioner",
@@ -2016,11 +2016,11 @@
         "Image_ID": "/images/icon/Character/SO/SO_1"
     },
     {
-        "ID": "145",
+        "ID": 145,
         "Name": "Ermes Costello",
         "Gender": "Female",
         "Height": "175 cm (5 ft 9 in)",
-        "Age": "21",
+        "Age": 21,
         "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Green Dolphin Street Prison",
         "Occupation": "Prisioner",
@@ -2030,11 +2030,11 @@
         "Image_ID": "/images/icon/Character/SO/SO_2"
     },
     {
-        "ID": "146",
+        "ID": 146,
         "Name": "Emporio Alnino",
         "Gender": "Male",
         "Height": "140 cm (4 ft 7 in)",
-        "Age": "11",
+        "Age": 11,
         "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Green Dolphin Street Prison",
         "Occupation": "None",
@@ -2044,11 +2044,11 @@
         "Image_ID": "/images/icon/Character/SO/SO_3"
     },
     {
-        "ID": "147",
+        "ID": 147,
         "Name": "Jotaro Kujo (SO)",
         "Gender": "Male",
         "Height": "195 cm (6 ft 5 in)",
-        "Age": "40",
+        "Age": 40,
         "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Joestar Family, Joestar Group, Speedwagon Foundation",
         "Occupation": "Marine Biologist",
@@ -2058,11 +2058,11 @@
         "Image_ID": "/images/icon/Character/SO/SO_4"
     },
     {
-        "ID": "148",
+        "ID": 148,
         "Name": "Foo Fighters",
         "Gender": "Female",
         "Height": "165 cm (5 ft 5 in)",
-        "Age": "22",
+        "Age": 22,
         "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Green Dolphin Street Prison",
         "Occupation": "Prisioner",
@@ -2072,11 +2072,11 @@
         "Image_ID": "/images/icon/Character/SO/SO_5"
     },
     {
-        "ID": "149",
+        "ID": 149,
         "Name": "Weather Report",
         "Gender": "Male",
         "Height": "181 cm (5 ft 11 in)",
-        "Age": "39",
+        "Age": 39,
         "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Green Dolphin Street Prison",
         "Occupation": "Prisioner",
@@ -2086,11 +2086,11 @@
         "Image_ID": "/images/icon/Character/SO/SO_6"
     },
     {
-        "ID": "150",
+        "ID": 150,
         "Name": "Narciso Anasui",
         "Gender": "Male",
         "Height": "178 cm (5 ft 10 in)",
-        "Age": "25",
+        "Age": 25,
         "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Green Dolphin Street Prison",
         "Occupation": "Prisioner",
@@ -2100,11 +2100,11 @@
         "Image_ID": "/images/icon/Character/SO/SO_7"
     },
     {
-        "ID": "151",
+        "ID": 151,
         "Name": "Enrico Pucci",
         "Gender": "Male",
         "Height": "181 cm (5 ft 11 in)",
-        "Age": "39",
+        "Age": 39,
         "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Green Dolphin Street Prison, Agents of DIO",
         "Occupation": "Priest",
@@ -2114,11 +2114,11 @@
         "Image_ID": "/images/icon/Character/SO/SO_8"
     },
     {
-        "ID": "152",
+        "ID": 152,
         "Name": "Johngalli A.",
         "Gender": "Male",
         "Height": "185 cm (6 ft 1 in)",
-        "Age": "35",
+        "Age": 35,
         "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Green Dolphin Street Prison, Agents of DIO",
         "Occupation": "Prisioner",
@@ -2128,11 +2128,11 @@
         "Image_ID": "/images/icon/Character/SO/SO_9"
     },
     {
-        "ID": "153",
+        "ID": 153,
         "Name": "Lang Rangler",
         "Gender": "Male",
         "Height": "176 cm (5 ft 9 in)",
-        "Age": "25",
+        "Age": 25,
         "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Green Dolphin Street Prison",
         "Occupation": "Prisioner",
@@ -2142,11 +2142,11 @@
         "Image_ID": "/images/icon/Character/SO/SO_10"
     },
     {
-        "ID": "154",
+        "ID": 154,
         "Name": "Sports Maxx",
         "Gender": "Male",
         "Height": "176 cm (5 ft 9 in)",
-        "Age": "33",
+        "Age": 33,
         "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Green Dolphin Street Prison",
         "Occupation": "Prisioner",
@@ -2156,11 +2156,11 @@
         "Image_ID": "/images/icon/Character/SO/SO_11"
     },
     {
-        "ID": "155",
+        "ID": 155,
         "Name": "The Green Baby",
         "Gender": "Male",
         "Height": "50 cm (1 ft 7 in)",
-        "Age": "0",
+        "Age": 0,
         "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Joestar Family, Brando Family",
         "Occupation": "None",
@@ -2170,11 +2170,11 @@
         "Image_ID": "/images/icon/Character/SO/SO_12"
     },
     {
-        "ID": "156",
+        "ID": 156,
         "Name": "Gwess",
         "Gender": "Female",
         "Height": "171 cm (5 ft 7 in)",
-        "Age": "22",
+        "Age": 22,
         "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Green Dolphin Street Prison",
         "Occupation": "Prisioner",
@@ -2184,11 +2184,11 @@
         "Image_ID": "/images/icon/Character/SO/SO_13"
     },
     {
-        "ID": "157",
+        "ID": 157,
         "Name": "Miraschon",
         "Gender": "Female",
         "Height": "170 cm (5 ft 7 in)",
-        "Age": "23",
+        "Age": 23,
         "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Green Dolphin Street Prison",
         "Occupation": "Prisioner",
@@ -2198,11 +2198,11 @@
         "Image_ID": "/images/icon/Character/SO/SO_14"
     },
     {
-        "ID": "158",
+        "ID": 158,
         "Name": "Viviano Westwood",
         "Gender": "Male",
         "Height": "186 cm (6 ft 1 in)",
-        "Age": "28",
+        "Age": 28,
         "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Green Dolphin Street Prison",
         "Occupation": "Prison Guard",
@@ -2212,11 +2212,11 @@
         "Image_ID": "/images/icon/Character/SO/SO_15"
     },
     {
-        "ID": "159",
+        "ID": 159,
         "Name": "Kenzou",
         "Gender": "Male",
         "Height": "152 cm (5 ft 0 in)",
-        "Age": "78",
+        "Age": 78,
         "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Green Dolphin Street Prison",
         "Occupation": "Prisioner",
@@ -2226,11 +2226,11 @@
         "Image_ID": "/images/icon/Character/SO/SO_16"
     },
     {
-        "ID": "160",
+        "ID": 160,
         "Name": "Thunder McQueen",
         "Gender": "Male",
         "Height": "181 cm (5 ft 11 in)",
-        "Age": "27",
+        "Age": 27,
         "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Green Dolphin Street Prison",
         "Occupation": "Prisioner",
@@ -2240,11 +2240,11 @@
         "Image_ID": "/images/icon/Character/SO/SO_17"
     },
     {
-        "ID": "161",
+        "ID": 161,
         "Name": "Rikiel",
         "Gender": "Male",
         "Height": "182 cm (6 ft 0 in)",
-        "Age": "23",
+        "Age": 23,
         "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Joestar Family, Brando Family, Agents of DIO",
         "Occupation": "Assassin",
@@ -2254,11 +2254,11 @@
         "Image_ID": "/images/icon/Character/SO/SO_18"
     },
     {
-        "ID": "162",
+        "ID": 162,
         "Name": "Ungalo",
         "Gender": "Male",
         "Height": "186 cm (6 ft 1 in)",
-        "Age": "24",
+        "Age": 24,
         "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Joestar Family, Brando Family, Agents of DIO",
         "Occupation": "Assassin",
@@ -2268,11 +2268,11 @@
         "Image_ID": "/images/icon/Character/SO/SO_19"
     },
     {
-        "ID": "163",
+        "ID": 163,
         "Name": "Donatello Versus",
         "Gender": "Male",
         "Height": "181 cm (5 ft 11 in)",
-        "Age": "25",
+        "Age": 25,
         "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Joestar Family, Brando Family, Agents of DIO",
         "Occupation": "Assassin, Unemployed",
@@ -2282,11 +2282,11 @@
         "Image_ID": "/images/icon/Character/SO/SO_20"
     },
     {
-        "ID": "164",
+        "ID": 164,
         "Name": "Miuccia Miuller",
         "Gender": "Female",
         "Height": "175 cm (5 ft 9 in)",
-        "Age": "25",
+        "Age": 25,
         "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Green Dolphin Street Prison",
         "Occupation": "Prison Guard",
@@ -2296,11 +2296,11 @@
         "Image_ID": "/images/icon/Character/SO/SO_21"
     },
     {
-        "ID": "165",
+        "ID": 165,
         "Name": "Savage Garden",
         "Gender": "Unknown",
         "Height": "30 cm (1 ft 0 in)",
-        "Age": "Unknown",
+        "Age": null,
         "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Speedwagon Foundation",
         "Occupation": "Carrier Pidgeon",
@@ -2310,11 +2310,11 @@
         "Image_ID": "/images/icon/Character/SO/SO_22"
     },
     {
-        "ID": "166",
+        "ID": 166,
         "Name": "Guccio",
         "Gender": "Male",
         "Height": "163 cm (5 ft 4 in)",
-        "Age": "31",
+        "Age": 31,
         "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Green Dolphin Street Prison",
         "Occupation": "Prisioner",
@@ -2324,11 +2324,11 @@
         "Image_ID": "/images/icon/Character/SO/SO_23"
     },
     {
-        "ID": "167",
+        "ID": 167,
         "Name": "Corrupt Lawyer",
         "Gender": "Male",
         "Height": "182 cm (6 ft 0 in)",
-        "Age": "36",
+        "Age": 36,
         "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Green Dolphin Street Prison",
         "Occupation": "Lawyer",
@@ -2338,11 +2338,11 @@
         "Image_ID": "/images/icon/Character/SO/SO_24"
     },
     {
-        "ID": "168",
+        "ID": 168,
         "Name": "Loccobarocco",
         "Gender": "Male",
         "Height": "122 cm (4 ft 0 in)",
-        "Age": "38",
+        "Age": 38,
         "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Green Dolphin Street Prison",
         "Occupation": "Prison Guard",
@@ -2352,11 +2352,11 @@
         "Image_ID": "/images/icon/Character/SO/SO_25"
     },
     {
-        "ID": "169",
+        "ID": 169,
         "Name": "Romeo Jisso",
         "Gender": "Male",
         "Height": "178 cm (5 ft 10 in)",
-        "Age": "23",
+        "Age": 23,
         "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Green Dolphin Street Prison",
         "Occupation": "Unknown",
@@ -2380,11 +2380,11 @@
         "Image_ID": "/images/icon/Character/SO/SO_27"
     },
     {
-        "ID": "171",
+        "ID": 171,
         "Name": "Gloria Costello",
         "Gender": "Female",
         "Height": "175 cm (5 ft 9 in)",
-        "Age": "27",
+        "Age": 27,
         "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "None",
         "Occupation": "Chef",
@@ -2394,11 +2394,11 @@
         "Image_ID": "/images/icon/Character/SO/SO_28"
     },
     {
-        "ID": "172",
+        "ID": 172,
         "Name": "Perla Pucci",
         "Gender": "Female",
         "Height": "158 cm (5 ft 2 in)",
-        "Age": "14",
+        "Age": 14,
         "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "None",
         "Occupation": "Student",
@@ -2408,11 +2408,11 @@
         "Image_ID": "/images/icon/Character/SO/SO_29"
     },
     {
-        "ID": "173",
+        "ID": 173,
         "Name": "Johnny Joestar",
         "Gender": "Male",
         "Height": "163 cm (5 ft 4 in)",
-        "Age": "19",
+        "Age": 19,
         "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Joestar Family, Steel Ball Run",
         "Occupation": "Jockey, Racer",
@@ -2422,11 +2422,11 @@
         "Image_ID": "/images/icon/Character/SBR/SBR_1"
     },
     {
-        "ID": "174",
+        "ID": 174,
         "Name": "Gyro Zeppeli",
         "Gender": "Male",
         "Height": "169 cm (5 ft 6 in)",
-        "Age": "24",
+        "Age": 24,
         "Nationality": "/images/icon/Countries/Italy.svg",
         "Affiliation": "Zeppeli Family, Naples Government, Steel Ball Run",
         "Occupation": "Executioner, Racer",
@@ -2436,11 +2436,11 @@
         "Image_ID": "/images/icon/Character/SBR/SBR_2"
     },
     {
-        "ID": "175",
+        "ID": 175,
         "Name": "Lucy Steel",
         "Gender": "Female",
         "Height": "160 cm (5 ft 3 in)",
-        "Age": "14",
+        "Age": 14,
         "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Steel Ball Run",
         "Occupation": "None",
@@ -2450,11 +2450,11 @@
         "Image_ID": "/images/icon/Character/SBR/SBR_3"
     },
     {
-        "ID": "176",
+        "ID": 176,
         "Name": "Funny Valentine",
         "Gender": "Male",
         "Height": "175 cm (5 ft 9 in)",
-        "Age": "43",
+        "Age": 43,
         "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "U.S. Government",
         "Occupation": "President",
@@ -2464,11 +2464,11 @@
         "Image_ID": "/images/icon/Character/SBR/SBR_4"
     },
     {
-        "ID": "177",
+        "ID": 177,
         "Name": "Diego Brando",
         "Gender": "Male",
         "Height": "165 cm (5 ft 5 in)",
-        "Age": "20",
+        "Age": 20,
         "Nationality": "/images/icon/Countries/UnitedKingdom.svg",
         "Affiliation": "Brando Family, Steel Ball Run, Valentine's Subordinates",
         "Occupation": "Jockey, Racer",
@@ -2478,11 +2478,11 @@
         "Image_ID": "/images/icon/Character/SBR/SBR_5"
     },
     {
-        "ID": "178",
+        "ID": 178,
         "Name": "Hot Pants",
         "Gender": "Female",
         "Height": "163 cm (5 ft 4 in)",
-        "Age": "23",
+        "Age": 23,
         "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Steel Ball Run",
         "Occupation": "Nun, Racer",
@@ -2492,11 +2492,11 @@
         "Image_ID": "/images/icon/Character/SBR/SBR_6"
     },
     {
-        "ID": "179",
+        "ID": 179,
         "Name": "Mountain Tim",
         "Gender": "Male",
         "Height": "169 cm (5 ft 6 in)",
-        "Age": "31",
+        "Age": 31,
         "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Steel Ball Run",
         "Occupation": "Bounty Hunter",
@@ -2506,11 +2506,11 @@
         "Image_ID": "/images/icon/Character/SBR/SBR_7"
     },
     {
-        "ID": "180",
+        "ID": 180,
         "Name": "Wekapipo",
         "Gender": "Male",
         "Height": "169 cm (5 ft 6 in)",
-        "Age": "31",
+        "Age": 31,
         "Nationality": "/images/icon/Countries/Italy.svg",
         "Affiliation": "Steel Ball Run",
         "Occupation": "Royal Guard, Assassin",
@@ -2520,11 +2520,11 @@
         "Image_ID": "/images/icon/Character/SBR/SBR_8"
     },
     {
-        "ID": "181",
+        "ID": 181,
         "Name": "Steven Steel",
         "Gender": "Male",
         "Height": "190 cm (6 ft 3 in)",
-        "Age": "53",
+        "Age": 53,
         "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Steel Ball Run",
         "Occupation": "Steel Ball Run Promoter",
@@ -2534,11 +2534,11 @@
         "Image_ID": "/images/icon/Character/SBR/SBR_9"
     },
     {
-        "ID": "182",
+        "ID": 182,
         "Name": "Sandman",
         "Gender": "Male",
         "Height": "169 cm (5 ft 6 in)",
-        "Age": "18",
+        "Age": 18,
         "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Steel Ball Run",
         "Occupation": "Racer",
@@ -2548,11 +2548,11 @@
         "Image_ID": "/images/icon/Character/SBR/SBR_10"
     },
     {
-        "ID": "183",
+        "ID": 183,
         "Name": "Dr. Ferdinand",
         "Gender": "Male",
         "Height": "178 cm (5 ft 10 in)",
-        "Age": "31",
+        "Age": 31,
         "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Steel Ball Run",
         "Occupation": "Paleontologist",
@@ -2562,11 +2562,11 @@
         "Image_ID": "/images/icon/Character/SBR/SBR_11"
     },
     {
-        "ID": "184",
+        "ID": 184,
         "Name": "Ringo Roadagain",
         "Gender": "Male",
         "Height": "182 cm (6 ft 0 in)",
-        "Age": "31",
+        "Age": 31,
         "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Steel Ball Run, Valentine's Subordinates",
         "Occupation": "Assassin",
@@ -2576,11 +2576,11 @@
         "Image_ID": "/images/icon/Character/SBR/SBR_12"
     },
     {
-        "ID": "185",
+        "ID": 185,
         "Name": "Blackmore",
         "Gender": "Male",
         "Height": "180 cm (5 ft 11 in)",
-        "Age": "34",
+        "Age": 34,
         "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "U.S. Government, Valentine's Subordinates",
         "Occupation": "Assassin",
@@ -2604,11 +2604,11 @@
         "Image_ID": "/images/icon/Character/SBR/SBR_14"
     },
     {
-        "ID": "187",
+        "ID": 187,
         "Name": "Parallel World Diego",
         "Gender": "Male",
         "Height": "178 cm (5 ft 10 in)",
-        "Age": "20",
+        "Age": 20,
         "Nationality": "/images/icon/Countries/UnitedKingdom.svg",
         "Affiliation": "Steel Ball Run, Valentine's Subordinates",
         "Occupation": "Jockey, Racer",
@@ -2618,11 +2618,11 @@
         "Image_ID": "/images/icon/Character/SBR/SBR_15"
     },
     {
-        "ID": "188",
+        "ID": 188,
         "Name": "Pocoloco",
         "Gender": "Male",
         "Height": "180 cm (5 ft 11 in)",
-        "Age": "24",
+        "Age": 24,
         "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Steel Ball Run",
         "Occupation": "Farmer, Racer",
@@ -2632,11 +2632,11 @@
         "Image_ID": "/images/icon/Character/SBR/SBR_16"
     },
     {
-        "ID": "189",
+        "ID": 189,
         "Name": "Marco",
         "Gender": "Male",
         "Height": "140 cm (4 ft 7 in)",
-        "Age": "12",
+        "Age": 12,
         "Nationality": "/images/icon/Countries/Italy.svg",
         "Affiliation": "None",
         "Occupation": "None",
@@ -2646,11 +2646,11 @@
         "Image_ID": "/images/icon/Character/SBR/SBR_17"
     },
     {
-        "ID": "190",
+        "ID": 190,
         "Name": "Jesus",
         "Gender": "Male",
         "Height": "165 cm (5 ft 5 in)",
-        "Age": "2.000",
+        "Age": 2.000,
         "Nationality": "/images/icon/Countries/Unknown.svg",
         "Affiliation": "None",
         "Occupation": "Carpenter, Messiah",
@@ -2660,11 +2660,11 @@
         "Image_ID": "/images/icon/Character/SBR/SBR_18"
     },
     {
-        "ID": "191",
+        "ID": 191,
         "Name": "Mrs. Robinson",
         "Gender": "Male",
         "Height": "175 cm (5 ft 9 in)",
-        "Age": "32",
+        "Age": 32,
         "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Steel Ball Run",
         "Occupation": "Assassin",
@@ -2674,11 +2674,11 @@
         "Image_ID": "/images/icon/Character/SBR/SBR_19"
     },
     {
-        "ID": "192",
+        "ID": 192,
         "Name": "Andre Boomboom",
         "Gender": "Male",
         "Height": "176 cm (5 ft 9 in)",
-        "Age": "29",
+        "Age": 29,
         "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Steel Ball Run, Boomboom Family",
         "Occupation": "Criminal",
@@ -2688,11 +2688,11 @@
         "Image_ID": "/images/icon/Character/SBR/SBR_20"
     },
     {
-        "ID": "193",
+        "ID": 193,
         "Name": "L.A. Boomboom",
         "Gender": "Male",
         "Height": "160 cm (5 ft 3 in)",
-        "Age": "26",
+        "Age": 26,
         "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Steel Ball Run, Boomboom Family",
         "Occupation": "Criminal",
@@ -2702,11 +2702,11 @@
         "Image_ID": "/images/icon/Character/SBR/SBR_21"
     },
     {
-        "ID": "194",
+        "ID": 194,
         "Name": "Benjamin Boomboom",
         "Gender": "Male",
         "Height": "178 cm (5 ft 10 in)",
-        "Age": "55",
+        "Age": 55,
         "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Steel Ball Run, Boomboom Family",
         "Occupation": "Criminal",
@@ -2716,11 +2716,11 @@
         "Image_ID": "/images/icon/Character/SBR/SBR_22"
     },
     {
-        "ID": "195",
+        "ID": 195,
         "Name": "Oyecomova",
         "Gender": "Male",
         "Height": "181 cm (5 ft 11 in)",
-        "Age": "28",
+        "Age": 28,
         "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Steel Ball Run",
         "Occupation": "Terrorist",
@@ -2730,11 +2730,11 @@
         "Image_ID": "/images/icon/Character/SBR/SBR_23"
     },
     {
-        "ID": "196",
+        "ID": 196,
         "Name": "Fritz von Stroheim",
         "Gender": "Male",
         "Height": "183 cm (6 ft 0 in)",
-        "Age": "30",
+        "Age": 30,
         "Nationality": "/images/icon/Countries/Germany.svg",
         "Affiliation": "Steel Ball Run",
         "Occupation": "Soldier",
@@ -2744,11 +2744,11 @@
         "Image_ID": "/images/icon/Character/SBR/SBR_24"
     },
     {
-        "ID": "197",
+        "ID": 197,
         "Name": "Pork Pie Hat Kid",
         "Gender": "Male",
         "Height": "170 cm (5 ft 7 in)",
-        "Age": "17",
+        "Age": 17,
         "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Valentine's Subordinates",
         "Occupation": "Assassin",
@@ -2758,11 +2758,11 @@
         "Image_ID": "/images/icon/Character/SBR/SBR_25"
     },
     {
-        "ID": "198",
+        "ID": 198,
         "Name": "Eleven Men",
         "Gender": "Male",
         "Height": "Unknown",
-        "Age": "Unknown",
+        "Age": null,
         "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Valentine's Subordinates",
         "Occupation": "Assassin",
@@ -2772,11 +2772,11 @@
         "Image_ID": "/images/icon/Character/SBR/SBR_26"
     },
     {
-        "ID": "199",
+        "ID": 199,
         "Name": "Mike O.",
         "Gender": "Male",
         "Height": "175 cm (5 ft 9 in)",
-        "Age": "35",
+        "Age": 35,
         "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Valentine's Subordinates",
         "Occupation": "Bodyguard",
@@ -2786,11 +2786,11 @@
         "Image_ID": "/images/icon/Character/SBR/SBR_27"
     },
     {
-        "ID": "200",
+        "ID": 200,
         "Name": "Scarlet Valentine",
         "Gender": "Female",
         "Height": "170 cm (5 ft 7 in)",
-        "Age": "32",
+        "Age": 32,
         "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "U.S. Government",
         "Occupation": "First Lady",
@@ -2800,11 +2800,11 @@
         "Image_ID": "/images/icon/Character/SBR/SBR_28"
     },
     {
-        "ID": "201",
+        "ID": 201,
         "Name": "Magent Magent",
         "Gender": "Male",
         "Height": "173 cm (5 ft 8 in)",
-        "Age": "30",
+        "Age": 30,
         "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Steel Ball Run, Valentine's Subordinates",
         "Occupation": "Assassin",
@@ -2814,11 +2814,11 @@
         "Image_ID": "/images/icon/Character/SBR/SBR_29"
     },
     {
-        "ID": "202",
+        "ID": 202,
         "Name": "D-I-S-C-O",
         "Gender": "Male",
         "Height": "185 cm (6 ft 1 in)",
-        "Age": "29",
+        "Age": 29,
         "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Valentine's Subordinates",
         "Occupation": "Assassin",
@@ -2828,11 +2828,11 @@
         "Image_ID": "/images/icon/Character/SBR/SBR_30"
     },
     {
-        "ID": "203",
+        "ID": 203,
         "Name": "Norisuke Higashikata I",
         "Gender": "Male",
         "Height": "167 cm (5 ft 6 in)",
-        "Age": "68",
+        "Age": 68,
         "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Higashikata Family, Steel Ball Run",
         "Occupation": "Business Owner, Racer",
@@ -2842,11 +2842,11 @@
         "Image_ID": "/images/icon/Character/SBR/SBR_31"
     },
     {
-        "ID": "204",
+        "ID": 204,
         "Name": "Sugar Mountain",
         "Gender": "Female",
         "Height": "152 cm (5 ft 0 in)",
-        "Age": "66",
+        "Age": 66,
         "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Steel Ball Run",
         "Occupation": "None",
@@ -2856,11 +2856,11 @@
         "Image_ID": "/images/icon/Character/SBR/SBR_32"
     },
     {
-        "ID": "205",
+        "ID": 205,
         "Name": "George Joestar II (SBR)",
         "Gender": "Male",
         "Height": "183 cm (6 ft 0 in)",
-        "Age": "50",
+        "Age": 50,
         "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "None",
         "Occupation": "Aristocrat, Horse Trainer",
@@ -2870,11 +2870,11 @@
         "Image_ID": "/images/icon/Character/SBR/SBR_33"
     },
     {
-        "ID": "206",
+        "ID": 206,
         "Name": "Gregorio Zeppeli",
         "Gender": "Male",
         "Height": "178 cm (5 ft 10 in)",
-        "Age": "50",
+        "Age": 50,
         "Nationality": "/images/icon/Countries/Italy.svg",
         "Affiliation": "Naples Government",
         "Occupation": "Executioner",
@@ -2884,11 +2884,11 @@
         "Image_ID": "/images/icon/Character/SBR/SBR_34"
     },
     {
-        "ID": "207",
+        "ID": 207,
         "Name": "Diego's Mother",
         "Gender": "Female",
         "Height": "166 cm (5 ft 5 in)",
-        "Age": "17",
+        "Age": 17,
         "Nationality": "/images/icon/Countries/UnitedKingdom.svg",
         "Affiliation": "Brando Family",
         "Occupation": "Famer",
@@ -2898,11 +2898,11 @@
         "Image_ID": "/images/icon/Character/SBR/SBR_35"
     },
     {
-        "ID": "208",
+        "ID": 208,
         "Name": "Dario Brando (SBR)",
         "Gender": "Male",
         "Height": "169 cm (5 ft 6 in)",
-        "Age": "18",
+        "Age": 18,
         "Nationality": "/images/icon/Countries/UnitedKingdom.svg",
         "Affiliation": "Brando Family",
         "Occupation": "Farmer",
@@ -2912,11 +2912,11 @@
         "Image_ID": "/images/icon/Character/SBR/SBR_36"
     },
     {
-        "ID": "209",
+        "ID": 209,
         "Name": "Nicholas Joestar",
         "Gender": "Male",
         "Height": "163 cm (5 ft 4 in)",
-        "Age": "14",
+        "Age": 14,
         "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "None",
         "Occupation": "Jockey",
@@ -2926,11 +2926,11 @@
         "Image_ID": "/images/icon/Character/SBR/SBR_37"
     },
     {
-        "ID": "210",
+        "ID": 210,
         "Name": "Captain Valentine",
         "Gender": "Male",
         "Height": "175 cm (5 ft 9 in)",
-        "Age": "35",
+        "Age": 35,
         "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "None",
         "Occupation": "Soldier",
@@ -2940,11 +2940,11 @@
         "Image_ID": "/images/icon/Character/SBR/SBR_38"
     },
     {
-        "ID": "211",
+        "ID": 211,
         "Name": "Valkyrie",
         "Gender": "Female",
         "Height": "163 cm (5 ft 4 inches)",
-        "Age": "4",
+        "Age": 4,
         "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Steel Ball Run",
         "Occupation": "Racer",
@@ -2954,11 +2954,11 @@
         "Image_ID": "/images/icon/Character/SBR/SBR_39"
     },
     {
-        "ID": "212",
+        "ID": 212,
         "Name": "Slow Dancer",
         "Gender": "Male",
         "Height": "163 cm (5 ft 4 inches)",
-        "Age": "11",
+        "Age": 11,
         "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Steel Ball Run",
         "Occupation": "Racer",
@@ -2968,11 +2968,11 @@
         "Image_ID": "/images/icon/Character/SBR/SBR_40"
     },
     {
-        "ID": "213",
+        "ID": 213,
         "Name": "Silver Bullet",
         "Gender": "Unknown",
         "Height": "168 cm (5 ft 6 inches)",
-        "Age": "4",
+        "Age": 4,
         "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Steel Ball Run",
         "Occupation": "Racer",
@@ -2982,11 +2982,11 @@
         "Image_ID": "/images/icon/Character/SBR/SBR_41"
     },
     {
-        "ID": "214",
+        "ID": 214,
         "Name": "Gets Up",
         "Gender": "Unknown",
         "Height": "152 cm (5 ft)",
-        "Age": "3",
+        "Age": 3,
         "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Steel Ball Run",
         "Occupation": "Racer",
@@ -2996,11 +2996,11 @@
         "Image_ID": "/images/icon/Character/SBR/SBR_39"
     },
     {
-        "ID": "215",
+        "ID": 215,
         "Name": "Ghost Rider in the Sky",
         "Gender": "Unknown",
         "Height": "153 cm (5 ft)",
-        "Age": "5",
+        "Age": 5,
         "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Steel Ball Run",
         "Occupation": "Racer",
@@ -3010,11 +3010,11 @@
         "Image_ID": "/images/icon/Character/SBR/SBR_40"
     },
     {
-        "ID": "216",
+        "ID": 216,
         "Name": "Hey! Ya!",
         "Gender": "Unknown",
         "Height": "163 cm (5 ft 4 inches)",
-        "Age": "4",
+        "Age": 4,
         "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Steel Ball Run",
         "Occupation": "Racer",
@@ -3024,11 +3024,11 @@
         "Image_ID": "/images/icon/Character/SBR/SBR_41"
     },
     {
-        "ID": "217",
+        "ID": 217,
         "Name": "Josuke Higashikata (JJL)",
         "Gender": "Male",
         "Height": "170 cm (5 ft 7 in)",
-        "Age": "19",
+        "Age": 19,
         "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Joestar Family, Higashikata Family, Kira Family",
         "Occupation": "None",
@@ -3038,11 +3038,11 @@
         "Image_ID": "/images/icon/Character/JJL/JJL_1"
     },
     {
-        "ID": "218",
+        "ID": 218,
         "Name": "Yasuho Hirose",
         "Gender": "Female",
         "Height": "166 cm (5 ft 5 in)",
-        "Age": "19",
+        "Age": 19,
         "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "None",
         "Occupation": "Student",
@@ -3052,11 +3052,11 @@
         "Image_ID": "/images/icon/Character/JJL/JJL_2"
     },
     {
-        "ID": "219",
+        "ID": 219,
         "Name": "Rai Mamezuku",
         "Gender": "Male",
         "Height": "187 cm (6 ft 2 in)",
-        "Age": "31",
+        "Age": 31,
         "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Higashikata Family, Higashikata Fruit Company",
         "Occupation": "Fruit Picker, Locacaca Researcher",
@@ -3066,11 +3066,11 @@
         "Image_ID": "/images/icon/Character/JJL/JJL_3"
     },
     {
-        "ID": "220",
+        "ID": 220,
         "Name": "Norisuke Higashikata IV",
         "Gender": "Male",
         "Height": "182 cm (6 ft 0 in)",
-        "Age": "59",
+        "Age": 59,
         "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Higashikata Family, Higashikata Fruit Company",
         "Occupation": "Business Owner",
@@ -3080,11 +3080,11 @@
         "Image_ID": "/images/icon/Character/JJL/JJL_4"
     },
     {
-        "ID": "221",
+        "ID": 221,
         "Name": "Jobin Higashikata",
         "Gender": "Male",
         "Height": "180 cm (5 ft 11 in)",
-        "Age": "32",
+        "Age": 32,
         "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Higashikata Family, Higashikata Fruit Company, Locacaca Organization",
         "Occupation": "Business Owner",
@@ -3094,11 +3094,11 @@
         "Image_ID": "/images/icon/Character/JJL/JJL_5"
     },
     {
-        "ID": "222",
+        "ID": 222,
         "Name": "Toru",
         "Gender": "Male",
         "Height": "167 cm (5 ft 6 in)",
-        "Age": "87",
+        "Age": 87,
         "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Rock Humans, TG University Hospital, Locacaca Organization",
         "Occupation": "TG University Hospital Orderly, Leader of Locacaca Organization",
@@ -3108,11 +3108,11 @@
         "Image_ID": "/images/icon/Character/JJL/JJL_6"
     },
     {
-        "ID": "223",
+        "ID": 223,
         "Name": "Joshu Higashikata",
         "Gender": "Male",
         "Height": "176 cm (5 ft 9 in)",
-        "Age": "19",
+        "Age": 19,
         "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Higashikata Family",
         "Occupation": "None",
@@ -3122,11 +3122,11 @@
         "Image_ID": "/images/icon/Character/JJL/JJL_7"
     },
     {
-        "ID": "224",
+        "ID": 224,
         "Name": "Daiya Higashikata",
         "Gender": "Female",
         "Height": "160 cm (5 ft 3 in)",
-        "Age": "16",
+        "Age": 16,
         "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Higashikata Family",
         "Occupation": "Student",
@@ -3136,11 +3136,11 @@
         "Image_ID": "/images/icon/Character/JJL/JJL_8"
     },
     {
-        "ID": "225",
+        "ID": 225,
         "Name": "Hato Higashikata",
         "Gender": "Female",
         "Height": "168 cm (5 ft 6 in)",
-        "Age": "24",
+        "Age": 24,
         "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Higashikata Family",
         "Occupation": "Model",
@@ -3150,11 +3150,11 @@
         "Image_ID": "/images/icon/Character/JJL/JJL_9"
     },
     {
-        "ID": "226",
+        "ID": 226,
         "Name": "Tsurugi Higashikata",
         "Gender": "Male",
         "Height": "140 cm (4 ft 7 in)",
-        "Age": "11",
+        "Age": 11,
         "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Higashikata Family",
         "Occupation": "Student",
@@ -3164,11 +3164,11 @@
         "Image_ID": "/images/icon/Character/JJL/JJL_10"
     },
     {
-        "ID": "227",
+        "ID": 227,
         "Name": "Mitsuba Higashikata",
         "Gender": "Female",
         "Height": "170 cm (5 ft 7 in)",
-        "Age": "31",
+        "Age": 31,
         "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Higashikata Family, Higashikata Fruit Company",
         "Occupation": "Housewife",
@@ -3178,11 +3178,11 @@
         "Image_ID": "/images/icon/Character/JJL/JJL_11"
     },
     {
-        "ID": "228",
+        "ID": 228,
         "Name": "Kaato Higashikata",
         "Gender": "Female",
         "Height": "174 cm (5 ft 8 in)",
-        "Age": "52",
+        "Age": 52,
         "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Higashikata Family",
         "Occupation": "Prisioner, Housewife",
@@ -3192,11 +3192,11 @@
         "Image_ID": "/images/icon/Character/JJL/JJL_12"
     },
     {
-        "ID": "229",
+        "ID": 229,
         "Name": "Rina Higashikata",
         "Gender": "Female",
         "Height": "160 cm (5 ft 3 in)",
-        "Age": "27",
+        "Age": 27,
         "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Higashikata Family",
         "Occupation": "None",
@@ -3206,11 +3206,11 @@
         "Image_ID": "/images/icon/Character/JJL/JJL_13"
     },
     {
-        "ID": "230",
+        "ID": 230,
         "Name": "Tamaki Damo",
         "Gender": "Male",
         "Height": "178 cm (5 ft 10 in)",
-        "Age": "23",
+        "Age": 23,
         "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Rock Humans, Locacaca Organization",
         "Occupation": "Smuggler",
@@ -3220,11 +3220,11 @@
         "Image_ID": "/images/icon/Character/JJL/JJL_14"
     },
     {
-        "ID": "231",
+        "ID": 231,
         "Name": "Yotsuyu Yagiyama",
         "Gender": "Male",
         "Height": "185 cm (6 ft 1 in)",
-        "Age": "28",
+        "Age": 28,
         "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Rock Humans, Locacaca Organization",
         "Occupation": "Architect",
@@ -3234,11 +3234,11 @@
         "Image_ID": "/images/icon/Character/JJL/JJL_15"
     },
     {
-        "ID": "232",
+        "ID": 232,
         "Name": "Urban Guerrilla",
         "Gender": "Male",
         "Height": "170 cm (5 ft 7 in)",
-        "Age": "38",
+        "Age": 38,
         "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Rock Humans, TG University Hospital, Locacaca Organization",
         "Occupation": "Doctor",
@@ -3248,11 +3248,11 @@
         "Image_ID": "/images/icon/Character/JJL/JJL_16"
     },
     {
-        "ID": "233",
+        "ID": 233,
         "Name": "Wu Tomoki",
         "Gender": "Male",
         "Height": "185 cm (6 ft 1 in)",
-        "Age": "70",
+        "Age": 70,
         "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Rock Humans, TG University Hospital, Locacaca Organization",
         "Occupation": "Doctor",
@@ -3262,11 +3262,11 @@
         "Image_ID": "/images/icon/Character/JJL/JJL_17"
     },
     {
-        "ID": "234",
+        "ID": 234,
         "Name": "Dolomite",
         "Gender": "Male",
         "Height": "177 cm (5 ft 10 in)",
-        "Age": "39",
+        "Age": 39,
         "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Rock Humans",
         "Occupation": "Hermit",
@@ -3276,11 +3276,11 @@
         "Image_ID": "/images/icon/Character/JJL/JJL_18"
     },
     {
-        "ID": "235",
+        "ID": 235,
         "Name": "Poor Tom",
         "Gender": "Male",
         "Height": "83 cm (2 ft 9 in)",
-        "Age": "57",
+        "Age": 57,
         "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Rock Humans, TG University Hospital, Locacaca Organization",
         "Occupation": "Doctor",
@@ -3290,11 +3290,11 @@
         "Image_ID": "/images/icon/Character/JJL/JJL_19"
     },
     {
-        "ID": "236",
+        "ID": 236,
         "Name": "Aisho Dainenjiyama",
         "Gender": "Male",
         "Height": "175 cm (5 ft 9 in)",
-        "Age": "29",
+        "Age": 29,
         "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Rock Humans, Locacaca Organization",
         "Occupation": "None",
@@ -3304,11 +3304,11 @@
         "Image_ID": "/images/icon/Character/JJL/JJL_20"
     },
     {
-        "ID": "237",
+        "ID": 237,
         "Name": "Hair Clip",
         "Gender": "Male",
         "Height": "1 cm (0 ft 0.3 in)",
-        "Age": "Unknown",
+        "Age": null,
         "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Rock Animals",
         "Occupation": "None",
@@ -3318,11 +3318,11 @@
         "Image_ID": "/images/icon/Character/JJL/JJL_21"
     },
     {
-        "ID": "238",
+        "ID": 238,
         "Name": "Do Do Do De Da Da Da",
         "Gender": "Male",
         "Height": "Unknown",
-        "Age": "Unknown",
+        "Age": null,
         "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Rock Animals, Locacaca Organization",
         "Occupation": "None",
@@ -3332,11 +3332,11 @@
         "Image_ID": "/images/icon/Character/JJL/JJL_22"
     },
     {
-        "ID": "239",
+        "ID": 239,
         "Name": "Ob-La-Di, Ob-La-Da",
         "Gender": "Unknown",
         "Height": "15 cm (0 ft 6 in)",
-        "Age": "Unknown",
+        "Age": null,
         "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Rock Animals, Locacaca Organization",
         "Occupation": "None",
@@ -3346,11 +3346,11 @@
         "Image_ID": "/images/icon/Character/JJL/JJL_23"
     },
     {
-        "ID": "240",
+        "ID": 240,
         "Name": "Radio Gaga",
         "Gender": "Male",
         "Height": "Unknown",
-        "Age": "Unknown",
+        "Age": null,
         "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Rock Animals",
         "Occupation": "None",
@@ -3360,11 +3360,11 @@
         "Image_ID": "/images/icon/Character/JJL/JJL_24"
     },
     {
-        "ID": "241",
+        "ID": 241,
         "Name": "Doremifasolati Do",
         "Gender": "Unknown",
         "Height": "250 cm (8 ft 2 in)",
-        "Age": "Unknown",
+        "Age": null,
         "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Rock Animals, Locacaca Organization",
         "Occupation": "None",
@@ -3374,11 +3374,11 @@
         "Image_ID": "/images/icon/Character/JJL/JJL_25"
     },
     {
-        "ID": "242",
+        "ID": 242,
         "Name": "Iwasuke",
         "Gender": "Male",
         "Height": "50 cm (1 ft 8 in)",
-        "Age": "Unknown",
+        "Age": null,
         "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Rock Animals, Higashikata Family",
         "Occupation": "None",
@@ -3388,11 +3388,11 @@
         "Image_ID": "/images/icon/Character/JJL/JJL_26"
     },
     {
-        "ID": "243",
+        "ID": 243,
         "Name": "Satoru Akefu",
         "Gender": "Male",
         "Height": "170 cm (5 ft 7 in)",
-        "Age": "87",
+        "Age": 87,
         "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "TG University Hospital, Locacaca Organization",
         "Occupation": "Doctor",
@@ -3402,11 +3402,11 @@
         "Image_ID": "/images/icon/Character/JJL/JJL_27"
     },
     {
-        "ID": "244",
+        "ID": 244,
         "Name": "Yoshikage Kira (JJL)",
         "Gender": "Male",
         "Height": "174 cm (5 ft 8 in)",
-        "Age": "29",
+        "Age": 29,
         "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Joestar Family, Kira Family",
         "Occupation": "Doctor",
@@ -3416,11 +3416,11 @@
         "Image_ID": "/images/icon/Character/JJL/JJL_28"
     },
     {
-        "ID": "245",
+        "ID": 245,
         "Name": "Josefumi Kujo",
         "Gender": "Male",
         "Height": "170 cm (5 ft 7 in)",
-        "Age": "19",
+        "Age": 19,
         "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "None",
         "Occupation": "None",
@@ -3430,11 +3430,11 @@
         "Image_ID": "/images/icon/Character/JJL/JJL_29"
     },
     {
-        "ID": "246",
+        "ID": 246,
         "Name": "Karera Sakunami",
         "Gender": "Female",
         "Height": "165 cm (5 ft 5 in)",
-        "Age": "20",
+        "Age": 20,
         "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "None",
         "Occupation": "None",
@@ -3444,11 +3444,11 @@
         "Image_ID": "/images/icon/Character/JJL/JJL_30"
     },
     {
-        "ID": "247",
+        "ID": 247,
         "Name": "Ojiro Sasame",
         "Gender": "Male",
         "Height": "173 cm (5 ft 8 in)",
-        "Age": "23",
+        "Age": 23,
         "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "None",
         "Occupation": "None",
@@ -3458,11 +3458,11 @@
         "Image_ID": "/images/icon/Character/JJL/JJL_31"
     },
     {
-        "ID": "248",
+        "ID": 248,
         "Name": "Elder A. Phex",
         "Gender": "Male",
         "Height": "176 cm (5 ft 9 in)",
-        "Age": "20",
+        "Age": 20,
         "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Locacaca Organization",
         "Occupation": "Assassin",
@@ -3472,11 +3472,11 @@
         "Image_ID": "/images/icon/Character/JJL/JJL_32"
     },
     {
-        "ID": "249",
+        "ID": 249,
         "Name": "Younger A. Phex",
         "Gender": "Male",
         "Height": "176 cm (5 ft 9 in)",
-        "Age": "20",
+        "Age": 20,
         "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Locacaca Organization",
         "Occupation": "Assassin",
@@ -3486,11 +3486,11 @@
         "Image_ID": "/images/icon/Character/JJL/JJL_33"
     },
     {
-        "ID": "250",
+        "ID": 250,
         "Name": "Zaihei Nigatake",
         "Gender": "Male",
         "Height": "171 cm (5 ft 7 in)",
-        "Age": "31",
+        "Age": 31,
         "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "None",
         "Occupation": "Journalist",
@@ -3500,11 +3500,11 @@
         "Image_ID": "/images/icon/Character/JJL/JJL_34"
     },
     {
-        "ID": "251",
+        "ID": 251,
         "Name": "Holy Joestar-Kira",
         "Gender": "Female",
         "Height": "170 cm (5 ft 7 in)",
-        "Age": "52",
+        "Age": 52,
         "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Joestar Family, TG University Hospital, Kira Family",
         "Occupation": "Doctor",
@@ -3514,11 +3514,11 @@
         "Image_ID": "/images/icon/Character/JJL/JJL_35"
     },
     {
-        "ID": "252",
+        "ID": 252,
         "Name": "Kei Nijimura",
         "Gender": "Female",
         "Height": "163 cm (5 ft 4 in)",
-        "Age": "22",
+        "Age": 22,
         "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "Kira Family",
         "Occupation": "Bodyguard",
@@ -3528,11 +3528,11 @@
         "Image_ID": "/images/icon/Character/JJL/JJL_36"
     },
     {
-        "ID": "253",
+        "ID": 253,
         "Name": "Suzuyo Hirose",
         "Gender": "Female",
         "Height": "163 cm (5 ft 4 in)",
-        "Age": "44",
+        "Age": 44,
         "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "None",
         "Occupation": "Housewife",
@@ -3542,11 +3542,11 @@
         "Image_ID": "/images/icon/Character/JJL/JJL_37"
     },
     {
-        "ID": "254",
+        "ID": 254,
         "Name": "Kiyomi Kujo",
         "Gender": "Female",
         "Height": "168 cm (5 ft 6 in)",
-        "Age": "43",
+        "Age": 43,
         "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "None",
         "Occupation": "Housewife",
@@ -3556,11 +3556,11 @@
         "Image_ID": "/images/icon/Character/JJL/JJL_38"
     },
     {
-        "ID": "255",
+        "ID": 255,
         "Name": "Lucy Steel (JJL)",
         "Gender": "Female",
         "Height": "160 cm (5 ft 3 in)",
-        "Age": "65",
+        "Age": 65,
         "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "None",
         "Occupation": "Botanic, Geomorphologist",
@@ -3570,11 +3570,11 @@
         "Image_ID": "/images/icon/Character/JJL/JJL_39"
     },
     {
-        "ID": "256",
+        "ID": 256,
         "Name": "Johnny Joestar (JJL)",
         "Gender": "Male",
         "Height": "163 cm (5 ft 4 in)",
-        "Age": "29",
+        "Age": 29,
         "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Joestar Family, Higashikata Fruit Company",
         "Occupation": "Equestrian Coach, Fruit Importer",
@@ -3584,11 +3584,11 @@
         "Image_ID": "/images/icon/Character/JJL/JJL_40"
     },
     {
-        "ID": "257",
+        "ID": 257,
         "Name": "Joseph Joestar (JJL)",
         "Gender": "Male",
         "Height": "180 cm (5 ft 11 in)",
-        "Age": "17",
+        "Age": 17,
         "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Joestar Family",
         "Occupation": "Assistant, Hotel Staff",
@@ -3598,11 +3598,11 @@
         "Image_ID": "/images/icon/Character/JJL/JJL_41"
     },
     {
-        "ID": "258",
+        "ID": 258,
         "Name": "Jodio Joestar",
         "Gender": "Male",
         "Height": "175 cm (5 ft 9 in)​",
-        "Age": "15",
+        "Age": 15,
         "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Joestar Family, Team Jodio",
         "Occupation": "Student, Gofer",
@@ -3612,11 +3612,11 @@
         "Image_ID": "/images/icon/Character/TJJL/TJJL_1"
     },
     {
-        "ID": "259",
+        "ID": 259,
         "Name": "Dragona Joestar",
         "Gender": "Male",
         "Height": "172 cm (5 ft 8 in)",
-        "Age": "18",
+        "Age": 18,
         "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Joestar Family, Team Jodio",
         "Occupation": "Boutique Employee",
@@ -3626,11 +3626,11 @@
         "Image_ID": "/images/icon/Character/TJJL/TJJL_2"
     },
     {
-        "ID": "260",
+        "ID": 260,
         "Name": "Paco Laburantes",
         "Gender": "Male",
         "Height": "185 cm (6 ft 1 in)",
-        "Age": "19",
+        "Age": 19,
         "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Team Jodio",
         "Occupation": "Student, Gofer",
@@ -3640,11 +3640,11 @@
         "Image_ID": "/images/icon/Character/TJJL/TJJL_3"
     },
     {
-        "ID": "261",
+        "ID": 261,
         "Name": "Usagi Alohaoe",
         "Gender": "Male",
         "Height": "176 cm (5 ft 9 in)",
-        "Age": "17",
+        "Age": 17,
         "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Team Jodio",
         "Occupation": "Student",
@@ -3654,11 +3654,11 @@
         "Image_ID": "/images/icon/Character/TJJL/TJJL_4"
     },
     {
-        "ID": "262",
+        "ID": 262,
         "Name": "Rohan Kishibe (TJJL)",
         "Gender": "Male",
         "Height": "175 cm (5 ft 9 in)",
-        "Age": "20",
+        "Age": 20,
         "Nationality": "/images/icon/Countries/Japan.svg",
         "Affiliation": "None",
         "Occupation": "Manga Artist",
@@ -3668,11 +3668,11 @@
         "Image_ID": "/images/icon/Character/TJJL/TJJL_5"
     },
     {
-        "ID": "263",
+        "ID": 263,
         "Name": "Meryl Mei Qi",
         "Gender": "Female",
         "Height": "Unknown",
-        "Age": "49",
+        "Age": 49,
         "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "None",
         "Occupation": "Principal, Business Owner, Housewife ",
@@ -3682,11 +3682,11 @@
         "Image_ID": "/images/icon/Character/TJJL/TJJL_6"
     },
     {
-        "ID": "264",
+        "ID": 264,
         "Name": "Charming Man",
         "Gender": "Male",
         "Height": "Unknown",
-        "Age": "21",
+        "Age": 21,
         "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Team Jodio",
         "Occupation": "None",
@@ -3696,11 +3696,11 @@
         "Image_ID": "/images/icon/Character/TJJL/TJJL_7"
     },
     {
-        "ID": "265",
+        "ID": 265,
         "Name": "Barbara Ann Joestar",
         "Gender": "Female",
         "Height": "Unknown",
-        "Age": "Unknown",
+        "Age": null,
         "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "Joestar Family",
         "Occupation": "Airport Employee",
@@ -3710,11 +3710,11 @@
         "Image_ID": "/images/icon/Character/TJJL/TJJL_8"
     },
     {
-        "ID": "266",
+        "ID": 266,
         "Name": "Acca Howler",
         "Gender": "Male",
         "Height": "Unknown",
-        "Age": "42",
+        "Age": 42,
         "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "HOWLER Company",
         "Occupation": "Business Owner",
@@ -3724,11 +3724,11 @@
         "Image_ID": "/images/icon/Character/TJJL/TJJL_9"
     },
     {
-        "ID": "267",
+        "ID": 267,
         "Name": "Wild Cat Size",
         "Gender": "Unknown",
         "Height": "Unknown",
-        "Age": "Unknown",
+        "Age": null,
         "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "None",
         "Occupation": "None",
@@ -3738,11 +3738,11 @@
         "Image_ID": "/images/icon/Character/TJJL/TJJL_10"
     },
     {
-        "ID": "268",
+        "ID": 268,
         "Name": "Lulu",
         "Gender": "Female",
         "Height": "150 cm (4 ft 11 in)",
-        "Age": "12",
+        "Age": 12,
         "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "HOWLER Company",
         "Occupation": "Unknown",
@@ -3752,11 +3752,11 @@
         "Image_ID": "/images/icon/Character/TJJL/TJJL_11"
     },
     {
-        "ID": "269",
+        "ID": 269,
         "Name": "Bobby Jean",
         "Gender": "Male",
         "Height": "Unknown",
-        "Age": "Unknown",
+        "Age": null,
         "Nationality": "/images/icon/Countries/USA.svg",
         "Affiliation": "HOWLER Company",
         "Occupation": "Investigator",
@@ -3766,11 +3766,11 @@
         "Image_ID": "/images/icon/Character/TJJL/TJJL_12"
     },
     {
-        "ID": "270",
+        "ID": 270,
         "Name": "Latrato",
         "Gender": "Male",
         "Height": "Unknown",
-        "Age": "Unknown",
+        "Age": null,
         "Nationality": "/images/icon/Countries/Italy.svg",
         "Affiliation": "HOWLER Company",
         "Occupation": "Business Owner",
