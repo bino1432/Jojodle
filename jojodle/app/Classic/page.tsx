@@ -9,6 +9,7 @@ import { useEffect, useState } from "react";
 import classicJson from "@/data/json/classicMinigame.json";
 import InputCharacter from "@/components/InputCharacter";
 import CharacterCard from "@/components/CharacterCard";
+import ClassicInfoComponent from "@/components/ClassicInfoComponent";
 
 const archivoBold = Archivo({
   subsets: ['latin'],
@@ -119,10 +120,10 @@ export default function Classicpage() {
                   character={correctCharacter}
                 />
               );
-              // fixed / relative / z index pra frente;
             })}
           </div>
         )}
+        <ClassicInfoComponent />
       </div>
     </main >
   );

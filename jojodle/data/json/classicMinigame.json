@@ -5,14 +5,14 @@
     "Gender": "Female",
     "Height": "183 cm (6 ft 0 in)",
     "Age": 19,
-    "Nationality": "/images/icon/Countries/UnitedKingdom.png",
+    "Nationality": "/images/icon/Countries/UnitedKingdom.svg",
     "Affiliation": "Joestar Family",
     "Occupation": "Nurse",
     "StandType": "N/A",
     "Debut": "Phantom Blood",
     "Technique": "None",
     "Difficulty": "Easy",
-    "Image": "/images/icon/character/PB/PB_6.png"
+    "Image": "/images/icon/Character/PB/PB_6.png"
   },
   {
     "ID": 25,
@@ -20,14 +20,14 @@
     "Gender": "Male",
     "Height": "196 cm (6 ft 5 in)",
     "Age": 102,
-    "Nationality": "/images/icon/Countries/Unknown.png",
+    "Nationality": "/images/icon/Countries/Unknown.svg",
     "Affiliation": "Pillar Men",
     "Occupation": "None",
     "StandType": "N/A",
     "Debut": "Battle Tendency",
     "Technique": "Light Blades",
     "Difficulty": "Easy",
-    "Image": "/images/icon/character/BT/BT_5.png"
+    "Image": "/images/icon/Character/BT/BT_5.png"
   },
   {
     "ID": 40,
@@ -35,14 +35,14 @@
     "Gender": "Male",
     "Height": "195 cm (6 ft 5 in)",
     "Age": 17,
-    "Nationality": "/images/icon/Countries/Japan.png",
+    "Nationality": "/images/icon/Countries/Japan.svg",
     "Affiliation": "Joestar Family | Joestar Group | Speedwagon Foundation",
     "Occupation": "Student",
     "StandType": "Close-Range | Range Irrelevant | Natural Humanoid",
     "Debut": "Stardust Crusaders",
     "Technique": "Star Finger",
     "Difficulty": "Easy",
-    "Image": "/images/icon/character/SC/SC_1.png"
+    "Image": "/images/icon/Character/SC/SC_1.png"
   },
   {
     "ID": 173,
@@ -50,14 +50,14 @@
     "Gender": "Male",
     "Height": "163 cm (5 ft 4 in)",
     "Age": 19,
-    "Nationality": "/images/icon/Countries/USA.png",
+    "Nationality": "/images/icon/Countries/USA.svg",
     "Affiliation": "Joestar Family | Steel Ball Run",
     "Occupation": "Jockey | Racer",
     "StandType": "Close-Range | Evolved | Artificial Humanoid",
     "Debut": "Steel Ball Run",
     "Technique": "Infinite Rotation",
     "Difficulty": "Easy",
-    "Image": "/images/icon/character/SBR/SBR_1.png"
+    "Image": "/images/icon/Character/SBR/SBR_1.png"
   },
   {
     "ID": 174,
@@ -65,13 +65,13 @@
     "Gender": "Male",
     "Height": "169 cm (5 ft 6 in)",
     "Age": 24,
-    "Nationality": "/images/icon/Countries/Italy.png",
+    "Nationality": "/images/icon/Countries/Italy.svg",
     "Affiliation": "Zeppeli Family | Naples Government | Steel Ball Run",
     "Occupation": "Executioner | Racer",
     "StandType": "Long-Range | Artificial Humanoid",
     "Debut": "Steel Ball Run",
     "Technique": "Spin",
     "Difficulty": "Easy",
-    "Image": "/images/icon/character/SBR/SBR_2.png"
+    "Image": "/images/icon/Character/SBR/SBR_2.png"
   }
 ]

@@ -66,7 +66,7 @@ export default function InputCharacter({reciveId, characterJson}: inputProps) {
             </div>
             <div className={`bg-[var(--Background)] z-10 ${query == "" ? "" : "p-[8]"} mt-1 min-w-[392] max-h-[296] m-auto overflow-y-auto absolute justify-self-center`}>
                 {showList && query.trim() !== "" && (
-                <div className="rounded-sm truncate z-[1]">
+                <div className="rounded-sm truncate z-[2]">
                     {filtered.length > 0 ? (
                         filtered.map((char) => (
                             <button
