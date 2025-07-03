@@ -51,6 +51,7 @@ export default function Classicpage() {
   const [isLeft, setIsLeft] = useState(false);
   const [isRight, setIsRight] = useState(false);
   const [triedCharacter, setTriedCharacter] = useState<number[]>([]);
+  const [winGame, setWinGame] = useState(false);
 
   const reciveHintAndSideFromComponent = (hint: string, side: string, left: boolean, right: boolean) => {
     setCurrentHint(hint);
@@ -58,14 +59,18 @@ export default function Classicpage() {
     setIsLeft(left);
     setIsRight(right);
   };
-
+  
   const reciveCharacterIdFromComponent = (id: number) => {
     setTriedCharacter([...triedCharacter, id]);
-    if (triedCharacter.length !== 0) {
-      setAttempts(attempts + 1);
-    }
-    console.log(attempts);
-    console.log(triedCharacter);
+      if (triedCharacter.length !== 0) {
+        setAttempts(attempts + 1);
+      }
+      console.log(attempts);
+      console.log(triedCharacter);
+  }
+
+  const reviceIfWinGame = (win: boolean) => {
+    setWinGame(win);
   }
 
   return (
@@ -86,7 +91,7 @@ export default function Classicpage() {
           ${side == "left" ? "rounded-tl-none" : "rounded-tr-none"}`} id="fadeIn">{currentHint}</p>
         </div>
         <div>
-          <InputCharacter reciveId={reciveCharacterIdFromComponent} characterJson={classicJson} />
+          <InputCharacter reciveId={reciveCharacterIdFromComponent} characterJson={classicJson} winGame={winGame} />
         </div>
         {triedCharacter.length !== 0 ? (<div className="flex justify-center gap-[8] text-[var(--White)] text-center mt-4">
           <p className="min-w-[96] p-2 rounded-lg bg-[var(--Background)]">Character</p>
@@ -111,6 +116,7 @@ export default function Classicpage() {
                   <CharacterCard
                     key={characterData.ID}
                     imageUrl={characterData.Image}
+                    name={characterData.Name}
                     gender={characterData.Gender}
                     height={characterData.Height}
                     age={characterData.Age}
@@ -120,6 +126,7 @@ export default function Classicpage() {
                     standType={characterData.StandType}
                     debutPart={characterData.Debut}
                     character={correctCharacter}
+                    winGame={reviceIfWinGame}
                   />
                 )
               );

@@ -21,6 +21,7 @@ type Character = {
 
 interface inputProps {
     reciveId: (id: number) => void;
+    winGame: boolean;
     characterJson: Character[];
 }
 
@@ -29,7 +30,7 @@ const archivoBold = Archivo({
     weight: "700",
 },);
 
-export default function InputCharacter({reciveId, characterJson}: inputProps) {
+export default function InputCharacter({reciveId, winGame, characterJson}: inputProps) {
     const [query, setQuery] = useState("");
     const [showList, setShowList] = useState(false);
     const [characterList, setCharacterList] = useState<Character[]>([]);
@@ -53,8 +54,9 @@ export default function InputCharacter({reciveId, characterJson}: inputProps) {
         <div>
             <div className='flex gap-2 p-[8] bg-[var(--Background)] rounded-lg mt-4 m-auto max-w-[464]'>
                 <input
+                    disabled={winGame}
                     type="text"
-                    placeholder="Type in the character name"
+                    placeholder={winGame ? "The game ends" : "Type in the character name"}
                     value={query}
                     onChange={(e) => {
                         setQuery(e.target.value);

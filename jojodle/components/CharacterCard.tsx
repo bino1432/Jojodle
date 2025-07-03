@@ -27,6 +27,7 @@ const archivo = Archivo({
 
 interface characterCardProps {
     imageUrl: string,
+    name: string,
     gender: string,
     height: string,
     age: number | null,
@@ -35,10 +36,11 @@ interface characterCardProps {
     occupation: string,
     standType: string,
     debutPart: string,
-    character: character
+    character: character,
+    winGame: (win: boolean) => void
 }
 
-export default function CharacterCard({ imageUrl, gender, height, age, nationality, affiliation, occupation, standType, debutPart, character }: characterCardProps) {
+export default function CharacterCard({ imageUrl, name, gender, height, age, nationality, affiliation, occupation, standType, debutPart, character, winGame }: characterCardProps) {
     const [partNumber, setPartNumber] = useState(0);
     const [attemptPartNumber, setAttemptPartNumber] = useState(0);
     const [characterHeight, setCharacterHeight] = useState(0);
@@ -53,6 +55,7 @@ export default function CharacterCard({ imageUrl, gender, height, age, nationali
         setAttemptCharacterHeight(getHeight(height));
         setCharacterAge(getAge(character.Age));
         setAttemptCharacterAge(getAge(age));
+        verifyIfWinGame(name, character.Name);
     }, [])
 
     const getHeight = (height: string) => {
@@ -92,6 +95,26 @@ export default function CharacterCard({ imageUrl, gender, height, age, nationali
         } else {
             return 0;
         }
+    }
+
+    const verifyIfWinGame = (attemptCharacterName: string, correctCharacterName: string) => {
+        if(attemptCharacterName == correctCharacterName){
+            winGame(true);
+        }
+        return false;
+    }
+
+    const verifyIfIsPartiallyCorrect = (attemptedCharacter: string, correctCharacter: string) => {
+        const attemptedArray = attemptedCharacter.split(",");
+        const correctArray = correctCharacter.split(",");   
+        for(let i = 0; i < correctArray.length; i++){
+            for(let x = 0; x < attemptedArray.length; x++){
+                if(correctArray[i] == attemptedArray[x]){
+                    return "bg-[var(--Partial)]";
+                }
+            }
+        }
+        return "bg-[var(--Wrong)]"
     }
 
     return (
@@ -202,7 +225,7 @@ export default function CharacterCard({ imageUrl, gender, height, age, nationali
             </div>
             <div className={`
                 ${archivo.className}
-                ${affiliation.length <= 15 ? "text-2xl" : affiliation.length > 30 ? "text-sm" : ""}
+                ${affiliation.length <= 15 ? "text-xl" : affiliation.length > 50 ? "text-xs" : affiliation.length > 30 ? "text-sm" : ""}
                 text-center
                 w-[96] 
                 h-[96] 
@@ -210,12 +233,12 @@ export default function CharacterCard({ imageUrl, gender, height, age, nationali
                 items-center 
                 justify-center 
                 rounded-lg 
-                ${affiliation == character.Affiliation ? "bg-[var(--Correct)]" : "bg-[var(--Wrong)]"}`}>
+                ${affiliation == character.Affiliation ? "bg-[var(--Correct)]" : verifyIfIsPartiallyCorrect(affiliation, character.Affiliation)}`}>
                 <h2>{affiliation}</h2>
             </div>
             <div className={`
                 ${archivo.className}
-                ${occupation.length > 8 ? "" : "text-2xl"}
+                ${occupation.length > 12 ? "text-sm" : occupation.length > 8 ? "" : "text-2xl"}
                 text-center
                 w-[96] 
                 h-[96] 
@@ -223,7 +246,7 @@ export default function CharacterCard({ imageUrl, gender, height, age, nationali
                 items-center 
                 justify-center 
                 rounded-lg 
-                ${occupation == character.Occupation ? "bg-[var(--Correct)]" : "bg-[var(--Wrong)]"}`}>
+                ${occupation == character.Occupation ? "bg-[var(--Correct)]" : verifyIfIsPartiallyCorrect(occupation, character.Occupation)}`}>
                 <h2>{occupation}</h2>
             </div>
             <div className={`
@@ -236,13 +259,13 @@ export default function CharacterCard({ imageUrl, gender, height, age, nationali
                 items-center 
                 justify-center 
                 rounded-lg 
-                ${standType == character.StandType ? "bg-[var(--Correct)]" : "bg-[var(--Wrong)]"}`}>
+                ${standType == character.StandType ? "bg-[var(--Correct)]" : verifyIfIsPartiallyCorrect(standType, character.StandType)}`}>
                 <h2>{standType}</h2>
             </div>
             <div className={`
                 relative
                 ${archivo.className}
-                ${debutPart.length > 15 ? "" : "text-xl"}
+                ${debutPart.length > 12 ? "" : "text-xl"}
                 text-center
                 w-[96] 
                 h-[96] 
@@ -271,7 +294,6 @@ export default function CharacterCard({ imageUrl, gender, height, age, nationali
                             ></Image> :
                             null
                 }
-
                 <h2 className='relative z-[1]'>{debutPart}</h2>
             </div>
         </div>
