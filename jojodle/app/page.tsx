@@ -12,9 +12,6 @@ export default function Home() {
       <Header />
       <div className="p-4 flex flex-col gap-4">
         <MenuButton page={"/Classic"} img={starIcon} title={"Classic"} alt={"Classic Icon"}></MenuButton>
-        <MenuButton page={"/Stand"} img={standIcon} title={"Stand"} alt={"Stand Icon"}></MenuButton>
-        <MenuButton page={"/Quote"} img={quoteIcon} title={"Quote"} alt={"Quote Icon"}></MenuButton>
-        <MenuButton page={"/Pose"} img={poseIcon} title={"Pose"} alt={"Pose Icon"}></MenuButton>
       </div>
       <Footer />
     </main>
