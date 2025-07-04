@@ -25,9 +25,6 @@ export default function Standpage() {
                     <p className={`${archivoBold.className} text-xl text-white text-balance`}>Take a guess at today's Jojo's Bizarre Adventure Stand user!</p>
                     <p className={`${archivoBold.className} text-2xl text-white`}>「Dirty Deeds Done Dirt Cheap」</p>
                     <div className="flex gap-4">
-                        <HintButtons title="Type Clue" guesses={3} image={TypeClueIcon} attempts={attempts} hint={""}/>
-                        <HintButtons title="Part Clue" guesses={5} image={PartClueIcon} attempts={attempts} hint={""}/>
-                        <HintButtons title="Technique Clue" guesses={7} image={TechniqueClueIcon} attempts={attempts} hint={""}/>
                     </div>
                 </div>
             </div>

@@ -27,8 +27,6 @@ export default function Posepage() {
                         <Image src={GiornoImage} alt={"Pose Image"} className="blur-[50px]"/>
                     </div>
                     <div className="flex gap-4">
-                        <HintButtons title="Part Clue" guesses={3} image={PartClueIcon} attempts={attempts} hint={""}/>
-                        <HintButtons title="Technique Clue" guesses={6} image={TechniqueClueIcon} attempts={attempts} hint={""}/>
                     </div>
                 </div>
             </div>

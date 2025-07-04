@@ -24,8 +24,6 @@ export default function Quotepage() {
                     <p className={`${archivoBold.className} text-xl text-white text-balance`}>Take a guess at today's Jojo's Bizarre Adventure character!</p>
                     <p className={`${archivoBold.className} text-2xl text-white text-balance`}>“Can you remember how many loaves of bread you've eaten in your entire life?”</p>
                     <div className="flex gap-4">
-                        <HintButtons title="Part Clue" guesses={3} image={PartClueIcon} attempts={attempts} hint={""}/>
-                        <HintButtons title="Target Clue" guesses={6} image={TargetClueIcon} attempts={attempts} hint={""}/>
                     </div>
                 </div>
             </div>
