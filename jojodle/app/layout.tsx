@@ -1,5 +1,4 @@
 import type { Metadata } from "next";
-import Home from "./page";
 import "./globals.css";
 
 export const metadata: Metadata = {
