@@ -217,7 +217,7 @@ export default function CharacterCard({ imageUrl, name, gender, height, age, nat
                 ${nationality == character.Nationality ? "bg-[var(--Correct)]" : "bg-[var(--Wrong)]"}`}>
                 <Image
                     src={nationality}
-                    alt={'Character Image'}
+                    alt={'Flag Image'}
                     width={80}
                     height={60}
                     className="rounded-lg"
