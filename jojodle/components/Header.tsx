@@ -4,13 +4,8 @@ import infoIcon from "@/public/images/icon/Info-Icon.png"
 import playerIcon from "@/public/images/icon/Player-Icon.png"
 import helpIcon from "@/public/images/icon/Help-Icon.png"
 import logoImage from "@/public/images/image/Logo-image.png"
-import userModal from "@/components/UserModal";
 
-interface HeaderProps {
-  onUserClick: () => void;
-}
-
-export default function Header({ onUserClick }: HeaderProps){
+export default function Header(){
     return(
         <header className="mt-8">
             <div className="flex justify-center items-center gap-4">
@@ -26,9 +21,9 @@ export default function Header({ onUserClick }: HeaderProps){
                 <a href="#" className="p-4 bg-[var(--Background)] rounded-xl hover:bg-[var(--Accent)]">
                     <Image src={helpIcon} alt="Help-Icon"/>
                 </a>
-                <button onClick={onUserClick} className="p-4 bg-[var(--Background)] rounded-xl hover:bg-[var(--Accent)]">
+                <a href="#" className="p-4 bg-[var(--Background)] rounded-xl hover:bg-[var(--Accent)]">
                     <Image src={playerIcon} alt="Player-Icon"/>
-                </button>
+                </a>
             </div>
         </header>
     );   

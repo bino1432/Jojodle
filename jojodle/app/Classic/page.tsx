@@ -10,7 +10,6 @@ import classicJson from "@/data/json/classic.en.json";
 import InputCharacter from "@/components/InputCharacter";
 import CharacterCard from "@/components/CharacterCard";
 import ClassicInfoComponent from "@/components/ClassicInfoComponent";
-import UserModal from "@/components/UserModal";
 
 const archivoBold = Archivo({
   subsets: ['latin'],
@@ -74,12 +73,10 @@ export default function Classicpage() {
     setWinGame(win);
   }
 
-  const [isModalOpen, setIsModalOpen] = useState(false);
-
   return (
     <main>
       <div>
-        <Header onUserClick={()=> setIsModalOpen(true)} />
+        <Header />
         <MinigameSelector />
         <div className={`flex flex-col p-4 bg-[var(--Background)] items-center text-center mt-4 max-w-98 rounded-lg m-auto ${triedCharacter.length !== 0 ? "gap-4" : ""}`}>
           <p className={`${archivoBold.className} text-xl text-white text-balance`}>Take a guess at today's Jojo's Bizarre Adventure character!</p>
@@ -138,7 +135,6 @@ export default function Classicpage() {
         )}
         <ClassicInfoComponent />
       </div>
-      <UserModal isOpen={isModalOpen} onClose={() => setIsModalOpen(false)} />
     </main >
   );
 }
