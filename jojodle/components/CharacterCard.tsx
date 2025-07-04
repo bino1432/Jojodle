@@ -215,13 +215,13 @@ export default function CharacterCard({ imageUrl, name, gender, height, age, nat
                 justify-center 
                 rounded-lg 
                 ${nationality == character.Nationality ? "bg-[var(--Correct)]" : "bg-[var(--Wrong)]"}`}>
-                <Image
+                <img
                     src={nationality}
                     alt={'Flag Image'}
                     width={80}
                     height={60}
                     className="rounded-lg"
-                ></Image>
+                ></img>
             </div>
             <div className={`
                 ${archivo.className}
