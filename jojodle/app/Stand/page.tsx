@@ -15,11 +15,12 @@ const archivoBold = Archivo({
 },);
 
 interface Character {
-  Name: string;
-  Stand: string;
-  "Stand Type": string;
-  Debut: string;
-  Technique: string;
+    ID: number;
+    Name: string;
+    Stand: string;
+    "Stand Type": string;
+    Debut: string;
+    Technique: string
 }
 
 export default function Standpage() {
@@ -28,7 +29,7 @@ export default function Standpage() {
     const randomCharacter = standJson[Math.floor(Math.random() * (269 - 0 + 1)) + 0]
     setCorrectCharacter(randomCharacter);
     console.log(attempts)
-  }, []);
+    }, []);
 
     const [correctCharacter, setCorrectCharacter] = useState<Character | null>(null);
     const [attempts, setAttempts] = useState(0);
