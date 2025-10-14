@@ -6,14 +6,31 @@ import { Archivo } from "next/font/google";
 import PartClueIcon from "@/public/images/icon/PartClue-Icon.png";
 import TypeClueIcon from "@/public/images/icon/TypeClue-Icon.png";
 import TechniqueClueIcon from "@/public/images/icon/TechniqueClue-Icon.png";
-import { useState } from "react";
+import { useEffect, useState } from "react";
+import standJson from "@/data/json/stand.en.json";
 
 const archivoBold = Archivo({
   subsets: ['latin'],
   weight: "700",
 },);
 
+interface Character {
+  Name: string;
+  Stand: string;
+  "Stand Type": string;
+  Debut: string;
+  Technique: string;
+}
+
 export default function Standpage() {
+
+    useEffect(() => {
+    const randomCharacter = standJson[Math.floor(Math.random() * (269 - 0 + 1)) + 0]
+    setCorrectCharacter(randomCharacter);
+    console.log(attempts)
+  }, []);
+
+    const [correctCharacter, setCorrectCharacter] = useState<Character | null>(null);
     const [attempts, setAttempts] = useState(0);
 
     return (
@@ -25,6 +42,9 @@ export default function Standpage() {
                     <p className={`${archivoBold.className} text-xl text-white text-balance`}>Take a guess at today's Jojo's Bizarre Adventure Stand user!</p>
                     <p className={`${archivoBold.className} text-2xl text-white`}>「Dirty Deeds Done Dirt Cheap」</p>
                     <div className="flex gap-4">
+                        {
+
+                        }
                     </div>
                 </div>
             </div>

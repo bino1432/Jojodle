@@ -1,5 +1,6 @@
 [
     {
+        "ID": 1,
         "Name": "Joseph Joestar",
         "Stand": "Hermit Purple",
         "Stand Type": "Close-Range, Reconnaissance, Natural Non-Humanoid",
@@ -7,6 +8,7 @@
         "Technique": "Divination"
     },
     {
+        "ID": 2,
         "Name": "Jotaro Kujo",
         "Stand": "Star Platinum",
         "Stand Type": "Close-Range, Range Irrelevant, Natural Humanoid",
@@ -14,6 +16,7 @@
         "Technique": "Star Finger"
     },
     {
+        "ID": 3,
         "Name": "Joseph Joestar (SC)",
         "Stand": "Hermit Purple",
         "Stand Type": "Close-Range, Reconnaissance, Natural Non-Humanoid",
@@ -21,6 +24,7 @@
         "Technique": "Divination"
     },
     {
+        "ID": 4,
         "Name": "Muhammad Avdol",
         "Stand": "Magician's Red",
         "Stand Type": "Close-Range, Natural Humanoid",
@@ -28,6 +32,7 @@
         "Technique": "Cross Fire Hurricane"
     },
     {
+        "ID": 5,
         "Name": "Noriaki Kakyoin",
         "Stand": "Hierophant Green",
         "Stand Type": "Long-Range, Reconnaissance, Artificial Humanoid",
@@ -35,6 +40,7 @@
         "Technique": "Emerald Splash"
     },
     {
+        "ID": 6,
         "Name": "Jean Pierre Polnareff",
         "Stand": "Silver Chariot",
         "Stand Type": "Close-Range, Artificial Humanoid",
@@ -42,6 +48,7 @@
         "Technique": "Hora Rush"
     },
     {
+        "ID": 7,
         "Name": "Iggy",
         "Stand": "The Fool",
         "Stand Type": "Close-Range, Materialized, Artificial Non-Humanoid",
@@ -49,6 +56,7 @@
         "Technique": "Sand Manipulation"
     },
     {
+        "ID": 8,
         "Name": "DIO (SC)",
         "Stand": "The World",
         "Stand Type": "Close-Range, Range Irrelevant, Natural Humanoid",
@@ -56,6 +64,7 @@
         "Technique": "Time Stop"
     },
     {
+        "ID": 9,
         "Name": "Enya the Hag",
         "Stand": "Justice",
         "Stand Type": "Close-Range, Natural Non-Humanoid",
@@ -63,6 +72,7 @@
         "Technique": "Fog String Puppetry"
     },
     {
+        "ID": 10,
         "Name": "J. Geil",
         "Stand": "Hanged Man",
         "Stand Type": "Long-Range, Artificial Humanoid",
@@ -70,6 +80,7 @@
         "Technique": "Light Manifestation"
     },
     {
+        "ID": 11,
         "Name": "Hol Horse",
         "Stand": "Emperor",
         "Stand Type": "Close-Range, Artificial Non-Humanoid",
@@ -77,6 +88,7 @@
         "Technique": "Homing Bullets"
     },
     {
+        "ID": 12,
         "Name": "N'Doul",
         "Stand": "Geb",
         "Stand Type": "Long-Range, Materialized, Natural Non-Humanoid",
@@ -84,6 +96,7 @@
         "Technique": "Water Amorphism"
     },
     {
+        "ID": 13,
         "Name": "Pet Shop",
         "Stand": "Horus",
         "Stand Type": "Close-Range, Materialized, Artificial Humanoid",
@@ -91,6 +104,7 @@
         "Technique": "Cryokinesis"
     },
     {
+        "ID": 14,
         "Name": "Vanilla Ice",
         "Stand": "Cream",
         "Stand Type": "Close-Range, Natural Humanoid",
@@ -98,6 +112,7 @@
         "Technique": "Void"
     },
     {
+        "ID": 15,
         "Name": "Gray Fly",
         "Stand": "Tower of Gray",
         "Stand Type": "Long-Range, Artificial Humanoid",
@@ -105,6 +120,7 @@
         "Technique": "Extending Jaw"
     },
     {
+        "ID": 16,
         "Name": "Imposter Captain Tennille",
         "Stand": "Dark Blue Moon",
         "Stand Type": "Close-Range, Natural Humanoid",
@@ -112,6 +128,7 @@
         "Technique": "Barnacles"
     },
     {
+        "ID": 17,
         "Name": "Forever",
         "Stand": "Strength",
         "Stand Type": "Close-Range, Materialized, Artificial Non-Humanoid",
@@ -119,6 +136,7 @@
         "Technique": "Ship Manipulation"
     },
     {
+        "ID": 18,
         "Name": "Devo the Cursed",
         "Stand": "Ebony Devil",
         "Stand Type": "Long-Range, Artificial Humanoid",
@@ -126,6 +144,7 @@
         "Technique": "Doll Possession"
     },
     {
+        "ID": 19,
         "Name": "Rubber Soul",
         "Stand": "Yellow Temperance",
         "Stand Type": "Close-Range, Materialized, Natural Non-Humanoid",
@@ -133,6 +152,7 @@
         "Technique": "Organic Mass Assimilation"
     },
     {
+        "ID": 20,
         "Name": "Nena",
         "Stand": "Empress",
         "Stand Type": "Long-Range, Materialized, Natural Humanoid",
@@ -140,6 +160,7 @@
         "Technique": "Parasitism"
     },
     {
+        "ID": 21,
         "Name": "ZZ",
         "Stand": "Wheel of Fortune",
         "Stand Type": "Close-Range, Materialized, Artificial Non-Humanoid",
@@ -147,6 +168,7 @@
         "Technique": "Car Manipulation"
     },
     {
+        "ID": 22,
         "Name": "Steely Dan",
         "Stand": "Lovers",
         "Stand Type": "Long-Range, Artificial Humanoid",
@@ -154,6 +176,7 @@
         "Technique": "Pain Synchronization"
     },
     {
+        "ID": 23,
         "Name": "Arabia Fats",
         "Stand": "Sun",
         "Stand Type": "Long-Range, Natural Non-Humanoid",
@@ -161,6 +184,7 @@
         "Technique": "Sun Replica"
     },
     {
+        "ID": 24,
         "Name": "Mannish Boy",
         "Stand": "Death 13",
         "Stand Type": "Close-Range, Psychological Assault, Artificial Humanoid",
@@ -168,6 +192,7 @@
         "Technique": "Dream World Control"
     },
     {
+        "ID": 25,
         "Name": "Cameo",
         "Stand": "Judgement",
         "Stand Type": "Close-Range, Artificial Humanoid",
@@ -175,6 +200,7 @@
         "Technique": "Wish Granting"
     },
     {
+        "ID": 26,
         "Name": "Midler",
         "Stand": "High Priestress",
         "Stand Type": "Long-Range, Natural Non-Humanoid",
@@ -182,6 +208,7 @@
         "Technique": "Mineral Possesion and Reformation"
     },
     {
+        "ID": 27,
         "Name": "Oingo",
         "Stand": "Khnum",
         "Stand Type": "Integrated, Phenomenon",
@@ -189,6 +216,7 @@
         "Technique": "Transfiguration"
     },
     {
+        "ID": 28,
         "Name": "Boingo",
         "Stand": "Thoth",
         "Stand Type": "Automatic, Foresight, Materialized, Phenomenon",
@@ -196,6 +224,7 @@
         "Technique": "Profecies"
     },
     {
+        "ID": 29,
         "Name": "Chaka",
         "Stand": "Anubis",
         "Stand Type": "Automatic, Materialized, Psychological Assault, Artificial Non-Humanoid, Shared, Sentient",
@@ -203,6 +232,7 @@
         "Technique": "Mind Control"
     },
     {
+        "ID": 30,
         "Name": "Khan",
         "Stand": "Anubis",
         "Stand Type": "Automatic, Materialized, Psychological Assault, Artificial Non-Humanoid, Shared, Sentient",
@@ -210,6 +240,7 @@
         "Technique": "Mind Control"
     },
     {
+        "ID": 31,
         "Name": "Mariah",
         "Stand": "Bastet",
         "Stand Type": "Long-Range, Artificial Non-Humanoid",
@@ -217,6 +248,7 @@
         "Technique": "Magnectic Attraction"
     },
     {
+        "ID": 32,
         "Name": "Alessi",
         "Stand": "Sethan",
         "Stand Type": "Close-Range |Materialized, Natural Humanoid",
@@ -224,6 +256,7 @@
         "Technique": "Age Reversal"
     },
     {
+        "ID": 33,
         "Name": "Daniel J. D'Arby",
         "Stand": "Osiris",
         "Stand Type": "Close-Range, Automatic, Psychological Assault, Artificial Humanoid",
@@ -231,6 +264,7 @@
         "Technique": "Soul Steal"
     },
     {
+        "ID": 34,
         "Name": "Telence T. D'Arby",
         "Stand": "Atum",
         "Stand Type": "Close-Range, Psychological Assault, Artificial Humanoid",
@@ -238,6 +272,7 @@
         "Technique": "Binary Soul Reading"
     },
     {
+        "ID": 35,
         "Name": "Kenny G.",
         "Stand": "Tenore Sax",
         "Stand Type": "Phenomenon, Psychological Assault",
@@ -245,6 +280,7 @@
         "Technique": "Illusions"
     },
     {
+        "ID": 36,
         "Name": "Josuke Higashikata",
         "Stand": "Crazy Diamond",
         "Stand Type": "Close-Range, Natural Humanoid",
@@ -252,6 +288,7 @@
         "Technique": "Restoration"
     },
     {
+        "ID": 37,
         "Name": "Koichi Hirose",
         "Stand": "Echoes ACT 1",
         "Stand Type": "Long-Range, Artificial  Non-Humanoid, Psychological Assault, Evolved",
@@ -259,6 +296,7 @@
         "Technique": "Sound Generation"
     },
     {
+        "ID": 38,
         "Name": "Koichi Hirose",
         "Stand": "Echoes ACT 2",
         "Stand Type": "Long-Range, Artificial Non-Humanoid, Evolved",
@@ -266,6 +304,7 @@
         "Technique": "Sound Effects"
     },
     {
+        "ID": 39,
         "Name": "Koichi Hirose",
         "Stand": "Echoes ACT 3",
         "Stand Type": "Close-Range, Artificial Humanoid, Sentient, Evolved",
@@ -273,6 +312,7 @@
         "Technique": "Weight Increase"
     },
     {
+        "ID": 40,
         "Name": "Jotaro Kujo (DiU)",
         "Stand": "Star Platinum",
         "Stand Type": "Close-Range, Range Irrelevant, Natural Humanoid",
@@ -280,6 +320,7 @@
         "Technique": "Time Stop"
     },
     {
+        "ID": 41,
         "Name": "Okuyasu Nijimura",
         "Stand": "The Hand",
         "Stand Type": "Close-Range, Artificial Humanoid",
@@ -287,6 +328,7 @@
         "Technique": "Spatial Erasure"
     },
     {
+        "ID": 42,
         "Name": "Rohan Kishibe",
         "Stand": "Heaven's Door",
         "Stand Type": "Close-Range, Reconnaissance, Natural Humanoid",
@@ -294,6 +336,7 @@
         "Technique": "Book Transmutation"
     },
     {
+        "ID": 43,
         "Name": "Yoshikage Kira",
         "Stand": "Killer Queen",
         "Stand Type": "Close-Range, Natural Humanoid",
@@ -301,6 +344,7 @@
         "Technique": "Bomb Transmutation"
     },
     {
+        "ID": 44,
         "Name": "Yoshikage Kira",
         "Stand": "Sheer Heart Attack",
         "Stand Type": "Automatic, Artificial Non-Humanoid",
@@ -308,6 +352,7 @@
         "Technique": "Heat-Seeking Detonation"
     },
     {
+        "ID": 45,
         "Name": "Yoshikage Kira",
         "Stand": "Bites the Dust",
         "Stand Type": "Automatic, Psychological Assault, Natural Humanoid, Evolved",
@@ -315,6 +360,7 @@
         "Technique": "Identity Concealment"
     },
     {
+        "ID": 46,
         "Name": "Akira Otoishi",
         "Stand": "Red Hot Chili Pepper",
         "Stand Type": "Long-Range, Natural Humanoid",
@@ -322,6 +368,7 @@
         "Technique": "Electrical Transfer"
     },
     {
+        "ID": 47,
         "Name": "Yoshihiro Kira",
         "Stand": "Atom Heart Father",
         "Stand Type": "Range Irrelevant, Materialized, Psychological Assault, Phenomenon",
@@ -329,6 +376,7 @@
         "Technique": "Supernatural Photography"
     },
     {
+        "ID": 48,
         "Name": "Joseph Joestar (DiU)",
         "Stand": "Hermit Purple",
         "Stand Type": "Close-Range, Reconnaissance, Natural Non-Humanoid",
@@ -336,6 +384,7 @@
         "Technique": "Overdrive"
     },
     {
+        "ID": 49,
         "Name": "Shigekiyo Yangu",
         "Stand": "Harvest",
         "Stand Type": "Long-Range, Reconnaissance, Artificial Non-Humanoid, Colony",
@@ -343,6 +392,7 @@
         "Technique": "Harvesting"
     },
     {
+        "ID": 50,
         "Name": "Mikitaka Hazekura",
         "Stand": "Earth, Wind and Fire",
         "Stand Type": "Range Irrelevant, Integrated, Phenomenon",
@@ -350,6 +400,7 @@
         "Technique": "Shapeshifting"
     },
     {
+        "ID": 51,
         "Name": "Yuya Fungami",
         "Stand": "Highway Star",
         "Stand Type": "Long-Range, Automatic, Reconnaissance, Natural Humanoid",
@@ -357,6 +408,7 @@
         "Technique": "Body Dismantlement"
     },
     {
+        "ID": 52,
         "Name": "Anjuro Katagiri",
         "Stand": "Aqua Necklace",
         "Stand Type": "Long-Range, Materialized, Natural Humanoid, Natural Non-Humanoid",
@@ -364,6 +416,7 @@
         "Technique": "Liquid Form"
     },
     {
+        "ID": 53,
         "Name": "Keicho Nijimura",
         "Stand": "Bad Company",
         "Stand Type": "Close-Range, Reconnaissance, Artificial Humanoid, Colony",
@@ -371,6 +424,7 @@
         "Technique": "Military Firepower"
     },
     {
+        "ID": 54,
         "Name": "Tamami Kobayashi",
         "Stand": "The Lock",
         "Stand Type": "Range Irrelevant, Psychological Assault, Artificial Non-Humanoid",
@@ -378,6 +432,7 @@
         "Technique": "Guilt Entrapment"
     },
     {
+        "ID": 55,
         "Name": "Yukako Yamagishi",
         "Stand": "Love Deluxe",
         "Stand Type": "Range Irrelevant, Integrated, Materialized, Phenomenon",
@@ -385,6 +440,7 @@
         "Technique": "Hair Manipulation"
     },
     {
+        "ID": 56,
         "Name": "Tama",
         "Stand": "Stray Cat",
         "Stand Type": "Range Irrelevant, Integrated, Materialized, Phenomenon, Sentient",
@@ -392,6 +448,7 @@
         "Technique": "Aerokinesis"
     },
     {
+        "ID": 57,
         "Name": "Toshikazu Hazamada",
         "Stand": "Surface",
         "Stand Type": "Automatic, Materialized, Sentient, Phenomenon",
@@ -399,6 +456,7 @@
         "Technique": "Mimicry"
     },
     {
+        "ID": 58,
         "Name": "Tonio Trussardi",
         "Stand": "Pearl Jam",
         "Stand Type": "Range Irrelevant, Natural Non-Humanoid, Colony",
@@ -406,6 +464,7 @@
         "Technique": "Curative Cooking"
     },
     {
+        "ID": 59,
         "Name": "Shizuka Joestar",
         "Stand": "Achtung Baby",
         "Stand Type": "Range Irrelevant, Integrated, Phenomenon",
@@ -413,6 +472,7 @@
         "Technique": "Invisibility"
     },
     {
+        "ID": 60,
         "Name": "Aya Tsuji",
         "Stand": "Cinderella",
         "Stand Type": "Close-Range, Artificial Humanoid",
@@ -420,6 +480,7 @@
         "Technique": "Body Part Replacement"
     },
     {
+        "ID": 61,
         "Name": "Bug-Eaten",
         "Stand": "Ratt",
         "Stand Type": "Close-Range, Artificial Non-Humanoid, Shared",
@@ -427,6 +488,7 @@
         "Technique": "Melting Darts"
     },
     {
+        "ID": 62,
         "Name": "Not Bug-Eaten",
         "Stand": "Ratt",
         "Stand Type": "Close-Range, Artificial Non-Humanoid, Shared",
@@ -434,6 +496,7 @@
         "Technique": "Melting Darts"
     },
     {
+        "ID": 63,
         "Name": "Ken Oyanagi",
         "Stand": "Boy II Man",
         "Stand Type": "Close-Range, Psychological Assault, Artificial Humanoid",
@@ -441,6 +504,7 @@
         "Technique": "Energy Theft"
     },
     {
+        "ID": 64,
         "Name": "Toyohiro Kanedaichi",
         "Stand": "Super Fly",
         "Stand Type": "Automatic, Materialized, Phenomenon",
@@ -448,6 +512,7 @@
         "Technique": "Occupant Restraint"
     },
     {
+        "ID": 65,
         "Name": "Terunosuke Miyamoto",
         "Stand": "Enigma",
         "Stand Type": "Close-Range, Psychological Assault, Artificial Humanoid",
@@ -455,6 +520,7 @@
         "Technique": "Paper Seal"
     },
     {
+        "ID": 66,
         "Name": "Masazo Kinoto",
         "Stand": "Cheap Trick",
         "Stand Type": "Automatic, Psychological Assault, Artificial Humanoid, Shared, Sentient",
@@ -462,6 +528,7 @@
         "Technique": "Back Attachment"
     },
     {
+        "ID": 67,
         "Name": "Giorno Giovanna",
         "Stand": "Gold Experience",
         "Stand Type": "Close-Range, Natural Humanoid",
@@ -469,6 +536,7 @@
         "Technique": "Life Giver"
     },
     {
+        "ID": 68,
         "Name": "Giorno Giovanna",
         "Stand": "Gold Experience Requiem",
         "Stand Type": "Close-Range, Range Irrelevant, Natural Humanoid, Sentient, Evolved",
@@ -476,6 +544,7 @@
         "Technique": "Nullification"
     },
     {
+        "ID": 69,
         "Name": "Bruno Bucciarati",
         "Stand": "Sticky Fingers",
         "Stand Type": "Close-Range, Natural Humanoid",
@@ -483,6 +552,7 @@
         "Technique": "Zippers"
     },
     {
+        "ID": 70,
         "Name": "Leone Abbacchio",
         "Stand": "Moody Blues",
         "Stand Type": "Close-Range, Natural Humanoid",
@@ -490,6 +560,7 @@
         "Technique": "Chronological Rebroadcasting"
     },
     {
+        "ID": 71,
         "Name": "Guido Mista",
         "Stand": "Sex Pistols",
         "Stand Type": "Long-Range, Artificial Humanoid, Colony",
@@ -497,6 +568,7 @@
         "Technique": "Bullet Control"
     },
     {
+        "ID": 72,
         "Name": "Narancia Ghirga",
         "Stand": "Aerosmith",
         "Stand Type": "Long-Range, Natural Humanoid",
@@ -504,6 +576,7 @@
         "Technique": "Machine Guns and Bomb"
     },
     {
+        "ID": 73,
         "Name": "Pannacotta Fugo",
         "Stand": "Purple Haze",
         "Stand Type": "Close-Range, Natural Humanoid",
@@ -511,6 +584,7 @@
         "Technique": "Killer Virus Infection"
     },
     {
+        "ID": 74,
         "Name": "Trish Una",
         "Stand": "Spice Girl",
         "Stand Type": "Close-Range, Natural Humanoid",
@@ -518,6 +592,7 @@
         "Technique": "Softening"
     },
     {
+        "ID": 75,
         "Name": "Diavolo",
         "Stand": "King Crimson",
         "Stand Type": "Close-Range, Natural Humanoid",
@@ -525,6 +600,7 @@
         "Technique": "Time Erasure"
     },
     {
+        "ID": 76,
         "Name": "Vinegar Doppio",
         "Stand": "Epitaph",
         "Stand Type": "Close-Range, Natural Humanoid",
@@ -532,6 +608,7 @@
         "Technique": "Precognition"
     },
     {
+        "ID": 77,
         "Name": "Risotto Nero",
         "Stand": "Metallica",
         "Stand Type": "Close-Range, Natural Non-Humanoid, Colony",
@@ -539,6 +616,7 @@
         "Technique": "Iron Manipulation"
     },
     {
+        "ID": 78,
         "Name": "Coco Jumbo",
         "Stand": "Mr. President",
         "Stand Type": "Range Irrelevant, Integrated, Natural Non-Humanoid",
@@ -546,6 +624,7 @@
         "Technique": "Hidden Room"
     },
     {
+        "ID": 79,
         "Name": "Jean Pierre Polnareff",
         "Stand": "Chariot Requiem",
         "Stand Type": "Close-Range, Artificial Humanoid",
@@ -553,6 +632,7 @@
         "Technique": "Body and Soul Manipulation"
     },
     {
+        "ID": 80,
         "Name": "Polpo",
         "Stand": "Black Sabbath",
         "Stand Type": "Automatic, Artificial Humanoid",
@@ -560,6 +640,7 @@
         "Technique": "Shadow Power"
     },
     {
+        "ID": 81,
         "Name": "Melone",
         "Stand": "Baby Face",
         "Stand Type": "Automatic, Materialized, Natural Humanoid, Artificial Non-Humanoid, Sentient",
@@ -567,6 +648,7 @@
         "Technique": "Homunculus Generation"
     },
     {
+        "ID": 82,
         "Name": "Mario Zucchero",
         "Stand": "Soft Machine",
         "Stand Type": "Close-Range, Artificial Humanoid",
@@ -574,6 +656,7 @@
         "Technique": "Pinch Deflating"
     },
     {
+        "ID": 83,
         "Name": "Sale",
         "Stand": "Kraft Work",
         "Stand Type": "Close-Range, Artificial Humanoid",
@@ -581,6 +664,7 @@
         "Technique": "Kinetic Energy Manipulation"
     },
     {
+        "ID": 84,
         "Name": "Formaggio",
         "Stand": "Little Feet",
         "Stand Type": "Close-Range, Artificial Humanoid",
@@ -588,6 +672,7 @@
         "Technique": "Shrinking"
     },
     {
+        "ID": 85,
         "Name": "Illuso",
         "Stand": "Man in the Mirror",
         "Stand Type": "Close-Range, Artificial Humanoid",
@@ -595,6 +680,7 @@
         "Technique": "Mirror World Entry"
     },
     {
+        "ID": 86,
         "Name": "Prosciutto",
         "Stand": "The Grateful Dead",
         "Stand Type": "Close-Range, Natural Non-Humanoid",
@@ -602,6 +688,7 @@
         "Technique": "Accelerated Aging"
     },
     {
+        "ID": 87,
         "Name": "Pesci",
         "Stand": "Beach Boy",
         "Stand Type": "Close-Range, Reconnaissance, Artificial Non-Humanoid",
@@ -609,6 +696,7 @@
         "Technique": "Hook and Line"
     },
     {
+        "ID": 88,
         "Name": "Ghiaccio",
         "Stand": "White Album",
         "Stand Type": "Close-Range, Artificial Humanoid",
@@ -616,6 +704,7 @@
         "Technique": "Cryokinesis"
     },
     {
+        "ID": 89,
         "Name": "Squalo",
         "Stand": "Clash",
         "Stand Type": "Long-Range, Natural Non-Humanoid",
@@ -623,6 +712,7 @@
         "Technique": "Liquid Warp"
     },
     {
+        "ID": 90,
         "Name": "Tizzano",
         "Stand": "Talking Head",
         "Stand Type": "Long-Range, Natural Non-Humanoid",
@@ -630,6 +720,7 @@
         "Technique": "Forced Lying"
     },
     {
+        "ID": 91,
         "Name": "Carne",
         "Stand": "Notorious B.I.G",
         "Stand Type": "Automatic, Natural Non-Humanoid, Natural Humanoid",
@@ -637,6 +728,7 @@
         "Technique": "Partial Symbiosis"
     },
     {
+        "ID": 92,
         "Name": "Cioccolata",
         "Stand": "Green Day",
         "Stand Type": "Close-Range, Artificial Humanoid",
@@ -644,6 +736,7 @@
         "Technique": "Mold Infestation"
     },
     {
+        "ID": 93,
         "Name": "Secco",
         "Stand": "Oasis",
         "Stand Type": "Close-Range, Artificial Humanoid",
@@ -651,6 +744,7 @@
         "Technique": "Ground Liquefaction"
     },
     {
+        "ID": 94,
         "Name": "Scolippi",
         "Stand": "Rolling Stones",
         "Stand Type": "Automatic, Foresight, Natural Non-Humanoid",
@@ -658,6 +752,7 @@
         "Technique": "Homing to Dying Target"
     },
     {
+        "ID": 95,
         "Name": "Jolyne Cujoh",
         "Stand": "Stone Free",
         "Stand Type": "Close-Range, Reconnaissance Natural Humanoid, Integrated",
@@ -665,6 +760,7 @@
         "Technique": "String Decomposition"
     },
     {
+        "ID": 96,
         "Name": "Jotaro Kujo (SO)",
         "Stand": "Star Platinum",
         "Stand Type": "Close-Range, Range Irrelevant, Natural Humanoid",
@@ -672,6 +768,7 @@
         "Technique": "Time Stop"
     },
     {
+        "ID": 97,
         "Name": "Emporio Alnino",
         "Stand": "Burning Down the House",
         "Stand Type": "Range Irrelevant, Materialized, Phenomenon",
@@ -679,6 +776,7 @@
         "Technique": "Ghost Objects"
     },
     {
+        "ID": 98,
         "Name": "Foo Fighters",
         "Stand": "Foo Fighters",
         "Stand Type": "Range Irrelevant, Integrated, Phenomenon, Shared",
@@ -686,6 +784,7 @@
         "Technique": "Body Invasion"
     },
     {
+        "ID": 99,
         "Name": "Ermes Costello",
         "Stand": "Kiss",
         "Stand Type": "Close-Range, Natural Humanoid",
@@ -693,6 +792,7 @@
         "Technique": "Duplicating Stickers"
     },
     {
+        "ID": 100,
         "Name": "Weather Report",
         "Stand": "Weather Report",
         "Stand Type": "Close-Range, Artificial Humanoid, Natural Non-Humanoid",
@@ -700,6 +800,7 @@
         "Technique": "Atmospheric Manipulation"
     },
     {
+        "ID": 101,
         "Name": "Narciso Anasui",
         "Stand": "Diver Down",
         "Stand Type": "Close-Range, Artificial Humanoid",
@@ -707,6 +808,7 @@
         "Technique": "Restructuring"
     },
     {
+        "ID": 102,
         "Name": "Enrico Pucci",
         "Stand": "Whitesnake",
         "Stand Type": "Long-Range, Psychological Assault, Natural Humanoid, Sentient",
@@ -714,6 +816,7 @@
         "Technique": "DISC Extraction"
     },
     {
+        "ID": 103,
         "Name": "Enrico Pucci",
         "Stand": "C-MOON",
         "Stand Type": "Long-Range, Natural Humanoid, Evolved",
@@ -721,6 +824,7 @@
         "Technique": "Gravity Shift"
     },
     {
+        "ID": 104,
         "Name": "Enrico Pucci",
         "Stand": "Made in Heaven",
         "Stand Type": "Close-Range, Range Irrelevant, Natural Non-Humanoid, Evolved",
@@ -728,6 +832,7 @@
         "Technique": "Time Acceleration"
     },
     {
+        "ID": 105,
         "Name": "Johngalli A.",
         "Stand": "Manhattan Transfer",
         "Stand Type": "Long-Range, Reconnaissance, Artificial Non-Humanoid",
@@ -735,6 +840,7 @@
         "Technique": "Bullet Redirection"
     },
     {
+        "ID": 106,
         "Name": "Lang Rangler",
         "Stand": "Jumpin' Jack Flash",
         "Stand Type": "Close-Range, Artificial Humanoid",
@@ -742,6 +848,7 @@
         "Technique": "Gravity Removal"
     },
     {
+        "ID": 107,
         "Name": "Sports Maxx",
         "Stand": "Limp Bizkit",
         "Stand Type": "Close-Range, Artificial Humanoid",
@@ -749,6 +856,7 @@
         "Technique": "Invisible Reanimation"
     },
     {
+        "ID": 108,
         "Name": "The Green Baby",
         "Stand": "Green, Green Grass of Home",
         "Stand Type": "Close-Range, Artificial Humanoid",
@@ -756,6 +864,7 @@
         "Technique": "Shrinking"
     },
     {
+        "ID": 109,
         "Name": "Gwess",
         "Stand": "Goo Goo Dolls",
         "Stand Type": "Long-Range, Artificial Humanoid",
@@ -763,6 +872,7 @@
         "Technique": "Size Reduction"
     },
     {
+        "ID": 110,
         "Name": "Miraschon",
         "Stand": "Marilyn Manson",
         "Stand Type": "Long-Range, Psychological Assault, Artificial Humanoid, Automatic",
@@ -770,6 +880,7 @@
         "Technique": "Debt Collection"
     },
     {
+        "ID": 111,
         "Name": "Viviano Westwood",
         "Stand": "Planet Waves",
         "Stand Type": "Close-Range, Natural Humanoid",
@@ -777,6 +888,7 @@
         "Technique": "Meteorite Attraction"
     },
     {
+        "ID": 112,
         "Name": "Kenzou",
         "Stand": "Dragon's Dream",
         "Stand Type": "Automatic, Artificial Non-Humanoid, Sentient",
@@ -784,6 +896,7 @@
         "Technique": "Feng Shui Divination"
     },
     {
+        "ID": 113,
         "Name": "Thunder McQueen",
         "Stand": "Highway to Hell",
         "Stand Type": "Long-Range, Artificial Non-Humanoid",
@@ -791,6 +904,7 @@
         "Technique": "Damage Sharing"
     },
     {
+        "ID": 114,
         "Name": "Rikiel",
         "Stand": "Sky High",
         "Stand Type": "Close-Range, Natural Humanoid",
@@ -798,6 +912,7 @@
         "Technique": "Rod Manipulation"
     },
     {
+        "ID": 115,
         "Name": "Ungalo",
         "Stand": "Bohemian Rhapsody",
         "Stand Type": "Range Irrelevant, Psychological Assault, Phenomenon",
@@ -805,6 +920,7 @@
         "Technique": "Fiction Realization"
     },
     {
+        "ID": 116,
         "Name": "Donatello Versus",
         "Stand": "Under World",
         "Stand Type": "Close-Range, Psychological Assault, Artificial Humanoid, Sentient",
@@ -812,6 +928,7 @@
         "Technique": "Demonic Excavation"
     },
     {
+        "ID": 117,
         "Name": "Miuccia Miuller",
         "Stand": "Jail House Lock",
         "Stand Type": "Close-Range, Psychological Assault, Artificial Humanoid",
@@ -819,6 +936,7 @@
         "Technique": "Memory Lock"
     },
     {
+        "ID": 118,
         "Name": "Guccio",
         "Stand": "Survivor",
         "Stand Type": "Automatic, Psychological Assault, Natural Non-Humanoid, Colony",
@@ -826,6 +944,7 @@
         "Technique": "Agressiveness Stimulation"
     },
     {
+        "ID": 119,
         "Name": "Johnny Joestar",
         "Stand": "Tusk ACT 1",
         "Stand Type": "Close-Range, Evolved, Natural Non-Humanoid, Sentient",
@@ -833,6 +952,7 @@
         "Technique": "Spinning Nails"
     },
     {
+        "ID": 120,
         "Name": "Johnny Joestar",
         "Stand": "Tusk ACT 2",
         "Stand Type": "Close-Range, Evolved, Artificial Non-Humanoid",
@@ -840,6 +960,7 @@
         "Technique": "Golden Rectangle Nails"
     },
     {
+        "ID": 121,
         "Name": "Johnny Joestar",
         "Stand": "Tusk ACT 3",
         "Stand Type": "Close-Range, Evolved, Artificial Non-Humanoid",
@@ -847,6 +968,7 @@
         "Technique": "Spatial Wormhole"
     },
     {
+        "ID": 122,
         "Name": "Johnny Joestar",
         "Stand": "Tusk ACT 4",
         "Stand Type": "Close-Range, Evolved, Artificial Humanoid",
@@ -854,6 +976,7 @@
         "Technique": "Infinite Rotation"
     },
     {
+        "ID": 123,
         "Name": "Gyro Zeppeli",
         "Stand": "Ball Breaker",
         "Stand Type": "Long-Range, Artificial Humanoid",
@@ -861,6 +984,7 @@
         "Technique": "Spin"
     },
     {
+        "ID": 124,
         "Name": "Lucy Steel",
         "Stand": "Ticket to Ride",
         "Stand Type": "Range Irrelevant, Integrated, Phenomenon",
@@ -868,6 +992,7 @@
         "Technique": "Divine Protection"
     },
     {
+        "ID": 125,
         "Name": "Funny Valentine",
         "Stand": "Dirty Deeds Done Dirt Cheap",
         "Stand Type": "Close-Range, Range Irrelevant, Natural Humanoid",
@@ -875,6 +1000,7 @@
         "Technique": "Travel Between Parallel Worlds"
     },
     {
+        "ID": 126,
         "Name": "Funny Valentine",
         "Stand": "D4C Love Train",
         "Stand Type": "Range Irrelevant, Phenomenon, Evolved",
@@ -882,6 +1008,7 @@
         "Technique": "Misfortune Redirection"
     },
     {
+        "ID": 127,
         "Name": "Diego Brando",
         "Stand": "Scary Monsters",
         "Stand Type": "Range Irrelevant, Integrated, Phenomenon, Shared",
@@ -889,6 +1016,7 @@
         "Technique": "Dinosaur Infection"
     },
     {
+        "ID": 128,
         "Name": "Hot Pants",
         "Stand": "Cream Starter",
         "Stand Type": "Range Irrelevant, Materialized, Artificial Non-Humanoid",
@@ -896,6 +1024,7 @@
         "Technique": "Flesh Spray"
     },
     {
+        "ID": 129,
         "Name": "Mountain Tim",
         "Stand": "Oh! Lonesome Me",
         "Stand Type": "Range Irrelevant, Integrated, Artificial Non-Humanoid",
@@ -903,6 +1032,7 @@
         "Technique": "Rope Transfer"
     },
     {
+        "ID": 130,
         "Name": "Sandman",
         "Stand": "In a Silent Way",
         "Stand Type": "Close-Range, Artificial Humanoid",
@@ -910,6 +1040,7 @@
         "Technique": "Sound Storage"
     },
     {
+        "ID": 131,
         "Name": "Dr. Ferdinand",
         "Stand": "Scary Monsters",
         "Stand Type": "Range Irrelevant, Integrated, Phenomenon, Shared",
@@ -917,6 +1048,7 @@
         "Technique": "Dinosaur Infection"
     },
     {
+        "ID": 132,
         "Name": "Ringo Roadagain",
         "Stand": "Mandom",
         "Stand Type": "Close-Range, Range Irrelevant, Artificial Non-Humanoid",
@@ -924,6 +1056,7 @@
         "Technique": "Time Reversal"
     },
     {
+        "ID": 133,
         "Name": "Blackmore",
         "Stand": "Catch the Rainbow",
         "Stand Type": "Close-Range, Artificial Non-Humanoid",
@@ -931,6 +1064,7 @@
         "Technique": "Rain Manipulation"
     },
     {
+        "ID": 134,
         "Name": "Axl RO",
         "Stand": "Civil War",
         "Stand Type": "Long-Range, Psychological Assault, Artificial Humanoid",
@@ -938,6 +1072,7 @@
         "Technique": "Guilt Materialization"
     },
     {
+        "ID": 135,
         "Name": "Parallel World Diego",
         "Stand": "THE WORLD",
         "Stand Type": "Close-Range, Range Irrelevant, Natural Humanoid",
@@ -945,6 +1080,7 @@
         "Technique": "Time Stop"
     },
     {
+        "ID": 136,
         "Name": "Pocoloco",
         "Stand": "Hey Ya!",
         "Stand Type": "Close-Range, Artificial Humanoid, Sentient",
@@ -952,6 +1088,7 @@
         "Technique": "Cheering"
     },
     {
+        "ID": 137,
         "Name": "Andre Boomboom",
         "Stand": "Tomb of the Boom 2",
         "Stand Type": "Close-Range, Natural Non-Humanoid, Shared",
@@ -959,6 +1096,7 @@
         "Technique": "Magnetism"
     },
     {
+        "ID": 138,
         "Name": "L.A. Boomboom",
         "Stand": "Tomb of the Boom 3",
         "Stand Type": "Close-Range, Natural Non-Humanoid, Shared",
@@ -966,6 +1104,7 @@
         "Technique": "Magnetism"
     },
     {
+        "ID": 139,
         "Name": "Benjamin Boomboom",
         "Stand": "Tomb of the Boom 1",
         "Stand Type": "Close-Range, Natural Non-Humanoid, Shared",
@@ -973,6 +1112,7 @@
         "Technique": "Magnetism"
     },
     {
+        "ID": 140,
         "Name": "Oyecomova",
         "Stand": "Boku no Rythm no Kiitekure",
         "Stand Type": "Close-Range, Natural Non-Humanoid",
@@ -980,6 +1120,7 @@
         "Technique": "Contact Bombs"
     },
     {
+        "ID": 141,
         "Name": "Pork Pie Hat Kid",
         "Stand": "Wired",
         "Stand Type": "Close-Range, Reconnaissance, Artificial Non-Humanoid",
@@ -987,6 +1128,7 @@
         "Technique": "Teleporting Hooks"
     },
     {
+        "ID": 142,
         "Name": "Eleven Men",
         "Stand": "TATOO YOU!",
         "Stand Type": "Close-Range, Integrated, Natural Non-Humanoid, Shared",
@@ -994,6 +1136,7 @@
         "Technique": "Body Slide"
     },
     {
+        "ID": 143,
         "Name": "Mike O.",
         "Stand": "Tubular Bells",
         "Stand Type": "Automatic, Materialized, Phenomenon",
@@ -1001,6 +1144,7 @@
         "Technique": "Metal Blowing"
     },
     {
+        "ID": 144,
         "Name": "Magent Magent",
         "Stand": "20th Century BOY",
         "Stand Type": "Close-Range, Artificial Non-Humanoid",
@@ -1008,6 +1152,7 @@
         "Technique": "Absolute Defense"
     },
     {
+        "ID": 145,
         "Name": "D-I-S-C-O",
         "Stand": "Chocolate Disco",
         "Stand Type": "Close-Range, Artificial Non-Humanoid",
@@ -1015,6 +1160,7 @@
         "Technique": "Repositioning"
     },
     {
+        "ID": 146,
         "Name": "Sugar Mountain",
         "Stand": "Sugar Mountain",
         "Stand Type": "Range Irrelevant, Integrated, Materialized, Phenomenon",
@@ -1022,6 +1168,7 @@
         "Technique": "The Guardian"
     },
     {
+        "ID": 147,
         "Name": "Josuke Higashikata (JJL)",
         "Stand": "Soft & Wet",
         "Stand Type": "Close-Range, Artificial Humanoid, Evolved, Shared",
@@ -1029,6 +1176,7 @@
         "Technique": "Bubble Generation"
     },
     {
+        "ID": 148,
         "Name": "Yasuho Hirose",
         "Stand": "Paisley Park",
         "Stand Type": "Long-Range, Reconnaissance, Natural Humanoid, Sentient",
@@ -1036,6 +1184,7 @@
         "Technique": "Guidance"
     },
     {
+        "ID": 149,
         "Name": "Rai Mamezuku",
         "Stand": "Doggy Style",
         "Stand Type": "Close-Range, Artificial Non-Humanoid",
@@ -1043,6 +1192,7 @@
         "Technique": "Skin Peeling"
     },
     {
+        "ID": 150,
         "Name": "Norisuke Higashikata IV",
         "Stand": "King Nothing",
         "Stand Type": "Long-Range, Reconnaissance, Artificial Humanoid",
@@ -1050,6 +1200,7 @@
         "Technique": "Scent Tracking"
     },
     {
+        "ID": 151,
         "Name": "Jobin Higashikata",
         "Stand": "Speed King",
         "Stand Type": "Close-Range, Artificial Humanoid",
@@ -1057,6 +1208,7 @@
         "Technique": "Heat Accumulation"
     },
     {
+        "ID": 152,
         "Name": "Toru",
         "Stand": "Wonder of U",
         "Stand Type": "Automatic, Sentient, Natural Humanoid, Artificial Humanoid",
@@ -1064,6 +1216,7 @@
         "Technique": "Calamity Manipulation"
     },
     {
+        "ID": 153,
         "Name": "Joshu Higashikata",
         "Stand": "Nut King Call",
         "Stand Type": "Close-Range, Artificial Humanoid",
@@ -1071,6 +1224,7 @@
         "Technique": "Nuts and Bolts"
     },
     {
+        "ID": 154,
         "Name": "Daiya Higashikata",
         "Stand": "California King Bed",
         "Stand Type": "Close-Range, Psychological Assault, Artificial Non-Humanoid",
@@ -1078,6 +1232,7 @@
         "Technique": "Memory Theft"
     },
     {
+        "ID": 155,
         "Name": "Hato Higashikata",
         "Stand": "Walking Heart",
         "Stand Type": "Close-Range, Artificial Humanoid",
@@ -1085,6 +1240,7 @@
         "Technique": "Heel Spikes"
     },
     {
+        "ID": 156,
         "Name": "Tsurugi Higashikata",
         "Stand": "Paper Moon King",
         "Stand Type": "Automatic, Materialized, Psychological Assault, Phenomenon",
@@ -1092,6 +1248,7 @@
         "Technique": "Living Origamis"
     },
     {
+        "ID": 157,
         "Name": "Mitsuba Higashikata",
         "Stand": "Awaking III Leaves",
         "Stand Type": "Close-Range, Artificial Humanoid",
@@ -1099,6 +1256,7 @@
         "Technique": "Vector Manipulation"
     },
     {
+        "ID": 158,
         "Name": "Kaato Higashikata",
         "Stand": "Space Truking",
         "Stand Type": "Materialized, Artificial Humanoid",
@@ -1106,6 +1264,7 @@
         "Technique": "Dimensional Storage"
     },
     {
+        "ID": 159,
         "Name": "Tamaki Damo",
         "Stand": "Vitamin C",
         "Stand Type": "Close-Range, Artificial Humanoid",
@@ -1113,6 +1272,7 @@
         "Technique": "Organic Softening"
     },
     {
+        "ID": 160,
         "Name": "Yotsuyu Yagiyama",
         "Stand": "I Am a Rock",
         "Stand Type": "Close-Range, Artificial Humanoid",
@@ -1120,6 +1280,7 @@
         "Technique": "Selective Attraction"
     },
     {
+        "ID": 161,
         "Name": "Urban Guerrilla",
         "Stand": "Brain Storm",
         "Stand Type": "Long-Range, Artificial Non-Humanoid, Colony",
@@ -1127,6 +1288,7 @@
         "Technique": "Hemolysis"
     },
     {
+        "ID": 162,
         "Name": "Wu Tomoki",
         "Stand": "Doctor Wu",
         "Stand Type": "Range Irrelevant, Integrated, Phenomenon",
@@ -1134,6 +1296,7 @@
         "Technique": "Gravel Transformation"
     },
     {
+        "ID": 163,
         "Name": "Dolomite",
         "Stand": "Blue Hawaii",
         "Stand Type": "Automatic, Psychological Assault, Natural Non-Humanoid",
@@ -1141,6 +1304,7 @@
         "Technique": "Contagious Possession"
     },
     {
+        "ID": 164,
         "Name": "Poor Tom",
         "Stand": "Ozon Baby",
         "Stand Type": "Automatic, Materialized, Artificial Non-Humanoid",
@@ -1148,6 +1312,7 @@
         "Technique": "Pressure Manipulation"
     },
     {
+        "ID": 165,
         "Name": "Aisho Dainenjiyama",
         "Stand": "Doobie Wah!",
         "Stand Type": "Automatic, Artificial Non-Humanoid, Natural Non-Humanoid",
@@ -1155,6 +1320,7 @@
         "Technique": "Pursuing Vortex"
     },
     {
+        "ID": 166,
         "Name": "Satoru Akefu",
         "Stand": "Wonder of U",
         "Stand Type": "Automatic, Sentient, Natural Humanoid, Artificial Humanoid",
@@ -1162,6 +1328,7 @@
         "Technique": "Human Disguise"
     },
     {
+        "ID": 167,
         "Name": "Yoshikage Kira (JJL)",
         "Stand": "Killer Queen",
         "Stand Type": "Close-Range, Natural Humanoid",
@@ -1169,6 +1336,7 @@
         "Technique": "Explosive Bubbles"
     },
     {
+        "ID": 168,
         "Name": "Josefumi Kujo",
         "Stand": "Soft & Wet",
         "Stand Type": "Close-Range, Artificial Humanoid",
@@ -1176,6 +1344,7 @@
         "Technique": "Bubble Generation"
     },
     {
+        "ID": 169,
         "Name": "Karera Sakunami",
         "Stand": "Love Love Deluxe",
         "Stand Type": "Close-Range, Artificial Humanoid",
@@ -1183,6 +1352,7 @@
         "Technique": "Hair Growth"
     },
     {
+        "ID": 170,
         "Name": "Ojiro Sasame",
         "Stand": "Fun Fun Fun",
         "Stand Type": "Close-Range, Natural Non-Humanoid",
@@ -1190,6 +1360,7 @@
         "Technique": "Body Puppeteering"
     },
     {
+        "ID": 171,
         "Name": "Elder A. Phex",
         "Stand": "Schott Key No. 1",
         "Stand Type": "Range Irrelevant, Integrated, Natural Non-Humanoid",
@@ -1197,6 +1368,7 @@
         "Technique": "Left Hand-Right Hand Transfer"
     },
     {
+        "ID": 172,
         "Name": "Younger A. Phex",
         "Stand": "Schott Key No. 2",
         "Stand Type": "Close-Range, Automatic, Natural Non-Humanoid",
@@ -1204,6 +1376,7 @@
         "Technique": "Toxic Gas"
     },
     {
+        "ID": 173,
         "Name": "Zaihei Nigatake",
         "Stand": "Milagroman",
         "Stand Type": "Range Irrelevant, Artificial Humanoid, Shared",
@@ -1211,6 +1384,7 @@
         "Technique": "Monetary Generation"
     },
     {
+        "ID": 174,
         "Name": "Kei Nijimura",
         "Stand": "Born This Way",
         "Stand Type": "Automatic, Artificial Humanoid",
@@ -1218,6 +1392,7 @@
         "Technique": "Summon Through Opening"
     },
     {
+        "ID": 175,
         "Name": "Lucy Steel (JJL)",
         "Stand": "Ticket to Ride",
         "Stand Type": "Range Irrelevant, Integrated, Phenomenon",
@@ -1225,6 +1400,7 @@
         "Technique": "Divine Protection"
     },
     {
+        "ID": 176,
         "Name": "Johnny Joestar (JJL)",
         "Stand": "Tusk ACT 1",
         "Stand Type": "Close-Range, Evolved, Natural Non-Humanoid, Sentient",
@@ -1232,6 +1408,7 @@
         "Technique": "Spinning Nails"
     },
     {
+        "ID": 177,
         "Name": "Johnny Joestar (JJL)",
         "Stand": "Tusk ACT 2",
         "Stand Type": "Close-Range, Evolved, Artificial Non-Humanoid",
@@ -1239,6 +1416,7 @@
         "Technique": "Golden Rectangle Nails"
     },
     {
+        "ID": 178,
         "Name": "Johnny Joestar (JJL)",
         "Stand": "Tusk ACT 3",
         "Stand Type": "Close-Range, Evolved, Artificial Non-Humanoid",
@@ -1246,6 +1424,7 @@
         "Technique": "Spatial Wormhole"
     },
     {
+        "ID": 179,
         "Name": "Johnny Joestar (JJL)",
         "Stand": "Tusk ACT 4",
         "Stand Type": "Close-Range, Evolved, Artificial Humanoid",
@@ -1253,6 +1432,7 @@
         "Technique": "Infinite Rotation"
     },
     {
+        "ID": 180,
         "Name": "Jodio Joestar",
         "Stand": "November Rain",
         "Stand Type": "Close-Range, Artificial Humanoid",
@@ -1260,6 +1440,7 @@
         "Technique": "Rain Generator"
     },
     {
+        "ID": 181,
         "Name": "Dragona Joestar",
         "Stand": "Smooth Operators",
         "Stand Type": "Close-Range, Colony, Artificial Non-Humanoid",
@@ -1267,6 +1448,7 @@
         "Technique": "Displacement"
     },
     {
+        "ID": 182,
         "Name": "Paco Laburantes",
         "Stand": "THE Hustle",
         "Stand Type": "Integrated",
@@ -1274,6 +1456,7 @@
         "Technique": "Prehensile Muscles"
     },
     {
+        "ID": 183,
         "Name": "Usagi Alohaoe",
         "Stand": "THE MATTEKUDASAI",
         "Stand Type": "Artificial Non-Humanoid",
@@ -1281,6 +1464,7 @@
         "Technique": "Wish Granting Transformation"
     },
     {
+        "ID": 184,
         "Name": "Rohan Kishibe (TJJL)",
         "Stand": "Heaven's Door",
         "Stand Type": "Close-Range, Reconnaissance, Natural Humanoid",
@@ -1288,6 +1472,7 @@
         "Technique": "Book Transmutation"
     },
     {
+        "ID": 185,
         "Name": "Charming Man",
         "Stand": "Bigmouth Strikes Again",
         "Stand Type": "Integrated, Phenomenon",
@@ -1295,6 +1480,7 @@
         "Technique": "Skin Dispersion"
     },
     {
+        "ID": 186,
         "Name": "Wild Cat Size",
         "Stand": "Cat Size",
         "Stand Type": "Integrated, Close-Range, Artificial Non-Humanoid, Shared",
@@ -1302,6 +1488,7 @@
         "Technique": "Constricting Wires"
     },
     {
+        "ID": 187,
         "Name": "Lulu",
         "Stand": "Bags Groove",
         "Stand Type": "Automatic, Long-Range, Artificial Humanoid, Colony",
@@ -1309,6 +1496,7 @@
         "Technique": "Lesion Infliction"
     },
     {
+        "ID": 188,
         "Name": "Bobby Jean",
         "Stand": "Glory Days",
         "Stand Type": "Phenomenon",
