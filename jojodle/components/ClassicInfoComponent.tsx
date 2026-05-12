@@ -8,6 +8,11 @@ const archivoBold = Archivo({
     weight: "700",
 },);
 
+const archivoLight = Archivo({
+    subsets: ['latin'],
+    weight: "300",
+},);
+
 export default function ClassicInfoComponent() {
     return (
         <div className="text-[var(--White)] flex flex-col items-center gap-2 mt-2 p-[16] bg-[var(--Background)] m-0 max-w-[348] m-auto rounded-lg">
@@ -15,27 +20,27 @@ export default function ClassicInfoComponent() {
             <div className="flex gap-2 text-center">
                 <div>
                     <div className="w-[56] h-[56] bg-[var(--Correct)] rounded-sm"></div>
-                    <p>Correct</p>
+                    <p className={`${archivoLight.className}`}>Correct</p>
                 </div>
                 <div>
                     <div className="w-[56] h-[56] bg-[var(--Partial)] rounded-sm"></div>
-                    <p>Partially<br />Correct</p>
+                    <p className={`${archivoLight.className}`}>Partially<br />Correct</p>
                 </div>
                 <div>
                     <div className="w-[56] h-[56] bg-[var(--Wrong)] rounded-sm"></div>
-                    <p>Wrong</p>
+                    <p className={`${archivoLight.className}`}>Wrong</p>
                 </div>
                 <div>
                     <div className="w-[56] h-[56] bg-[var(--Wrong)] rounded-sm flex items-center justify-center">
                         <Image src={DownArrow} alt={"Down Arrow"} />
                     </div>
-                    <p>Before/<br />Less</p>
+                    <p className={`${archivoLight.className}`}>Before/<br />Less</p>
                 </div>
                 <div>
                     <div className="w-[56] h-[56] bg-[var(--Wrong)] rounded-sm flex items-center justify-center">
                         <Image src={UpArrow} alt={"Up Arrow"} />
                     </div>
-                    <p>After/<br />More</p>
+                    <p className={`${archivoLight.className}`}>After/<br />More</p>
                 </div>
             </div>
         </div>
