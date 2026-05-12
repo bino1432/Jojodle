@@ -15,7 +15,7 @@ const archivoLight = Archivo({
 
 export default function ClassicInfoComponent() {
     return (
-        <div className="text-[var(--White)] flex flex-col items-center gap-2 mt-2 p-[16] bg-[var(--Background)] m-0 max-w-[348] m-auto rounded-lg">
+        <div className="text-[var(--White)] flex flex-col items-center gap-2 my-4 p-[16] bg-[var(--Background)] m-0 max-w-[348] m-auto rounded-lg">
             <h1 className={`${archivoBold.className} text-xl`}>Color Info</h1>
             <div className="flex gap-2 text-center">
                 <div>

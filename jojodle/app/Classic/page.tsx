@@ -10,6 +10,7 @@ import classicJson from "@/data/json/classic.en.json";
 import InputCharacter from "@/components/InputCharacter";
 import CharacterCard from "@/components/CharacterCard";
 import ClassicInfoComponent from "@/components/ClassicInfoComponent";
+import Footer from "@/components/Footer";
 
 const archivoBold = Archivo({
   subsets: ['latin'],
@@ -134,6 +135,7 @@ export default function Classicpage() {
           </div>
         )}
         <ClassicInfoComponent />
+        <Footer />
       </div>
     </main >
   );
