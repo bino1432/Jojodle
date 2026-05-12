@@ -1,7 +1,7 @@
 "use client"
-import Header from "@/components/Header";
-import MinigameSelector from "@/components/MinigameSelector";
-import HintButtons from "@/components/HintButtons";
+import Header from "@/components/UniversalComponents/Header";
+import MinigameSelector from "@/components/UniversalComponents/MinigameSelector";
+import HintButtons from "@/components/UniversalComponents/HintButtons";
 import { Archivo } from "next/font/google";
 import PartClueIcon from "@/public/images/icon/PartClue-Icon.png";
 import TargetClueIcon from "@/public/images/icon/TargetClue-Icon.png";

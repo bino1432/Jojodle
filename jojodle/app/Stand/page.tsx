@@ -1,13 +1,14 @@
 "use client"
-import Header from "@/components/Header";
-import MinigameSelector from "@/components/MinigameSelector";
-import HintButtons from "@/components/HintButtons";
+import Header from "@/components/UniversalComponents/Header";
+import MinigameSelector from "@/components/UniversalComponents/MinigameSelector";
+import HintButtons from "@/components/UniversalComponents/HintButtons";
 import { Archivo } from "next/font/google";
 import PartClueIcon from "@/public/images/icon/PartClue-Icon.png";
 import TypeClueIcon from "@/public/images/icon/TypeClue-Icon.png";
 import TechniqueClueIcon from "@/public/images/icon/TechniqueClue-Icon.png";
 import { useEffect, useState } from "react";
 import standJson from "@/data/json/stand.en.json";
+import Footer from "@/components/UniversalComponents/Footer";
 
 const archivoBold = Archivo({
   subsets: ['latin'],
@@ -48,6 +49,7 @@ export default function Standpage() {
                         }
                     </div>
                 </div>
+                <Footer />
             </div>
         </main>
     );

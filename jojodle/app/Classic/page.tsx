@@ -1,16 +1,16 @@
 "use client"
-import Header from "@/components/Header"
-import MinigameSelector from "@/components/MinigameSelector";
-import HintButtons from "@/components/HintButtons";
+import Header from "@/components/UniversalComponents/Header"
+import MinigameSelector from "@/components/UniversalComponents/MinigameSelector";
+import HintButtons from "@/components/UniversalComponents/HintButtons";
 import PartClueIcon from "@/public/images/icon/PartClue-Icon.png";
 import TechniqueClueIcon from "@/public/images/icon/TechniqueClue-Icon.png";
 import { Archivo } from "next/font/google";
 import { useEffect, useState } from "react";
 import classicJson from "@/data/json/classic.en.json";
 import InputCharacter from "@/components/InputCharacter";
-import CharacterCard from "@/components/CharacterCard";
-import ClassicInfoComponent from "@/components/ClassicInfoComponent";
-import Footer from "@/components/Footer";
+import CharacterCard from "@/components/ClassicComponents/CharacterCard";
+import ClassicInfoComponent from "@/components/ClassicComponents/ClassicInfoComponent";
+import Footer from "@/components/UniversalComponents/Footer";
 
 const archivoBold = Archivo({
   subsets: ['latin'],
