@@ -38,7 +38,7 @@
   {
     "ID": 5,
     "Name": "Jean Pierre Polnareff",
-    "Stand": "Silver Chariot",
+    "Stand": "Silver Chariot,Chariot Requiem",
     "Stand Type": "Close-Range, Artificial Humanoid",
     "Debut": "Stardust Crusaders",
     "Technique": "Hora Rush",
@@ -362,28 +362,10 @@
   {
     "ID": 42,
     "Name": "Yoshikage Kira",
-    "Stand": "Killer Queen",
+    "Stand": "Killer Queen,Sheer Heart Attack,Bites the Dust",
     "Stand Type": "Close-Range, Natural Humanoid",
     "Debut": "Diamond is Unbreakable",
     "Technique": "Bomb Transmutation",
-    "Image": "/images/icon/character/DiU/DiU_8.gif"
-  },
-  {
-    "ID": 43,
-    "Name": "Yoshikage Kira",
-    "Stand": "Sheer Heart Attack",
-    "Stand Type": "Automatic, Artificial Non-Humanoid",
-    "Debut": "Diamond is Unbreakable",
-    "Technique": "Heat-Seeking Detonation",
-    "Image": "/images/icon/character/DiU/DiU_8.gif"
-  },
-  {
-    "ID": 44,
-    "Name": "Yoshikage Kira",
-    "Stand": "Bites the Dust",
-    "Stand Type": "Automatic, Psychological Assault, Natural Humanoid, Evolved",
-    "Debut": "Diamond is Unbreakable",
-    "Technique": "Identity Concealment",
     "Image": "/images/icon/character/DiU/DiU_8.gif"
   },
   {
@@ -568,20 +550,11 @@
   },
   {
     "ID": 66,
-    "Name": "Giorno Giovanna",
+    "Name": "Giorno Giovanna, Gold Experience Requiem",
     "Stand": "Gold Experience",
     "Stand Type": "Close-Range, Natural Humanoid",
     "Debut": "Vento Aureo",
     "Technique": "Life Giver",
-    "Image": "/images/icon/character/VA/VA_1.png"
-  },
-  {
-    "ID": 67,
-    "Name": "Giorno Giovanna",
-    "Stand": "Gold Experience Requiem",
-    "Stand Type": "Close-Range, Range Irrelevant, Natural Humanoid, Sentient, Evolved",
-    "Debut": "Vento Aureo",
-    "Technique": "Nullification",
     "Image": "/images/icon/character/VA/VA_1.png"
   },
   {
@@ -673,15 +646,6 @@
     "Debut": "Vento Aureo",
     "Technique": "Hidden Room",
     "Image": "/images/icon/character/VA/VA_??.png"
-  },
-  {
-    "ID": 78,
-    "Name": "Jean Pierre Polnareff",
-    "Stand": "Chariot Requiem",
-    "Stand Type": "Close-Range, Artificial Humanoid",
-    "Debut": "Stardust Crusaders",
-    "Technique": "Body and Soul Manipulation",
-    "Image": "/images/icon/character/SC/SC_5.png"
   },
   {
     "ID": 79,
@@ -874,29 +838,11 @@
   },
   {
     "ID": 101,
-    "Name": "Enrico Pucci (Whitesnake)",
-    "Stand": "Whitesnake",
+    "Name": "Enrico Pucci",
+    "Stand": "Whitesnake,C-MOON,Made in Heaven",
     "Stand Type": "Long-Range, Psychological Assault, Natural Humanoid, Sentient",
     "Debut": "Stone Ocean",
     "Technique": "DISC Extraction",
-    "Image": "/images/icon/character/SO/SO_8.png"
-  },
-  {
-    "ID": 102,
-    "Name": "Enrico Pucci (C-MOON)",
-    "Stand": "C-MOON",
-    "Stand Type": "Long-Range, Natural Humanoid, Evolved",
-    "Debut": "Stone Ocean",
-    "Technique": "Gravity Shift",
-    "Image": "/images/icon/character/SO/SO_8.png"
-  },
-  {
-    "ID": 103,
-    "Name": "Enrico Pucci (Made in Heaven)",
-    "Stand": "Made in Heaven",
-    "Stand Type": "Close-Range, Range Irrelevant, Natural Non-Humanoid, Evolved",
-    "Debut": "Stone Ocean",
-    "Technique": "Time Acceleration",
     "Image": "/images/icon/character/SO/SO_8.png"
   },
   {
@@ -1028,37 +974,10 @@
   {
     "ID": 118,
     "Name": "Johnny Joestar",
-    "Stand": "Tusk ACT 1",
+    "Stand": "Tusk ACT 1, Tusk ACT 2, Tusk ACT 3, Tusk ACT 4",
     "Stand Type": "Close-Range, Evolved, Natural Non-Humanoid, Sentient",
     "Debut": "Steel Ball Run",
     "Technique": "Spinning Nails",
-    "Image": "/images/icon/character/SBR/SBR_1.png"
-  },
-  {
-    "ID": 119,
-    "Name": "Johnny Joestar",
-    "Stand": "Tusk ACT 2",
-    "Stand Type": "Close-Range, Evolved, Artificial Non-Humanoid",
-    "Debut": "Steel Ball Run",
-    "Technique": "Golden Rectangle Nails",
-    "Image": "/images/icon/character/SBR/SBR_1.png"
-  },
-  {
-    "ID": 120,
-    "Name": "Johnny Joestar",
-    "Stand": "Tusk ACT 3",
-    "Stand Type": "Close-Range, Evolved, Artificial Non-Humanoid",
-    "Debut": "Steel Ball Run",
-    "Technique": "Spatial Wormhole",
-    "Image": "/images/icon/character/SBR/SBR_1.png"
-  },
-  {
-    "ID": 121,
-    "Name": "Johnny Joestar",
-    "Stand": "Tusk ACT 4",
-    "Stand Type": "Close-Range, Evolved, Artificial Humanoid",
-    "Debut": "Steel Ball Run",
-    "Technique": "Infinite Rotation",
     "Image": "/images/icon/character/SBR/SBR_1.png"
   },
   {
@@ -1081,20 +1000,11 @@
   },
   {
     "ID": 124,
-    "Name": "Funny Valentine (D4C)",
-    "Stand": "Dirty Deeds Done Dirt Cheap",
+    "Name": "Funny Valentine",
+    "Stand": "Dirty Deeds Done Dirt Cheap,D4C Love Train",
     "Stand Type": "Close-Range, Range Irrelevant, Natural Humanoid",
     "Debut": "Steel Ball Run",
     "Technique": "Travel Between Parallel Worlds",
-    "Image": "/images/icon/character/SBR/SBR_4.png"
-  },
-  {
-    "ID": 125,
-    "Name": "Funny Valentine (D4C Love Train)",
-    "Stand": "D4C Love Train",
-    "Stand Type": "Range Irrelevant, Phenomenon, Evolved",
-    "Debut": "Steel Ball Run",
-    "Technique": "Misfortune Redirection",
     "Image": "/images/icon/character/SBR/SBR_4.png"
   },
   {

@@ -29,8 +29,9 @@ interface Character {
 export default function Standpage() {
 
     useEffect(() => {
-    const randomCharacter = standJson[Math.floor(Math.random() * (standJson.length - 0 + 1)) + 0]
+    const randomCharacter = standJson[Math.floor(Math.random() * standJson.length)]
     setCorrectCharacter(randomCharacter);
+    setShowedStand(verifyStand(randomCharacter.Stand));
     console.log(attempts)
     }, []);
     
@@ -43,6 +44,7 @@ export default function Standpage() {
     const [triedCharacter, setTriedCharacter] = useState<number[]>([]);
     const [attempts, setAttempts] = useState(0);
     const [winGame, setWinGame] = useState(false);
+    const [showedStand, setShowedStand] = useState("");
 
     const reciveCharacterIdFromComponent = (id: number) => {
     setTriedCharacter([...triedCharacter, id]);
@@ -51,7 +53,16 @@ export default function Standpage() {
       }
       console.log(attempts);
       console.log(triedCharacter);
-  }
+    }
+
+  const verifyStand = (stand: string) => {
+        const standList = stand.split(",")
+        if(standList.length === 1) {
+            return stand;
+        } else {
+            return standList[Math.floor(Math.random() * standList.length)];
+        }
+    }
 
     return (
         <main>
@@ -60,7 +71,7 @@ export default function Standpage() {
                 <MinigameSelector />
                 <div className="flex flex-col p-4 bg-[var(--Background)] items-center text-center mt-4 max-w-145 rounded-lg m-auto gap-4">
                     <p className={`${archivoBold.className} text-xl text-white text-balance`}>Take a guess at today's Jojo's Bizarre Adventure Stand user!</p>
-                    <p className={`${archivoBold.className} text-2xl text-white`}>「{correctCharacter?.Stand}」</p>
+                    <p className={`${archivoBold.className} text-2xl text-white`}>「{showedStand}」</p>
                 </div>
 
                 <div>

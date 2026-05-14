@@ -35,7 +35,7 @@ interface Character {
 export default function Classicpage() {
 
   useEffect(() => {
-    const randomCharacter = classicJson[Math.floor(Math.random() * (classicJson.length - 0 + 1)) + 0]
+    const randomCharacter = classicJson[Math.floor(Math.random() * classicJson.length)]
     setCorrectCharacter(randomCharacter);
     console.log(attempts)
   }, []);
