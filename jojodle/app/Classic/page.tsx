@@ -7,10 +7,10 @@ import TechniqueClueIcon from "@/public/images/icon/TechniqueClue-Icon.png";
 import { Archivo } from "next/font/google";
 import { useEffect, useState } from "react";
 import classicJson from "@/data/json/classic.en.json";
-import InputCharacter from "@/components/ClassicComponents/InputCharacter";
 import CharacterCard from "@/components/ClassicComponents/CharacterCard";
 import ClassicInfoComponent from "@/components/ClassicComponents/ClassicInfoComponent";
 import Footer from "@/components/UniversalComponents/Footer";
+import SearchInput from "@/components/UniversalComponents/SearchInput";
 
 const archivoBold = Archivo({
   subsets: ['latin'],
@@ -92,7 +92,7 @@ export default function Classicpage() {
           ${side == "left" ? "rounded-tl-none" : "rounded-tr-none"}`} id="fadeIn">{currentHint}</p>
         </div>
         <div>
-          <InputCharacter reciveId={reciveCharacterIdFromComponent} characterJson={classicJson} winGame={winGame} />
+          <SearchInput reciveId={reciveCharacterIdFromComponent} characterJson={classicJson} winGame={winGame} />
         </div>
         {triedCharacter.length !== 0 ? (<div className="flex justify-center gap-[8] text-[var(--White)] text-center mt-4">
           <p className="min-w-[96] p-2 rounded-lg bg-[var(--Background)]">Character</p>

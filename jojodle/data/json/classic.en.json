@@ -2993,7 +2993,7 @@
         "StandType": "N/A",
         "Debut": "Steel Ball Run",
         "Technique": "None",
-        "Image": "/images/icon/character/SBR/SBR_39"
+        "Image": "/images/icon/character/SBR/SBR_39.png"
     },
     {
         "ID": 215,
@@ -3007,7 +3007,7 @@
         "StandType": "N/A",
         "Debut": "Steel Ball Run",
         "Technique": "None",
-        "Image": "/images/icon/character/SBR/SBR_40"
+        "Image": "/images/icon/character/SBR/SBR_40.png"
     },
     {
         "ID": 216,
@@ -3021,7 +3021,7 @@
         "StandType": "N/A",
         "Debut": "Steel Ball Run",
         "Technique": "None",
-        "Image": "/images/icon/character/SBR/SBR_41"
+        "Image": "/images/icon/character/SBR/SBR_41.png"
     },
     {
         "ID": 217,

@@ -2,20 +2,11 @@
 import sendIcon from '@/public/images/icon/Send-Icon.svg'
 import { Archivo } from 'next/font/google';
 import Image from 'next/image'
-import { use, useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 
 type Character = {
   ID: number;
   Name: string;
-  Gender: string,
-  Height: string,
-  Age: number | null,
-  Nationality: string,
-  Affiliation: string,
-  Occupation: string,
-  StandType: string,
-  Debut: string,
-  Technique: string,
   Image: string
 }
 
@@ -30,7 +21,7 @@ const archivoBold = Archivo({
     weight: "700",
 },);
 
-export default function InputCharacter({reciveId, winGame, characterJson}: inputProps) {
+export default function SearchInput({reciveId, winGame, characterJson}: inputProps) {
     const [query, setQuery] = useState("");
     const [showList, setShowList] = useState(false);
     const [characterList, setCharacterList] = useState<Character[]>([]);
