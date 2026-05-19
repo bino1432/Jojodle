@@ -28,15 +28,22 @@ export default function SearchInput({reciveId, winGame, characterJson}: inputPro
 
     useEffect(() => {
         setCharacterList(characterJson);
-    })
+    }, [characterJson]);
 
     const filtered = characterList.filter((char) =>
         char.Name.toLowerCase().includes(query.toLowerCase())
     );
 
+    const removeCharacter = (id: number) => {
+        setCharacterList(prev => prev.filter(char => char.ID !== Number(id)));
+        console.log("Personagem removido:", id);
+        console.log("Lista atualizada:", characterList);
+    }
+
     const handleSelect = (id: number) => {
         console.log("Personagem selecionado:", id);
         reciveId(id);
+        removeCharacter(id);
         setQuery("");
         setShowList(false);
     };

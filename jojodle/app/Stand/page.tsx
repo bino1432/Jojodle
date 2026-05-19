@@ -10,6 +10,7 @@ import { useEffect, useState } from "react";
 import standJson from "@/data/json/stand.en.json";
 import Footer from "@/components/UniversalComponents/Footer";
 import SearchInput from "@/components/UniversalComponents/SearchInput";
+import StandCard from "@/components/StandComponents/StandCard";
 
 const archivoBold = Archivo({
   subsets: ['latin'],
@@ -55,7 +56,11 @@ export default function Standpage() {
       console.log(triedCharacter);
     }
 
-  const verifyStand = (stand: string) => {
+    const reciveIfWinGame = (win: boolean) => {
+        setWinGame(win);
+    }
+
+    const verifyStand = (stand: string) => {
         const standList = stand.split(",")
         if(standList.length === 1) {
             return stand;
@@ -69,13 +74,24 @@ export default function Standpage() {
             <div>
                 <Header />
                 <MinigameSelector />
-                <div className="flex flex-col p-4 bg-[var(--Background)] items-center text-center mt-4 max-w-145 rounded-lg m-auto gap-4">
+                <div className="flex flex-col p-4 bg-[var(--Background)] items-center text-center mt-4 max-w-110 rounded-lg m-auto gap-4">
                     <p className={`${archivoBold.className} text-xl text-white text-balance`}>Take a guess at today's Jojo's Bizarre Adventure Stand user!</p>
                     <p className={`${archivoBold.className} text-2xl text-white`}>「{showedStand}」</p>
                 </div>
 
                 <div>
                     <SearchInput reciveId={reciveCharacterIdFromComponent} characterJson={standJson} winGame={winGame} />
+                </div>
+
+                <div className="mt-4">
+                    {correctCharacter && (
+                        <StandCard
+                            imageUrl={correctCharacter.Image}
+                            name={correctCharacter.Name}
+                            character={correctCharacter}
+                            winGame={reciveIfWinGame}
+                        />
+                    )}
                 </div>
 
                 <Footer />

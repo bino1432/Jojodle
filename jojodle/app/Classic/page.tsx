@@ -70,7 +70,7 @@ export default function Classicpage() {
       console.log(triedCharacter);
   }
 
-  const reviceIfWinGame = (win: boolean) => {
+  const reciveIfWinGame = (win: boolean) => {
     setWinGame(win);
   }
 
@@ -127,7 +127,7 @@ export default function Classicpage() {
                     standType={characterData.StandType}
                     debutPart={characterData.Debut}
                     character={correctCharacter}
-                    winGame={reviceIfWinGame}
+                    winGame={reciveIfWinGame}
                   />
                 )
               );
