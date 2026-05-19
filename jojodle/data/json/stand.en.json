@@ -342,7 +342,7 @@
     "Image": "/images/icon/character/DiU/DiU_2.png"
   },
   {
-    "ID": 40,
+    "ID": 39,
     "Name": "Okuyasu Nijimura",
     "Stand": "The Hand",
     "Stand Type": "Close-Range, Artificial Humanoid",
@@ -351,7 +351,7 @@
     "Image": "/images/icon/character/DiU/DiU_4.png"
   },
   {
-    "ID": 41,
+    "ID": 40,
     "Name": "Rohan Kishibe",
     "Stand": "Heaven's Door",
     "Stand Type": "Close-Range, Reconnaissance, Natural Humanoid",
@@ -360,7 +360,7 @@
     "Image": "/images/icon/character/DiU/DiU_5.png"
   },
   {
-    "ID": 42,
+    "ID": 41,
     "Name": "Yoshikage Kira",
     "Stand": "Killer Queen,Sheer Heart Attack,Bites the Dust",
     "Stand Type": "Close-Range, Natural Humanoid",
@@ -369,7 +369,7 @@
     "Image": "/images/icon/character/DiU/DiU_8.gif"
   },
   {
-    "ID": 45,
+    "ID": 42,
     "Name": "Akira Otoishi",
     "Stand": "Red Hot Chili Pepper",
     "Stand Type": "Long-Range, Natural Humanoid",
@@ -378,7 +378,7 @@
     "Image": "/images/icon/character/DiU/DiU_9.png"
   },
   {
-    "ID": 46,
+    "ID": 43,
     "Name": "Yoshihiro Kira",
     "Stand": "Atom Heart Father",
     "Stand Type": "Range Irrelevant, Materialized, Psychological Assault, Phenomenon",
@@ -387,7 +387,7 @@
     "Image": "/images/icon/character/DiU/DiU_10.png"
   },
   {
-    "ID": 48,
+    "ID": 44,
     "Name": "Shigekiyo Yangu",
     "Stand": "Harvest",
     "Stand Type": "Long-Range, Reconnaissance, Artificial Non-Humanoid, Colony",
@@ -396,7 +396,7 @@
     "Image": "/images/icon/character/DiU/DiU_12.png"
   },
   {
-    "ID": 49,
+    "ID": 45,
     "Name": "Mikitaka Hazekura",
     "Stand": "Earth, Wind and Fire",
     "Stand Type": "Range Irrelevant, Integrated, Phenomenon",
@@ -405,7 +405,7 @@
     "Image": "/images/icon/character/DiU/DiU_13.png"
   },
   {
-    "ID": 50,
+    "ID": 46,
     "Name": "Yuya Fungami",
     "Stand": "Highway Star",
     "Stand Type": "Long-Range, Automatic, Reconnaissance, Natural Humanoid",
@@ -414,7 +414,7 @@
     "Image": "/images/icon/character/DiU/DiU_14.png"
   },
   {
-    "ID": 51,
+    "ID": 47,
     "Name": "Anjuro Katagiri",
     "Stand": "Aqua Necklace",
     "Stand Type": "Long-Range, Materialized, Natural Humanoid, Natural Non-Humanoid",
@@ -423,7 +423,7 @@
     "Image": "/images/icon/character/DiU/DiU_15.png"
   },
   {
-    "ID": 52,
+    "ID": 48,
     "Name": "Keicho Nijimura",
     "Stand": "Bad Company",
     "Stand Type": "Close-Range, Reconnaissance, Artificial Humanoid, Colony",
@@ -432,7 +432,7 @@
     "Image": "/images/icon/character/DiU/DiU_16.png"
   },
   {
-    "ID": 53,
+    "ID": 49,
     "Name": "Tamami Kobayashi",
     "Stand": "The Lock",
     "Stand Type": "Range Irrelevant, Psychological Assault, Artificial Non-Humanoid",
@@ -441,7 +441,7 @@
     "Image": "/images/icon/character/DiU/DiU_17.png"
   },
   {
-    "ID": 54,
+    "ID": 50,
     "Name": "Yukako Yamagishi",
     "Stand": "Love Deluxe",
     "Stand Type": "Range Irrelevant, Integrated, Materialized, Phenomenon",
@@ -450,7 +450,7 @@
     "Image": "/images/icon/character/DiU/DiU_??.png"
   },
   {
-    "ID": 55,
+    "ID": 51,
     "Name": "Tama",
     "Stand": "Stray Cat",
     "Stand Type": "Range Irrelevant, Integrated, Materialized, Phenomenon, Sentient",
@@ -459,7 +459,7 @@
     "Image": "/images/icon/character/DiU/DiU_??.png"
   },
   {
-    "ID": 56,
+    "ID": 52,
     "Name": "Toshikazu Hazamada",
     "Stand": "Surface",
     "Stand Type": "Automatic, Materialized, Sentient, Phenomenon",
@@ -468,7 +468,7 @@
     "Image": "/images/icon/character/DiU/DiU_??.png"
   },
   {
-    "ID": 57,
+    "ID": 53,
     "Name": "Tonio Trussardi",
     "Stand": "Pearl Jam",
     "Stand Type": "Range Irrelevant, Natural Non-Humanoid, Colony",
@@ -477,7 +477,7 @@
     "Image": "/images/icon/character/DiU/DiU_??.png"
   },
   {
-    "ID": 58,
+    "ID": 54,
     "Name": "Shizuka Joestar",
     "Stand": "Achtung Baby",
     "Stand Type": "Range Irrelevant, Integrated, Phenomenon",
@@ -486,7 +486,7 @@
     "Image": "/images/icon/character/DiU/DiU_??.png"
   },
   {
-    "ID": 59,
+    "ID": 55,
     "Name": "Aya Tsuji",
     "Stand": "Cinderella",
     "Stand Type": "Close-Range, Artificial Humanoid",
@@ -495,7 +495,7 @@
     "Image": "/images/icon/character/DiU/DiU_??.png"
   },
   {
-    "ID": 60,
+    "ID": 56,
     "Name": "Bug-Eaten",
     "Stand": "Ratt",
     "Stand Type": "Close-Range, Artificial Non-Humanoid, Shared",
@@ -504,7 +504,7 @@
     "Image": "/images/icon/character/DiU/DiU_??.png"
   },
   {
-    "ID": 61,
+    "ID": 57,
     "Name": "Not Bug-Eaten",
     "Stand": "Ratt",
     "Stand Type": "Close-Range, Artificial Non-Humanoid, Shared",
@@ -513,7 +513,7 @@
     "Image": "/images/icon/character/DiU/DiU_??.png"
   },
   {
-    "ID": 62,
+    "ID": 58,
     "Name": "Ken Oyanagi",
     "Stand": "Boy II Man",
     "Stand Type": "Close-Range, Psychological Assault, Artificial Humanoid",
@@ -522,7 +522,7 @@
     "Image": "/images/icon/character/DiU/DiU_??.png"
   },
   {
-    "ID": 63,
+    "ID": 59,
     "Name": "Toyohiro Kanedaichi",
     "Stand": "Super Fly",
     "Stand Type": "Automatic, Materialized, Phenomenon",
@@ -531,7 +531,7 @@
     "Image": "/images/icon/character/DiU/DiU_??.png"
   },
   {
-    "ID": 64,
+    "ID": 60,
     "Name": "Terunosuke Miyamoto",
     "Stand": "Enigma",
     "Stand Type": "Close-Range, Psychological Assault, Artificial Humanoid",
@@ -540,7 +540,7 @@
     "Image": "/images/icon/character/DiU/DiU_??.png"
   },
   {
-    "ID": 65,
+    "ID": 61,
     "Name": "Masazo Kinoto",
     "Stand": "Cheap Trick",
     "Stand Type": "Automatic, Psychological Assault, Artificial Humanoid, Shared, Sentient",
@@ -549,7 +549,7 @@
     "Image": "/images/icon/character/DiU/DiU_??.png"
   },
   {
-    "ID": 66,
+    "ID": 62,
     "Name": "Giorno Giovanna, Gold Experience Requiem",
     "Stand": "Gold Experience",
     "Stand Type": "Close-Range, Natural Humanoid",
@@ -558,7 +558,7 @@
     "Image": "/images/icon/character/VA/VA_1.png"
   },
   {
-    "ID": 68,
+    "ID": 63,
     "Name": "Bruno Bucciarati",
     "Stand": "Sticky Fingers",
     "Stand Type": "Close-Range, Natural Humanoid",
@@ -567,7 +567,7 @@
     "Image": "/images/icon/character/VA/VA_2.png"
   },
   {
-    "ID": 69,
+    "ID": 64,
     "Name": "Leone Abbacchio",
     "Stand": "Moody Blues",
     "Stand Type": "Close-Range, Natural Humanoid",
@@ -576,7 +576,7 @@
     "Image": "/images/icon/character/VA/VA_3.png"
   },
   {
-    "ID": 70,
+    "ID": 65,
     "Name": "Guido Mista",
     "Stand": "Sex Pistols",
     "Stand Type": "Long-Range, Artificial Humanoid, Colony",
@@ -585,7 +585,7 @@
     "Image": "/images/icon/character/VA/VA_4.png"
   },
   {
-    "ID": 71,
+    "ID": 66,
     "Name": "Narancia Ghirga",
     "Stand": "Aerosmith",
     "Stand Type": "Long-Range, Natural Humanoid",
@@ -594,7 +594,7 @@
     "Image": "/images/icon/character/VA/VA_5.png"
   },
   {
-    "ID": 72,
+    "ID": 67,
     "Name": "Pannacotta Fugo",
     "Stand": "Purple Haze",
     "Stand Type": "Close-Range, Natural Humanoid",
@@ -603,7 +603,7 @@
     "Image": "/images/icon/character/VA/VA_6.png"
   },
   {
-    "ID": 73,
+    "ID": 68,
     "Name": "Trish Una",
     "Stand": "Spice Girl",
     "Stand Type": "Close-Range, Natural Humanoid",
@@ -612,7 +612,7 @@
     "Image": "/images/icon/character/VA/VA_7.png"
   },
   {
-    "ID": 74,
+    "ID": 69,
     "Name": "Diavolo",
     "Stand": "King Crimson",
     "Stand Type": "Close-Range, Natural Humanoid",
@@ -621,7 +621,7 @@
     "Image": "/images/icon/character/VA/VA_8.png"
   },
   {
-    "ID": 75,
+    "ID": 70,
     "Name": "Vinegar Doppio",
     "Stand": "Epitaph",
     "Stand Type": "Close-Range, Natural Humanoid",
@@ -630,7 +630,7 @@
     "Image": "/images/icon/character/VA/VA_8.png"
   },
   {
-    "ID": 76,
+    "ID": 71,
     "Name": "Risotto Nero",
     "Stand": "Metallica",
     "Stand Type": "Close-Range, Natural Non-Humanoid, Colony",
@@ -639,7 +639,7 @@
     "Image": "/images/icon/character/VA/VA_9.png"
   },
   {
-    "ID": 77,
+    "ID": 72,
     "Name": "Coco Jumbo",
     "Stand": "Mr. President",
     "Stand Type": "Range Irrelevant, Integrated, Natural Non-Humanoid",
@@ -648,7 +648,7 @@
     "Image": "/images/icon/character/VA/VA_??.png"
   },
   {
-    "ID": 79,
+    "ID": 73,
     "Name": "Polpo",
     "Stand": "Black Sabbath",
     "Stand Type": "Automatic, Artificial Humanoid",
@@ -657,7 +657,7 @@
     "Image": "/images/icon/character/VA/VA_??.png"
   },
   {
-    "ID": 80,
+    "ID": 74,
     "Name": "Melone",
     "Stand": "Baby Face",
     "Stand Type": "Automatic, Materialized, Natural Humanoid, Artificial Non-Humanoid, Sentient",
@@ -666,7 +666,7 @@
     "Image": "/images/icon/character/VA/VA_??.png"
   },
   {
-    "ID": 81,
+    "ID": 75,
     "Name": "Mario Zucchero",
     "Stand": "Soft Machine",
     "Stand Type": "Close-Range, Artificial Humanoid",
@@ -675,7 +675,7 @@
     "Image": "/images/icon/character/VA/VA_??.png"
   },
   {
-    "ID": 82,
+    "ID": 76,
     "Name": "Sale",
     "Stand": "Kraft Work",
     "Stand Type": "Close-Range, Artificial Humanoid",
@@ -684,7 +684,7 @@
     "Image": "/images/icon/character/VA/VA_??.png"
   },
   {
-    "ID": 83,
+    "ID": 77,
     "Name": "Formaggio",
     "Stand": "Little Feet",
     "Stand Type": "Close-Range, Artificial Humanoid",
@@ -693,7 +693,7 @@
     "Image": "/images/icon/character/VA/VA_??.png"
   },
   {
-    "ID": 84,
+    "ID": 78,
     "Name": "Illuso",
     "Stand": "Man in the Mirror",
     "Stand Type": "Close-Range, Artificial Humanoid",
@@ -702,7 +702,7 @@
     "Image": "/images/icon/character/VA/VA_??.png"
   },
   {
-    "ID": 85,
+    "ID": 79,
     "Name": "Prosciutto",
     "Stand": "The Grateful Dead",
     "Stand Type": "Close-Range, Natural Non-Humanoid",
@@ -711,7 +711,7 @@
     "Image": "/images/icon/character/VA/VA_??.png"
   },
   {
-    "ID": 86,
+    "ID": 80,
     "Name": "Pesci",
     "Stand": "Beach Boy",
     "Stand Type": "Close-Range, Reconnaissance, Artificial Non-Humanoid",
@@ -720,7 +720,7 @@
     "Image": "/images/icon/character/VA/VA_??.png"
   },
   {
-    "ID": 87,
+    "ID": 81,
     "Name": "Ghiaccio",
     "Stand": "White Album",
     "Stand Type": "Close-Range, Artificial Humanoid",
@@ -729,7 +729,7 @@
     "Image": "/images/icon/character/VA/VA_??.png"
   },
   {
-    "ID": 88,
+    "ID": 82,
     "Name": "Squalo",
     "Stand": "Clash",
     "Stand Type": "Long-Range, Natural Non-Humanoid",
@@ -738,7 +738,7 @@
     "Image": "/images/icon/character/VA/VA_??.png"
   },
   {
-    "ID": 89,
+    "ID": 83,
     "Name": "Tizzano",
     "Stand": "Talking Head",
     "Stand Type": "Long-Range, Natural Non-Humanoid",
@@ -747,7 +747,7 @@
     "Image": "/images/icon/character/VA/VA_??.png"
   },
   {
-    "ID": 90,
+    "ID": 84,
     "Name": "Carne",
     "Stand": "Notorious B.I.G",
     "Stand Type": "Automatic, Natural Non-Humanoid, Natural Humanoid",
@@ -756,7 +756,7 @@
     "Image": "/images/icon/character/VA/VA_??.png"
   },
   {
-    "ID": 91,
+    "ID": 85,
     "Name": "Cioccolata",
     "Stand": "Green Day",
     "Stand Type": "Close-Range, Artificial Humanoid",
@@ -765,7 +765,7 @@
     "Image": "/images/icon/character/VA/VA_??.png"
   },
   {
-    "ID": 92,
+    "ID": 86,
     "Name": "Secco",
     "Stand": "Oasis",
     "Stand Type": "Close-Range, Artificial Humanoid",
@@ -774,7 +774,7 @@
     "Image": "/images/icon/character/VA/VA_??.png"
   },
   {
-    "ID": 93,
+    "ID": 87,
     "Name": "Scolippi",
     "Stand": "Rolling Stones",
     "Stand Type": "Automatic, Foresight, Natural Non-Humanoid",
@@ -783,7 +783,7 @@
     "Image": "/images/icon/character/VA/VA_??.png"
   },
   {
-    "ID": 94,
+    "ID": 88,
     "Name": "Jolyne Cujoh",
     "Stand": "Stone Free",
     "Stand Type": "Close-Range, Reconnaissance Natural Humanoid, Integrated",
@@ -792,7 +792,7 @@
     "Image": "/images/icon/character/SO/SO_1.png"
   },
   {
-    "ID": 96,
+    "ID": 89,
     "Name": "Emporio Alnino",
     "Stand": "Burning Down the House",
     "Stand Type": "Range Irrelevant, Materialized, Phenomenon",
@@ -801,7 +801,7 @@
     "Image": "/images/icon/character/SO/SO_3.png"
   },
   {
-    "ID": 97,
+    "ID": 90,
     "Name": "Foo Fighters",
     "Stand": "Foo Fighters",
     "Stand Type": "Range Irrelevant, Integrated, Phenomenon, Shared",
@@ -810,7 +810,7 @@
     "Image": "/images/icon/character/SO/SO_4.png"
   },
   {
-    "ID": 98,
+    "ID": 91,
     "Name": "Ermes Costello",
     "Stand": "Kiss",
     "Stand Type": "Close-Range, Natural Humanoid",
@@ -819,7 +819,7 @@
     "Image": "/images/icon/character/SO/SO_5.png"
   },
   {
-    "ID": 99,
+    "ID": 92,
     "Name": "Weather Report",
     "Stand": "Weather Report",
     "Stand Type": "Close-Range, Artificial Humanoid, Natural Non-Humanoid",
@@ -828,7 +828,7 @@
     "Image": "/images/icon/character/SO/SO_6.png"
   },
   {
-    "ID": 100,
+    "ID": 93,
     "Name": "Narciso Anasui",
     "Stand": "Diver Down",
     "Stand Type": "Close-Range, Artificial Humanoid",
@@ -837,7 +837,7 @@
     "Image": "/images/icon/character/SO/SO_7.png"
   },
   {
-    "ID": 101,
+    "ID": 94,
     "Name": "Enrico Pucci",
     "Stand": "Whitesnake,C-MOON,Made in Heaven",
     "Stand Type": "Long-Range, Psychological Assault, Natural Humanoid, Sentient",
@@ -846,7 +846,7 @@
     "Image": "/images/icon/character/SO/SO_8.png"
   },
   {
-    "ID": 104,
+    "ID": 95,
     "Name": "Johngalli A.",
     "Stand": "Manhattan Transfer",
     "Stand Type": "Long-Range, Reconnaissance, Artificial Non-Humanoid",
@@ -855,7 +855,7 @@
     "Image": "/images/icon/character/SO/SO_9.png"
   },
   {
-    "ID": 105,
+    "ID": 96,
     "Name": "Lang Rangler",
     "Stand": "Jumpin' Jack Flash",
     "Stand Type": "Close-Range, Artificial Humanoid",
@@ -864,7 +864,7 @@
     "Image": "/images/icon/character/SO/SO_10.png"
   },
   {
-    "ID": 106,
+    "ID": 97,
     "Name": "Sports Maxx",
     "Stand": "Limp Bizkit",
     "Stand Type": "Close-Range, Artificial Humanoid",
@@ -873,7 +873,7 @@
     "Image": "/images/icon/character/SO/SO_11.png"
   },
   {
-    "ID": 107,
+    "ID": 98,
     "Name": "The Green Baby",
     "Stand": "Green, Green Grass of Home",
     "Stand Type": "Close-Range, Artificial Humanoid",
@@ -882,7 +882,7 @@
     "Image": "/images/icon/character/SO/SO_12.png"
   },
   {
-    "ID": 108,
+    "ID": 99,
     "Name": "Gwess",
     "Stand": "Goo Goo Dolls",
     "Stand Type": "Long-Range, Artificial Humanoid",
@@ -891,7 +891,7 @@
     "Image": "/images/icon/character/SO/SO_13.png"
   },
   {
-    "ID": 109,
+    "ID": 100,
     "Name": "Miraschon",
     "Stand": "Marilyn Manson",
     "Stand Type": "Long-Range, Psychological Assault, Artificial Humanoid, Automatic",
@@ -900,7 +900,7 @@
     "Image": "/images/icon/character/SO/SO_14.png"
   },
   {
-    "ID": 110,
+    "ID": 101,
     "Name": "Viviano Westwood",
     "Stand": "Planet Waves",
     "Stand Type": "Close-Range, Natural Humanoid",
@@ -909,7 +909,7 @@
     "Image": "/images/icon/character/SO/SO_15.png"
   },
   {
-    "ID": 111,
+    "ID": 102,
     "Name": "Kenzou",
     "Stand": "Dragon's Dream",
     "Stand Type": "Automatic, Artificial Non-Humanoid, Sentient",
@@ -918,7 +918,7 @@
     "Image": "/images/icon/character/SO/SO_16.png"
   },
   {
-    "ID": 112,
+    "ID": 103,
     "Name": "Thunder McQueen",
     "Stand": "Highway to Hell",
     "Stand Type": "Long-Range, Artificial Non-Humanoid",
@@ -927,7 +927,7 @@
     "Image": "/images/icon/character/SO/SO_17.png"
   },
   {
-    "ID": 113,
+    "ID": 104,
     "Name": "Rikiel",
     "Stand": "Sky High",
     "Stand Type": "Close-Range, Natural Humanoid",
@@ -936,7 +936,7 @@
     "Image": "/images/icon/character/SO/SO_18.png"
   },
   {
-    "ID": 114,
+    "ID": 105,
     "Name": "Ungalo",
     "Stand": "Bohemian Rhapsody",
     "Stand Type": "Range Irrelevant, Psychological Assault, Phenomenon",
@@ -945,7 +945,7 @@
     "Image": "/images/icon/character/SO/SO_19.png"
   },
   {
-    "ID": 115,
+    "ID": 106,
     "Name": "Donatello Versus",
     "Stand": "Under World",
     "Stand Type": "Close-Range, Psychological Assault, Artificial Humanoid, Sentient",
@@ -954,7 +954,7 @@
     "Image": "/images/icon/character/SO/SO_20.png"
   },
   {
-    "ID": 116,
+    "ID": 107,
     "Name": "Miuccia Miuller",
     "Stand": "Jail House Lock",
     "Stand Type": "Close-Range, Psychological Assault, Artificial Humanoid",
@@ -963,7 +963,7 @@
     "Image": "/images/icon/character/SO/SO_21.png"
   },
   {
-    "ID": 117,
+    "ID": 108,
     "Name": "Guccio",
     "Stand": "Survivor",
     "Stand Type": "Automatic, Psychological Assault, Natural Non-Humanoid, Colony",
@@ -972,7 +972,7 @@
     "Image": "/images/icon/character/SO/SO_22.png"
   },
   {
-    "ID": 118,
+    "ID": 109,
     "Name": "Johnny Joestar",
     "Stand": "Tusk ACT 1, Tusk ACT 2, Tusk ACT 3, Tusk ACT 4",
     "Stand Type": "Close-Range, Evolved, Natural Non-Humanoid, Sentient",
@@ -981,7 +981,7 @@
     "Image": "/images/icon/character/SBR/SBR_1.png"
   },
   {
-    "ID": 122,
+    "ID": 110,
     "Name": "Gyro Zeppeli",
     "Stand": "Ball Breaker",
     "Stand Type": "Long-Range, Artificial Humanoid",
@@ -990,7 +990,7 @@
     "Image": "/images/icon/character/SBR/SBR_2.png"
   },
   {
-    "ID": 123,
+    "ID": 111,
     "Name": "Lucy Steel",
     "Stand": "Ticket to Ride",
     "Stand Type": "Range Irrelevant, Integrated, Phenomenon",
@@ -999,7 +999,7 @@
     "Image": "/images/icon/character/SBR/SBR_3.png"
   },
   {
-    "ID": 124,
+    "ID": 112,
     "Name": "Funny Valentine",
     "Stand": "Dirty Deeds Done Dirt Cheap,D4C Love Train",
     "Stand Type": "Close-Range, Range Irrelevant, Natural Humanoid",
@@ -1008,7 +1008,7 @@
     "Image": "/images/icon/character/SBR/SBR_4.png"
   },
   {
-    "ID": 126,
+    "ID": 113,
     "Name": "Diego Brando",
     "Stand": "Scary Monsters",
     "Stand Type": "Range Irrelevant, Integrated, Phenomenon, Shared",
@@ -1017,7 +1017,7 @@
     "Image": "/images/icon/character/SBR/SBR_5.png"
   },
   {
-    "ID": 127,
+    "ID": 114,
     "Name": "Hot Pants",
     "Stand": "Cream Starter",
     "Stand Type": "Range Irrelevant, Materialized, Artificial Non-Humanoid",
@@ -1026,7 +1026,7 @@
     "Image": "/images/icon/character/SBR/SBR_6.png"
   },
   {
-    "ID": 128,
+    "ID": 115,
     "Name": "Mountain Tim",
     "Stand": "Oh! Lonesome Me",
     "Stand Type": "Range Irrelevant, Integrated, Artificial Non-Humanoid",
@@ -1035,7 +1035,7 @@
     "Image": "/images/icon/character/SBR/SBR_7.png"
   },
   {
-    "ID": 129,
+    "ID": 116,
     "Name": "Sandman",
     "Stand": "In a Silent Way",
     "Stand Type": "Close-Range, Artificial Humanoid",
@@ -1044,7 +1044,7 @@
     "Image": "/images/icon/character/SBR/SBR_10.png"
   },
   {
-    "ID": 130,
+    "ID": 117,
     "Name": "Dr. Ferdinand",
     "Stand": "Scary Monsters",
     "Stand Type": "Range Irrelevant, Integrated, Phenomenon, Shared",
@@ -1053,7 +1053,7 @@
     "Image": "/images/icon/character/SBR/SBR_11.png"
   },
   {
-    "ID": 131,
+    "ID": 118,
     "Name": "Ringo Roadagain",
     "Stand": "Mandom",
     "Stand Type": "Close-Range, Range Irrelevant, Artificial Non-Humanoid",
@@ -1062,7 +1062,7 @@
     "Image": "/images/icon/character/SBR/SBR_12.png"
   },
   {
-    "ID": 132,
+    "ID": 119,
     "Name": "Blackmore",
     "Stand": "Catch the Rainbow",
     "Stand Type": "Close-Range, Artificial Non-Humanoid",
@@ -1071,7 +1071,7 @@
     "Image": "/images/icon/character/SBR/SBR_13.png"
   },
   {
-    "ID": 133,
+    "ID": 120,
     "Name": "Axl RO",
     "Stand": "Civil War",
     "Stand Type": "Long-Range, Psychological Assault, Artificial Humanoid",
@@ -1080,7 +1080,7 @@
     "Image": "/images/icon/character/SBR/SBR_14.png"
   },
   {
-    "ID": 134,
+    "ID": 121,
     "Name": "Parallel World Diego",
     "Stand": "THE WORLD",
     "Stand Type": "Close-Range, Range Irrelevant, Natural Humanoid",
@@ -1089,7 +1089,7 @@
     "Image": "/images/icon/character/SBR/SBR_15.png"
   },
   {
-    "ID": 135,
+    "ID": 122,
     "Name": "Pocoloco",
     "Stand": "Hey Ya!",
     "Stand Type": "Close-Range, Artificial Humanoid, Sentient",
@@ -1098,7 +1098,7 @@
     "Image": "/images/icon/character/SBR/SBR_16.png"
   },
   {
-    "ID": 136,
+    "ID": 123,
     "Name": "Andre Boomboom",
     "Stand": "Tomb of the Boom 2",
     "Stand Type": "Close-Range, Natural Non-Humanoid, Shared",
@@ -1107,7 +1107,7 @@
     "Image": "/images/icon/character/SBR/SBR_20.png"
   },
   {
-    "ID": 137,
+    "ID": 124,
     "Name": "L.A. Boomboom",
     "Stand": "Tomb of the Boom 3",
     "Stand Type": "Close-Range, Natural Non-Humanoid, Shared",
@@ -1116,7 +1116,7 @@
     "Image": "/images/icon/character/SBR/SBR_21.png"
   },
   {
-    "ID": 138,
+    "ID": 125,
     "Name": "Benjamin Boomboom",
     "Stand": "Tomb of the Boom 1",
     "Stand Type": "Close-Range, Natural Non-Humanoid, Shared",
@@ -1125,7 +1125,7 @@
     "Image": "/images/icon/character/SBR/SBR_22.png"
   },
   {
-    "ID": 139,
+    "ID": 126,
     "Name": "Oyecomova",
     "Stand": "Boku no Rythm no Kiitekure",
     "Stand Type": "Close-Range, Natural Non-Humanoid",
@@ -1134,7 +1134,7 @@
     "Image": "/images/icon/character/SBR/SBR_23.png"
   },
   {
-    "ID": 140,
+    "ID": 127,
     "Name": "Pork Pie Hat Kid",
     "Stand": "Wired",
     "Stand Type": "Close-Range, Reconnaissance, Artificial Non-Humanoid",
@@ -1143,7 +1143,7 @@
     "Image": "/images/icon/character/SBR/SBR_25.png"
   },
   {
-    "ID": 141,
+    "ID": 128,
     "Name": "Eleven Men",
     "Stand": "TATOO YOU!",
     "Stand Type": "Close-Range, Integrated, Natural Non-Humanoid, Shared",
@@ -1152,7 +1152,7 @@
     "Image": "/images/icon/character/SBR/SBR_26.png"
   },
   {
-    "ID": 142,
+    "ID": 129,
     "Name": "Mike O.",
     "Stand": "Tubular Bells",
     "Stand Type": "Automatic, Materialized, Phenomenon",
@@ -1161,7 +1161,7 @@
     "Image": "/images/icon/character/SBR/SBR_27.png"
   },
   {
-    "ID": 143,
+    "ID": 130,
     "Name": "Magent Magent",
     "Stand": "20th Century BOY",
     "Stand Type": "Close-Range, Artificial Non-Humanoid",
@@ -1170,7 +1170,7 @@
     "Image": "/images/icon/character/SBR/SBR_29.png"
   },
   {
-    "ID": 144,
+    "ID": 131,
     "Name": "D-I-S-C-O",
     "Stand": "Chocolate Disco",
     "Stand Type": "Close-Range, Artificial Non-Humanoid",
@@ -1179,7 +1179,7 @@
     "Image": "/images/icon/character/SBR/SBR_30.png"
   },
   {
-    "ID": 145,
+    "ID": 132,
     "Name": "Sugar Mountain",
     "Stand": "Sugar Mountain",
     "Stand Type": "Range Irrelevant, Integrated, Materialized, Phenomenon",
@@ -1188,7 +1188,7 @@
     "Image": "/images/icon/character/SBR/SBR_32.png"
   },
   {
-    "ID": 146,
+    "ID": 133,
     "Name": "Josuke Higashikata (JJL)",
     "Stand": "Soft & Wet",
     "Stand Type": "Close-Range, Artificial Humanoid, Evolved, Shared",
@@ -1197,7 +1197,7 @@
     "Image": "/images/icon/character/JJL/JJL_1.png"
   },
   {
-    "ID": 147,
+    "ID": 134,
     "Name": "Yasuho Hirose",
     "Stand": "Paisley Park",
     "Stand Type": "Long-Range, Reconnaissance, Natural Humanoid, Sentient",
@@ -1206,7 +1206,7 @@
     "Image": "/images/icon/character/JJL/JJL_2.png"
   },
   {
-    "ID": 148,
+    "ID": 135,
     "Name": "Rai Mamezuku",
     "Stand": "Doggy Style",
     "Stand Type": "Close-Range, Artificial Non-Humanoid",
@@ -1215,7 +1215,7 @@
     "Image": "/images/icon/character/JJL/JJL_3.png"
   },
   {
-    "ID": 149,
+    "ID": 136,
     "Name": "Norisuke Higashikata IV",
     "Stand": "King Nothing",
     "Stand Type": "Long-Range, Reconnaissance, Artificial Humanoid",
@@ -1224,7 +1224,7 @@
     "Image": "/images/icon/character/JJL/JJL_4.png"
   },
   {
-    "ID": 150,
+    "ID": 137,
     "Name": "Jobin Higashikata",
     "Stand": "Speed King",
     "Stand Type": "Close-Range, Artificial Humanoid",
@@ -1233,7 +1233,7 @@
     "Image": "/images/icon/character/JJL/JJL_5.png"
   },
   {
-    "ID": 151,
+    "ID": 138,
     "Name": "Toru",
     "Stand": "Wonder of U",
     "Stand Type": "Automatic, Sentient, Natural Humanoid, Artificial Humanoid",
@@ -1242,7 +1242,7 @@
     "Image": "/images/icon/character/JJL/JJL_6.png"
   },
   {
-    "ID": 152,
+    "ID": 139,
     "Name": "Joshu Higashikata",
     "Stand": "Nut King Call",
     "Stand Type": "Close-Range, Artificial Humanoid",
@@ -1251,7 +1251,7 @@
     "Image": "/images/icon/character/JJL/JJL_7.png"
   },
   {
-    "ID": 153,
+    "ID": 140,
     "Name": "Daiya Higashikata",
     "Stand": "California King Bed",
     "Stand Type": "Close-Range, Psychological Assault, Artificial Non-Humanoid",
@@ -1260,7 +1260,7 @@
     "Image": "/images/icon/character/JJL/JJL_8.png"
   },
   {
-    "ID": 154,
+    "ID": 141,
     "Name": "Hato Higashikata",
     "Stand": "Walking Heart",
     "Stand Type": "Close-Range, Artificial Humanoid",
@@ -1269,7 +1269,7 @@
     "Image": "/images/icon/character/JJL/JJL_9.png"
   },
   {
-    "ID": 155,
+    "ID": 142,
     "Name": "Tsurugi Higashikata",
     "Stand": "Paper Moon King",
     "Stand Type": "Automatic, Materialized, Psychological Assault, Phenomenon",
@@ -1278,7 +1278,7 @@
     "Image": "/images/icon/character/JJL/JJL_10.png"
   },
   {
-    "ID": 156,
+    "ID": 143,
     "Name": "Mitsuba Higashikata",
     "Stand": "Awaking III Leaves",
     "Stand Type": "Close-Range, Artificial Humanoid",
@@ -1287,7 +1287,7 @@
     "Image": "/images/icon/character/JJL/JJL_11.png"
   },
   {
-    "ID": 157,
+    "ID": 144,
     "Name": "Kaato Higashikata",
     "Stand": "Space Truking",
     "Stand Type": "Materialized, Artificial Humanoid",
@@ -1296,7 +1296,7 @@
     "Image": "/images/icon/character/JJL/JJL_12.png"
   },
   {
-    "ID": 158,
+    "ID": 145,
     "Name": "Tamaki Damo",
     "Stand": "Vitamin C",
     "Stand Type": "Close-Range, Artificial Humanoid",
@@ -1305,7 +1305,7 @@
     "Image": "/images/icon/character/JJL/JJL_14.png"
   },
   {
-    "ID": 159,
+    "ID": 146,
     "Name": "Yotsuyu Yagiyama",
     "Stand": "I Am a Rock",
     "Stand Type": "Close-Range, Artificial Humanoid",
@@ -1314,7 +1314,7 @@
     "Image": "/images/icon/character/JJL/JJL_15.png"
   },
   {
-    "ID": 160,
+    "ID": 147,
     "Name": "Urban Guerrilla",
     "Stand": "Brain Storm",
     "Stand Type": "Long-Range, Artificial Non-Humanoid, Colony",
@@ -1323,7 +1323,7 @@
     "Image": "/images/icon/character/JJL/JJL_16.png"
   },
   {
-    "ID": 161,
+    "ID": 148,
     "Name": "Wu Tomoki",
     "Stand": "Doctor Wu",
     "Stand Type": "Range Irrelevant, Integrated, Phenomenon",
@@ -1332,7 +1332,7 @@
     "Image": "/images/icon/character/JJL/JJL_17.png"
   },
   {
-    "ID": 162,
+    "ID": 149,
     "Name": "Dolomite",
     "Stand": "Blue Hawaii",
     "Stand Type": "Automatic, Psychological Assault, Natural Non-Humanoid",
@@ -1341,7 +1341,7 @@
     "Image": "/images/icon/character/JJL/JJL_18.png"
   },
   {
-    "ID": 163,
+    "ID": 150,
     "Name": "Poor Tom",
     "Stand": "Ozon Baby",
     "Stand Type": "Automatic, Materialized, Artificial Non-Humanoid",
@@ -1350,7 +1350,7 @@
     "Image": "/images/icon/character/JJL/JJL_19.png"
   },
   {
-    "ID": 164,
+    "ID": 151,
     "Name": "Aisho Dainenjiyama",
     "Stand": "Doobie Wah!",
     "Stand Type": "Automatic, Artificial Non-Humanoid, Natural Non-Humanoid",
@@ -1359,7 +1359,7 @@
     "Image": "/images/icon/character/JJL/JJL_20.png"
   },
   {
-    "ID": 165,
+    "ID": 152,
     "Name": "Satoru Akefu",
     "Stand": "Wonder of U",
     "Stand Type": "Automatic, Sentient, Natural Humanoid, Artificial Humanoid",
@@ -1368,7 +1368,7 @@
     "Image": "/images/icon/character/JJL/JJL_27.png"
   },
   {
-    "ID": 167,
+    "ID": 153,
     "Name": "Josefumi Kujo",
     "Stand": "Soft & Wet",
     "Stand Type": "Close-Range, Artificial Humanoid",
@@ -1377,7 +1377,7 @@
     "Image": "/images/icon/character/JJL/JJL_29.png"
   },
   {
-    "ID": 168,
+    "ID": 154,
     "Name": "Karera Sakunami",
     "Stand": "Love Love Deluxe",
     "Stand Type": "Close-Range, Artificial Humanoid",
@@ -1386,7 +1386,7 @@
     "Image": "/images/icon/character/JJL/JJL_30.png"
   },
   {
-    "ID": 169,
+    "ID": 155,
     "Name": "Ojiro Sasame",
     "Stand": "Fun Fun Fun",
     "Stand Type": "Close-Range, Natural Non-Humanoid",
@@ -1395,7 +1395,7 @@
     "Image": "/images/icon/character/JJL/JJL_31.png"
   },
   {
-    "ID": 170,
+    "ID": 156,
     "Name": "Elder A. Phex",
     "Stand": "Schott Key No. 1",
     "Stand Type": "Range Irrelevant, Integrated, Natural Non-Humanoid",
@@ -1404,7 +1404,7 @@
     "Image": "/images/icon/character/JJL/JJL_32.png"
   },
   {
-    "ID": 171,
+    "ID": 157,
     "Name": "Younger A. Phex",
     "Stand": "Schott Key No. 2",
     "Stand Type": "Close-Range, Automatic, Natural Non-Humanoid",
@@ -1413,7 +1413,7 @@
     "Image": "/images/icon/character/JJL/JJL_33.png"
   },
   {
-    "ID": 172,
+    "ID": 158,
     "Name": "Zaihei Nigatake",
     "Stand": "Milagroman",
     "Stand Type": "Range Irrelevant, Artificial Humanoid, Shared",
@@ -1422,7 +1422,7 @@
     "Image": "/images/icon/character/JJL/JJL_34.png"
   },
   {
-    "ID": 173,
+    "ID": 159,
     "Name": "Kei Nijimura",
     "Stand": "Born This Way",
     "Stand Type": "Automatic, Artificial Humanoid",
@@ -1431,7 +1431,7 @@
     "Image": "/images/icon/character/JJL/JJL_36.png"
   },
   {
-    "ID": 179,
+    "ID": 160,
     "Name": "Jodio Joestar",
     "Stand": "November Rain",
     "Stand Type": "Close-Range, Artificial Humanoid",
@@ -1440,7 +1440,7 @@
     "Image": "/images/icon/character/TJJL/TJJL_1.png"
   },
   {
-    "ID": 180,
+    "ID": 161,
     "Name": "Dragona Joestar",
     "Stand": "Smooth Operators",
     "Stand Type": "Close-Range, Colony, Artificial Non-Humanoid",
@@ -1449,7 +1449,7 @@
     "Image": "/images/icon/character/TJJL/TJJL_2.png"
   },
   {
-    "ID": 181,
+    "ID": 162,
     "Name": "Paco Laburantes",
     "Stand": "THE Hustle",
     "Stand Type": "Integrated",
@@ -1458,7 +1458,7 @@
     "Image": "/images/icon/character/TJJL/TJJL_3.png"
   },
   {
-    "ID": 182,
+    "ID": 163,
     "Name": "Usagi Alohaoe",
     "Stand": "THE MATTEKUDASAI",
     "Stand Type": "Artificial Non-Humanoid",
@@ -1467,7 +1467,7 @@
     "Image": "/images/icon/character/TJJL/TJJL_4.png"
   },
   {
-    "ID": 184,
+    "ID": 164,
     "Name": "Charming Man",
     "Stand": "Bigmouth Strikes Again",
     "Stand Type": "Integrated, Phenomenon",
@@ -1476,7 +1476,7 @@
     "Image": "/images/icon/character/TJJL/TJJL_7.png"
   },
   {
-    "ID": 185,
+    "ID": 165,
     "Name": "Wild Cat Size",
     "Stand": "Cat Size",
     "Stand Type": "Integrated, Close-Range, Artificial Non-Humanoid, Shared",
@@ -1485,7 +1485,7 @@
     "Image": "/images/icon/character/TJJL/TJJL_10.png"
   },
   {
-    "ID": 186,
+    "ID": 166,
     "Name": "Lulu",
     "Stand": "Bags Groove",
     "Stand Type": "Automatic, Long-Range, Artificial Humanoid, Colony",
@@ -1494,7 +1494,7 @@
     "Image": "/images/icon/character/TJJL/TJJL_11.png"
   },
   {
-    "ID": 187,
+    "ID": 167,
     "Name": "Bobby Jean",
     "Stand": "Glory Days",
     "Stand Type": "Phenomenon",
