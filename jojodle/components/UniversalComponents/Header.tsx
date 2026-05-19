@@ -4,6 +4,7 @@ import infoIcon from "@/public/images/icon/Info-Icon.png"
 import playerIcon from "@/public/images/icon/Player-Icon.png"
 import helpIcon from "@/public/images/icon/Help-Icon.png"
 import logoImage from "@/public/images/image/Logo-image.png"
+import Outralogo from "@/public/images/image/Logo.png"
 
 export default function Header(){
     return(
@@ -16,7 +17,12 @@ export default function Header(){
                     <Image src={infoIcon} alt="Info-Icon"/>
                 </a>
                 <a href="/" className="p-4 bg-[var(--Background)] rounded-xl hover:bg-[var(--Accent)]">
-                    <Image src={logoImage} alt="Logo-Image"/>
+                    <Image
+                    src={Outralogo}
+                    alt="Logo-Image"
+                    width={189}
+                    height={117}
+                    />
                 </a>
                 <a href="#" className="p-4 bg-[var(--Background)] rounded-xl hover:bg-[var(--Accent)]">
                     <Image src={helpIcon} alt="Help-Icon"/>
