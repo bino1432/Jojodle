@@ -3,8 +3,8 @@ import Header from "@/components/UniversalComponents/Header";
 import MinigameSelector from "@/components/UniversalComponents/MinigameSelector";
 import HintButtons from "@/components/UniversalComponents/HintButtons";
 import { Archivo } from "next/font/google";
-import PartClueIcon from "@/public/images/icon/PartClue-Icon.png";
-import TargetClueIcon from "@/public/images/icon/TargetClue-Icon.png";
+import PartClueIcon from "@/public/images/icon/PartClue-Icon.svg";
+import TargetClueIcon from "@/public/images/icon/TargetClue-Icon.svg";
 import { useState } from "react";
 
 const archivoBold = Archivo({

@@ -2,8 +2,8 @@
 import Header from "@/components/UniversalComponents/Header"
 import MinigameSelector from "@/components/UniversalComponents/MinigameSelector";
 import HintButtons from "@/components/UniversalComponents/HintButtons";
-import PartClueIcon from "@/public/images/icon/PartClue-Icon.png";
-import TechniqueClueIcon from "@/public/images/icon/TechniqueClue-Icon.png";
+import PartClueIcon from "@/public/images/icon/PartClue-Icon.svg";
+import TechniqueClueIcon from "@/public/images/icon/TechniqueClue-Icon.svg";
 import { Archivo } from "next/font/google";
 import { useEffect, useState } from "react";
 import classicJson from "@/data/json/classic.en.json";
@@ -80,7 +80,7 @@ export default function Classicpage() {
         <Header />
         <MinigameSelector />
         <div className={`flex flex-col p-4 bg-[var(--Background)] items-center text-center mt-4 max-w-98 rounded-lg m-auto ${triedCharacter.length !== 0 ? "gap-4" : ""}`}>
-          <p className={`${archivoBold.className} text-xl text-white text-balance`}>Take a guess at today's Jojo's Bizarre Adventure character!</p>
+          <p className={`${archivoBold.className} text-xl text-white text-balance`}>Take a guess at today's JoJo's Bizarre Adventure character!</p>
           <div className="flex gap-4">
             {triedCharacter.length !== 0 && correctCharacter ? (<>
               <HintButtons title="Part Clue" guesses={3} image={PartClueIcon} attempts={attempts} hint={correctCharacter.Debut} reciveHintAndSide={reciveHintAndSideFromComponent} side={"left"} isRounded={isRight} />

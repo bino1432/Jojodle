@@ -2,8 +2,8 @@
 import Header from "@/components/UniversalComponents/Header";
 import MinigameSelector from "@/components/UniversalComponents/MinigameSelector";
 import { Archivo } from "next/font/google";
-import PartClueIcon from "@/public/images/icon/PartClue-Icon.png";
-import TechniqueClueIcon from "@/public/images/icon/TechniqueClue-Icon.png";
+import PartClueIcon from "@/public/images/icon/PartClue-Icon.svg";
+import TechniqueClueIcon from "@/public/images/icon/TechniqueClue-Icon.svg";
 import HintButtons from "@/components/UniversalComponents/HintButtons";
 import Image from "next/image";
 import GiornoImage from "@/public/images/image/Giorno-Image.png";

@@ -1,8 +1,8 @@
 import Image from "next/image";
-import updateIcon from "@/public/images/icon/Updates-Icon.png"
-import infoIcon from "@/public/images/icon/Info-Icon.png"
-import playerIcon from "@/public/images/icon/Player-Icon.png"
-import helpIcon from "@/public/images/icon/Help-Icon.png"
+import updateIcon from "@/public/images/icon/Updates-Icon.svg"
+import infoIcon from "@/public/images/icon/Info-Icon.svg"
+import playerIcon from "@/public/images/icon/Player-Icon.svg"
+import helpIcon from "@/public/images/icon/Help-Icon.svg"
 import logoImage from "@/public/images/image/Logo-image.png"
 import Outralogo from "@/public/images/image/Logo.png"
 

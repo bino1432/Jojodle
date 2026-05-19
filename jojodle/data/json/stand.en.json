@@ -447,7 +447,7 @@
     "Stand Type": "Range Irrelevant, Integrated, Materialized, Phenomenon",
     "Debut": "Diamond is Unbreakable",
     "Technique": "Hair Manipulation",
-    "Image": "/images/icon/character/DiU/DiU_??.png"
+    "Image": "/images/icon/character/DiU/DiU_18.png"
   },
   {
     "ID": 51,
@@ -456,7 +456,7 @@
     "Stand Type": "Range Irrelevant, Integrated, Materialized, Phenomenon, Sentient",
     "Debut": "Diamond is Unbreakable",
     "Technique": "Aerokinesis",
-    "Image": "/images/icon/character/DiU/DiU_??.png"
+    "Image": "/images/icon/character/DiU/DiU_19.png"
   },
   {
     "ID": 52,
@@ -465,7 +465,7 @@
     "Stand Type": "Automatic, Materialized, Sentient, Phenomenon",
     "Debut": "Diamond is Unbreakable",
     "Technique": "Mimicry",
-    "Image": "/images/icon/character/DiU/DiU_??.png"
+    "Image": "/images/icon/character/DiU/DiU_20.png"
   },
   {
     "ID": 53,
@@ -474,7 +474,7 @@
     "Stand Type": "Range Irrelevant, Natural Non-Humanoid, Colony",
     "Debut": "Diamond is Unbreakable",
     "Technique": "Curative Cooking",
-    "Image": "/images/icon/character/DiU/DiU_??.png"
+    "Image": "/images/icon/character/DiU/DiU_21.png"
   },
   {
     "ID": 54,
@@ -483,7 +483,7 @@
     "Stand Type": "Range Irrelevant, Integrated, Phenomenon",
     "Debut": "Diamond is Unbreakable",
     "Technique": "Invisibility",
-    "Image": "/images/icon/character/DiU/DiU_??.png"
+    "Image": "/images/icon/character/DiU/DiU_22.png"
   },
   {
     "ID": 55,
@@ -492,7 +492,7 @@
     "Stand Type": "Close-Range, Artificial Humanoid",
     "Debut": "Diamond is Unbreakable",
     "Technique": "Body Part Replacement",
-    "Image": "/images/icon/character/DiU/DiU_??.png"
+    "Image": "/images/icon/character/DiU/DiU_23.png"
   },
   {
     "ID": 56,
@@ -501,7 +501,7 @@
     "Stand Type": "Close-Range, Artificial Non-Humanoid, Shared",
     "Debut": "Diamond is Unbreakable",
     "Technique": "Melting Darts",
-    "Image": "/images/icon/character/DiU/DiU_??.png"
+    "Image": "/images/icon/character/DiU/DiU_24.png"
   },
   {
     "ID": 57,
@@ -510,7 +510,7 @@
     "Stand Type": "Close-Range, Artificial Non-Humanoid, Shared",
     "Debut": "Diamond is Unbreakable",
     "Technique": "Melting Darts",
-    "Image": "/images/icon/character/DiU/DiU_??.png"
+    "Image": "/images/icon/character/DiU/DiU_25.png"
   },
   {
     "ID": 58,
@@ -519,7 +519,7 @@
     "Stand Type": "Close-Range, Psychological Assault, Artificial Humanoid",
     "Debut": "Diamond is Unbreakable",
     "Technique": "Energy Theft",
-    "Image": "/images/icon/character/DiU/DiU_??.png"
+    "Image": "/images/icon/character/DiU/DiU_26.png"
   },
   {
     "ID": 59,
@@ -528,7 +528,7 @@
     "Stand Type": "Automatic, Materialized, Phenomenon",
     "Debut": "Diamond is Unbreakable",
     "Technique": "Occupant Restraint",
-    "Image": "/images/icon/character/DiU/DiU_??.png"
+    "Image": "/images/icon/character/DiU/DiU_27.png"
   },
   {
     "ID": 60,
@@ -537,7 +537,7 @@
     "Stand Type": "Close-Range, Psychological Assault, Artificial Humanoid",
     "Debut": "Diamond is Unbreakable",
     "Technique": "Paper Seal",
-    "Image": "/images/icon/character/DiU/DiU_??.png"
+    "Image": "/images/icon/character/DiU/DiU_28.png"
   },
   {
     "ID": 61,
@@ -546,7 +546,7 @@
     "Stand Type": "Automatic, Psychological Assault, Artificial Humanoid, Shared, Sentient",
     "Debut": "Diamond is Unbreakable",
     "Technique": "Back Attachment",
-    "Image": "/images/icon/character/DiU/DiU_??.png"
+    "Image": "/images/icon/character/DiU/DiU_29.png"
   },
   {
     "ID": 62,
@@ -645,7 +645,7 @@
     "Stand Type": "Range Irrelevant, Integrated, Natural Non-Humanoid",
     "Debut": "Vento Aureo",
     "Technique": "Hidden Room",
-    "Image": "/images/icon/character/VA/VA_??.png"
+    "Image": "/images/icon/character/VA/VA_10.png"
   },
   {
     "ID": 73,
@@ -654,7 +654,7 @@
     "Stand Type": "Automatic, Artificial Humanoid",
     "Debut": "Vento Aureo",
     "Technique": "Shadow Power",
-    "Image": "/images/icon/character/VA/VA_??.png"
+    "Image": "/images/icon/character/VA/VA_11.png"
   },
   {
     "ID": 74,
@@ -663,7 +663,7 @@
     "Stand Type": "Automatic, Materialized, Natural Humanoid, Artificial Non-Humanoid, Sentient",
     "Debut": "Vento Aureo",
     "Technique": "Homunculus Generation",
-    "Image": "/images/icon/character/VA/VA_??.png"
+    "Image": "/images/icon/character/VA/VA_12.png"
   },
   {
     "ID": 75,
@@ -672,7 +672,7 @@
     "Stand Type": "Close-Range, Artificial Humanoid",
     "Debut": "Vento Aureo",
     "Technique": "Pinch Deflating",
-    "Image": "/images/icon/character/VA/VA_??.png"
+    "Image": "/images/icon/character/VA/VA_13.png"
   },
   {
     "ID": 76,
@@ -681,7 +681,7 @@
     "Stand Type": "Close-Range, Artificial Humanoid",
     "Debut": "Vento Aureo",
     "Technique": "Kinetic Energy Manipulation",
-    "Image": "/images/icon/character/VA/VA_??.png"
+    "Image": "/images/icon/character/VA/VA_14.png"
   },
   {
     "ID": 77,
@@ -690,7 +690,7 @@
     "Stand Type": "Close-Range, Artificial Humanoid",
     "Debut": "Vento Aureo",
     "Technique": "Shrinking",
-    "Image": "/images/icon/character/VA/VA_??.png"
+    "Image": "/images/icon/character/VA/VA_15.png"
   },
   {
     "ID": 78,
@@ -699,7 +699,7 @@
     "Stand Type": "Close-Range, Artificial Humanoid",
     "Debut": "Vento Aureo",
     "Technique": "Mirror World Entry",
-    "Image": "/images/icon/character/VA/VA_??.png"
+    "Image": "/images/icon/character/VA/VA_16.png"
   },
   {
     "ID": 79,
@@ -708,7 +708,7 @@
     "Stand Type": "Close-Range, Natural Non-Humanoid",
     "Debut": "Vento Aureo",
     "Technique": "Accelerated Aging",
-    "Image": "/images/icon/character/VA/VA_??.png"
+    "Image": "/images/icon/character/VA/VA_17.png"
   },
   {
     "ID": 80,
@@ -717,7 +717,7 @@
     "Stand Type": "Close-Range, Reconnaissance, Artificial Non-Humanoid",
     "Debut": "Vento Aureo",
     "Technique": "Hook and Line",
-    "Image": "/images/icon/character/VA/VA_??.png"
+    "Image": "/images/icon/character/VA/VA_18.png"
   },
   {
     "ID": 81,
@@ -726,7 +726,7 @@
     "Stand Type": "Close-Range, Artificial Humanoid",
     "Debut": "Vento Aureo",
     "Technique": "Cryokinesis",
-    "Image": "/images/icon/character/VA/VA_??.png"
+    "Image": "/images/icon/character/VA/VA_19.png"
   },
   {
     "ID": 82,
@@ -735,7 +735,7 @@
     "Stand Type": "Long-Range, Natural Non-Humanoid",
     "Debut": "Vento Aureo",
     "Technique": "Liquid Warp",
-    "Image": "/images/icon/character/VA/VA_??.png"
+    "Image": "/images/icon/character/VA/VA_20.png"
   },
   {
     "ID": 83,
@@ -744,7 +744,7 @@
     "Stand Type": "Long-Range, Natural Non-Humanoid",
     "Debut": "Vento Aureo",
     "Technique": "Forced Lying",
-    "Image": "/images/icon/character/VA/VA_??.png"
+    "Image": "/images/icon/character/VA/VA_21.png"
   },
   {
     "ID": 84,
@@ -753,7 +753,7 @@
     "Stand Type": "Automatic, Natural Non-Humanoid, Natural Humanoid",
     "Debut": "Vento Aureo",
     "Technique": "Partial Symbiosis",
-    "Image": "/images/icon/character/VA/VA_??.png"
+    "Image": "/images/icon/character/VA/VA_22.png"
   },
   {
     "ID": 85,
@@ -762,7 +762,7 @@
     "Stand Type": "Close-Range, Artificial Humanoid",
     "Debut": "Vento Aureo",
     "Technique": "Mold Infestation",
-    "Image": "/images/icon/character/VA/VA_??.png"
+    "Image": "/images/icon/character/VA/VA_23.png"
   },
   {
     "ID": 86,
@@ -771,7 +771,7 @@
     "Stand Type": "Close-Range, Artificial Humanoid",
     "Debut": "Vento Aureo",
     "Technique": "Ground Liquefaction",
-    "Image": "/images/icon/character/VA/VA_??.png"
+    "Image": "/images/icon/character/VA/VA_24.png"
   },
   {
     "ID": 87,
@@ -780,7 +780,7 @@
     "Stand Type": "Automatic, Foresight, Natural Non-Humanoid",
     "Debut": "Vento Aureo",
     "Technique": "Homing to Dying Target",
-    "Image": "/images/icon/character/VA/VA_??.png"
+    "Image": "/images/icon/character/VA/VA_25.png"
   },
   {
     "ID": 88,
