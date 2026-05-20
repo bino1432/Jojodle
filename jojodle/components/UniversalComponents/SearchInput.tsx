@@ -7,6 +7,7 @@ import { useEffect, useState } from 'react';
 type Character = {
   ID: number;
   Name: string;
+  Variants: string | null;
   Image: string
 }
 
@@ -30,9 +31,22 @@ export default function SearchInput({reciveId, winGame, characterJson}: inputPro
         setCharacterList(characterJson);
     }, [characterJson]);
 
-    const filtered = characterList.filter((char) =>
-        char.Name.toLowerCase().includes(query.toLowerCase())
-    );
+    const filtered = characterList.filter((char) => {
+        if (!query?.trim()) return true;
+
+        const q = query.toLowerCase().trim();
+
+        const nameMatch = char.Name.toLowerCase().includes(q);
+
+        const variantMatch = char.Variants
+            ? char.Variants
+                .split(',')
+                .map(v => v.trim().toLowerCase())
+                .some(v => v.includes(q))
+            : false;
+
+        return nameMatch || variantMatch;
+    });
 
     const removeCharacter = (id: number) => {
         setCharacterList(prev => prev.filter(char => char.ID !== Number(id)));
