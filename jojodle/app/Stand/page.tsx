@@ -75,8 +75,8 @@ export default function Standpage() {
                 <Header />
                 <MinigameSelector />
                 <div className="flex flex-col p-4 bg-[var(--Background)] items-center text-center mt-4 max-w-110 rounded-lg m-auto gap-4">
-                    <p className={`${archivoBold.className} text-xl text-white text-balance`}>Take a guess at today's Jojo's Bizarre Adventure Stand user!</p>
-                    <p className={`${archivoBold.className} text-2xl text-white`}>「{showedStand}」</p>
+                    <p className={`${archivoBold.className} text-xl text-white leading-5.5 text-balance`}>Take a guess at today's JoJo's Bizarre Adventure Stand user!</p>
+                    <p className={`${archivoBold.className} text-2xl text-white leading-6.5`}>「{showedStand}」</p>
                 </div>
 
                 <div>

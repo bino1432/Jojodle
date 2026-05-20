@@ -5,6 +5,7 @@ import starIcon from "@/public/images/icon/Star-Icon.svg";
 import standIcon from "@/public/images/icon/Stand-Icon.svg";
 import quoteIcon from "@/public/images/icon/Quote-Icon.svg";
 import poseIcon from "@/public/images/icon/Pose-Icon.svg";
+import Info from "@/components/UniversalComponents/Info";
 
 export default function Home() {
   return (

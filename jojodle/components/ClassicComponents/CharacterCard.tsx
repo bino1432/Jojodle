@@ -133,7 +133,7 @@ export default function CharacterCard({ imageUrl, name, gender, height, age, nat
                 flex items-center 
                 justify-center 
                 rounded-lg 
-                ${gender != "Unknown" ? "text-2xl" : "text-5xl"}
+                ${gender != "Unknown" ? "text-2xl leading-6.5" : "text-5xl leading-12.5"}
                 ${gender == character.Gender ? "bg-[var(--Correct)]" : "bg-[var(--Wrong)]"}`}>
                 <h2>{gender != "Unknown" ? gender : "?"}</h2>
             </div>
@@ -147,7 +147,7 @@ export default function CharacterCard({ imageUrl, name, gender, height, age, nat
                 items-center 
                 justify-center 
                 rounded-lg 
-                ${height != "Unknown" ? "text-xl" : "text-5xl"}
+                ${height != "Unknown" ? "text-xl leading-5.5" : "text-5xl leading-12.5"}
                 ${height == character.Height ? "bg-[var(--Correct)]" : "bg-[var(--Wrong)]"}`}>
 
                 {
@@ -175,7 +175,7 @@ export default function CharacterCard({ imageUrl, name, gender, height, age, nat
             <div className={`
                 relative
                 ${archivo.className}
-                ${attemptCharacterAge >= 1000 ? "text-xl" : "text-5xl"}
+                ${attemptCharacterAge >= 1000 ? "text-xl leading-5.5" : "text-5xl leading-12.5"}
                 w-[96] 
                 h-[96] 
                 flex 
@@ -225,7 +225,7 @@ export default function CharacterCard({ imageUrl, name, gender, height, age, nat
             </div>
             <div className={`
                 ${archivo.className}
-                ${affiliation.length <= 15 ? "text-xl" : affiliation.length > 50 ? "text-xs" : affiliation.length > 30 ? "text-sm" : ""}
+                ${affiliation.length <= 15 ? "text-xl leading-5.5" : affiliation.length > 50 ? "text-xs leading-3.5" : affiliation.length > 30 ? "text-sm leading-4" : ""}
                 text-center
                 w-[96] 
                 h-[96] 
@@ -238,7 +238,7 @@ export default function CharacterCard({ imageUrl, name, gender, height, age, nat
             </div>
             <div className={`
                 ${archivo.className}
-                ${occupation.length > 12 ? "text-sm" : occupation.length > 8 ? "" : "text-2xl"}
+                ${occupation.length > 12 ? "text-sm leading-4" : occupation.length > 8 ? "" : "text-2xl leading-6.5"}
                 text-center
                 w-[96] 
                 h-[96] 
@@ -251,7 +251,7 @@ export default function CharacterCard({ imageUrl, name, gender, height, age, nat
             </div>
             <div className={`
                 ${archivo.className}
-                ${standType.length < 5 ? "text-5xl" : standType.length > 25 ? "text-sm" : ""}
+                ${standType.length < 5 ? "text-5xl leading-12.5" : standType.length > 25 ? "text-sm leading-3.5" : ""}
                 text-center
                 w-[96] 
                 h-[96] 
@@ -265,7 +265,7 @@ export default function CharacterCard({ imageUrl, name, gender, height, age, nat
             <div className={`
                 relative
                 ${archivo.className}
-                ${debutPart.length > 12 ? "" : "text-xl"}
+                ${debutPart.length > 12 ? "" : "text-xl leading-5.5"}
                 text-center
                 w-[96] 
                 h-[96] 
@@ -294,7 +294,7 @@ export default function CharacterCard({ imageUrl, name, gender, height, age, nat
                             ></Image> :
                             null
                 }
-                <h2 className='relative z-[1]'>{debutPart}</h2>
+                <h2 className='relative z-[1] leading-4.5'>{debutPart}</h2>
             </div>
         </div>
     );

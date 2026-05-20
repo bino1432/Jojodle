@@ -21,8 +21,8 @@ export default function Quotepage() {
                 <Header />
                 <MinigameSelector />
                 <div className="flex flex-col p-4 bg-[var(--Background)] items-center text-center mt-4 max-w-138 rounded-lg m-auto gap-4">
-                    <p className={`${archivoBold.className} text-xl text-white text-balance`}>Take a guess at today's Jojo's Bizarre Adventure character!</p>
-                    <p className={`${archivoBold.className} text-2xl text-white text-balance`}>“Can you remember how many loaves of bread you've eaten in your entire life?”</p>
+                    <p className={`${archivoBold.className} text-xl text-white leading-5.5 text-balance`}>Take a guess at today’s JoJo’s Bizarre Adventure quote!</p>
+                    <p className={`${archivoBold.className} text-2xl text-white leading-6.5 text-balance`}>“Can you remember how many loaves of bread you've eaten in your entire life?”</p>
                     <div className="flex gap-4">
                     </div>
                 </div>

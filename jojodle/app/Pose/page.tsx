@@ -22,7 +22,7 @@ export default function Posepage() {
                 <Header />
                 <MinigameSelector />
                 <div className="flex flex-col p-4 bg-[var(--Background)] items-center text-center mt-4 max-w-138 rounded-lg m-auto gap-4">
-                    <p className={`${archivoBold.className} text-xl text-white text-balance`}>Take a guess at today's Jojo's Bizarre Adventure character!</p>
+                    <p className={`${archivoBold.className} text-xl text-white leading-5.5 text-balance`}>Take a guess at today’s JoJo’s Bizarre Adventure pose!</p>
                     <div className="p-4 bg-[var(--Accent)] rounded-lg">
                         <Image src={GiornoImage} alt={"Pose Image"} className="blur-[50px]"/>
                     </div>

@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Jojodle",
-  description: "A game with Jojo theme",
+  title: "JoJodle",
+  description: "JoJodle is a web game inspired by Loldle, where you guess characters from JoJo’s Bizarre Adventure.",
 };
 
 export default function RootLayout({

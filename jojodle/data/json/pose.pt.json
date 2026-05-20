@@ -31,21 +31,21 @@
         "ID": "5",
         "Name": "George Joestar I",
         "Part": "Phantom Blood",
-        "Technique": "Nenhum",
+        "Technique": "Nenhuma",
         "Image_ID": "/images/icon/Character/PB/PB_5"
     },
     {
         "ID": "6",
         "Name": "Erina Pendleton",
         "Part": "Phantom Blood",
-        "Technique": "Nenhum",
+        "Technique": "Nenhuma",
         "Image_ID": "/images/icon/Character/PB/PB_6"
     },
     {
         "ID": "7",
         "Name": "Poco",
         "Part": "Phantom Blood",
-        "Technique": "Nenhum",
+        "Technique": "Nenhuma",
         "Image_ID": "/images/icon/Character/PB/PB_7"
     },
     {
@@ -94,21 +94,21 @@
         "ID": "14",
         "Name": "Dario Brando",
         "Part": "Phantom Blood",
-        "Technique": "Nenhum",
+        "Technique": "Nenhuma",
         "Image_ID": "/images/icon/Character/PB/PB_14"
     },
     {
         "ID": "15",
         "Name": "Danny",
         "Part": "Phantom Blood",
-        "Technique": "Nenhum",
+        "Technique": "Nenhuma",
         "Image_ID": "/images/icon/Character/PB/PB_15"
     },
     {
         "ID": "16",
         "Name": "Irmã do Poco",
         "Part": "Phantom Blood",
-        "Technique": "Nenhum",
+        "Technique": "Nenhuma",
         "Image_ID": "/images/icon/Character/PB/PB_16"
     },
     {
@@ -220,28 +220,28 @@
         "ID": "32",
         "Name": "Smokey Brown",
         "Part": "Battle Tendency",
-        "Technique": "Nenhum",
+        "Technique": "Nenhuma",
         "Image_ID": "/images/icon/Character/BT/BT_13"
     },
     {
         "ID": "33",
         "Name": "Erina Joestar",
         "Part": "Phantom Blood",
-        "Technique": "Nenhum",
+        "Technique": "Nenhuma",
         "Image_ID": "/images/icon/Character/BT/BT_14"
     },
     {
         "ID": "34",
         "Name": "Mark",
         "Part": "Battle Tendency",
-        "Technique": "Nenhum",
+        "Technique": "Nenhuma",
         "Image_ID": "/images/icon/Character/BT/BT_15"
     },
     {
         "ID": "35",
         "Name": "Suzi Q",
         "Part": "Battle Tendency",
-        "Technique": "Nenhum",
+        "Technique": "Nenhuma",
         "Image_ID": "/images/icon/Character/BT/BT_16"
     },
     {
@@ -374,21 +374,21 @@
         "ID": "54",
         "Name": "Suzi Q Joestar",
         "Part": "Battle Tendency",
-        "Technique": "Nenhum",
+        "Technique": "Nenhuma",
         "Image_ID": "/images/icon/Character/SC/SC_15"
     },
     {
         "ID": "55",
         "Name": "Roses",
         "Part": "Stardust Crusaders",
-        "Technique": "Nenhum",
+        "Technique": "Nenhuma",
         "Image_ID": "/images/icon/Character/SC/SC_16"
     },
     {
         "ID": "56",
         "Name": "Merlai Anne",
         "Part": "Stardust Crusaders",
-        "Technique": "Nenhum",
+        "Technique": "Nenhuma",
         "Image_ID": "/images/icon/Character/SC/SC_17"
     },
     {
@@ -584,14 +584,14 @@
         "ID": "84",
         "Name": "Reimi Sugimoto",
         "Part": "Diamond is Unbreakable",
-        "Technique": "Nenhum",
+        "Technique": "Nenhuma",
         "Image_ID": "/images/icon/Character/DiU/DiU_6"
     },
     {
         "ID": "85",
         "Name": "Hayato Kawajiri",
         "Part": "Diamond is Unbreakable",
-        "Technique": "Nenhum",
+        "Technique": "Nenhuma",
         "Image_ID": "/images/icon/Character/DiU/DiU_7"
     },
     {
@@ -675,7 +675,7 @@
         "ID": "97",
         "Name": "Tomoko Higashikata",
         "Part": "Diamond is Unbreakable",
-        "Technique": "Nenhum",
+        "Technique": "Nenhuma",
         "Image_ID": "/images/icon/Character/DiU/DiU_19"
     },
     {
@@ -689,7 +689,7 @@
         "ID": "99",
         "Name": "Shinobu Kawajiri",
         "Part": "Diamond is Unbreakable",
-        "Technique": "Nenhum",
+        "Technique": "Nenhuma",
         "Image_ID": "/images/icon/Character/DiU/DiU_21"
     },
     {
@@ -717,7 +717,7 @@
         "ID": "103",
         "Name": "Arnold",
         "Part": "Diamond is Unbreakable",
-        "Technique": "Nenhum",
+        "Technique": "Nenhuma",
         "Image_ID": "/images/icon/Character/DiU/DiU_25"
     },
     {
@@ -773,7 +773,7 @@
         "ID": "111",
         "Name": "Ryohei Higashikata",
         "Part": "Diamond is Unbreakable",
-        "Technique": "Nenhum",
+        "Technique": "Nenhuma",
         "Image_ID": "/images/icon/Character/DiU/DiU_33"
     },
     {
@@ -885,14 +885,14 @@
         "ID": "127",
         "Name": "Pericolo",
         "Part": "Vento Aureo",
-        "Technique": "Nenhum",
+        "Technique": "Nenhuma",
         "Image_ID": "/images/icon/Character/VA/VA_15"
     },
     {
         "ID": "128",
         "Name": "Luca Lacrimejante",
         "Part": "Vento Aureo",
-        "Technique": "Nenhum",
+        "Technique": "Nenhuma",
         "Image_ID": "/images/icon/Character/VA/VA_16"
     },
     {
@@ -990,14 +990,14 @@
         "ID": "142",
         "Name": "Mãe do Giorno",
         "Part": "Vento Aureo",
-        "Technique": "Nenhum",
+        "Technique": "Nenhuma",
         "Image_ID": "/images/icon/Character/VA/VA_30"
     },
     {
         "ID": "143",
         "Name": "Donatella Una",
         "Part": "Vento Aureo",
-        "Technique": "Nenhum",
+        "Technique": "Nenhuma",
         "Image_ID": "/images/icon/Character/VA/VA_31"
     },
     {
@@ -1165,42 +1165,42 @@
         "ID": "167",
         "Name": "Corrupt Advogado",
         "Part": "Stone Ocean",
-        "Technique": "Nenhum",
+        "Technique": "Nenhuma",
         "Image_ID": "/images/icon/Character/SO/SO_24"
     },
     {
         "ID": "168",
         "Name": "Loccobarocco",
         "Part": "Stone Ocean",
-        "Technique": "Nenhum",
+        "Technique": "Nenhuma",
         "Image_ID": "/images/icon/Character/SO/SO_25"
     },
     {
         "ID": "169",
         "Name": "Romeo Jisso",
         "Part": "Stone Ocean",
-        "Technique": "Nenhum",
+        "Technique": "Nenhuma",
         "Image_ID": "/images/icon/Character/SO/SO_26"
     },
     {
         "ID": "170",
         "Name": "Mãe da Jolyne",
         "Part": "Stone Ocean",
-        "Technique": "Nenhum",
+        "Technique": "Nenhuma",
         "Image_ID": "/images/icon/Character/SO/SO_27"
     },
     {
         "ID": "171",
         "Name": "Gloria Costello",
         "Part": "Stone Ocean",
-        "Technique": "Nenhum",
+        "Technique": "Nenhuma",
         "Image_ID": "/images/icon/Character/SO/SO_28"
     },
     {
         "ID": "172",
         "Name": "Perla Pucci",
         "Part": "Stone Ocean",
-        "Technique": "Nenhum",
+        "Technique": "Nenhuma",
         "Image_ID": "/images/icon/Character/SO/SO_29"
     },
     {
@@ -1263,7 +1263,7 @@
         "ID": "181",
         "Name": "Steven Steel",
         "Part": "Steel Ball Run",
-        "Technique": "Nenhum",
+        "Technique": "Nenhuma",
         "Image_ID": "/images/icon/Character/SBR/SBR_9"
     },
     {
@@ -1319,14 +1319,14 @@
         "ID": "189",
         "Name": "Marco",
         "Part": "Steel Ball Run",
-        "Technique": "Nenhum",
+        "Technique": "Nenhuma",
         "Image_ID": "/images/icon/Character/SBR/SBR_17"
     },
     {
         "ID": "190",
         "Name": "Jesus",
         "Part": "Steel Ball Run",
-        "Technique": "Nenhum",
+        "Technique": "Nenhuma",
         "Image_ID": "/images/icon/Character/SBR/SBR_18"
     },
     {
@@ -1396,7 +1396,7 @@
         "ID": "200",
         "Name": "Scarlet Valentine",
         "Part": "Steel Ball Run",
-        "Technique": "Nenhum",
+        "Technique": "Nenhuma",
         "Image_ID": "/images/icon/Character/SBR/SBR_28"
     },
     {
@@ -1417,7 +1417,7 @@
         "ID": "203",
         "Name": "Norisuke Higashikata I",
         "Part": "Steel Ball Run",
-        "Technique": "Nenhum",
+        "Technique": "Nenhuma",
         "Image_ID": "/images/icon/Character/SBR/SBR_31"
     },
     {
@@ -1431,63 +1431,63 @@
         "ID": "205",
         "Name": "George Joestar II (SBR)",
         "Part": "Steel Ball Run",
-        "Technique": "Nenhum",
+        "Technique": "Nenhuma",
         "Image_ID": "/images/icon/Character/SBR/SBR_33"
     },
     {
         "ID": "206",
         "Name": "Gregorio Zeppeli",
         "Part": "Steel Ball Run",
-        "Technique": "Nenhum",
+        "Technique": "Nenhuma",
         "Image_ID": "/images/icon/Character/SBR/SBR_34"
     },
     {
         "ID": "207",
         "Name": "Mãe do Diego",
         "Part": "Steel Ball Run",
-        "Technique": "Nenhum",
+        "Technique": "Nenhuma",
         "Image_ID": "/images/icon/Character/SBR/SBR_35"
     },
     {
         "ID": "208",
         "Name": "Dario Brando (SBR)",
         "Part": "Steel Ball Run",
-        "Technique": "Nenhum",
+        "Technique": "Nenhuma",
         "Image_ID": "/images/icon/Character/SBR/SBR_36"
     },
     {
         "ID": "209",
         "Name": "Nicholas Joestar",
         "Part": "Steel Ball Run",
-        "Technique": "Nenhum",
+        "Technique": "Nenhuma",
         "Image_ID": "/images/icon/Character/SBR/SBR_37"
     },
     {
         "ID": "210",
         "Name": "Captain Valentine",
         "Part": "Steel Ball Run",
-        "Technique": "Nenhum",
+        "Technique": "Nenhuma",
         "Image_ID": "/images/icon/Character/SBR/SBR_38"
     },
     {
         "ID": "211",
         "Name": "Valkyrie",
         "Part": "Steel Ball Run",
-        "Technique": "Nenhum",
+        "Technique": "Nenhuma",
         "Image_ID": "/images/icon/Character/SBR/SBR_39"
     },
     {
         "ID": "212",
         "Name": "Slow Dancer",
         "Part": "Steel Ball Run",
-        "Technique": "Nenhum",
+        "Technique": "Nenhuma",
         "Image_ID": "/images/icon/Character/SBR/SBR_40"
     },
     {
         "ID": "213",
         "Name": "Silver Bullet",
         "Part": "Steel Ball Run",
-        "Technique": "Nenhum",
+        "Technique": "Nenhuma",
         "Image_ID": "/images/icon/Character/SBR/SBR_41"
     },
     {
@@ -1578,7 +1578,7 @@
         "ID": "226",
         "Name": "Rina Higashikata",
         "Part": "JoJolion",
-        "Technique": "Nenhum",
+        "Technique": "Nenhuma",
         "Image_ID": "/images/icon/Character/JJL/JJL_13"
     },
     {
@@ -1746,14 +1746,14 @@
         "ID": "250",
         "Name": "Suzuyo Hirose",
         "Part": "JoJolion",
-        "Technique": "Nenhum",
+        "Technique": "Nenhuma",
         "Image_ID": "/images/icon/Character/JJL/JJL_37"
     },
     {
         "ID": "251",
         "Name": "Kiyomi Kujo",
         "Part": "JoJolion",
-        "Technique": "Nenhum",
+        "Technique": "Nenhuma",
         "Image_ID": "/images/icon/Character/JJL/JJL_38"
     },
     {
@@ -1816,7 +1816,7 @@
         "ID": "260",
         "Name": "Meryl Mei Qi",
         "Part": "The JOJOLands",
-        "Technique": "Nenhum",
+        "Technique": "Nenhuma",
         "Image_ID": "/images/icon/Character/TJJL/TJJL_6"
     },
     {
@@ -1830,7 +1830,7 @@
         "ID": "262",
         "Name": "Barbara Ann Joestar",
         "Part": "The JOJOLands",
-        "Technique": "Nenhum",
+        "Technique": "Nenhuma",
         "Image_ID": "/images/icon/Character/TJJL/TJJL_8"
     },
     {
@@ -1865,7 +1865,7 @@
         "ID": "267",
         "Name": "Latrato",
         "Part": "The JOJOLands",
-        "Technique": "Nenhum",
+        "Technique": "Nenhuma",
         "Image_ID": "/images/icon/Character/TJJL/TJJL_13"
     }
 ]
