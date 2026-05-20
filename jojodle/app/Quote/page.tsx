@@ -4,8 +4,7 @@ import MinigameSelector from "@/components/UniversalComponents/MinigameSelector"
 import HintButtons from "@/components/UniversalComponents/HintButtons";
 import { Archivo } from "next/font/google";
 import PartClueIcon from "@/public/images/icon/PartClue-Icon.svg";
-import TypeClueIcon from "@/public/images/icon/TypeClue-Icon.svg";
-import TechniqueClueIcon from "@/public/images/icon/TechniqueClue-Icon.svg";
+import TargeClueIcon from "@/public/images/icon/TypeClue-Icon.svg";
 import { useEffect, useState } from "react";
 import quoteJson from "@/data/json/quote.en.json";
 import Footer from "@/components/UniversalComponents/Footer";

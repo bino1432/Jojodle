@@ -7,7 +7,7 @@ import { useEffect, useState } from 'react';
 type Character = {
   ID: number;
   Name: string;
-  Variants: string | null;
+  Variants?: string | null;
   Image: string
 }
 
