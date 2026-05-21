@@ -76,13 +76,12 @@ export default function Quotepage() {
     return randomQuote;
     };
 
-      const reciveHintAndSideFromComponent = (hint: string, side: string, left: boolean, right: boolean) => {
+    const reciveHintAndSideFromComponent = (hint: string, side: string, left: boolean, right: boolean) => {
         setCurrentHint(hint);
         setSide(side);
         setIsLeft(left);
         setIsRight(right);
     };
-
 
     return (
         <main>
