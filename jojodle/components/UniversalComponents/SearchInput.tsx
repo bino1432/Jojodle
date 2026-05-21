@@ -74,7 +74,7 @@ export default function SearchInput({reciveId, winGame, characterJson}: inputPro
                         setQuery(e.target.value);
                         setShowList(true);
                     }}
-                    className={`${archivoBold.className} rounded-lg bg-[var(--Accent)] max-w-[392] w-full placeholder-[var(--Cloudy)] pl-[8] text-[var(--Cloudy)] outline-none`} />
+                    className={`${archivoBold.className} rounded-lg bg-[var(--Accent)] max-w-[392] w-full placeholder-[var(--Cloudy)] pl-[8] text-[var(--White)] text-xl outline-none`} />
                 <Image src={sendIcon} alt="Send Icon" className='cursor-pointer' />
             </div>
             <div className={`bg-[var(--Background)] z-10 ${query == "" ? "" : "p-[8]"} mt-1 min-w-[392] max-h-[296] m-auto overflow-y-auto absolute justify-self-center`}>

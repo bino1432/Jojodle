@@ -106,9 +106,28 @@ export default function Quotepage() {
                 <SearchInput reciveId={reciveCharacterIdFromComponent} characterJson={quoteJson} winGame={winGame} />
             </div>
 
-            <div className="mt-4">
-                {correctCharacter && (<QuoteCard imageUrl={correctCharacter.Image} name={correctCharacter.Name} character={correctCharacter} winGame={reciveIfWinGame}/>)}
-            </div>
+                <div className="mt-4">
+                    {triedCharacter.length !== 0 && (
+                        <div className="flex flex-col-reverse relative">
+                            {triedCharacter.map((id) => {
+                                const characterData = quoteJson.find(char => char.ID === id);
+                                if(!characterData) return null
+
+                                return (
+                                    correctCharacter && (
+                                        <QuoteCard
+                                            key={characterData.ID}
+                                            imageUrl={characterData.Image}
+                                            name={characterData.Name}
+                                            character={correctCharacter}
+                                            winGame={reciveIfWinGame}
+                                        />
+                                    )
+                                )
+                            })}
+                        </div>
+                    )}
+                </div>
 
             <Footer />
         </div>

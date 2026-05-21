@@ -2,6 +2,7 @@
   {
     "ID": 1,
     "Name": "Jotaro Kujo",
+    "Variants": "JoJo",
     "Stands": [{
       "Stand":"Star Platinum",
       "Stand Type": "Close-Range, Range Irrelevant, Natural Humanoid",
@@ -14,6 +15,7 @@
   {
     "ID": 2,
     "Name": "Joseph Joestar",
+    "Variants": "JoJo",
     "Stands": [{
       "Stand":"Hermit Purple",
       "Stand Type": "Close-Range, Reconnaissance, Natural Non-Humanoid",
@@ -25,6 +27,7 @@
   {
     "ID": 3,
     "Name": "Muhammad Avdol",
+    "Variants": "Mohammed Avdol, Mohammed Abdul",
     "Stands": [{
       "Stand":"Magician's Red",
       "Stand Type": "Close-Range, Natural Humanoid",
@@ -74,6 +77,7 @@
   {
     "ID": 7,
     "Name": "DIO (SC)",
+    "Variants": "Dio Brando",
     "Stands": [{
       "Stand":"The World",
       "Stand Type": "Close-Range, Range Irrelevant, Natural Humanoid",
@@ -85,6 +89,7 @@
   {
     "ID": 8,
     "Name": "Enya the Hag",
+    "Variants": "Enya Geil",
     "Stands": [{
       "Stand":"Justice",
       "Stand Type": "Close-Range, Natural Non-Humanoid",
@@ -217,6 +222,7 @@
   {
     "ID": 20,
     "Name": "ZZ",
+    "Variants": "Zii Zii",
     "Stands": [{
       "Stand":"Wheel of Fortune",
       "Stand Type": "Close-Range, Materialized, Artificial Non-Humanoid",
@@ -261,6 +267,7 @@
   {
     "ID": 24,
     "Name": "Cameo",
+    "Variants": "Kameo",
     "Stands": [{
       "Stand":"Judgement",
       "Stand Type": "Close-Range, Artificial Humanoid",
@@ -272,6 +279,7 @@
   {
     "ID": 25,
     "Name": "Midler",
+    "Variants": "Rose",
     "Stands": [{
       "Stand":"High Priestress",
       "Stand Type": "Long-Range, Natural Non-Humanoid",
@@ -283,6 +291,7 @@
   {
     "ID": 26,
     "Name": "Oingo",
+    "Variants": "Zenyatta, Ongo",
     "Stands": [{
       "Stand":"Khnum",
       "Stand Type": "Integrated, Phenomenon",
@@ -294,6 +303,7 @@
   {
     "ID": 27,
     "Name": "Boingo",
+    "Variants": "Mondatta, Bongo",
     "Stands": [{
       "Stand":"Thoth",
       "Stand Type": "Automatic, Foresight, Materialized, Phenomenon",
@@ -349,6 +359,7 @@
   {
     "ID": 32,
     "Name": "Daniel J. D'Arby",
+    "Variants": "D'arby the Elder, Darby the Elder",
     "Stands": [{
       "Stand":"Osiris",
       "Stand Type": "Close-Range, Automatic, Psychological Assault, Artificial Humanoid",
@@ -360,6 +371,7 @@
   {
     "ID": 33,
     "Name": "Telence T. D'Arby",
+    "Variants": "D'arby the Younger, Darby the Younger",
     "Stands": [{
       "Stand":"Atum",
       "Stand Type": "Close-Range, Psychological Assault, Artificial Humanoid",
@@ -436,6 +448,7 @@
   {
     "ID": 39,
     "Name": "Yoshikage Kira",
+    "Variants": "Kosaku Kawajiri",
     "Stands": [{
       "Stand":"Killer Queen",
       "Stand Type": "Close-Range, Natural Humanoid",
@@ -479,6 +492,7 @@
   {
     "ID": 43,
     "Name": "Shigekiyo Yangu",
+    "Variants": "Shigechi",
     "Stands": [{
       "Stand":"Harvest",
       "Stand Type": "Long-Range, Reconnaissance, Artificial Non-Humanoid, Colony",
@@ -490,6 +504,7 @@
   {
     "ID": 44,
     "Name": "Mikitaka Hazekura",
+    "Variants": "Nu Mikitakazo Nshi",
     "Stands": [{
       "Stand":"Earth, Wind and Fire",
       "Stand Type": "Range Irrelevant, Integrated, Phenomenon",
@@ -501,6 +516,7 @@
   {
     "ID": 45,
     "Name": "Yuya Fungami",
+    "Variants": "Yuei",
     "Stands": [{
       "Stand":"Highway Star",
       "Stand Type": "Long-Range, Automatic, Reconnaissance, Natural Humanoid",
@@ -677,6 +693,7 @@
   {
     "ID": 61,
     "Name": "Giorno Giovanna",
+    "Variants": "JoJo, GioGio, Haruno Shiobana",
     "Stands": [{
       "Stand":"Gold Experience, Gold Experience Requiem",
       "Stand Type": "Close-Range, Natural Humanoid",
@@ -754,6 +771,7 @@
   {
     "ID": 68,
     "Name": "Diavolo",
+    "Variants": "Boss, Solid Naso, Solido Naso",
     "Stands": [{
       "Stand":"King Crimson",
       "Stand Type": "Close-Range, Natural Humanoid",
@@ -853,6 +871,7 @@
   {
     "ID": 77,
     "Name": "Illuso",
+    "Variants": "Illuso of the Mirror",
     "Stands": [{
       "Stand":"Man in the Mirror",
       "Stand Type": "Close-Range, Artificial Humanoid",
@@ -963,6 +982,7 @@
   {
     "ID": 87,
     "Name": "Jolyne Cujoh",
+    "Variants": "JoJo, Jolyne Kujo",
     "Stands": [{
       "Stand":"Stone Free",
       "Stand Type": "Close-Range, Reconnaissance Natural Humanoid, Integrated",
@@ -974,6 +994,7 @@
   {
     "ID": 88,
     "Name": "Emporio Alnino",
+    "Variants": "Emporio Alniño",
     "Stands": [{
       "Stand":"Burning Down the House",
       "Stand Type": "Range Irrelevant, Materialized, Phenomenon",
@@ -985,6 +1006,7 @@
     {
       "ID": 89,
       "Name": "Foo Fighters",
+      "Variants": "F.F., F. F., FF",
       "Stands": [{
         "Stand":"Foo Fighters",
         "Stand Type": "Range Irrelevant, Integrated, Phenomenon, Shared",
@@ -996,6 +1018,7 @@
     {
       "ID": 90,
       "Name": "Ermes Costello",
+      "Variants": "Hermes Costello",
       "Stands": [{
         "Stand":"Kiss",
         "Stand Type": "Close-Range, Natural Humanoid",
@@ -1007,6 +1030,7 @@
   {
     "ID": 91,
     "Name": "Weather Report",
+    "Variants": "Weather Forecast, Domenico Pucci, Wes Bluemarine",
     "Stands": [{
       "Stand":"Weather Report",
       "Stand Type": "Close-Range, Artificial Humanoid, Natural Non-Humanoid",
@@ -1018,6 +1042,7 @@
   {
     "ID": 92,
     "Name": "Narciso Anasui",
+    "Variants": "Narciso Anastasia",
     "Stands": [{
       "Stand":"Diver Down",
       "Stand Type": "Close-Range, Artificial Humanoid",
@@ -1029,6 +1054,7 @@
   {
     "ID": 93,
     "Name": "Enrico Pucci",
+    "Variants": "Father Pucci",
     "Stands": [{
       "Stand":"Whitesnake,C-MOON,Made in Heaven",
       "Stand Type": "Long-Range, Psychological Assault, Natural Humanoid, Sentient",
@@ -1094,6 +1120,7 @@
   {
     "ID": 98,
     "Name": "Gwess",
+    "Variants": "Guess",
     "Stands": [{
       "Stand":"Goo Goo Dolls",
       "Stand Type": "Long-Range, Artificial Humanoid",
@@ -1105,6 +1132,7 @@
   {
     "ID": 99,
     "Name": "Miraschon",
+     "Variants": "Mirashon",
     "Stands": [{
       "Stand":"Marilyn Manson",
       "Stand Type": "Long-Range, Psychological Assault, Artificial Humanoid, Automatic",
@@ -1138,6 +1166,7 @@
   {
     "ID": 102,
     "Name": "Thunder McQueen",
+    "Variants": "Xander McQueen",
     "Stands": [{
       "Stand":"Highway to Hell",
       "Stand Type": "Long-Range, Artificial Non-Humanoid",
@@ -1182,6 +1211,7 @@
   {
     "ID": 106,
     "Name": "Miuccia Miuller",
+    "Variants": "Miu Miu",
     "Stands": [{
       "Stand":"Jail House Lock",
       "Stand Type": "Close-Range, Psychological Assault, Artificial Humanoid",
@@ -1204,6 +1234,7 @@
   {
     "ID": 108,
     "Name": "Johnny Joestar",
+    "Variants": "JoJo, Jonathan Joestar",
     "Stands": [{
       "Stand":"Tusk ACT 1",
       "Stand Type": "Close-Range, Evolved, Natural Non-Humanoid, Sentient",
@@ -1230,6 +1261,7 @@
   {
     "ID": 109,
     "Name": "Gyro Zeppeli",
+    "Variants": "Julius Caesar Zeppeli",
     "Stands": [{
       "Stand":"Ball Breaker",
       "Stand Type": "Long-Range, Artificial Humanoid",
@@ -1241,6 +1273,7 @@
   {
     "ID": 110,
     "Name": "Lucy Steel",
+    "Variants": "Lucy Pendleton",
     "Stands": [{
       "Stand":"Ticket to Ride",
       "Stand Type": "Range Irrelevant, Integrated, Phenomenon",
@@ -1301,6 +1334,7 @@
   {
     "ID": 115,
     "Name": "Sandman",
+    "Variants": "Soundman",
     "Stands": [{
       "Stand":"In a Silent Way",
       "Stand Type": "Close-Range, Artificial Humanoid",
@@ -1356,6 +1390,7 @@
   {
     "ID": 120,
     "Name": "Parallel World Diego",
+    "Variants": "Alternate World Diego Brando, Diego From Another Univese, The World Diego, Dio",
     "Stands": [{
       "Stand":"THE WORLD",
       "Stand Type": "Close-Range, Range Irrelevant, Natural Humanoid",
@@ -1466,6 +1501,7 @@
   {
     "ID": 130,
     "Name": "D-I-S-C-O",
+    "Variants": "DI-S-CO, DISCO",
     "Stands": [{
       "Stand":"Chocolate Disco",
       "Stand Type": "Close-Range, Artificial Non-Humanoid",
@@ -1488,6 +1524,7 @@
   {
     "ID": 132,
     "Name": "Josuke Higashikata (JJL)",
+    "Variants": "JoJo, Gappy",
     "Stands": [{
       "Stand":"Soft & Wet",
       "Stand Type": "Close-Range, Artificial Humanoid, Evolved, Shared",
@@ -1521,6 +1558,7 @@
   {
     "ID": 135,
     "Name": "Norisuke Higashikata IV",
+    "Variants": "Josuke Higashikata",
     "Stands": [{
       "Stand":"King Nothing",
       "Stand Type": "Long-Range, Reconnaissance, Artificial Humanoid",
@@ -1543,6 +1581,7 @@
   {
     "ID": 137,
     "Name": "Toru",
+    "Variants": "Tooru, Satoru Akefu",
     "Stands": [{
       "Stand":"Wonder of U",
       "Stand Type": "Automatic, Sentient, Natural Humanoid, Artificial Humanoid",
@@ -1642,6 +1681,7 @@
   {
     "ID": 146,
     "Name": "Urban Guerrilla",
+    "Variants": "Ryo Shimosato",
     "Stands": [{
       "Stand":"Brain Storm",
       "Stand Type": "Long-Range, Artificial Non-Humanoid, Colony",
@@ -1664,6 +1704,7 @@
   {
     "ID": 148,
     "Name": "Dolomite",
+    "Variants": "Masaji Dorokoma",
     "Stands": [{
       "Stand":"Blue Hawaii",
       "Stand Type": "Automatic, Psychological Assault, Natural Non-Humanoid",
@@ -1697,6 +1738,7 @@
   {
     "ID": 151,
     "Name": "Satoru Akefu",
+    "Variants": "Tooru, Toru",
     "Stands": [{
       "Stand":"Wonder of U",
       "Stand Type": "Automatic, Sentient, Natural Humanoid, Artificial Humanoid",
@@ -1707,7 +1749,20 @@
   },
   {
     "ID": 152,
+    "Name": "Yoshikage Kira (JJL)",
+    "Variants": "Kosaku Kawajiri",
+    "Stands": [{
+      "Stand":"Killer Queen",
+      "Stand Type": "Close-Range, Natural Humanoid",
+      "Debut": "Diamond is Unbreakable",
+      "Technique": "Bomb Transmutation"
+    }],
+    "Image": "/images/icon/character/JJL/JJL_28.png"
+  },
+  {
+    "ID": 153,
     "Name": "Josefumi Kujo",
+    "Variants": "Josephmi Kujo",
     "Stands": [{
       "Stand":"Soft & Wet",
       "Stand Type": "Close-Range, Artificial Humanoid",
@@ -1717,7 +1772,7 @@
     "Image": "/images/icon/character/JJL/JJL_29.png"
   },
   {
-    "ID": 153,
+    "ID": 154,
     "Name": "Karera Sakunami",
     "Stands": [{
       "Stand":"Love Love Deluxe",
@@ -1728,7 +1783,7 @@
     "Image": "/images/icon/character/JJL/JJL_30.png"
   },
   {
-    "ID": 154,
+    "ID": 155,
     "Name": "Ojiro Sasame",
     "Stands": [{
       "Stand":"Fun Fun Fun",
@@ -1739,8 +1794,9 @@
     "Image": "/images/icon/character/JJL/JJL_31.png"
   },
   {
-    "ID": 155,
+    "ID": 156,
     "Name": "Elder A. Phex",
+    "Variants": "A. Phex Brothers",
     "Stands": [{
       "Stand":"Schott Key No. 1",
       "Stand Type": "Range Irrelevant, Integrated, Natural Non-Humanoid",
@@ -1750,8 +1806,9 @@
     "Image": "/images/icon/character/JJL/JJL_32.png"
   },
   {
-    "ID": 156,
+    "ID": 157,
     "Name": "Younger A. Phex",
+    "Variants": "A. Phex Brothers",
     "Stands": [{
       "Stand":"Schott Key No. 2",
       "Stand Type": "Close-Range, Automatic, Natural Non-Humanoid",
@@ -1761,7 +1818,7 @@
     "Image": "/images/icon/character/JJL/JJL_33.png"
   },
   {
-    "ID": 157,
+    "ID": 158,
     "Name": "Zaihei Nigatake",
     "Stands": [{
       "Stand":"Milagroman",
@@ -1772,8 +1829,9 @@
     "Image": "/images/icon/character/JJL/JJL_34.png"
   },
   {
-    "ID": 158,
+    "ID": 159,
     "Name": "Kei Nijimura",
+    "Variants": "Kyo Nijimura",
     "Stands": [{
       "Stand":"Born This Way",
       "Stand Type": "Automatic, Artificial Humanoid",
@@ -1783,8 +1841,9 @@
     "Image": "/images/icon/character/JJL/JJL_36.png"
   },
   {
-    "ID": 159,
+    "ID": 160,
     "Name": "Jodio Joestar",
+    "Variants": "JoJo",
     "Stands": [{
       "Stand":"November Rain",
       "Stand Type": "Close-Range, Artificial Humanoid",
@@ -1794,7 +1853,7 @@
     "Image": "/images/icon/character/TJJL/TJJL_1.png"
   },
   {
-    "ID": 160,
+    "ID": 161,
     "Name": "Dragona Joestar",
     "Stands": [{
       "Stand":"Smooth Operators",
@@ -1805,7 +1864,7 @@
     "Image": "/images/icon/character/TJJL/TJJL_2.png"
   },
   {
-    "ID": 161,
+    "ID": 162,
     "Name": "Paco Laburantes",
     "Stands": [{
       "Stand":"THE Hustle",
@@ -1816,7 +1875,7 @@
     "Image": "/images/icon/character/TJJL/TJJL_3.png"
   },
   {
-    "ID": 162,
+    "ID": 163,
     "Name": "Usagi Alohaoe",
     "Stands": [{
       "Stand":"THE MATTEKUDASAI",
@@ -1827,7 +1886,18 @@
     "Image": "/images/icon/character/TJJL/TJJL_4.png"
   },
   {
-    "ID": 163,
+    "ID": 164,
+    "Name": "Rohan Kishibe",
+    "Stands": [{
+      "Stand":"Heaven's Door",
+      "Stand Type": "Close-Range, Reconnaissance, Natural Humanoid",
+      "Debut": "Diamond is Unbreakable",
+      "Technique": "Book Transmutation"
+    }],
+    "Image": "/images/icon/character/TJJL/TJJL_5.png"
+  },
+  {
+    "ID": 165,
     "Name": "Charming Man",
     "Stands": [{
       "Stand":"Big Mouth Strikes Again",
@@ -1838,7 +1908,7 @@
     "Image": "/images/icon/character/TJJL/TJJL_7.png"
   },
   {
-    "ID": 164,
+    "ID": 166,
     "Name": "Wild Cat Size",
     "Stands": [{
       "Stand":"Cat Size",
@@ -1849,7 +1919,7 @@
     "Image": "/images/icon/character/TJJL/TJJL_10.png"
   },
   {
-    "ID": 165,
+    "ID": 167,
     "Name": "Lulu",
     "Stands": [{
       "Stand":"Bags Groove",
@@ -1860,7 +1930,7 @@
     "Image": "/images/icon/character/TJJL/TJJL_11.png"
   },
   {
-    "ID": 166,
+    "ID": 168,
     "Name": "Bobby Jean",
     "Stands": [{
       "Stand":"Glory Days",

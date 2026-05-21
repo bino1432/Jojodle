@@ -2,6 +2,7 @@
     {
         "ID": 1,
         "Name": "Jonathan Joestar",
+        "Variants": "JoJo",
         "Quotes" : [{
             "Quote": "I’m back from hell, Dio!",
             "Part": "Phantom Blood",
@@ -38,6 +39,7 @@
     {
         "ID": 3,
         "Name": "Will Anthonio Zeppeli",
+        "Variants": "Will A. Zeppeli",
         "Quotes": [{
             "Quote": "What is \"courage\"? \"Courage\" is knowing fear and making that fear your own!",
             "Part": "Phantom Blood",
@@ -66,6 +68,7 @@
     {
         "ID": 5,
         "Name": "Erina Pendleton",
+        "Variants": "Erina Joestar",
         "Quotes": [{
             "Quote": "Oh, JoJo, you scoundrel!",
             "Part": "Phantom Blood",
@@ -116,6 +119,7 @@
     {
         "ID": 10,
         "Name": "Poco's Sister",
+        "Variants": "Peggy",
         "Quotes": [{
             "Quote": "Is pain scary to you? Aren't you more afraid of turning into an adult and still not being able to do anything for yourself?",
             "Part": "Phantom Blood",
@@ -136,6 +140,7 @@
     {
         "ID": 12,
         "Name": "Joseph Joestar",
+        "Variants": "JoJo",
         "Quotes": [{
             "Quote" : "He-llo? Could you say that again? More slowly? In a language I understand? Depending on what you said, I might kick your ass!",
             "Part": "Battle Tendency",
@@ -170,6 +175,7 @@
     {
         "ID": 13,
         "Name": "Caesar Anthonio Zeppeli",
+        "Variants": "Caesar A. Zeppeli",
         "Quotes": [{
             "Quote": "The inscrutable Ripple Bubble Launcher! Take this and go back to the countryside, Joestar!",
             "Part": "Battle Tendency",
@@ -180,6 +186,7 @@
     {
         "ID": 14,
         "Name": "Lisa Lisa",
+        "Variants": "Elizabeth Joestar",
         "Quotes": [{
             "Quote": "No need! I haven't lived such a fragile life that I'd need pity from a kid who isn't even twenty yet!",
             "Part": "Battle Tendency",
@@ -200,6 +207,7 @@
     {
         "ID": 16,
         "Name": "Kars",
+        "Variants": "Cars",
         "Quotes": [{
             "Quote": "Geez... have humans devolved since the past?",
             "Part": "Battle Tendency",
@@ -272,6 +280,7 @@
     {
         "ID": 22,
         "Name": "Suzi Q",
+        "Variants": "Suzi Q Joestar, Suzie Q",
         "Quotes": [{
             "Quote": "Say, JoJo... you're cuter than I thought.\t",
             "Part": "Battle Tendency",
@@ -282,6 +291,7 @@
     {
         "ID": 23,
         "Name": "Jotaro Kujo",
+        "Variants": "JoJo",
         "Quotes": [{
             "Quote": "I can't beat the crap out of you without getting closer.",
             "Part": "Stardust Crusaders",
@@ -308,6 +318,7 @@
     {
         "ID": 24,
         "Name": "DIO (SC)",
+        "Variants": "Dio Brando",
         "Quotes": [{
             "Quote": "Jonathan's bloodline... must be eliminated.",
             "Part": "Stardust Crusaders",
@@ -315,7 +326,7 @@
         }, {
             "Quote": "Heheheheh... I'll give you one chance. Take two steps down the stairs, and I'll allow you to join me again. On the contrary, if you wish to die, take a step up the stairs.",
             "Part": "Stardust Crusaders",
-            "Target": "Jotaro Kujo"
+            "Target": "Jean Pierre Polnareff"
         }, {
             "Quote": "The World! Time, stop!",
             "Part": "Stardust Crusaders",
@@ -350,6 +361,7 @@
     {
         "ID": 25,
         "Name": "Joseph Joestar (SC)",
+        "Variants": "JoJo",
         "Quotes": [{
             "Quote": "Indeed Jotaro, what you have called an \"evil spirit\" is but a powerful vision created by your own life energy! And since it stands next to you, it is called a Stand!",
             "Part": "Stardust Crusaders",
@@ -452,6 +464,7 @@
     {
         "ID": 30,
         "Name": "Enya the Hag",
+        "Variants": "Enya Geil",
         "Quotes": [{
             "Quote": "Just one little wound is all I need... then Justice will do the rest!",
             "Part": "Stardust Crusaders",
@@ -466,6 +479,7 @@
     {
         "ID": 31,
         "Name": "Holy Kujo",
+        "Variants": "Holy Joestar, Holly Kujo, Seiko",
         "Quotes": [{
             "Quote": "He used to be such a good boy... and now I don't know what's happened to him!\t",
             "Part": "Stardust Crusaders",
@@ -500,6 +514,7 @@
     {
         "ID": 34,
         "Name": "Merlai Anne",
+        "Variants": "Runaway Girl",
         "Quotes": [{
             "Quote": "Look, want some porn? It's Indian porn! I stole these from a gift shop. You like sexy pictures, right?",
             "Part": "Stardust Crusaders",
@@ -530,6 +545,7 @@
     {
         "ID": 37,
         "Name": "Oingo",
+        "Variants": "Zenyatta, Ongo",
         "Quotes": [{
             "Quote": "My brother's book is not for sale... Just get out of here. Didn't you hear me!? I said get lost!!!",
             "Part": "Stardust Crusaders",
@@ -540,6 +556,7 @@
     {
         "ID": 38,
         "Name": "Boingo",
+        "Variants": "Mondatta, Bongo",
         "Quotes": [{
             "Quote": "It's fate. Yes! The predictions are absolute.",
             "Part": "Stardust Crusaders",
@@ -584,6 +601,7 @@
     {
         "ID": 42,
         "Name": "Daniel J. D'Arby",
+        "Variants": "D'arby the Elder, Darby the Elder",
         "Quotes": [{
             "Quote": "Go AHEAD! Mr. Joestar!",
             "Part": "Stardust Crusaders",
@@ -598,6 +616,7 @@
     {
         "ID": 43,
         "Name": "Telence T. D'Arby",
+        "Variants": "D'arby the Younger, Darby the Younger",
         "Quotes": [{
             "Quote": "Are you going to do the \"ORA ORA\" thing?!",
             "Part": "Stardust Crusaders",
@@ -608,6 +627,7 @@
     {
         "ID": 44,
         "Name": "Josuke Higashikata",
+        "Variants": "JoJo",
         "Quotes": [{
             "Quote": "Yo! Angelo. ",
             "Part": "Diamond is Unbreakable",
@@ -632,6 +652,7 @@
     {
         "ID": 46,
         "Name": "Reimi Sugimoto",
+        "Variants": "Ghost Girl",
         "Quotes": [{
             "Quote": "May you receive judgment, Yoshikage Kira!",
             "Part": "Diamond is Unbreakable",
@@ -652,6 +673,7 @@
     {
         "ID": 48,
         "Name": "Yoshikage Kira",
+        "Variants": "Kosaku Kawajiri",
         "Quotes": [{
             "Quote": "I-I did it! It activated! ",
             "Part": "Diamond is Unbreakable",
@@ -684,6 +706,7 @@
     {
         "ID": 50,
         "Name": "Joseph Joestar (DiU)",
+        "Variants": "JoJo",
         "Quotes": [{
             "Quote": "I just wanted to look cool in front of you.",
             "Part": "Diamond is Unbreakable",
@@ -698,6 +721,7 @@
     {
         "ID": 51,
         "Name": "Shigekiyo Yangu",
+        "Variants": "Shigechi",
         "Quotes": [{
             "Quote": "I hate bein' made fun of! \"Fatass, stupid pig\", all these names... I'll make y'all regret mocking me!",
             "Part": "Diamond is Unbreakable",
@@ -708,6 +732,7 @@
     {
         "ID": 52,
         "Name": "Mikitaka Hazekura",
+        "Variants": "Nu Mikitakazo Nshi",
         "Quotes": [{
             "Quote": {
                 "Quote": "Alien? Yes, that is the term. I'm an Alien!",
@@ -720,6 +745,7 @@
     {
         "ID": 53,
         "Name": "Yuya Fungami",
+        "Variants": "Yuei",
         "Quotes": [{
             "Quote": "That's how good I am. You know I can't live without these gals. You perserved my beauty, so of course I'll help.\t",
             "Part": "Diamond is Unbreakable",
@@ -818,6 +844,7 @@
     {
         "ID": 62,
         "Name": "Giorno Giovanna",
+        "Variants": "JoJo, GioGio, Haruno Shiobana",
         "Quotes": [{
             "Quote": "Ciao.",
             "Part": "Vento Aureo",
@@ -882,6 +909,7 @@
     {
         "ID": 68,
         "Name": "Diavolo",
+        "Variants": "Boss, Solid Naso, Solido Naso",
         "Quotes": [{
             "Quote": "Leave this place, Bruno Bucciarati... if you come out from behind that pillar... you will die.",
             "Part": "Vento Aureo",
@@ -950,6 +978,7 @@
     {
         "ID": 74,
         "Name": "Illuso",
+        "Variants": "Illuso of the Mirror",
         "Quotes": [{
             "Quote": "To be safe... and invincible inside the mirror... That is my ability.",
             "Part": "Vento Aureo",
@@ -974,6 +1003,7 @@
     {
         "ID": 76,
         "Name": "Jolyne Cujoh",
+        "Variants": "JoJo, Jolyne Kujo",
         "Quotes": [{
             "Quote": "Well... It's, uh... um... It starts with an M... Mas... um... mastur... uh... bation... ",
             "Part": "Stone Ocean",
@@ -992,6 +1022,7 @@
     {
         "ID": 77,
         "Name": "Ermes Costello",
+        "Variants": "Hermes Costello",
         "Quotes": [{
             "Quote": "Revenge is for settling a score with your own fate!",
             "Part": "Stone Ocean",
@@ -1006,6 +1037,7 @@
     {
         "ID": 78,
         "Name": "Emporio Alnino",
+        "Variants": "Emporio Alniño",
         "Quotes": [{
             "Quote": "Tomorrow at noon, someone's going to come to see you. But you can't. You can't go see him... You can't, no matter what!",
             "Part": "Stone Ocean",
@@ -1016,6 +1048,7 @@
     {
         "ID": 79,
         "Name": "Weather Report",
+        "Variants": "Weather Forecast, Domenico Pucci, Wes Bluemarine",
         "Quotes": [{
             "Quote": "I'm going to be the one to kill Pucci. And after I kill him, kill me. Understand?",
             "Part": "Stone Ocean",
@@ -1026,6 +1059,7 @@
     {
         "ID": 80,
         "Name": "Narciso Anasui",
+        "Variants": "Narciso Anastasia",
         "Quotes": [{
             "Quote": "In order to protect Jolyne... I gotta kill that priest!",
             "Part": "Stone Ocean",
@@ -1036,6 +1070,7 @@
     {
         "ID": 81,
         "Name": "Enrico Pucci",
+        "Variants": "Father Pucci",
         "Quotes": [{
             "Quote": "The difference between man and animal... it's the desire to \"go to Heaven\".",
             "Part": "Stone Ocean",
@@ -1054,6 +1089,7 @@
     {
         "ID": 82,
         "Name": "DIO (SO)",
+        "Variants" : "Dio Brando",
         "Quotes": [{
             "Quote": "There might be a way to go to Heaven. ",
             "Part": "Stone Ocean",
@@ -1088,6 +1124,7 @@
     {
         "ID": 85,
         "Name": "Gwess",
+        "Variants": "Guess",
         "Quotes": [{
             "Quote": "Serves you right, you fucking bitch! This is what you get for trampling on my heaaaart!",
             "Part": "Stone Ocean",
@@ -1098,6 +1135,7 @@
     {
         "ID": 86,
         "Name": "Miraschon",
+        "Variants": "Mirashon",
         "Quotes": [{
             "Quote": "How about a bet? $100 for 100 catches.",
             "Part": "Stone Ocean",
@@ -1108,6 +1146,7 @@
     {
         "ID": 87,
         "Name": "Johnny Joestar",
+        "Variants": "JoJo, Jonathan Joestar",
         "Quotes": [{
             "Quote": "This ability has far surpassed a simple nail… it’s a Tusk. From now on I will call this Tusk.",
             "Part": "Steel Ball Run",
@@ -1142,6 +1181,7 @@
     {
         "ID": 88,
         "Name": "Gyro Zeppeli",
+        "Variants": "Julius Caesar Zeppeli",
         "Quotes": [{
             "Quote": "Do you know the leading causes of death? The first is a sickness carried by mosquitos. The second is getting kicked by a horse and dying. Do you plan on changing the ranking?",
             "Part": "Steel Ball Run",
@@ -1168,6 +1208,7 @@
     {
         "ID": 89,
         "Name": "Lucy Steel",
+        "Variants": "Lucy Pendleton",
         "Quotes": [{
             "Quote": "He's going to be killed... My husband was just being used... When they don't need him anymore... they're going to dispose of him.",
             "Part": "Steel Ball Run",
@@ -1208,6 +1249,7 @@
     {
         "ID": 91,
         "Name": "Diego Brando",
+        "Variants": "Dio",
         "Quotes": [{
             "Quote": "Useless, useless! I thought I told you this, Johnny Joestar! That I’d tear you apart if you came within 2 meters of me… no other organism on Earth can match up to a dinosaur’s speed!",
             "Part": "Steel Ball Run",
@@ -1286,6 +1328,7 @@
     {
         "ID": 98,
         "Name": "Parallel World Diego",
+        "Variants": "Alternate World Diego Brando, Diego From Another Univese, The World Diego, Dio",
         "Quotes": [{
             "Quote": "THE WORLD! Time is mine and mine alone!",
             "Part": "Steel Ball Run",
@@ -1306,6 +1349,7 @@
     {
         "ID": 100,
         "Name": "Jesus",
+        "Variants": "The Holy Saint, Jesus Christ, The Saint's Corpse",
         "Quotes": [{
             "Quote": "I will go East.",
             "Part": "Steel Ball Run",
@@ -1350,6 +1394,7 @@
     {
         "ID": 104,
         "Name": "Josuke Higashikata (JJL)",
+        "Variants": "JoJo, Gappy",
         "Quotes": [{
             "Quote": "Yasuho Hirose... Is that what you said...? Your name... Then who am I? What am I doing here?",
             "Part": "JoJolion",
@@ -1444,6 +1489,7 @@
     {
         "ID": 107,
         "Name": "Norisuke Higashikata IV",
+        "Variants": "Josuke Higashikata",
         "Quotes": [{
             "Quote": "My ability is a long-distance Stand. But I'm not saying anything more... trust me... this is private too.",
             "Part": "JoJolion",
@@ -1462,6 +1508,7 @@
     {
         "ID": 108,
         "Name": "Toru",
+        "Variants": "Tooru, Satoru Akefu",
         "Quotes": [{
             "Quote": "When everything's over, all that will remain...are dreams and memories. That's all.",
             "Part": "JoJolion",
@@ -1592,6 +1639,7 @@
     {
         "ID": 113,
         "Name": "Kei Nijimura",
+        "Variants": "Kyo Nijimura",
         "Quotes": [{
             "Quote": "I can say this decisively... I'm sure of it. Your true identity is my older brother, Yoshikage Kira... there's no doubt about it. But that's only part of you. There's another person.",
             "Part": "JoJolion",
@@ -1634,6 +1682,7 @@
     {
         "ID": 116,
         "Name": "Elder A. Phex",
+        "Variants": "A. Phex Brothers",
         "Quotes": [{
             "Quote": "It seems we won't be able to stay in this town long, either... but there's nothing to be ashamed of. It's not your fault. Because that is what I love about you most of all.",
             "Part": "JoJolion",
@@ -1676,6 +1725,7 @@
     {
         "ID": 119,
         "Name": "Dolomite",
+        "Variants": "Masaji Dorokoma",
         "Quotes": [{
             "Quote": "The Blue Lagoon. Man, I'd love to really go there... that's my dream... To be shipwrecked, just the two of us clinging to wreckage and drifting together. We'd dive to catch fish, break open fruit from palm trees and build a tree house on an island... hpmh, though... I guess that's not all that realistic...",
             "Part": "JoJolion",
@@ -1690,6 +1740,7 @@
     {
         "ID": 120,
         "Name": "Urban Guerilla",
+        "Variants": "Ryo Shimosato",
         "Quotes": [{
             "Quote": "Living organisms exist above rocks and soil. But once you meet your death, you exist below them. You people... when you got careless, you ended up being forever below the rocks... the Rock Humans, that is! Come get me!",
             "Part": "JoJolion",
@@ -1794,6 +1845,7 @@
     {
         "ID": 128,
         "Name": "Josefumi Kujo",
+        "Variants": "Josephmi Kujo",
         "Quotes": [{
             "Quote": "I can't take it anymore... I'm always being abandoned... Nobody ever even pays any attention to me... I've worked so, so hard... but, it's always gone the same way. I just end up abandoned.",
             "Part": "JoJolion",
@@ -1808,6 +1860,7 @@
     {
         "ID": 129,
         "Name": "Lucy Steel (JJL)",
+        "Variants": "Lucy Pendleton",
         "Quotes": [{
             "Quote": "I know it... That star-shaped birthmark on your shoulder... And I know... that we're connected by a mission. And while I can't see it with my eyes... I know that you have that power of the heart, a Stand!!",
             "Part": "JoJolion",
@@ -1818,6 +1871,7 @@
     {
         "ID": 130,
         "Name": "Joseph Joestar (JJL)",
+        "Variants": "Fumi",
         "Quotes": [{
             "Quote": "They call me Fumi-kun.",
             "Part": "JoJolion",
@@ -1832,6 +1886,7 @@
     {
         "ID": 131,
         "Name": "Jodio Joestar",
+        "Variants": "JoJo",
         "Quotes": [{
             "Quote": "It's probably because you were jamming out to Dua Lipa too hard",
             "Part": "The JOJOLands",
