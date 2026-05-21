@@ -27,12 +27,12 @@ interface Character {
 
 export default function Quotepage() {
 
-    useEffect(() => {
-    const randomCharacter = quoteJson[Math.floor(Math.random() * quoteJson.length)]
-    setCorrectCharacter(randomCharacter);
-    setShowedQuote(verifyQuote(randomCharacter.Quote));
-    console.log(attempts)
-    }, []);
+    // useEffect(() => {
+    // const randomCharacter = quoteJson[Math.floor(Math.random() * quoteJson.length)]
+    // setCorrectCharacter(randomCharacter);
+    // setShowedQuote(verifyQuote(randomCharacter.Quote));
+    // console.log(attempts)
+    // }, []);
     
     const [correctCharacter, setCorrectCharacter] = useState<Character | null>(null);
 
@@ -78,7 +78,7 @@ export default function Quotepage() {
                 </div>
 
                 <div>
-                    <SearchInput reciveId={reciveCharacterIdFromComponent} characterJson={quoteJson} winGame={winGame} />
+                    {/* <SearchInput reciveId={reciveCharacterIdFromComponent} characterJson={quoteJson} winGame={winGame} /> */}
                 </div>
 
                 <div className="mt-4">

@@ -4,21 +4,7 @@
         "Name": "Jonathan Joestar",
         "Part": "Phantom Blood",
         "Technique": "Sunlight Yellow Overdrive",
-        "Image_ID": "POSE_1_1"
-    },
-    {
-        "ID": "1",
-        "Name": "Jonathan Joestar",
-        "Part": "Phantom Blood",
-        "Technique": "Sunlight Yellow Overdrive",
-        "Image_ID": "POSE_1_2"
-    },
-    {
-        "ID": "1",
-        "Name": "Jonathan Joestar",
-        "Part": "Phantom Blood",
-        "Technique": "Sunlight Yellow Overdrive",
-        "Image_ID": "POSE_1_3"
+        "Image_ID": "POSE_1_1, POSE_1_2, POSE_1_3"
     },
     {
         "ID": "2",
