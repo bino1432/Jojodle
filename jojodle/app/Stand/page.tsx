@@ -34,7 +34,7 @@ interface Character {
 export default function Standpage() {
 
     useEffect(() => {
-    const randomCharacter = standJson[109]
+    const randomCharacter = standJson[Math.floor(Math.random() * standJson.length)]
     setCorrectCharacter(randomCharacter);
     setShowedStand(verifyStand(randomCharacter.Stands));
     console.log(attempts)
