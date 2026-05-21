@@ -1290,7 +1290,8 @@
             "Quote": "THE WORLD! Time is mine and mine alone!",
             "Part": "Steel Ball Run",
             "Target": "Johnny Joestar"
-        }]
+        }],
+        "Image": "/images/icon/character/SBR/SBR_15.png"
     },
     {
         "ID": 99,
@@ -1300,7 +1301,7 @@
             "Part": "Steel Ball Run",
             "Target": "None"
         }],
-        "Image": "/images/icon/character/SBR/SBR_15.png"
+        "Image": "/images/icon/character/SBR/SBR_16.png"
     },
     {
         "ID": 100,

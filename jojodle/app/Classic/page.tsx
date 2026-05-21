@@ -88,7 +88,7 @@ export default function Classicpage() {
             </>) : null
             }
           </div>
-          <p className={currentHint == "" ? "hidden" : `${archivoBold.className} text-white p-2 w-full bg-[var(--Primary)] rounded-lg
+          <p className={currentHint == "" ? "hidden" : `${archivoBold.className} text-white p-2 w-90 bg-[var(--Primary)] rounded-lg
           ${side == "left" ? "rounded-tl-none" : "rounded-tr-none"}`} id="fadeIn">{currentHint}</p>
         </div>
         <div>
