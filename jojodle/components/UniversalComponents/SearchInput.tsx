@@ -68,7 +68,7 @@ export default function SearchInput({reciveId, winGame, characterJson}: inputPro
                 <input
                     disabled={winGame}
                     type="text"
-                    placeholder={"Type in the character name..."}
+                    placeholder={winGame ? "Type in the character name..." : "Type in the character name..."}
                     value={query}
                     onChange={(e) => {
                         setQuery(e.target.value);
