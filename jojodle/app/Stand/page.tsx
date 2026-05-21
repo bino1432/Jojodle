@@ -17,22 +17,26 @@ const archivoBold = Archivo({
   weight: "700",
 },);
 
+interface StandInfo {
+    Stand: string,
+    "Stand Type": string,
+    Debut: string,
+    Technique: string
+}
+
 interface Character {
     ID: number;
     Name: string;
-    Stand: string;
-    "Stand Type": string;
-    Debut: string;
-    Technique: string;
+    Stands: StandInfo[],
     Image: string;
 }
 
 export default function Standpage() {
 
     useEffect(() => {
-    const randomCharacter = standJson[Math.floor(Math.random() * standJson.length)]
+    const randomCharacter = standJson[109]
     setCorrectCharacter(randomCharacter);
-    setShowedStand(verifyStand(randomCharacter.Stand));
+    setShowedStand(verifyStand(randomCharacter.Stands));
     console.log(attempts)
     }, []);
     
@@ -45,6 +49,7 @@ export default function Standpage() {
     const [triedCharacter, setTriedCharacter] = useState<number[]>([]);
     const [attempts, setAttempts] = useState(0);
     const [winGame, setWinGame] = useState(false);
+    const [correctStandIndex, setCorrectStandIndex] = useState(0)
     const [showedStand, setShowedStand] = useState("");
 
     const reciveCharacterIdFromComponent = (id: number) => {
@@ -60,12 +65,16 @@ export default function Standpage() {
         setWinGame(win);
     }
 
-    const verifyStand = (stand: string) => {
-        const standList = stand.split(",")
-        if(standList.length === 1) {
-            return stand;
+    const verifyStand = (stand: StandInfo[]) => {
+        if(stand.length === 1){
+            console.log(stand[0])
+            return stand[0].Stand
         } else {
-            return standList[Math.floor(Math.random() * standList.length)];
+            const index = Math.floor(Math.random() * stand.length)
+            const randStand = stand[index]
+            setCorrectStandIndex(index)
+            console.log(stand[index])
+            return randStand.Stand
         }
     }
 
@@ -84,16 +93,27 @@ export default function Standpage() {
                 </div>
 
                 <div className="mt-4">
-                    {correctCharacter && (
-                        <StandCard
-                            imageUrl={correctCharacter.Image}
-                            name={correctCharacter.Name}
-                            character={correctCharacter}
-                            winGame={reciveIfWinGame}
-                        />
+                    {triedCharacter.length !== 0 && (
+                        <div className="flex flex-col-reverse relative">
+                            {triedCharacter.map((id) => {
+                                const characterData = standJson.find(char => char.ID === id);
+                                if(!characterData) return null
+
+                                return (
+                                    correctCharacter && (
+                                        <StandCard
+                                            key={characterData.ID}
+                                            imageUrl={characterData.Image}
+                                            name={characterData.Name}
+                                            character={correctCharacter}
+                                            winGame={reciveIfWinGame}
+                                        />
+                                    )
+                                )
+                            })}
+                        </div>
                     )}
                 </div>
-
                 <Footer />
             </div>
         </main>
