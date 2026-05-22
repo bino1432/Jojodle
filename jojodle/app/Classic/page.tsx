@@ -11,6 +11,7 @@ import CharacterCard from "@/components/ClassicComponents/CharacterCard";
 import ClassicInfoComponent from "@/components/ClassicComponents/ClassicInfoComponent";
 import Footer from "@/components/UniversalComponents/Footer";
 import SearchInput from "@/components/UniversalComponents/SearchInput";
+import HelpClassic from "@/components/ClassicComponents/HelpClassic";
 
 const archivoBold = Archivo({
   subsets: ['latin'],
@@ -136,6 +137,7 @@ export default function Classicpage() {
         )}
         <ClassicInfoComponent />
         <Footer />
+        <HelpClassic />
       </div>
     </main >
   );

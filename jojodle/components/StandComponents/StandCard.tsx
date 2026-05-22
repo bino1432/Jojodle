@@ -7,35 +7,50 @@ const archivoBold = Archivo({
   weight: "700",
 },);
 
-interface character {
+interface StandInfo {
+    Stand: string;
+    [key: string]: any;
+}
+
+interface Character {
     ID: number;
     Name: string;
     Image: string;
+    Stands?: StandInfo[];
 }
 
 interface characterCardProps {
     imageUrl: string,
     name: string,
-    character: character,
+    character: Character,
+    attemptedCharacter?: Character,
+    showedStand?: string,
     winGame: (win: boolean) => void
 }
 
-export default function StandCard({ imageUrl, name, character, winGame }: characterCardProps) {
+export default function StandCard({ imageUrl, name, character, attemptedCharacter, showedStand, winGame }: characterCardProps) {
 
     useEffect(() => {
-        verifyIfWinGame(name, character.Name)
-    })
+        verifyIfWinGame();
+    }, [attemptedCharacter, character, showedStand])
 
-    const verifyIfWinGame = (attemptCharacterName: string, correctCharacterName: string) => {
-        if(attemptCharacterName == correctCharacterName){
+    const verifyIfWinGame = () => {
+        const attemptMatchesName = name === character.Name;
+        const attemptMatchesStand = attemptedCharacter?.Stands?.some(s => s.Stand === showedStand);
+
+        if (attemptMatchesName || attemptMatchesStand) {
             winGame(true);
+            return true;
         }
+
         return false;
     }
 
+    const isCorrect = name === character.Name || attemptedCharacter?.Stands?.some(s => s.Stand === showedStand);
+
     return (
         <div className={`
-        ${name == character.Name ? 'bg-[var(--Correct)]' : 'bg-[var(--Wrong)]'} 
+        ${isCorrect ? 'bg-[var(--Correct)]' : 'bg-[var(--Wrong)]'} 
         flex 
         flex-col 
         items-center 

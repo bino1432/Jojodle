@@ -1,6 +1,5 @@
 import { Archivo } from "next/font/google";
 import Image from "next/image";
-import standIcon from "@/public/images/icon/Stand-Icon.svg"
 import CharacterImage from "@/public/images/icon/character/VA/VA_3.png"
 
 const archivoBold = Archivo({

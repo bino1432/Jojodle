@@ -1,1871 +1,1570 @@
 [
     {
-        "ID": "1",
+        "ID": 1,
         "Name": "Jonathan Joestar",
         "Part": "Phantom Blood",
         "Technique": "Sunlight Yellow Overdrive",
-        "Image_ID": "POSE_1_1, POSE_1_2, POSE_1_3"
+        "Image_ID": "POSE_1_1.png, POSE_1_2.png, POSE_1_3.jpg",
+        "Variants": "JoJo",
+        "Image": "/images/icon/character/PB/PB_1.png"
     },
     {
-        "ID": "2",
+        "ID": 2,
         "Name": "Will Anthonio Zeppeli",
         "Part": "Phantom Blood",
         "Technique": "Hamon Breathing",
-        "Image_ID": "POSE_2_1"
+        "Image_ID": "POSE_2_1.png",
+        "Variants": "Will A. Zeppeli",
+        "Image": "/images/icon/character/PB/PB_2.png"
     },
     {
-        "ID": "3",
+        "ID": 3,
         "Name": "Robert E. O. Speedwagon",
         "Part": "Phantom Blood",
         "Technique": "Saw-Hat",
-        "Image_ID": "POSE_3_1"
+        "Image_ID": "POSE_3_1.png, POSE_3_2.png",
+        "Image": "/images/icon/character/PB/PB_3.png"
     },
     {
-        "ID": "4",
+        "ID": 4,
         "Name": "Dio Brando (PB)",
         "Part": "Phantom Blood",
         "Technique": "Vampirism",
-        "Image_ID": "POSE_4_1"
+        "Image_ID": "POSE_4_1.png, POSE_4_2.png, POSE_4_3.jpg, POSE_4_4.jpg",
+        "Image": "/images/icon/character/PB/PB_4.png"
     },
     {
-        "ID": "5",
+        "ID": 5,
         "Name": "George Joestar I",
         "Part": "Phantom Blood",
         "Technique": "None",
-        "Image_ID": "POSE_5_1"
+        "Image_ID": "POSE_5_1.png, POSE_5_2.png",
+        "Image": "/images/icon/character/PB/PB_5.png"
     },
     {
-        "ID": "6",
+        "ID": 6,
         "Name": "Erina Pendleton",
         "Part": "Phantom Blood",
         "Technique": "None",
-        "Image_ID": "POSE_6_1"
+        "Image_ID": "POSE_6_1.png, POSE_6_2.png, POSE_6_3.png",
+        "Variants": "Erina Joestar",
+        "Image": "/images/icon/character/PB/PB_6.png"
     },
     {
-        "ID": "7",
+        "ID": 7,
         "Name": "Poco",
         "Part": "Phantom Blood",
         "Technique": "None",
-        "Image_ID": "POSE_7_1"
+        "Image_ID": "POSE_7_1.jpg",
+        "Image": "/images/icon/character/PB/PB_7.png"
     },
     {
-        "ID": "8",
+        "ID": 8,
         "Name": "Tonpetty",
         "Part": "Phantom Blood",
         "Technique": "Hamon Precognition",
-        "Image_ID": "POSE_8_1"
+        "Image_ID": "POSE_8_1.png, POSE_8_2.png",
+        "Variants": "Tompeti, Tonpeti, Tompetty",
+        "Image": "/images/icon/character/PB/PB_8.png"
     },
     {
-        "ID": "9",
+        "ID": 9,
         "Name": "Dire",
         "Part": "Phantom Blood",
         "Technique": "Thunder Cross Split Attack",
-        "Image_ID": "POSE_9_1"
+        "Image_ID": "POSE_9_1.png, POSE_9_2.png",
+        "Image": "/images/icon/character/PB/PB_9.png"
     },
     {
-        "ID": "10",
+        "ID": 10,
         "Name": "Straizo",
         "Part": "Phantom Blood",
         "Technique": "Hamon Breathing",
-        "Image_ID": "POSE_10_1"
+        "Image_ID": "POSE_10_1.png",
+        "Image": "/images/icon/character/PB/PB_10.png"
     },
     {
-        "ID": "11",
-        "Name": "Wang Chan",
-        "Part": "Phantom Blood",
-        "Technique": "Poisonous Needles",
-        "Image_ID": "POSE_11_1"
-    },
-    {
-        "ID": "12",
+        "ID": 11,
         "Name": "Bruford",
         "Part": "Phantom Blood",
         "Technique": "Hair Manipulation",
-        "Image_ID": "POSE_12_1"
+        "Image_ID": "POSE_12_1.png",
+        "Image": "/images/icon/character/PB/PB_12.png"
     },
     {
-        "ID": "13",
+        "ID": 12,
         "Name": "Tarkus",
         "Part": "Phantom Blood",
         "Technique": "Hell Heaven Snake Kill",
-        "Image_ID": "POSE_13_1"
+        "Image_ID": "POSE_13_1.png",
+        "Image": "/images/icon/character/PB/PB_13.png"
     },
     {
-        "ID": "14",
-        "Name": "Dario Brando",
-        "Part": "Phantom Blood",
-        "Technique": "None",
-        "Image_ID": "POSE_14_1"
-    },
-    {
-        "ID": "15",
+        "ID": 13,
         "Name": "Danny",
         "Part": "Phantom Blood",
         "Technique": "None",
-        "Image_ID": "POSE_15_1"
+        "Image_ID": "POSE_15_1.png",
+        "Image": "/images/icon/character/PB/PB_15.png"
     },
     {
-        "ID": "16",
+        "ID": 14,
         "Name": "Poco's Sister",
         "Part": "Phantom Blood",
         "Technique": "None",
-        "Image_ID": "POSE_16_1"
+        "Image_ID": "POSE_16_1.jpg",
+        "Variants": "Peggy",
+        "Image": "/images/icon/character/PB/PB_16.png"
     },
     {
-        "ID": "17",
-        "Name": "Adams",
-        "Part": "Phantom Blood",
-        "Technique": "Tongue Manipulation",
-        "Image_ID": "POSE_17_1"
-    },
-    {
-        "ID": "18",
-        "Name": "Jack the Ripper",
-        "Part": "Phantom Blood",
-        "Technique": "Scalpels",
-        "Image_ID": "POSE_18_1"
-    },
-    {
-        "ID": "19",
-        "Name": "Doobie",
-        "Part": "Phantom Blood",
-        "Technique": "Snake Manipulation",
-        "Image_ID": "POSE_19_1"
-    },
-    {
-        "ID": "20",
+        "ID": 16,
         "Name": "Joseph Joestar",
         "Part": "Battle Tendency",
         "Technique": "Clacker Balls",
-        "Image_ID": "POSE_20_1"
+        "Image_ID": "POSE_20_1.png, POSE_20_2.jpg, POSE_20_3.png, POSE_20_4.png",
+        "Variants": "JoJo",
+        "Image": "/images/icon/character/BT/BT_1.png"
     },
     {
-        "ID": "21",
+        "ID": 17,
         "Name": "Caesar Anthonio Zeppeli",
         "Part": "Battle Tendency",
         "Technique": "Bubble Lenses",
-        "Image_ID": "POSE_21_1"
+        "Image_ID": "POSE_21_1.png, POSE_21_2.png",
+        "Variants": "Caesar A. Zeppeli",
+        "Image": "/images/icon/character/BT/BT_2.png"
     },
     {
-        "ID": "22",
+        "ID": 18,
         "Name": "Lisa Lisa",
         "Part": "Battle Tendency",
         "Technique": "Hamon Scarf",
-        "Image_ID": "POSE_22_1"
+        "Image_ID": "POSE_22_1.png, POSE_22_3.png",
+        "Variants": "Elizabeth Joestar",
+        "Image": "/images/icon/character/BT/BT_3.png"
     },
     {
-        "ID": "23",
+        "ID": 19,
         "Name": "Rudol von Stroheim",
         "Part": "Battle Tendency",
         "Technique": "Abdominal Machine Gun",
-        "Image_ID": "POSE_23_1"
+        "Image_ID": "POSE_23_1.png, POSE_23_.jpg",
+        "Image": "/images/icon/character/BT/BT_4.png"
     },
     {
-        "ID": "24",
+        "ID": 20,
         "Name": "Kars",
         "Part": "Battle Tendency",
         "Technique": "Light Mode",
-        "Image_ID": "POSE_24_1"
+        "Image_ID": "POSE_24_1.png",
+        "Variants": "Cars",
+        "Image": "/images/icon/character/BT/BT_5.png"
     },
     {
-        "ID": "25",
+        "ID": 21,
         "Name": "Esidisi",
         "Part": "Battle Tendency",
         "Technique": "Flame Mode",
-        "Image_ID": "POSE_25_1"
+        "Image_ID": "POSE_25_1.png",
+        "Image": "/images/icon/character/BT/BT_6.png"
     },
     {
-        "ID": "26",
+        "ID": 22,
         "Name": "Wamuu",
         "Part": "Battle Tendency",
         "Technique": "Wind Mode",
-        "Image_ID": "POSE_26_1"
+        "Image_ID": "POSE_26_1.png",
+        "Image": "/images/icon/character/BT/BT_7.png"
     },
     {
-        "ID": "27",
+        "ID": 23,
         "Name": "Robert E. O. Speedwagon (BT)",
         "Part": "Phantom Blood",
         "Technique": "Saw-Hat",
-        "Image_ID": "POSE_27_1"
+        "Image_ID": "POSE_27_1.png, POSE_28_1.png",
+        "Image": "/images/icon/character/BT/BT_8.png"
     },
     {
-        "ID": "28",
+        "ID": 24,
         "Name": "Messina",
         "Part": "Battle Tendency",
         "Technique": "Hamon Breathing",
-        "Image_ID": "POSE_28_1"
+        "Image_ID": "POSE_28_1.png",
+        "Image": "/images/icon/character/BT/BT_9.png"
     },
     {
-        "ID": "29",
-        "Name": "Loggins",
-        "Part": "Battle Tendency",
-        "Technique": "Hamon Breathing",
-        "Image_ID": "POSE_29_1"
-    },
-    {
-        "ID": "30",
+        "ID": 25,
         "Name": "Straizo (BT)",
         "Part": "Battle Tendency",
         "Technique": "Vampirism",
-        "Image_ID": "POSE_30_1"
+        "Image_ID": "POSE_30_1.png, POSE_30_2.jpg",
+        "Image": "/images/icon/character/BT/BT_11.png"
     },
     {
-        "ID": "31",
-        "Name": "Santana",
-        "Part": "Battle Tendency",
-        "Technique": "Absorption",
-        "Image_ID": "POSE_31_1"
-    },
-    {
-        "ID": "32",
+        "ID": 26,
         "Name": "Smokey Brown",
         "Part": "Battle Tendency",
         "Technique": "None",
-        "Image_ID": "POSE_32_1"
+        "Image_ID": "POSE_32_1.png",
+        "Image": "/images/icon/character/BT/BT_13.png"
     },
     {
-        "ID": "33",
+        "ID": 27,
         "Name": "Erina Joestar",
         "Part": "Phantom Blood",
         "Technique": "None",
-        "Image_ID": "POSE_33_1"
+        "Image_ID": "POSE_33_1.png",
+        "Image": "/images/icon/character/BT/BT_14.png"
     },
     {
-        "ID": "34",
-        "Name": "Mark",
-        "Part": "Battle Tendency",
-        "Technique": "None",
-        "Image_ID": "POSE_34_1"
-    },
-    {
-        "ID": "35",
+        "ID": 28,
         "Name": "Suzi Q",
         "Part": "Battle Tendency",
         "Technique": "None",
-        "Image_ID": "POSE_35_1"
+        "Image_ID": "POSE_35_1.png, POSE_35_2.png",
+        "Variants": "Suzi Q Joestar, Suzie Q",
+        "Image": "/images/icon/character/BT/BT_16.png"
     },
     {
-        "ID": "36",
-        "Name": "Donovan",
-        "Part": "Battle Tendency",
-        "Technique": "Whip-Knife",
-        "Image_ID": "POSE_36_1"
-    },
-    {
-        "ID": "37",
-        "Name": "Wired Beck",
-        "Part": "Battle Tendency",
-        "Technique": "Body Spikes",
-        "Image_ID": "POSE_37_1"
-    },
-    {
-        "ID": "38",
+        "ID": 29,
         "Name": "George Joestar II",
         "Part": "Battle Tendency",
         "Technique": "None",
-        "Image_ID": "POSE_38_1"
+        "Image_ID": "POSE_38_1.png",
+        "Variants": "Jorge Joestar",
+        "Image": "/images/icon/character/BT/BT_19.png"
     },
     {
-        "ID": "39",
-        "Name": "Mario Zeppeli",
-        "Part": "Battle Tendency",
-        "Technique": "Hamon Breathing",
-        "Image_ID": "POSE_39_1"
-    },
-    {
-        "ID": "40",
+        "ID": 30,
         "Name": "Jotaro Kujo",
         "Part": "Stardust Crusaders",
         "Technique": "Star Finger",
-        "Image_ID": "POSE_40_1"
+        "Image_ID": "POSE_40_1.jpg, POSE_40_2.png, POSE_40_3.png, POSE_40_4.png, POSE_40_5.png",
+        "Variants": "JoJo",
+        "Image": "/images/icon/character/SC/SC_1.png"
     },
     {
-        "ID": "41",
+        "ID": 31,
         "Name": "Joseph Joestar (SC)",
         "Part": "Battle Tendency",
         "Technique": "Divination",
-        "Image_ID": "POSE_41_1"
+        "Image_ID": "POSE_41_1.png, POSE_41_2.jpg POSE_41_3.jpg, POSE_41_4.png",
+        "Variants": "JoJo",
+        "Image": "/images/icon/character/SC/SC_2.png"
     },
     {
-        "ID": "42",
+        "ID": 32,
         "Name": "Muhammad Avdol",
         "Part": "Stardust Crusaders",
         "Technique": "Cross Fire Hurricane",
-        "Image_ID": "POSE_42_1"
+        "Image_ID": "POSE_42_1.png, POSE_42_2.png, POSE_42_3.png",
+        "Variants": "Mohammed Avdol, Mohammed Abdul",
+        "Image": "/images/icon/character/SC/SC_3.png"
     },
     {
-        "ID": "43",
+        "ID": 33,
         "Name": "Noriaki Kakyoin",
         "Part": "Stardust Crusaders",
         "Technique": "Emerald Splash",
-        "Image_ID": "POSE_43_1"
+        "Image_ID": "POSE_43_1.png, POSE_43_2.png, POSE_43_3.png",
+        "Image": "/images/icon/character/SC/SC_4.png"
     },
     {
-        "ID": "44",
+        "ID": 34,
         "Name": "Jean Pierre Polnareff",
         "Part": "Stardust Crusaders",
         "Technique": "Hora Rush",
-        "Image_ID": "POSE_44_1"
+        "Image_ID": "POSE_44_1.jpg, POSE_44_2.png, POSE_44_3.png",
+        "Image": "/images/icon/character/SC/SC_5.png"
     },
     {
-        "ID": "45",
+        "ID": 35,
         "Name": "Iggy",
         "Part": "Stardust Crusaders",
         "Technique": "Sand Manipulation",
-        "Image_ID": "POSE_45_1"
+        "Image_ID": "POSE_45_1.png",
+        "Image": "/images/icon/character/SC/SC_6.png"
     },
     {
-        "ID": "46",
+        "ID": 36,
         "Name": "DIO (SC)",
         "Part": "Phantom Blood",
         "Technique": "Time Stop",
-        "Image_ID": "POSE_46_1"
+        "Image_ID": "POSE_46_1.png, POSE_46_2.png, POSE_46_3.png, POSE_46_4.png, POSE_46_5.png, POSE_46_7.png, POSE_46_8.jpg, POSE_46_9.png, ",
+        "Variants": "Dio Brando",
+        "Image": "/images/icon/character/SC/SC_7.png"
     },
     {
-        "ID": "47",
+        "ID": 37,
         "Name": "Enya the Hag",
         "Part": "Stardust Crusaders",
         "Technique": "Fog String Puppetry",
-        "Image_ID": "POSE_47_1"
+        "Image_ID": "POSE_47_1.png, POSE_47_2.png",
+        "Variants": "Enya Geil",
+        "Image": "/images/icon/character/SC/SC_8.png"
     },
     {
-        "ID": "48",
+        "ID": 38,
         "Name": "Holy Kujo",
         "Part": "Stardust Crusaders",
         "Technique": "None",
-        "Image_ID": "POSE_48_1"
+        "Image_ID": "POSE_48_1.png, POSE_4_2.png",
+        "Variants": "Holy Joestar, Holly Kujo, Seiko",
+        "Image": "/images/icon/character/SC/SC_9.png"
     },
     {
-        "ID": "49",
+        "ID": 39,
         "Name": "J. Geil",
         "Part": "Stardust Crusaders",
         "Technique": "Light Manifestation",
-        "Image_ID": "POSE_49_1"
+        "Image_ID": "POSE_49_1.png",
+        "Image": "/images/icon/character/SC/SC_10.png"
     },
     {
-        "ID": "50",
+        "ID": 40,
         "Name": "Hol Horse",
         "Part": "Stardust Crusaders",
         "Technique": "Homing Bullets",
-        "Image_ID": "POSE_50_1"
+        "Image_ID": "POSE_50_1.png, POSE_50_2.png, POSE_50_3.png",
+        "Image": "/images/icon/character/SC/SC_11.png"
     },
     {
-        "ID": "51",
+        "ID": 41,
         "Name": "N'Doul",
         "Part": "Stardust Crusaders",
         "Technique": "Water Amorphism",
-        "Image_ID": "POSE_51_1"
+        "Image_ID": "POSE_51_1.png, POSE_51_2.png",
+        "Image": "/images/icon/character/SC/SC_12.png"
     },
     {
-        "ID": "52",
+        "ID": 42,
         "Name": "Pet Shop",
         "Part": "Stardust Crusaders",
         "Technique": "Cryokinesis",
-        "Image_ID": "POSE_52_1"
+        "Image_ID": "POSE_52_1.png, POSE_52_2.png",
+        "Image": "/images/icon/character/SC/SC_13.png"
     },
     {
-        "ID": "53",
+        "ID": 43,
         "Name": "Vanilla Ice",
         "Part": "Stardust Crusaders",
         "Technique": "Void",
-        "Image_ID": "POSE_53_1"
+        "Image_ID": "POSE_53_1.png",
+        "Image": "/images/icon/character/SC/SC_14.png"
     },
     {
-        "ID": "54",
+        "ID": 44,
         "Name": "Suzi Q Joestar",
         "Part": "Battle Tendency",
         "Technique": "None",
-        "Image_ID": "POSE_54_1"
+        "Image_ID": "POSE_54_1.png, POSE_54_2.png",
+        "Variants": "Suzie Q.png",
+        "Image": "/images/icon/character/SC/SC_15.png"
     },
     {
-        "ID": "55",
+        "ID": 45,
         "Name": "Roses",
         "Part": "Stardust Crusaders",
         "Technique": "None",
-        "Image_ID": "POSE_55_1"
+        "Image_ID": "POSE_55_1.png",
+        "Image": "/images/icon/character/SC/SC_16.png"
     },
     {
-        "ID": "56",
+        "ID": 46,
         "Name": "Merlai Anne",
         "Part": "Stardust Crusaders",
         "Technique": "None",
-        "Image_ID": "POSE_56_1"
+        "Image_ID": "POSE_56_1.png, POSE_56_2.png",
+        "Variants": "Runaway Girl",
+        "Image": "/images/icon/character/SC/SC_17.png"
     },
     {
-        "ID": "57",
+        "ID": 47,
         "Name": "Gray Fly",
         "Part": "Stardust Crusaders",
         "Technique": "Tower Needle",
-        "Image_ID": "POSE_57_1"
+        "Image_ID": "POSE_57_1.png",
+        "Image": "/images/icon/character/SC/SC_18.png"
     },
     {
-        "ID": "58",
+        "ID": 48,
         "Name": "Imposter Captain Tennille",
         "Part": "Stardust Crusaders",
         "Technique": "Barnacles",
-        "Image_ID": "POSE_58_1"
+        "Image_ID": "POSE_58_1.png, POSE_58_2.png",
+        "Image": "/images/icon/character/SC/SC_19.png"
     },
     {
-        "ID": "59",
+        "ID": 49,
         "Name": "Forever",
         "Part": "Stardust Crusaders",
         "Technique": "Ship Manipulation",
-        "Image_ID": "POSE_59_1"
+        "Image_ID": "POSE_59_1.png, POSE_59_2.png, POSE_59_3.png",
+        "Image": "/images/icon/character/SC/SC_20.png"
     },
     {
-        "ID": "60",
+        "ID": 50,
         "Name": "Devo the Cursed",
         "Part": "Stardust Crusaders",
         "Technique": "Doll Possession",
-        "Image_ID": "POSE_60_1"
+        "Image_ID": "POSE_60_1.png",
+        "Image": "/images/icon/character/SC/SC_21.png"
     },
     {
-        "ID": "61",
+        "ID": 51,
         "Name": "Rubber Soul",
         "Part": "Stardust Crusaders",
         "Technique": "Organic Mass Assimilation",
-        "Image_ID": "POSE_61_1"
+        "Image_ID": "POSE_61_1.png",
+        "Image": "/images/icon/character/SC/SC_22.png"
     },
     {
-        "ID": "62",
+        "ID": 52,
         "Name": "Nena",
         "Part": "Stardust Crusaders",
         "Technique": "Parasitism",
-        "Image_ID": "POSE_62_1"
+        "Image_ID": "POSE_62_1.png",
+        "Image": "/images/icon/character/SC/SC_23.png"
     },
     {
-        "ID": "63",
+        "ID": 53,
         "Name": "ZZ",
         "Part": "Stardust Crusaders",
         "Technique": "Car Manipulation",
-        "Image_ID": "POSE_63_1"
+        "Image_ID": "POSE_63_1.png",
+        "Variants": "Zii Zii",
+        "Image": "/images/icon/character/SC/SC_24.png"
     },
     {
-        "ID": "64",
+        "ID": 54,
         "Name": "Steely Dan",
         "Part": "Stardust Crusaders",
         "Technique": "Pain Synchronization",
-        "Image_ID": "POSE_64_1"
+        "Image_ID": "POSE_64_1.png, POSE_64_2.jpg",
+        "Image": "/images/icon/character/SC/SC_25.png"
     },
     {
-        "ID": "65",
-        "Name": "Arabia Fats",
-        "Part": "Stardust Crusaders",
-        "Technique": "Sun Replica",
-        "Image_ID": "POSE_65_1"
-    },
-    {
-        "ID": "66",
+        "ID": 55,
         "Name": "Mannish Boy",
         "Part": "Stardust Crusaders",
         "Technique": "Dream World Control",
-        "Image_ID": "POSE_66_1"
+        "Image_ID": "POSE_66_1.png",
+        "Image": "/images/icon/character/SC/SC_27.png"
     },
     {
-        "ID": "67",
-        "Name": "Cameo",
-        "Part": "Stardust Crusaders",
-        "Technique": "Wish Granting",
-        "Image_ID": "POSE_67_1"
-    },
-    {
-        "ID": "68",
-        "Name": "Midler",
-        "Part": "Stardust Crusaders",
-        "Technique": "Mineral Possesion and Reformation",
-        "Image_ID": "POSE_68_1"
-    },
-    {
-        "ID": "69",
+        "ID": 56,
         "Name": "Oingo",
         "Part": "Stardust Crusaders",
         "Technique": "Transformation",
-        "Image_ID": "POSE_69_1"
+        "Image_ID": "POSE_69_1.png",
+        "Variants": "Zenyatta, Ongo",
+        "Image": "/images/icon/character/SC/SC_30.png"
     },
     {
-        "ID": "70",
+        "ID": 57,
         "Name": "Boingo",
         "Part": "Stardust Crusaders",
         "Technique": "Profecies",
-        "Image_ID": "POSE_70_1"
+        "Image_ID": "POSE_70_1.png",
+        "Variants": "Mondatta, Bongo",
+        "Image": "/images/icon/character/SC/SC_31.png"
     },
     {
-        "ID": "71",
+        "ID": 58,
         "Name": "Anubis",
         "Part": "Stardust Crusaders",
         "Technique": "Mind Control",
-        "Image_ID": "POSE_71_1"
+        "Image_ID": "POSE_71_1.png",
+        "Image": "/images/icon/character/SC/SC_32.png"
     },
     {
-        "ID": "72",
+        "ID": 59,
         "Name": "Chaka",
         "Part": "Stardust Crusaders",
         "Technique": "Mind Control",
-        "Image_ID": "POSE_72_1"
+        "Image_ID": "POSE_72_1.png",
+        "Image": "/images/icon/character/SC/SC_33.png"
     },
     {
-        "ID": "73",
+        "ID": 60,
         "Name": "Khan",
         "Part": "Stardust Crusaders",
         "Technique": "Mind Control",
-        "Image_ID": "POSE_73_1"
+        "Image_ID": "POSE_73_1.png",
+        "Image": "/images/icon/character/SC/SC_34.png"
     },
     {
-        "ID": "74",
+        "ID": 61,
         "Name": "Mariah",
         "Part": "Stardust Crusaders",
         "Technique": "Magnectic Attraction",
-        "Image_ID": "POSE_74_1"
+        "Image_ID": "POSE_74_1.png, POSE_74_2.png",
+        "Image": "/images/icon/character/SC/SC_35.png"
     },
     {
-        "ID": "75",
+        "ID": 62,
         "Name": "Alessi",
         "Part": "Stardust Crusaders",
         "Technique": "Age Reversal",
-        "Image_ID": "POSE_75_1"
+        "Image_ID": "POSE_75_1.png, POSE_75_2.png",
+        "Image": "/images/icon/character/SC/SC_36.png"
     },
     {
-        "ID": "76",
+        "ID": 63,
         "Name": "Daniel J. D'Arby",
         "Part": "Stardust Crusaders",
         "Technique": "Soul Steal",
-        "Image_ID": "POSE_76_1"
+        "Image_ID": "POSE_76_1.png",
+        "Variants": "D'arby the Elder, Darby the Elder",
+        "Image": "/images/icon/character/SC/SC_37.png"
     },
     {
-        "ID": "77",
+        "ID": 64,
         "Name": "Telence T. D'Arby",
         "Part": "Stardust Crusaders",
         "Technique": "Binary Soul Reading",
-        "Image_ID": "POSE_77_1"
+        "Image_ID": "POSE_77_1.png",
+        "Variants": "D'arby the Younger, Darby the Younger",
+        "Image": "/images/icon/character/SC/SC_38.png"
     },
     {
-        "ID": "78",
-        "Name": "Kenny G.",
-        "Part": "Stardust Crusaders",
-        "Technique": "Illusions",
-        "Image_ID": "POSE_78_1"
-    },
-    {
-        "ID": "79",
+        "ID": 65,
         "Name": "Josuke Higashikata",
         "Part": "Diamond is Unbreakable",
         "Technique": "Restoration",
-        "Image_ID": "POSE_79_1"
+        "Image_ID": "POSE_79_1.png",
+        "Variants": "JoJo",
+        "Image": "/images/icon/character/DiU/DiU_1.png"
     },
     {
-        "ID": "80",
+        "ID": 66,
         "Name": "Koichi Hirose",
         "Part": "Diamond is Unbreakable",
         "Technique": "Weight Increase",
-        "Image_ID": "POSE_80_1"
+        "Image_ID": "POSE_80_1.png, POSE_80_2.png, POSE_80_3.png",
+        "Image": "/images/icon/character/DiU/DiU_2.png"
     },
     {
-        "ID": "81",
+        "ID": 67,
         "Name": "Jotaro Kujo (DiU)",
         "Part": "Stardust Crusaders",
         "Technique": "Time Stop",
-        "Image_ID": "POSE_81_1"
+        "Image_ID": "POSE_81_1.png, POSE_81_2.png, POSE_81_3.png, POSE_81_4.png, POSE_81_5.png",
+        "Variants": "JoJo",
+        "Image": "/images/icon/character/DiU/DiU_3.png"
     },
     {
-        "ID": "82",
+        "ID": 68,
         "Name": "Okuyasu Nijimura",
         "Part": "Diamond is Unbreakable",
         "Technique": "Spatial Erasure",
-        "Image_ID": "POSE_82_1"
+        "Image_ID": "POSE_82_1.png, POSE_82_2.png",
+        "Image": "/images/icon/character/DiU/DiU_4.png"
     },
     {
-        "ID": "83",
+        "ID": 69,
         "Name": "Rohan Kishibe",
         "Part": "Diamond is Unbreakable",
         "Technique": "Book Transmutation",
-        "Image_ID": "POSE_83_1"
+        "Image_ID": "POSE_83_1.png, POSE_83_2.png",
+        "Image": "/images/icon/character/DiU/DiU_5.png"
     },
     {
-        "ID": "84",
+        "ID": 70,
         "Name": "Reimi Sugimoto",
         "Part": "Diamond is Unbreakable",
         "Technique": "None",
-        "Image_ID": "POSE_84_1"
+        "Image_ID": "POSE_84_1.png, POSE_84_2.png, POSE_84_3.png",
+        "Variants": "Ghost Girl",
+        "Image": "/images/icon/character/DiU/DiU_6.png"
     },
     {
-        "ID": "85",
+        "ID": 71,
         "Name": "Hayato Kawajiri",
         "Part": "Diamond is Unbreakable",
         "Technique": "None",
-        "Image_ID": "POSE_85_1"
+        "Image_ID": "POSE_85_1.png, POSE_85_2.png, POSE_85_3.png",
+        "Image": "/images/icon/character/DiU/DiU_7.png"
     },
     {
-        "ID": "86",
+        "ID": 72,
         "Name": "Yoshikage Kira",
         "Part": "Diamond is Unbreakable",
         "Technique": "Bomb Transmutation",
-        "Image_ID": "POSE_86_1"
+        "Image_ID": "POSE_86_1.png, POSE_86_2.png, POSE_86_3.png, POSE_86_4.png",
+        "Variants": "Kosaku Kawajiri",
+        "Image": "/images/icon/character/DiU/DiU_8.gif"
     },
     {
-        "ID": "87",
+        "ID": 73,
         "Name": "Akira Otoishi",
         "Part": "Diamond is Unbreakable",
         "Technique": "Electrical Transfer",
-        "Image_ID": "POSE_87_1"
+        "Image_ID": "POSE_87_1.png",
+        "Image": "/images/icon/character/DiU/DiU_9.png"
     },
     {
-        "ID": "88",
+        "ID": 74,
         "Name": "Yoshihiro Kira",
         "Part": "Diamond is Unbreakable",
         "Technique": "Supernatural Photography",
-        "Image_ID": "POSE_88_1"
+        "Image_ID": "POSE_88_1.png, POSE_88_2.png",
+        "Image": "/images/icon/character/DiU/DiU_10.png"
     },
     {
-        "ID": "89",
+        "ID": 75,
         "Name": "Joseph Joestar (DiU)",
         "Part": "Battle Tendency",
         "Technique": "Divination",
-        "Image_ID": "POSE_89_1"
+        "Image_ID": "POSE_89_1.png",
+        "Variants": "JoJo",
+        "Image": "/images/icon/character/DiU/DiU_11.png"
     },
     {
-        "ID": "90",
+        "ID": 76,
         "Name": "Shigekiyo Yangu",
         "Part": "Diamond is Unbreakable",
         "Technique": "Harvesting",
-        "Image_ID": "POSE_90_1"
+        "Image_ID": "POSE_90_1.png",
+        "Variants": "Shigechi",
+        "Image": "/images/icon/character/DiU/DiU_12.png"
     },
     {
-        "ID": "91",
+        "ID": 77,
         "Name": "Mikitaka Hazekura",
         "Part": "Diamond is Unbreakable",
         "Technique": "Shapeshifting",
-        "Image_ID": "POSE_91_1"
+        "Image_ID": "POSE_91_1.png",
+        "Variants": "Nu Mikitakazo Nshi",
+        "Image": "/images/icon/character/DiU/DiU_13.png"
     },
     {
-        "ID": "92",
+        "ID": 78,
         "Name": "Yuya Fungami",
         "Part": "Diamond is Unbreakable",
         "Technique": "Body Dismantlement",
-        "Image_ID": "POSE_92_1"
+        "Image_ID": "POSE_92_1.png",
+        "Variants": "Yuei",
+        "Image": "/images/icon/character/DiU/DiU_14.png"
     },
     {
-        "ID": "93",
+        "ID": 79,
         "Name": "Anjuro Katagiri",
         "Part": "Diamond is Unbreakable",
         "Technique": "Liquid Form",
-        "Image_ID": "POSE_93_1"
+        "Image_ID": "POSE_93_1.png, POSE_93_2.png",
+        "Variants": "Angelo",
+        "Image": "/images/icon/character/DiU/DiU_15.png"
     },
     {
-        "ID": "94",
-        "Name": "Keicho Nijimura",
-        "Part": "Diamond is Unbreakable",
-        "Technique": "Military Firepower",
-        "Image_ID": "POSE_94_1"
-    },
-    {
-        "ID": "95",
-        "Name": "Tamami Kobayashi",
-        "Part": "Diamond is Unbreakable",
-        "Technique": "Guilt Entrapment",
-        "Image_ID": "POSE_95_1"
-    },
-    {
-        "ID": "96",
+        "ID": 80,
         "Name": "Yukako Yamagishi",
         "Part": "Diamond is Unbreakable",
         "Technique": "Hair Manipulation",
-        "Image_ID": "POSE_96_1"
+        "Image_ID": "POSE_96_1.png, POSE_96_2.png, POSE_96_3.png",
+        "Image": "/images/icon/character/DiU/DiU_18.png"
     },
     {
-        "ID": "97",
+        "ID": 81,
         "Name": "Tomoko Higashikata",
         "Part": "Diamond is Unbreakable",
         "Technique": "None",
-        "Image_ID": "POSE_97_1"
+        "Image_ID": "POSE_97_1.png, POSE_97_2.png",
+        "Image": "/images/icon/character/DiU/DiU_19.png"
     },
     {
-        "ID": "98",
+        "ID": 82,
         "Name": "Tama",
         "Part": "Diamond is Unbreakable",
         "Technique": "Aerokinesis",
-        "Image_ID": "POSE_98_1"
+        "Image_ID": "POSE_98_1.png",
+        "Image": "/images/icon/character/DiU/DiU_20.png"
     },
     {
-        "ID": "99",
+        "ID": 83,
         "Name": "Shinobu Kawajiri",
         "Part": "Diamond is Unbreakable",
         "Technique": "None",
-        "Image_ID": "POSE_99_1"
+        "Image_ID": "POSE_99_1.png",
+        "Image": "/images/icon/character/DiU/DiU_21.png"
     },
     {
-        "ID": "100",
+        "ID": 84,
         "Name": "Toshikazu Hazamada",
         "Part": "Diamond is Unbreakable",
         "Technique": "Mimicry",
-        "Image_ID": "POSE_100_1"
+        "Image_ID": "POSE_100_1.png",
+        "Image": "/images/icon/character/DiU/DiU_22.png"
     },
     {
-        "ID": "101",
+        "ID": 85,
         "Name": "Tonio Trussardi",
         "Part": "Diamond is Unbreakable",
         "Technique": "Curative Cooking",
-        "Image_ID": "POSE_101_1"
+        "Image_ID": "POSE_101_1.png",
+        "Image": "/images/icon/character/DiU/DiU_23.png"
     },
     {
-        "ID": "102",
+        "ID": 86,
         "Name": "Shizuka Joestar",
         "Part": "Diamond is Unbreakable",
         "Technique": "Invisibility",
-        "Image_ID": "POSE_102_1"
+        "Image_ID": "POSE_102_1.png",
+        "Image": "/images/icon/character/DiU/DiU_24.png"
     },
     {
-        "ID": "103",
-        "Name": "Arnold",
-        "Part": "Diamond is Unbreakable",
-        "Technique": "None",
-        "Image_ID": "POSE_103_1"
-    },
-    {
-        "ID": "104",
+        "ID": 87,
         "Name": "Aya Tsuji",
         "Part": "Diamond is Unbreakable",
         "Technique": "Body Part Replacement",
-        "Image_ID": "POSE_104_1"
+        "Image_ID": "POSE_104_1.png, POSE_104_2.png",
+        "Image": "/images/icon/character/DiU/DiU_26.png"
     },
     {
-        "ID": "105",
-        "Name": "Bug-Eaten",
-        "Part": "Diamond is Unbreakable",
-        "Technique": "Melting Darts",
-        "Image_ID": "POSE_105_1"
-    },
-    {
-        "ID": "106",
-        "Name": "Not Bug-Eaten",
-        "Part": "Diamond is Unbreakable",
-        "Technique": "Melting Darts",
-        "Image_ID": "POSE_106_1"
-    },
-    {
-        "ID": "107",
+        "ID": 88,
         "Name": "Ken Oyanagi",
         "Part": "Diamond is Unbreakable",
         "Technique": "Energy Theft",
-        "Image_ID": "POSE_107_1"
+        "Image_ID": "POSE_107_1.png",
+        "Image": "/images/icon/character/DiU/DiU_29.png"
     },
     {
-        "ID": "108",
+        "ID": 89,
         "Name": "Toyohiro Kanedaichi",
         "Part": "Diamond is Unbreakable",
         "Technique": "Occupant Restraint",
-        "Image_ID": "POSE_108_1"
+        "Image_ID": "POSE_108_1.png",
+        "Image": "/images/icon/character/DiU/DiU_30.png"
     },
     {
-        "ID": "109",
+        "ID": 90,
         "Name": "Terunosuke Miyamoto",
         "Part": "Diamond is Unbreakable",
         "Technique": "Paper Seal",
-        "Image_ID": "POSE_109_1"
+        "Image_ID": "POSE_109_1.jpg",
+        "Image": "/images/icon/character/DiU/DiU_31.png"
     },
     {
-        "ID": "110",
-        "Name": "Masazo Kinoto",
-        "Part": "Diamond is Unbreakable",
-        "Technique": "Back Attachment",
-        "Image_ID": "POSE_110_1"
-    },
-    {
-        "ID": "111",
+        "ID": 91,
         "Name": "Ryohei Higashikata",
         "Part": "Diamond is Unbreakable",
         "Technique": "None",
-        "Image_ID": "POSE_111_1"
+        "Image_ID": "POSE_111_1.png",
+        "Image": "/images/icon/character/DiU/DiU_33.png"
     },
     {
-        "ID": "112",
+        "ID": 92,
         "Name": "Mansaku Nijimura",
         "Part": "Diamond is Unbreakable",
         "Technique": "Unknown",
-        "Image_ID": "POSE_112_1"
+        "Image_ID": "POSE_112_1.png, POSE_112_2.png",
+        "Variants": "Father Nijimura",
+        "Image": "/images/icon/character/DiU/DiU_34.png"
     },
     {
-        "ID": "113",
+        "ID": 93,
         "Name": "Giorno Giovanna",
         "Part": "Vento Aureo",
         "Technique": "Life Giver",
-        "Image_ID": "POSE_113_1"
+        "Image_ID": "POSE_113_1.png, POSE_113_2.png, POSE_113_3.png, POSE_113_4.png, POSE_113_5.jpg",
+        "Variants": "JoJo, GioGio, Haruno Shiobana",
+        "Image": "/images/icon/character/VA/VA_1.png"
     },
     {
-        "ID": "114",
+        "ID": 94,
         "Name": "Bruno Bucciarati",
         "Part": "Vento Aureo",
         "Technique": "Zippers",
-        "Image_ID": "POSE_114_1"
+        "Image_ID": "POSE_114_1.png, POSE_114_2.png, POSE_114_2.png, POSE_114_3.png, POSE_114_4.png",
+        "Image": "/images/icon/character/VA/VA_2.png"
     },
     {
-        "ID": "115",
+        "ID": 95,
         "Name": "Leone Abbacchio",
         "Part": "Vento Aureo",
         "Technique": "Chronological Rebroadcasting",
-        "Image_ID": "POSE_115_1"
+        "Image_ID": "POSE_115_1.png, POSE_115_2.png",
+        "Image": "/images/icon/character/VA/VA_3.png"
     },
     {
-        "ID": "116",
+        "ID": 96,
         "Name": "Guido Mista",
         "Part": "Vento Aureo",
         "Technique": "Bullet Control",
-        "Image_ID": "POSE_116_1"
+        "Image_ID": "POSE_116_1.png, POSE_116_2.png, POSE_116_3.png",
+        "Image": "/images/icon/character/VA/VA_4.png"
     },
     {
-        "ID": "117",
+        "ID": 97,
         "Name": "Narancia Ghirga",
         "Part": "Vento Aureo",
         "Technique": "Machine Guns and Bomb",
-        "Image_ID": "POSE_117_1"
+        "Image_ID": "POSE_117_1.png, POSE_117_2.png",
+        "Image": "/images/icon/character/VA/VA_5.png"
     },
     {
-        "ID": "118",
+        "ID": 98,
         "Name": "Pannacotta Fugo",
         "Part": "Vento Aureo",
         "Technique": "Killer Virus Infection",
-        "Image_ID": "POSE_118_1"
+        "Image_ID": "POSE_118_1.png, POSE_118_2.png",
+        "Image": "/images/icon/character/VA/VA_6.png"
     },
     {
-        "ID": "119",
+        "ID": 99,
         "Name": "Trish Una",
         "Part": "Vento Aureo",
         "Technique": "Softening",
-        "Image_ID": "POSE_119_1"
+        "Image_ID": "POSE_119_1.png, POSE_119_2.png",
+        "Image": "/images/icon/character/VA/VA_7.png"
     },
     {
-        "ID": "120",
+        "ID": 100,
         "Name": "Diavolo",
         "Part": "Vento Aureo",
         "Technique": "Time Erasure",
-        "Image_ID": "POSE_120_1"
+        "Image_ID": "POSE_120_1.png, POSE_120_2.png",
+        "Variants": "Boss, Solid Naso, Solido Naso",
+        "Image": "/images/icon/character/VA/VA_8.png"
     },
     {
-        "ID": "121",
+        "ID": 101,
         "Name": "Vinegar Doppio",
         "Part": "Vento Aureo",
         "Technique": "Precognition",
-        "Image_ID": "POSE_121_1"
+        "Image_ID": "POSE_121_1.jpg, POSE_121_2.jpg",
+        "Image": "/images/icon/character/VA/VA_9.png"
     },
     {
-        "ID": "122",
+        "ID": 102,
         "Name": "Risotto Nero",
         "Part": "Vento Aureo",
         "Technique": "Iron Manipulation",
-        "Image_ID": "POSE_122_1"
+        "Image_ID": "POSE_122_1.jpg, POSE_122_2.png",
+        "Image": "/images/icon/character/VA/VA_10.png"
     },
     {
-        "ID": "123",
+        "ID": 103,
         "Name": "Coco Jumbo",
         "Part": "Vento Aureo",
         "Technique": "Hidden Room",
-        "Image_ID": "POSE_123_1"
+        "Image_ID": "POSE_123_1.png",
+        "Image": "/images/icon/character/VA/VA_11.png"
     },
     {
-        "ID": "124",
+        "ID": 104,
         "Name": "Jean Pierre Polnareff (VA)",
         "Part": "Stardust Crusaders",
         "Technique": "Body and Soul Manipulation",
-        "Image_ID": "POSE_124_1"
+        "Image_ID": "POSE_124_1.png",
+        "Image": "/images/icon/character/VA/VA_12.png"
     },
     {
-        "ID": "125",
+        "ID": 105,
         "Name": "Polpo",
         "Part": "Vento Aureo",
         "Technique": "Shadow Power",
-        "Image_ID": "POSE_125_1"
+        "Image_ID": "POSE_125_1.png",
+        "Image": "/images/icon/character/VA/VA_13.png"
     },
     {
-        "ID": "126",
+        "ID": 106,
         "Name": "Melone",
         "Part": "Vento Aureo",
         "Technique": "Homunculus Generation",
-        "Image_ID": "POSE_126_1"
+        "Image_ID": "POSE_126_1.png, POSE_126_2.png",
+        "Image": "/images/icon/character/VA/VA_14.png"
     },
     {
-        "ID": "127",
+        "ID": 107,
         "Name": "Pericolo",
         "Part": "Vento Aureo",
         "Technique": "None",
-        "Image_ID": "POSE_127_1"
+        "Image_ID": "POSE_127_1.png",
+        "Image": "/images/icon/character/VA/VA_15.png"
     },
     {
-        "ID": "128",
+        "ID": 108,
         "Name": "Leaky-Eye Luca",
         "Part": "Vento Aureo",
         "Technique": "None",
-        "Image_ID": "POSE_128_1"
+        "Image_ID": "POSE_128_1.png",
+        "Image": "/images/icon/character/VA/VA_16.png"
     },
     {
-        "ID": "129",
+        "ID": 109,
         "Name": "Mario Zucchero",
         "Part": "Vento Aureo",
         "Technique": "Pinch Deflating",
-        "Image_ID": "POSE_129_1"
+        "Image_ID": "POSE_129_1.png",
+        "Image": "/images/icon/character/VA/VA_17.png"
     },
     {
-        "ID": "130",
+        "ID": 110,
         "Name": "Sale",
         "Part": "Vento Aureo",
         "Technique": "Kinetic Energy Manipulation",
-        "Image_ID": "POSE_130_1"
+        "Image_ID": "POSE_130_1.png",
+        "Image": "/images/icon/character/VA/VA_18.png"
     },
     {
-        "ID": "131",
+        "ID": 111,
         "Name": "Formaggio",
         "Part": "Vento Aureo",
         "Technique": "Shrinking",
-        "Image_ID": "POSE_131_1"
+        "Image_ID": "POSE_131_1.png",
+        "Image": "/images/icon/character/VA/VA_19.png"
     },
     {
-        "ID": "132",
+        "ID": 112,
         "Name": "Illuso",
         "Part": "Vento Aureo",
         "Technique": "Mirror World Entry",
-        "Image_ID": "POSE_132_1"
+        "Image_ID": "POSE_132_1",
+        "Variants": "Illuso of the Mirror",
+        "Image": "/images/icon/character/VA/VA_20.png"
     },
     {
-        "ID": "133",
+        "ID": 113,
         "Name": "Prosciutto",
         "Part": "Vento Aureo",
         "Technique": "Accelerated Aging",
-        "Image_ID": "POSE_133_1"
+        "Image_ID": "POSE_133_1.png",
+        "Image": "/images/icon/character/VA/VA_21.png"
     },
     {
-        "ID": "134",
+        "ID": 114,
         "Name": "Pesci",
         "Part": "Vento Aureo",
         "Technique": "Hook and Line",
-        "Image_ID": "POSE_134_1"
+        "Image_ID": "POSE_134_1.png",
+        "Image": "/images/icon/character/VA/VA_22.png"
     },
     {
-        "ID": "135",
+        "ID": 115,
         "Name": "Ghiaccio",
         "Part": "Vento Aureo",
         "Technique": "Cryokinesis",
-        "Image_ID": "POSE_135_1"
+        "Image_ID": "POSE_135_1.png",
+        "Image": "/images/icon/character/VA/VA_23.png"
     },
     {
-        "ID": "136",
+        "ID": 116,
         "Name": "Squalo",
         "Part": "Vento Aureo",
         "Technique": "Liquid Warp",
-        "Image_ID": "POSE_136_1"
+        "Image_ID": "POSE_136_1.jpg",
+        "Image": "/images/icon/character/VA/VA_24.png"
     },
     {
-        "ID": "137",
+        "ID": 117,
         "Name": "Tizzano",
         "Part": "Vento Aureo",
         "Technique": "Forced Lying",
-        "Image_ID": "POSE_137_1"
+        "Image_ID": "POSE_137_1.jpg",
+        "Image": "/images/icon/character/VA/VA_25.png"
     },
     {
-        "ID": "138",
+        "ID": 118,
         "Name": "Carne",
         "Part": "Vento Aureo",
         "Technique": "Partial Symbiosis",
-        "Image_ID": "POSE_138_1"
+        "Image_ID": "POSE_138_1.png",
+        "Image": "/images/icon/character/VA/VA_26.png"
     },
     {
-        "ID": "139",
+        "ID": 119,
         "Name": "Cioccolata",
         "Part": "Vento Aureo",
         "Technique": "Mold Infestation",
-        "Image_ID": "POSE_139_1"
+        "Image_ID": "POSE_139_1.jpg",
+        "Image": "/images/icon/character/VA/VA_27.png"
     },
     {
-        "ID": "140",
+        "ID": 120,
         "Name": "Secco",
         "Part": "Vento Aureo",
         "Technique": "Ground Liquefaction",
-        "Image_ID": "POSE_140_1"
+        "Image_ID": "POSE_140_1.jpg",
+        "Image": "/images/icon/character/VA/VA_28.png"
     },
     {
-        "ID": "141",
-        "Name": "Scolippi",
-        "Part": "Vento Aureo",
-        "Technique": "Homing to Dying Target",
-        "Image_ID": "POSE_141_1"
-    },
-    {
-        "ID": "142",
-        "Name": "Giorno's Mother",
-        "Part": "Vento Aureo",
-        "Technique": "None",
-        "Image_ID": "POSE_142_1"
-    },
-    {
-        "ID": "143",
-        "Name": "Donatella Una",
-        "Part": "Vento Aureo",
-        "Technique": "None",
-        "Image_ID": "POSE_143_1"
-    },
-    {
-        "ID": "144",
+        "ID": 121,
         "Name": "Jolyne Cujoh",
         "Part": "Stone Ocean",
         "Technique": "String Decomposition",
-        "Image_ID": "POSE_144_1"
+        "Image_ID": "POSE_144_1.png, POSE_144_2.png, POSE_144_3.png",
+        "Variants": "JoJo, Jolyne Kujo",
+        "Image": "/images/icon/character/SO/SO_1.png"
     },
     {
-        "ID": "145",
+        "ID": 122,
         "Name": "Ermes Costello",
         "Part": "Stone Ocean",
         "Technique": "Sticker Duplication",
-        "Image_ID": "POSE_145_1"
+        "Image_ID": "POSE_145_1.png, POSE_145_2.png",
+        "Variants": "Hermes Costello",
+        "Image": "/images/icon/character/SO/SO_2.png"
     },
     {
-        "ID": "146",
+        "ID": 123,
         "Name": "Emporio Alnino",
         "Part": "Stone Ocean",
         "Technique": "Ghost Objects",
-        "Image_ID": "POSE_146_1"
+        "Image_ID": "POSE_146_1.png, POSE_146_2.png",
+        "Variants": "Emporio Alniño",
+        "Image": "/images/icon/character/SO/SO_3.png"
     },
     {
-        "ID": "147",
+        "ID": 124,
         "Name": "Jotaro Kujo (SO)",
         "Part": "Stardust Crusaders",
         "Technique": "Time Stop",
-        "Image_ID": "POSE_147_1"
+        "Image_ID": "POSE_147_1.png, POSE_147_2.png, POSE_147_3.png",
+        "Variants": "JoJo",
+        "Image": "/images/icon/character/SO/SO_4.png"
     },
     {
-        "ID": "148",
+        "ID": 125,
         "Name": "Foo Fighters",
         "Part": "Stone Ocean",
         "Technique": "Body Invasion",
-        "Image_ID": "POSE_148_1"
+        "Image_ID": "POSE_148_1.png, POSE_148_2.png",
+        "Variants": "F.F., F. F., FF",
+        "Image": "/images/icon/character/SO/SO_5.png"
     },
     {
-        "ID": "149",
+        "ID": 126,
         "Name": "Weather Report",
         "Part": "Stone Ocean",
         "Technique": "Atmospheric Manipulation",
-        "Image_ID": "POSE_149_1"
+        "Image_ID": "POSE_149_1.png, POSE_149_2.png",
+        "Variants": "Weather Forecast, Domenico Pucci, Wes Bluemarine",
+        "Image": "/images/icon/character/SO/SO_6.png"
     },
     {
-        "ID": "150",
+        "ID": 127,
         "Name": "Narciso Anasui",
         "Part": "Stone Ocean",
         "Technique": "Restructuring",
-        "Image_ID": "POSE_150_1"
+        "Image_ID": "POSE_150_1.png, POSE_150_2.png",
+        "Variants": "Narciso Anastasia",
+        "Image": "/images/icon/character/SO/SO_7.png"
     },
     {
-        "ID": "151",
+        "ID": 128,
         "Name": "Enrico Pucci",
         "Part": "Stone Ocean",
         "Technique": "DISC Extraction",
-        "Image_ID": "POSE_151_1"
+        "Image_ID": "POSE_151_1.png, POSE_151_2.png, POSE_151_3.jpg",
+        "Variants": "Father Pucci",
+        "Image": "/images/icon/character/SO/SO_8.png"
     },
     {
-        "ID": "152",
+        "ID": 129,
         "Name": "Johngalli A.",
         "Part": "Stone Ocean",
         "Technique": "Bullet Redirection",
-        "Image_ID": "POSE_152_1"
+        "Image_ID": "POSE_152_1.png",
+        "Image": "/images/icon/character/SO/SO_9.png"
     },
     {
-        "ID": "153",
+        "ID": 130,
         "Name": "Lang Rangler",
         "Part": "Stone Ocean",
         "Technique": "Gravity Removal",
-        "Image_ID": "POSE_153_1"
+        "Image_ID": "POSE_153_1.png",
+        "Image": "/images/icon/character/SO/SO_10.png"
     },
     {
-        "ID": "154",
+        "ID": 131,
         "Name": "Sports Maxx",
         "Part": "Stone Ocean",
         "Technique": "Invisible Reanimation",
-        "Image_ID": "POSE_154_1"
+        "Image_ID": "POSE_154_1.png",
+        "Image": "/images/icon/character/SO/SO_11.png"
     },
     {
-        "ID": "155",
+        "ID": 132,
         "Name": "The Green Baby",
         "Part": "Stone Ocean",
         "Technique": "Shrinking",
-        "Image_ID": "POSE_155_1"
+        "Image_ID": "POSE_155_1.png",
+        "Image": "/images/icon/character/SO/SO_12.png"
     },
     {
-        "ID": "156",
+        "ID": 133,
         "Name": "Gwess",
         "Part": "Stone Ocean",
         "Technique": "Size Reduction",
-        "Image_ID": "POSE_156_1"
+        "Image_ID": "POSE_156_1.png",
+        "Variants": "Guess",
+        "Image": "/images/icon/character/SO/SO_13.png"
     },
     {
-        "ID": "157",
+        "ID": 134,
         "Name": "Miraschon",
         "Part": "Stone Ocean",
         "Technique": "Debt Collection",
-        "Image_ID": "POSE_157_1"
+        "Image_ID": "POSE_157_1.png",
+        "Variants": "Mirashon",
+        "Image": "/images/icon/character/SO/SO_14.png"
     },
     {
-        "ID": "158",
-        "Name": "Viviano Westwood",
-        "Part": "Stone Ocean",
-        "Technique": "Meteorite Attraction",
-        "Image_ID": "POSE_158_1"
-    },
-    {
-        "ID": "159",
+        "ID": 135,
         "Name": "Kenzou",
         "Part": "Stone Ocean",
         "Technique": "Feng Shui Divination",
-        "Image_ID": "POSE_159_1"
+        "Image_ID": "POSE_159_1.png",
+        "Image": "/images/icon/character/SO/SO_16.png"
     },
     {
-        "ID": "160",
+        "ID": 136,
         "Name": "Thunder McQueen",
         "Part": "Stone Ocean",
         "Technique": "Damage Sharing",
-        "Image_ID": "POSE_160_1"
+        "Image_ID": "POSE_160_1.png",
+        "Variants": "Xander McQueen",
+        "Image": "/images/icon/character/SO/SO_17.png"
     },
     {
-        "ID": "161",
+        "ID": 137,
         "Name": "Rikiel",
         "Part": "Stone Ocean",
         "Technique": "Rod Manipulation",
-        "Image_ID": "POSE_161_1"
+        "Image_ID": "POSE_161_1.png",
+        "Image": "/images/icon/character/SO/SO_18.png"
     },
     {
-        "ID": "162",
+        "ID": 138,
         "Name": "Ungalo",
         "Part": "Stone Ocean",
         "Technique": "Fiction Realization",
-        "Image_ID": "POSE_162_1"
+        "Image_ID": "POSE_162_1.png, POSE_162_2.png",
+        "Image": "/images/icon/character/SO/SO_19.png"
     },
     {
-        "ID": "163",
+        "ID": 139,
         "Name": "Donatello Versus",
         "Part": "Stone Ocean",
         "Technique": "Demonic Excavation",
-        "Image_ID": "POSE_163_1"
+        "Image_ID": "POSE_163_1.png",
+        "Image": "/images/icon/character/SO/SO_20.png"
     },
     {
-        "ID": "164",
+        "ID": 140,
         "Name": "Miuccia Miuller",
         "Part": "Stone Ocean",
         "Technique": "Memory Lock",
-        "Image_ID": "POSE_164_1"
+        "Image_ID": "POSE_164_1.png",
+        "Variants": "Miu Miu.png",
+        "Image": "/images/icon/character/SO/SO_21.png"
     },
     {
-        "ID": "165",
-        "Name": "Savage Garden",
-        "Part": "Stone Ocean",
-        "Technique": "Item Retrieval",
-        "Image_ID": "POSE_165_1"
-    },
-    {
-        "ID": "166",
-        "Name": "Guccio",
-        "Part": "Stone Ocean",
-        "Technique": "Agressiveness Stimulation",
-        "Image_ID": "POSE_166_1"
-    },
-    {
-        "ID": "167",
-        "Name": "Corrupt Lawyer",
-        "Part": "Stone Ocean",
-        "Technique": "None",
-        "Image_ID": "POSE_167_1"
-    },
-    {
-        "ID": "168",
+        "ID": 141,
         "Name": "Loccobarocco",
         "Part": "Stone Ocean",
         "Technique": "None",
-        "Image_ID": "POSE_168_1"
+        "Image_ID": "POSE_168_1.png",
+        "Image": "/images/icon/character/SO/SO_25.png"
     },
     {
-        "ID": "169",
-        "Name": "Romeo Jisso",
-        "Part": "Stone Ocean",
-        "Technique": "None",
-        "Image_ID": "POSE_169_1"
-    },
-    {
-        "ID": "170",
-        "Name": "Jolyne's Mother",
-        "Part": "Stone Ocean",
-        "Technique": "None",
-        "Image_ID": "POSE_170_1"
-    },
-    {
-        "ID": "171",
-        "Name": "Gloria Costello",
-        "Part": "Stone Ocean",
-        "Technique": "None",
-        "Image_ID": "POSE_171_1"
-    },
-    {
-        "ID": "172",
-        "Name": "Perla Pucci",
-        "Part": "Stone Ocean",
-        "Technique": "None",
-        "Image_ID": "POSE_172_1"
-    },
-    {
-        "ID": "173",
+        "ID": 142,
         "Name": "Johnny Joestar",
         "Part": "Steel Ball Run",
         "Technique": "Spinning Nails",
-        "Image_ID": "POSE_173_1"
+        "Image_ID": "POSE_173_1.png",
+        "Variants": "JoJo, Jonathan Joestar",
+        "Image": "/images/icon/character/SBR/SBR_1.png"
     },
     {
-        "ID": "174",
+        "ID": 143,
         "Name": "Gyro Zeppeli",
         "Part": "Steel Ball Run",
         "Technique": "Spin",
-        "Image_ID": "POSE_174_1"
+        "Image_ID": "POSE_174_1.png, POSE_174_2.png, POSE_174_3.png",
+        "Variants": "Julius Caesar Zeppeli",
+        "Image": "/images/icon/character/SBR/SBR_2.png"
     },
     {
-        "ID": "175",
+        "ID": 144,
         "Name": "Lucy Steel",
         "Part": "Steel Ball Run",
         "Technique": "Divine Protection",
-        "Image_ID": "POSE_175_1"
+        "Image_ID": "POSE_175_1.png",
+        "Variants": "Lucy Pendleton",
+        "Image": "/images/icon/character/SBR/SBR_3.png"
     },
     {
-        "ID": "176",
+        "ID": 145,
         "Name": "Funny Valentine",
         "Part": "Steel Ball Run",
         "Technique": "Travel Between Parallel Worlds",
-        "Image_ID": "POSE_176_1"
+        "Image_ID": "POSE_176_1.jpg, POSE_176_2.png",
+        "Image": "/images/icon/character/SBR/SBR_4.png"
     },
     {
-        "ID": "177",
+        "ID": 146,
         "Name": "Diego Brando",
         "Part": "Steel Ball Run",
         "Technique": "Dinosaur Infection",
-        "Image_ID": "POSE_177_1"
+        "Image_ID": "POSE_177_1.png",
+        "Variants": "Dio",
+        "Image": "/images/icon/character/SBR/SBR_5.png"
     },
     {
-        "ID": "178",
+        "ID": 147,
         "Name": "Hot Pants",
         "Part": "Steel Ball Run",
         "Technique": "Flesh Spray",
-        "Image_ID": "POSE_178_1"
+        "Image_ID": "POSE_178_1.png",
+        "Image": "/images/icon/character/SBR/SBR_6.png"
     },
     {
-        "ID": "179",
-        "Name": "Mountain Tim",
-        "Part": "Steel Ball Run",
-        "Technique": "Rope Transfer",
-        "Image_ID": "POSE_179_1"
-    },
-    {
-        "ID": "180",
+        "ID": 148,
         "Name": "Wekapipo",
         "Part": "Steel Ball Run",
         "Technique": "Steel Balls and Reflection",
-        "Image_ID": "POSE_180_1"
+        "Image_ID": "POSE_180_1.png",
+        "Image": "/images/icon/character/SBR/SBR_8.png"
     },
     {
-        "ID": "181",
+        "ID": 149,
         "Name": "Steven Steel",
         "Part": "Steel Ball Run",
         "Technique": "None",
-        "Image_ID": "POSE_181_1"
+        "Image_ID": "POSE_181_1.png",
+        "Image": "/images/icon/character/SBR/SBR_9.png"
     },
     {
-        "ID": "182",
+        "ID": 150,
         "Name": "Sandman",
         "Part": "Steel Ball Run",
         "Technique": "Sound Storage",
-        "Image_ID": "POSE_182_1"
+        "Image_ID": "POSE_182_1.png",
+        "Variants": "Soundman",
+        "Image": "/images/icon/character/SBR/SBR_10.png"
     },
     {
-        "ID": "183",
-        "Name": "Dr. Ferdinand",
-        "Part": "Steel Ball Run",
-        "Technique": "Dinosaur Infection",
-        "Image_ID": "POSE_183_1"
-    },
-    {
-        "ID": "184",
+        "ID": 151,
         "Name": "Ringo Roadagain",
         "Part": "Steel Ball Run",
         "Technique": "Time Reversal",
-        "Image_ID": "POSE_184_1"
+        "Image_ID": "POSE_184_1.png",
+        "Image": "/images/icon/character/SBR/SBR_12.png"
     },
     {
-        "ID": "185",
+        "ID": 152,
         "Name": "Blackmore",
         "Part": "Steel Ball Run",
         "Technique": "Rain Manipulation",
-        "Image_ID": "POSE_185_1"
+        "Image_ID": "POSE_185_1.png",
+        "Image": "/images/icon/character/SBR/SBR_13.png"
     },
     {
-        "ID": "186",
-        "Name": "Axl RO",
-        "Part": "Steel Ball Run",
-        "Technique": "Guilt Materialization",
-        "Image_ID": "POSE_186_1"
-    },
-    {
-        "ID": "187",
-        "Name": "Parallel World Diego",
-        "Part": "Steel Ball Run",
-        "Technique": "Time Stop",
-        "Image_ID": "POSE_187_1"
-    },
-    {
-        "ID": "188",
-        "Name": "Pocoloco",
-        "Part": "Steel Ball Run",
-        "Technique": "Cheering",
-        "Image_ID": "POSE_188_1"
-    },
-    {
-        "ID": "189",
-        "Name": "Marco",
-        "Part": "Steel Ball Run",
-        "Technique": "None",
-        "Image_ID": "POSE_189_1"
-    },
-    {
-        "ID": "190",
+        "ID": 153,
         "Name": "Jesus",
         "Part": "Steel Ball Run",
         "Technique": "None",
-        "Image_ID": "POSE_190_1"
+        "Image_ID": "POSE_190_1.png",
+        "Variants": "The Holy Saint, Jesus Christ, The Saint's Corpse",
+        "Image": "/images/icon/character/SBR/SBR_18.png"
     },
     {
-        "ID": "191",
-        "Name": "Mrs. Robinson",
-        "Part": "Steel Ball Run",
-        "Technique": "Insect Control",
-        "Image_ID": "POSE_191_1"
-    },
-    {
-        "ID": "192",
-        "Name": "Andre Boomboom",
-        "Part": "Steel Ball Run",
-        "Technique": "Magnetism",
-        "Image_ID": "POSE_192_1"
-    },
-    {
-        "ID": "193",
-        "Name": "L.A. Boomboom",
-        "Part": "Steel Ball Run",
-        "Technique": "Magnetism",
-        "Image_ID": "POSE_193_1"
-    },
-    {
-        "ID": "194",
-        "Name": "Benjamin Boomboom",
-        "Part": "Steel Ball Run",
-        "Technique": "Magnetism",
-        "Image_ID": "POSE_194_1"
-    },
-    {
-        "ID": "195",
-        "Name": "Oyecomova",
-        "Part": "Steel Ball Run",
-        "Technique": "Contact Bombs",
-        "Image_ID": "POSE_195_1"
-    },
-    {
-        "ID": "196",
-        "Name": "Fritz von Stroheim",
-        "Part": "Steel Ball Run",
-        "Technique": "Teleporting Hooks",
-        "Image_ID": "POSE_196_1"
-    },
-    {
-        "ID": "197",
-        "Name": "Pork Pie Hat Kid",
-        "Part": "Steel Ball Run",
-        "Technique": "Body Slide",
-        "Image_ID": "POSE_197_1"
-    },
-    {
-        "ID": "198",
-        "Name": "Eleven Men",
-        "Part": "Steel Ball Run",
-        "Technique": "Metal Blowing",
-        "Image_ID": "POSE_198_1"
-    },
-    {
-        "ID": "199",
-        "Name": "Mike O.",
-        "Part": "Steel Ball Run",
-        "Technique": "Metal Manipulation",
-        "Image_ID": "POSE_199_1"
-    },
-    {
-        "ID": "200",
-        "Name": "Scarlet Valentine",
-        "Part": "Steel Ball Run",
-        "Technique": "None",
-        "Image_ID": "POSE_200_1"
-    },
-    {
-        "ID": "201",
+        "ID": 154,
         "Name": "Magent Magent",
         "Part": "Steel Ball Run",
         "Technique": "Absolute Defense",
-        "Image_ID": "POSE_201_1"
+        "Image_ID": "POSE_201_1.jpg",
+        "Image": "/images/icon/character/SBR/SBR_29.png"
     },
     {
-        "ID": "202",
-        "Name": "D-I-S-C-O",
-        "Part": "Steel Ball Run",
-        "Technique": "Repositioning",
-        "Image_ID": "POSE_202_1"
-    },
-    {
-        "ID": "203",
-        "Name": "Norisuke Higashikata I",
-        "Part": "Steel Ball Run",
-        "Technique": "None",
-        "Image_ID": "POSE_203_1"
-    },
-    {
-        "ID": "204",
+        "ID": 155,
         "Name": "Sugar Mountain",
         "Part": "Steel Ball Run",
         "Technique": "The Guardian",
-        "Image_ID": "POSE_204_1"
+        "Image_ID": "POSE_204_1.png",
+        "Image": "/images/icon/character/SBR/SBR_32.png"
     },
     {
-        "ID": "205",
-        "Name": "George Joestar II (SBR)",
-        "Part": "Steel Ball Run",
-        "Technique": "None",
-        "Image_ID": "POSE_205_1"
-    },
-    {
-        "ID": "206",
-        "Name": "Gregorio Zeppeli",
-        "Part": "Steel Ball Run",
-        "Technique": "None",
-        "Image_ID": "POSE_206_1"
-    },
-    {
-        "ID": "207",
-        "Name": "Diego's Mother",
-        "Part": "Steel Ball Run",
-        "Technique": "None",
-        "Image_ID": "POSE_207_1"
-    },
-    {
-        "ID": "208",
-        "Name": "Dario Brando (SBR)",
-        "Part": "Steel Ball Run",
-        "Technique": "None",
-        "Image_ID": "POSE_208_1"
-    },
-    {
-        "ID": "209",
-        "Name": "Nicholas Joestar",
-        "Part": "Steel Ball Run",
-        "Technique": "None",
-        "Image_ID": "POSE_209_1"
-    },
-    {
-        "ID": "210",
-        "Name": "Captain Valentine",
-        "Part": "Steel Ball Run",
-        "Technique": "None",
-        "Image_ID": "POSE_210_1"
-    },
-    {
-        "ID": "211",
-        "Name": "Valkyrie",
-        "Part": "Steel Ball Run",
-        "Technique": "None",
-        "Image_ID": "POSE_211_1"
-    },
-    {
-        "ID": "212",
-        "Name": "Slow Dancer",
-        "Part": "Steel Ball Run",
-        "Technique": "None",
-        "Image_ID": "POSE_212_1"
-    },
-    {
-        "ID": "213",
-        "Name": "Silver Bullet",
-        "Part": "Steel Ball Run",
-        "Technique": "None",
-        "Image_ID": "POSE_213_1"
-    },
-    {
-        "ID": "214",
+        "ID": 156,
         "Name": "Josuke Higashikata (JJL)",
         "Part": "JoJolion",
         "Technique": "Bubble Generation",
-        "Image_ID": "POSE_214_1"
+        "Image_ID": "POSE_214_1.jpg, POSE_214_2.png, POSE_214_3.jpg, POSE_214_4.jpg",
+        "Variants": "JoJo, Gappy",
+        "Image": "/images/icon/character/JJL/JJL_1.png"
     },
     {
-        "ID": "215",
+        "ID": 157,
         "Name": "Yasuho Hirose",
         "Part": "JoJolion",
         "Technique": "Guidance",
-        "Image_ID": "POSE_215_1"
+        "Image_ID": "POSE_215_1.png, POSE_215_2.png",
+        "Image": "/images/icon/character/JJL/JJL_2.png"
     },
     {
-        "ID": "216",
+        "ID": 158,
         "Name": "Rai Mamezuku",
         "Part": "JoJolion",
         "Technique": "Skin Peeling",
-        "Image_ID": "POSE_216_1"
+        "Image_ID": "POSE_216_1.png",
+        "Image": "/images/icon/character/JJL/JJL_3.png"
     },
     {
-        "ID": "217",
+        "ID": 159,
         "Name": "Norisuke Higashikata IV",
         "Part": "JoJolion",
         "Technique": "Scent Tracking",
-        "Image_ID": "POSE_217_1"
+        "Image_ID": "POSE_217_1.png, POSE_217_2.png",
+        "Variants": "Josuke Higashikata",
+        "Image": "/images/icon/character/JJL/JJL_4.png"
     },
     {
-        "ID": "218",
+        "ID": 160,
         "Name": "Jobin Higashikata",
         "Part": "JoJolion",
         "Technique": "Heat Accumulation",
-        "Image_ID": "POSE_218_1"
+        "Image_ID": "POSE_218_1.png, POSE_218_2.png",
+        "Image": "/images/icon/character/JJL/JJL_5.png"
     },
     {
-        "ID": "219",
+        "ID": 161,
         "Name": "Toru",
         "Part": "JoJolion",
         "Technique": "Calamity Manipulation",
-        "Image_ID": "POSE_219_1"
+        "Image_ID": "POSE_219_1.png",
+        "Variants": "Tooru, Satoru Akefu",
+        "Image": "/images/icon/character/JJL/JJL_6.png"
     },
     {
-        "ID": "220",
+        "ID": 162,
         "Name": "Joshu Higashikata",
         "Part": "JoJolion",
         "Technique": "Nuts and Bolts",
-        "Image_ID": "POSE_220_1"
+        "Image_ID": "POSE_220_1.jpg",
+        "Image": "/images/icon/character/JJL/JJL_7.png"
     },
     {
-        "ID": "221",
+        "ID": 163,
         "Name": "Daiya Higashikata",
         "Part": "JoJolion",
         "Technique": "Memory Theft",
-        "Image_ID": "POSE_221_1"
+        "Image_ID": "POSE_221_1.png",
+        "Image": "/images/icon/character/JJL/JJL_8.png"
     },
     {
-        "ID": "222",
+        "ID": 164,
         "Name": "Hato Higashikata",
         "Part": "JoJolion",
         "Technique": "Heel Spikes",
-        "Image_ID": "POSE_222_1"
+        "Image_ID": "POSE_222_1.jpg",
+        "Image": "/images/icon/character/JJL/JJL_9.png"
     },
     {
-        "ID": "223",
+        "ID": 165,
         "Name": "Tsurugi Higashikata",
         "Part": "JoJolion",
         "Technique": "Living Origamis",
-        "Image_ID": "POSE_223_1"
+        "Image_ID": "POSE_223_1.png",
+        "Image": "/images/icon/character/JJL/JJL_10.png"
     },
     {
-        "ID": "224",
+        "ID": 166,
         "Name": "Mitsuba Higashikata",
         "Part": "JoJolion",
         "Technique": "Vector Manipulation",
-        "Image_ID": "POSE_224_1"
+        "Image_ID": "POSE_224_1.png",
+        "Image": "/images/icon/character/JJL/JJL_11.png"
     },
     {
-        "ID": "225",
+        "ID": 167,
         "Name": "Kaato Higashikata",
         "Part": "JoJolion",
         "Technique": "Dimensional Storage",
-        "Image_ID": "POSE_225_1"
+        "Image_ID": "POSE_225_1.png",
+        "Image": "/images/icon/character/JJL/JJL_12.png"
     },
     {
-        "ID": "226",
-        "Name": "Rina Higashikata",
-        "Part": "JoJolion",
-        "Technique": "None",
-        "Image_ID": "POSE_226_1"
-    },
-    {
-        "ID": "227",
+        "ID": 168,
         "Name": "Tamaki Damo",
         "Part": "JoJolion",
         "Technique": "Organic Softening",
-        "Image_ID": "POSE_227_1"
+        "Image_ID": "POSE_227_1.png",
+        "Image": "/images/icon/character/JJL/JJL_14.png"
     },
     {
-        "ID": "228",
+        "ID": 169,
         "Name": "Yotsuyu Yagiyama",
         "Part": "JoJolion",
         "Technique": "Selective Attraction",
-        "Image_ID": "POSE_228_1"
+        "Image_ID": "POSE_228_1.jpg",
+        "Image": "/images/icon/character/JJL/JJL_15.png"
     },
     {
-        "ID": "229",
+        "ID": 170,
         "Name": "Urban Guerrilla",
         "Part": "JoJolion",
         "Technique": "Hemolysis",
-        "Image_ID": "POSE_229_1"
+        "Image_ID": "POSE_229_1.png",
+        "Variants": "Ryo Shimosato",
+        "Image": "/images/icon/character/JJL/JJL_16.png"
     },
     {
-        "ID": "230",
+        "ID": 171,
         "Name": "Wu Tomoki",
         "Part": "JoJolion",
         "Technique": "Gravel Transformation",
-        "Image_ID": "POSE_230_1"
+        "Image_ID": "POSE_230_1.png",
+        "Image": "/images/icon/character/JJL/JJL_17.png"
     },
     {
-        "ID": "231",
-        "Name": "Dolomite",
-        "Part": "JoJolion",
-        "Technique": "Contagious Possession",
-        "Image_ID": "POSE_231_1"
-    },
-    {
-        "ID": "232",
-        "Name": "Poor Tom",
-        "Part": "JoJolion",
-        "Technique": "Pressure Manipulation",
-        "Image_ID": "POSE_232_1"
-    },
-    {
-        "ID": "233",
+        "ID": 172,
         "Name": "Aisho Dainenjiyama",
         "Part": "JoJolion",
         "Technique": "Pursuing Vortex",
-        "Image_ID": "POSE_233_1"
+        "Image_ID": "POSE_233_1.png",
+        "Image": "/images/icon/character/JJL/JJL_20.png"
     },
     {
-        "ID": "234",
+        "ID": 173,
         "Name": "Hair Clip",
         "Part": "JoJolion",
         "Technique": "Jewelry Disguise",
-        "Image_ID": "POSE_234_1"
+        "Image_ID": "POSE_234_1.png",
+        "Image": "/images/icon/character/JJL/JJL_21.png"
     },
     {
-        "ID": "235",
-        "Name": "Do Do Do De Da Da Da",
-        "Part": "JoJolion",
-        "Technique": "Scaffolding",
-        "Image_ID": "POSE_235_1"
-    },
-    {
-        "ID": "236",
-        "Name": "Ob-La-Di, Ob-La-Da",
-        "Part": "JoJolion",
-        "Technique": "Latching",
-        "Image_ID": "POSE_236_1"
-    },
-    {
-        "ID": "237",
-        "Name": "Radio Gaga",
-        "Part": "JoJolion",
-        "Technique": "Luring",
-        "Image_ID": "POSE_237_1"
-    },
-    {
-        "ID": "238",
-        "Name": "Doremifasolati Do",
-        "Part": "JoJolion",
-        "Technique": "Caterpillar Propulsion",
-        "Image_ID": "POSE_238_1"
-    },
-    {
-        "ID": "239",
-        "Name": "Iwasuke",
-        "Part": "JoJolion",
-        "Technique": "Intangibility",
-        "Image_ID": "POSE_239_1"
-    },
-    {
-        "ID": "240",
-        "Name": "Satoru Akefu",
-        "Part": "JoJolion",
-        "Technique": "Human Disguise",
-        "Image_ID": "POSE_240_1"
-    },
-    {
-        "ID": "241",
+        "ID": 174,
         "Name": "Yoshikage Kira (JJL)",
         "Part": "JoJolion",
         "Technique": "Explosive Bubbles",
-        "Image_ID": "POSE_241_1"
+        "Image_ID": "POSE_241_1.png",
+        "Image": "/images/icon/character/JJL/JJL_28.png"
     },
     {
-        "ID": "242",
+        "ID": 175,
         "Name": "Josefumi Kujo",
         "Part": "JoJolion",
         "Technique": "Bubble Generation",
-        "Image_ID": "POSE_242_1"
+        "Image_ID": "POSE_242_1.png, POSE_242_2.png",
+        "Variants": "Josephmi Kujo",
+        "Image": "/images/icon/character/JJL/JJL_29.png"
     },
     {
-        "ID": "243",
+        "ID": 176,
         "Name": "Karera Sakunami",
         "Part": "JoJolion",
         "Technique": "Hair Growth",
-        "Image_ID": "POSE_243_1"
+        "Image_ID": "POSE_243_1.png",
+        "Image": "/images/icon/character/JJL/JJL_30.png"
     },
     {
-        "ID": "244",
+        "ID": 177,
         "Name": "Ojiro Sasame",
         "Part": "JoJolion",
         "Technique": "Body Puppeteering",
-        "Image_ID": "POSE_244_1"
+        "Image_ID": "POSE_244_1.png",
+        "Image": "/images/icon/character/JJL/JJL_31.png"
     },
     {
-        "ID": "245",
-        "Name": "Elder A. Phex",
-        "Part": "JoJolion",
-        "Technique": "Left Hand-Right Hand Transfer",
-        "Image_ID": "POSE_245_1"
-    },
-    {
-        "ID": "246",
-        "Name": "Younger A. Phex",
-        "Part": "JoJolion",
-        "Technique": "Toxic Gas",
-        "Image_ID": "POSE_246_1"
-    },
-    {
-        "ID": "247",
-        "Name": "Zaihei Nigatake",
-        "Part": "JoJolion",
-        "Technique": "Monetary Generation",
-        "Image_ID": "POSE_247_1"
-    },
-    {
-        "ID": "248",
-        "Name": "Holy Joestar-Kira",
-        "Part": "JoJolion",
-        "Technique": "Unknown",
-        "Image_ID": "POSE_248_1"
-    },
-    {
-        "ID": "249",
+        "ID": 178,
         "Name": "Kei Nijimura",
         "Part": "JoJolion",
         "Technique": "Summon Through Opening",
-        "Image_ID": "POSE_249_1"
+        "Image_ID": "POSE_249_1.png",
+        "Variants": "Kyo Nijimura",
+        "Image": "/images/icon/character/JJL/JJL_36.png"
     },
     {
-        "ID": "250",
-        "Name": "Suzuyo Hirose",
-        "Part": "JoJolion",
-        "Technique": "None",
-        "Image_ID": "POSE_250_1"
-    },
-    {
-        "ID": "251",
-        "Name": "Kiyomi Kujo",
-        "Part": "JoJolion",
-        "Technique": "None",
-        "Image_ID": "POSE_251_1"
-    },
-    {
-        "ID": "252",
+        "ID": 179,
         "Name": "Lucy Steel (JJL)",
         "Part": "Steel Ball Run",
         "Technique": "Divine Protection",
-        "Image_ID": "POSE_252_1"
+        "Image_ID": "POSE_252_1.png",
+        "Variants": "Lucy Pendleton",
+        "Image": "/images/icon/character/JJL/JJL_39.png"
     },
     {
-        "ID": "253",
-        "Name": "Johnny Joestar (JJL)",
-        "Part": "Steel Ball Run",
-        "Technique": "Spinning Nails",
-        "Image_ID": "POSE_253_1"
-    },
-    {
-        "ID": "254",
+        "ID": 180,
         "Name": "Joseph Joestar (JJL)",
         "Part": "JoJolion",
         "Technique": "Vine Tendril Projection",
-        "Image_ID": "POSE_254_1"
+        "Image_ID": "POSE_254_1.png",
+        "Variants": "Fumi",
+        "Image": "/images/icon/character/JJL/JJL_41.png"
     },
     {
-        "ID": "255",
+        "ID": 181,
         "Name": "Jodio Joestar",
         "Part": "The JOJOLands",
         "Technique": "Rain Generator",
-        "Image_ID": "POSE_255_1"
+        "Image_ID": "POSE_255_1.png",
+        "Variants": "JoJo",
+        "Image": "/images/icon/character/TJJL/TJJL_1.png"
     },
     {
-        "ID": "256",
+        "ID": 182,
         "Name": "Dragona Joestar",
         "Part": "The JOJOLands",
         "Technique": "Displacement",
-        "Image_ID": "POSE_256_1"
+        "Image_ID": "POSE_256_1.png",
+        "Image": "/images/icon/character/TJJL/TJJL_2.png"
     },
     {
-        "ID": "257",
+        "ID": 183,
         "Name": "Paco Laburantes",
         "Part": "The JOJOLands",
         "Technique": "Prehensile Muscles",
-        "Image_ID": "POSE_257_1"
+        "Image_ID": "POSE_257_1.png",
+        "Image": "/images/icon/character/TJJL/TJJL_3.png"
     },
     {
-        "ID": "258",
+        "ID": 184,
         "Name": "Usagi Alohaoe",
         "Part": "The JOJOLands",
         "Technique": "Wish Granting Transformation",
-        "Image_ID": "POSE_258_1"
+        "Image_ID": "POSE_258_1.png",
+        "Image": "/images/icon/character/TJJL/TJJL_4.png"
     },
     {
-        "ID": "259",
-        "Name": "Rohan Kishibe (TJJL)",
-        "Part": "The JOJOLands",
-        "Technique": "Book Writing",
-        "Image_ID": "POSE_259_1"
-    },
-    {
-        "ID": "260",
+        "ID": 185,
         "Name": "Meryl Mei Qi",
         "Part": "The JOJOLands",
         "Technique": "None",
-        "Image_ID": "POSE_260_1"
+        "Image_ID": "POSE_260_1.png",
+        "Image": "/images/icon/character/TJJL/TJJL_6.png"
     },
     {
-        "ID": "261",
+        "ID": 186,
         "Name": "Charming Man",
         "Part": "The JOJOLands",
         "Technique": "Skin Dispersion",
-        "Image_ID": "POSE_261_1"
+        "Image_ID": "POSE_261_1.png",
+        "Image": "/images/icon/character/TJJL/TJJL_7.png"
     },
     {
-        "ID": "262",
+        "ID": 187,
         "Name": "Barbara Ann Joestar",
         "Part": "The JOJOLands",
         "Technique": "None",
-        "Image_ID": "POSE_262_1"
+        "Image_ID": "POSE_262_1.png",
+        "Image": "/images/icon/character/TJJL/TJJL_8.png"
     },
     {
-        "ID": "263",
-        "Name": "Acca Howler",
+        "ID": 188,
+        "Name": "Hacca Howler",
         "Part": "The JOJOLands",
         "Technique": "Unknown",
-        "Image_ID": "POSE_263_1"
+        "Image_ID": "POSE_263_1.png, POSE_263_2.png",
+        "Image": "/images/icon/character/TJJL/TJJL_9.png"
     },
     {
-        "ID": "264",
+        "ID": 189,
         "Name": "Wild Cat Size",
         "Part": "The JOJOLands",
         "Technique": "Constricting Wires",
-        "Image_ID": "POSE_264_1"
-    },
-    {
-        "ID": "265",
-        "Name": "Lulu",
-        "Part": "The JOJOLands",
-        "Technique": "Lesion Infliction",
-        "Image_ID": "POSE_265_1"
-    },
-    {
-        "ID": "266",
-        "Name": "Bobby Jean",
-        "Part": "The JOJOLands",
-        "Technique": "Bullet Speed Manipulation",
-        "Image_ID": "POSE_266_1"
-    },
-    {
-        "ID": "267",
-        "Name": "Latrato",
-        "Part": "The JOJOLands",
-        "Technique": "None",
-        "Image_ID": "POSE_267_1"
+        "Image_ID": "POSE_264_1.png",
+        "Image": "/images/icon/character/TJJL/TJJL_10.png"
     }
 ]

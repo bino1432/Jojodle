@@ -99,13 +99,15 @@ export default function Standpage() {
                                 const characterData = standJson.find(char => char.ID === id);
                                 if(!characterData) return null
 
-                                return (
+                                    return (
                                     correctCharacter && (
                                         <StandCard
                                             key={characterData.ID}
                                             imageUrl={characterData.Image}
                                             name={characterData.Name}
                                             character={correctCharacter}
+                                            attemptedCharacter={characterData}
+                                            showedStand={showedStand}
                                             winGame={reciveIfWinGame}
                                         />
                                     )
