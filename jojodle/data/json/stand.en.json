@@ -1056,7 +1056,7 @@
     "Name": "Enrico Pucci",
     "Variants": "Father Pucci",
     "Stands": [{
-      "Stand":"Whitesnake,C-MOON,Made in Heaven",
+      "Stand":"Whitesnake",
       "Stand Type": "Long-Range, Psychological Assault, Natural Humanoid, Sentient",
       "Debut": "Stone Ocean",
       "Technique": "DISC Extraction"
@@ -1887,7 +1887,7 @@
   },
   {
     "ID": 164,
-    "Name": "Rohan Kishibe",
+    "Name": "Rohan Kishibe (TJJL)",
     "Stands": [{
       "Stand":"Heaven's Door",
       "Stand Type": "Close-Range, Reconnaissance, Natural Humanoid",

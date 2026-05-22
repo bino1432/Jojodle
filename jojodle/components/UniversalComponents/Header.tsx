@@ -3,7 +3,6 @@ import updateIcon from "@/public/images/icon/Updates-Icon.svg"
 import infoIcon from "@/public/images/icon/Info-Icon.svg"
 import playerIcon from "@/public/images/icon/Player-Icon.svg"
 import helpIcon from "@/public/images/icon/Help-Icon.svg"
-import logoImage from "@/public/images/image/Logo-image.png"
 import Outralogo from "@/public/images/image/Logo.png"
 
 export default function Header(){
