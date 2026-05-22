@@ -43,7 +43,7 @@ export default function HintButtons({title, guesses, image, attempts, hint, reci
     if (isClicked) {
       if (side === "left") return "rounded-bl-none";
       if (side === "right") return "rounded-br-none";
-      if (side === "middle") return "rounded-none";
+      if (side === "middle") return "rounded-b-none";
     }
 
     return "";
