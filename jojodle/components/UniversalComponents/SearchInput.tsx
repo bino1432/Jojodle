@@ -12,7 +12,7 @@ type Character = {
 }
 
 interface inputProps {
-    reciveId: (id: number) => void;
+    receiveId: (id: number) => void;
     winGame: boolean;
     characterJson: Character[];
 }
@@ -22,7 +22,7 @@ const archivoBold = Archivo({
     weight: "700",
 },);
 
-export default function SearchInput({reciveId, winGame, characterJson}: inputProps) {
+export default function SearchInput({receiveId, winGame, characterJson}: inputProps) {
     const [query, setQuery] = useState("");
     const [showList, setShowList] = useState(false);
     const [characterList, setCharacterList] = useState<Character[]>([]);
@@ -56,7 +56,7 @@ export default function SearchInput({reciveId, winGame, characterJson}: inputPro
 
     const handleSelect = (id: number) => {
         console.log("Personagem selecionado:", id);
-        reciveId(id);
+        receiveId(id);
         removeCharacter(id);
         setQuery("");
         setShowList(false);

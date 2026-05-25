@@ -11,7 +11,7 @@ import CharacterCard from "@/components/ClassicComponents/CharacterCard";
 import ClassicInfoComponent from "@/components/ClassicComponents/ClassicInfoComponent";
 import Footer from "@/components/UniversalComponents/Footer";
 import SearchInput from "@/components/UniversalComponents/SearchInput";
-import HelpClassic from "@/components/ClassicComponents/HelpClassic";
+import User from "@/components/UniversalComponents/User";
 
 const archivoBold = Archivo({
   subsets: ['latin'],
@@ -55,14 +55,14 @@ export default function Classicpage() {
   const [triedCharacter, setTriedCharacter] = useState<number[]>([]);
   const [winGame, setWinGame] = useState(false);
 
-  const reciveHintAndSideFromComponent = (hint: string, side: string, left: boolean, right: boolean) => {
+  const receiveHintAndSideFromComponent = (hint: string, side: string, left: boolean, right: boolean) => {
     setCurrentHint(hint);
     setSide(side);
     setIsLeft(left);
     setIsRight(right);
   };
   
-  const reciveCharacterIdFromComponent = (id: number) => {
+  const receiveCharacterIdFromComponent = (id: number) => {
     setTriedCharacter([...triedCharacter, id]);
       if (triedCharacter.length !== 0) {
         setAttempts(attempts + 1);
@@ -71,7 +71,7 @@ export default function Classicpage() {
       console.log(triedCharacter);
   }
 
-  const reciveIfWinGame = (win: boolean) => {
+  const receiveIfWinGame = (win: boolean) => {
     setWinGame(win);
   }
 
@@ -84,8 +84,8 @@ export default function Classicpage() {
           <p className={`${archivoBold.className} text-xl text-white leading-5.5 text-balance`}>Take a guess at today's JoJo's Bizarre Adventure character!</p>
           <div className="flex gap-4">
             {triedCharacter.length !== 0 && correctCharacter ? (<>
-              <HintButtons title="Part Clue" guesses={3} image={PartClueIcon} attempts={attempts} hint={correctCharacter.Debut} reciveHintAndSide={reciveHintAndSideFromComponent} side={"left"} isRounded={isRight} />
-              <HintButtons title="Technique Clue" guesses={6} image={TechniqueClueIcon} attempts={attempts} hint={correctCharacter.Technique} reciveHintAndSide={reciveHintAndSideFromComponent} side={"right"} isRounded={isLeft} />
+              <HintButtons title="Part Clue" guesses={3} image={PartClueIcon} attempts={attempts} hint={correctCharacter.Debut} receiveHintAndSide={receiveHintAndSideFromComponent} side={"left"} isRounded={isRight} />
+              <HintButtons title="Technique Clue" guesses={6} image={TechniqueClueIcon} attempts={attempts} hint={correctCharacter.Technique} receiveHintAndSide={receiveHintAndSideFromComponent} side={"right"} isRounded={isLeft} />
             </>) : null
             }
           </div>
@@ -93,7 +93,7 @@ export default function Classicpage() {
           ${side == "left" ? "rounded-tl-none" : "rounded-tr-none"}`} id="fadeIn">{currentHint}</p>
         </div>
         <div>
-          <SearchInput reciveId={reciveCharacterIdFromComponent} characterJson={classicJson} winGame={winGame} />
+          <SearchInput receiveId={receiveCharacterIdFromComponent} characterJson={classicJson} winGame={winGame} />
         </div>
         {triedCharacter.length !== 0 ? (<div className="flex justify-center gap-[8] text-[var(--White)] text-center mt-4">
           <p className="min-w-[96] p-2 rounded-lg bg-[var(--Background)]">Character</p>
@@ -128,7 +128,7 @@ export default function Classicpage() {
                     standType={characterData.StandType}
                     debutPart={characterData.Debut}
                     character={correctCharacter}
-                    winGame={reciveIfWinGame}
+                    winGame={receiveIfWinGame}
                   />
                 )
               );
@@ -137,7 +137,7 @@ export default function Classicpage() {
         )}
         <ClassicInfoComponent />
         <Footer />
-        <HelpClassic />
+        <User />
       </div>
     </main >
   );

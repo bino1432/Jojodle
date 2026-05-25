@@ -20,11 +20,11 @@ interface TipsButtonProps {
   attempts: number;
   hint: string;
   side: "left" | "middle" | "right";
-  reciveHintAndSide: (hint: string, side: string, isLeft: boolean, isMiddle: boolean, isRight: boolean) => void;
+  receiveHintAndSide: (hint: string, side: string, isLeft: boolean, isMiddle: boolean, isRight: boolean) => void;
   isRounded: boolean;
 }
 
-export default function HintButtons({title, guesses, image, attempts, hint, reciveHintAndSide, side, isRounded}: TipsButtonProps) {
+export default function HintButtons({title, guesses, image, attempts, hint, receiveHintAndSide, side, isRounded}: TipsButtonProps) {
 
   const [currentHint, setCurrentHint] = useState('');
   const [isClicked, setIsclicked] = useState(false);
@@ -32,7 +32,7 @@ export default function HintButtons({title, guesses, image, attempts, hint, reci
   const giveHint = () => {
     if (guesses <= attempts) {
       setCurrentHint(hint);
-      reciveHintAndSide(hint, side, side === "left", side === "middle", side === "right");
+      receiveHintAndSide(hint, side, side === "left", side === "middle", side === "right");
       setIsclicked(true);
     }
   };

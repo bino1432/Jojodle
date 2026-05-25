@@ -56,7 +56,7 @@ export default function Standpage() {
     const [isLeft, setIsLeft] = useState(false);
     const [isRight, setIsRight] = useState(false);
 
-    const reciveCharacterIdFromComponent = (id: number) => {
+    const receiveCharacterIdFromComponent = (id: number) => {
         setTriedCharacter([...triedCharacter, id]);
         if (triedCharacter.length !== 0) {
             setAttempts(attempts + 1);
@@ -65,11 +65,11 @@ export default function Standpage() {
         console.log(triedCharacter);
     }
 
-    const reciveIfWinGame = (win: boolean) => {
+    const receiveIfWinGame = (win: boolean) => {
         setWinGame(win);
     }
 
-    const reciveHintAndSideFromComponent = (hint: string, side: string, left: boolean, right: boolean) => {
+    const receiveHintAndSideFromComponent = (hint: string, side: string, left: boolean, right: boolean) => {
         setCurrentHint(hint);
         setSide(side);
         setIsLeft(left);
@@ -99,9 +99,9 @@ export default function Standpage() {
                     <p className={`${archivoBold.className} text-2xl text-white leading-6.5`}>「{showedStand}」</p>
                     <div className="flex gap-4">
                         {triedCharacter.length !== 0 && correctCharacter ? (<>
-                            <HintButtons title="Type Clue" guesses={3} image={TypeClueIcon} attempts={attempts} hint={correctCharacter.Stands[correctStandIndex]["Stand Type"]} reciveHintAndSide={reciveHintAndSideFromComponent} side={"left"} isRounded={isRight} />
-                            <HintButtons title="Part Clue" guesses={5} image={PartClueIcon} attempts={attempts} hint={correctCharacter.Stands[correctStandIndex].Debut} reciveHintAndSide={reciveHintAndSideFromComponent} side={"middle"} isRounded={isLeft} />
-                            <HintButtons title="Technique Clue" guesses={7} image={TechniqueClueIcon} attempts={attempts} hint={correctCharacter.Stands[correctStandIndex].Technique} reciveHintAndSide={reciveHintAndSideFromComponent} side={"right"} isRounded={isLeft} />
+                            <HintButtons title="Type Clue" guesses={3} image={TypeClueIcon} attempts={attempts} hint={correctCharacter.Stands[correctStandIndex]["Stand Type"]} receiveHintAndSide={receiveHintAndSideFromComponent} side={"left"} isRounded={isRight} />
+                            <HintButtons title="Part Clue" guesses={5} image={PartClueIcon} attempts={attempts} hint={correctCharacter.Stands[correctStandIndex].Debut} receiveHintAndSide={receiveHintAndSideFromComponent} side={"middle"} isRounded={isLeft} />
+                            <HintButtons title="Technique Clue" guesses={7} image={TechniqueClueIcon} attempts={attempts} hint={correctCharacter.Stands[correctStandIndex].Technique} receiveHintAndSide={receiveHintAndSideFromComponent} side={"right"} isRounded={isLeft} />
                         </>) : null
                         }
                     </div>
@@ -110,7 +110,7 @@ export default function Standpage() {
                 </div>
 
                 <div>
-                    <SearchInput reciveId={reciveCharacterIdFromComponent} characterJson={standJson} winGame={winGame} />
+                    <SearchInput receiveId={receiveCharacterIdFromComponent} characterJson={standJson} winGame={winGame} />
                 </div>
 
                 <div className="mt-4">
@@ -129,7 +129,7 @@ export default function Standpage() {
                                             character={correctCharacter}
                                             attemptedCharacter={characterData}
                                             showedStand={showedStand}
-                                            winGame={reciveIfWinGame}
+                                            winGame={receiveIfWinGame}
                                         />
                                     )
                                 )

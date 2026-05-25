@@ -76,14 +76,14 @@ export default function Classicpage() {
     const imageBlur = winGame ? 0 : 20 * (1 - revealProgress);
     const overlayOpacity = winGame ? 0 : 0.2 * (1 - revealProgress);
 
-    const reciveHintAndSideFromComponent = (hint: string, side: string, left: boolean, right: boolean) => {
+    const receiveHintAndSideFromComponent = (hint: string, side: string, left: boolean, right: boolean) => {
         setCurrentHint(hint);
         setSide(side);
         setIsLeft(left);
         setIsRight(right);
     };
 
-    const reciveCharacterIdFromComponent = (id: number) => {
+    const receiveCharacterIdFromComponent = (id: number) => {
         setTriedCharacter([...triedCharacter, id]);
         if (triedCharacter.length !== 0) {
             setAttempts(attempts + 1);
@@ -92,7 +92,7 @@ export default function Classicpage() {
         console.log(triedCharacter);
     }
 
-    const reciveIfWinGame = (win: boolean) => {
+    const receiveIfWinGame = (win: boolean) => {
         setWinGame(win);
     }
 
@@ -143,8 +143,8 @@ export default function Classicpage() {
                 <div className
                 ="flex gap-4">
                     {triedCharacter.length !== 0 && correctCharacter ? (<>
-                        <HintButtons title="Part Clue" guesses={3} image={PartClueIcon} attempts={attempts} hint={correctCharacter ? correctCharacter.Part : ""} reciveHintAndSide={reciveHintAndSideFromComponent} side={"left"} isRounded={isRight} />
-                        <HintButtons title="Target Clue" guesses={6} image={TechniqueClueIcon} attempts={attempts} hint={correctCharacter ? correctCharacter.Technique : ""} reciveHintAndSide={reciveHintAndSideFromComponent} side={"right"} isRounded={isLeft} />
+                        <HintButtons title="Part Clue" guesses={3} image={PartClueIcon} attempts={attempts} hint={correctCharacter ? correctCharacter.Part : ""} receiveHintAndSide={receiveHintAndSideFromComponent} side={"left"} isRounded={isRight} />
+                        <HintButtons title="Target Clue" guesses={6} image={TechniqueClueIcon} attempts={attempts} hint={correctCharacter ? correctCharacter.Technique : ""} receiveHintAndSide={receiveHintAndSideFromComponent} side={"right"} isRounded={isLeft} />
                         </>) : null
                     }
                 </div>
@@ -153,7 +153,7 @@ export default function Classicpage() {
             </div>
 
             <div>
-                <SearchInput reciveId={reciveCharacterIdFromComponent} characterJson={poseJson} winGame={winGame} />
+                <SearchInput receiveId={receiveCharacterIdFromComponent} characterJson={poseJson} winGame={winGame} />
             </div>
 
                 <div className="mt-4">
@@ -170,7 +170,7 @@ export default function Classicpage() {
                                             imageUrl={characterData.Image}
                                             name={characterData.Name}
                                             character={correctCharacter}
-                                            winGame={reciveIfWinGame}
+                                            winGame={receiveIfWinGame}
                                         />
                                     )
                                 )

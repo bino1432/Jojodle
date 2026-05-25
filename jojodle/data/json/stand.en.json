@@ -695,10 +695,15 @@
     "Name": "Giorno Giovanna",
     "Variants": "JoJo, GioGio, Haruno Shiobana",
     "Stands": [{
-      "Stand":"Gold Experience, Gold Experience Requiem",
+      "Stand":"Gold Experience",
       "Stand Type": "Close-Range, Natural Humanoid",
       "Debut": "Vento Aureo",
       "Technique": "Life Giver"
+    }, {
+      "Stand":"Gold Experience Requiem",
+      "Stand Type": "Close-Range, Range Irrelevant, Natural Humanoid, Sentient, Evolved",
+      "Debut": "Vento Aureo",
+      "Technique": "Nullification"
     }],
     "Image": "/images/icon/character/VA/VA_1.png"
   },

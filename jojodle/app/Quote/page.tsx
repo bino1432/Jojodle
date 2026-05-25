@@ -58,7 +58,7 @@ export default function Quotepage() {
     const [showedQuote, setShowedQuote] = useState("");
     const [selectedQuote, setSelectedQuote] = useState<QuoteItem | null>(null);
 
-    const reciveCharacterIdFromComponent = (id: number) => {
+    const receiveCharacterIdFromComponent = (id: number) => {
         setTriedCharacter([...triedCharacter, id]);
         if (triedCharacter.length !== 0) {
         setAttempts(attempts + 1);
@@ -67,7 +67,7 @@ export default function Quotepage() {
         console.log(triedCharacter);
     };
 
-    const reciveIfWinGame = (win: boolean) => {
+    const receiveIfWinGame = (win: boolean) => {
         setWinGame(win);
     };
 
@@ -76,7 +76,7 @@ export default function Quotepage() {
     return randomQuote;
     };
 
-    const reciveHintAndSideFromComponent = (hint: string, side: string, left: boolean, right: boolean) => {
+    const receiveHintAndSideFromComponent = (hint: string, side: string, left: boolean, right: boolean) => {
         setCurrentHint(hint);
         setSide(side);
         setIsLeft(left);
@@ -93,8 +93,8 @@ export default function Quotepage() {
                 <p className={`${archivoBold.className} text-2xl text-white leading-6.5`}>“{showedQuote}”</p>
                 <div className="flex gap-4">
                     {triedCharacter.length !== 0 && correctCharacter ? (<>
-                        <HintButtons title="Part Clue" guesses={3} image={PartClueIcon} attempts={attempts} hint={selectedQuote ? selectedQuote.Part : ""} reciveHintAndSide={reciveHintAndSideFromComponent} side={"left"} isRounded={isRight} />
-                        <HintButtons title="Target Clue" guesses={6} image={TargeClueIcon} attempts={attempts} hint={selectedQuote ? selectedQuote.Target : ""} reciveHintAndSide={reciveHintAndSideFromComponent} side={"right"} isRounded={isLeft} />
+                        <HintButtons title="Part Clue" guesses={3} image={PartClueIcon} attempts={attempts} hint={selectedQuote ? selectedQuote.Part : ""} receiveHintAndSide={receiveHintAndSideFromComponent} side={"left"} isRounded={isRight} />
+                        <HintButtons title="Target Clue" guesses={6} image={TargeClueIcon} attempts={attempts} hint={selectedQuote ? selectedQuote.Target : ""} receiveHintAndSide={receiveHintAndSideFromComponent} side={"right"} isRounded={isLeft} />
                         </>) : null
                     }
                 </div>
@@ -103,7 +103,7 @@ export default function Quotepage() {
             </div>
 
             <div>
-                <SearchInput reciveId={reciveCharacterIdFromComponent} characterJson={quoteJson} winGame={winGame} />
+                <SearchInput receiveId={receiveCharacterIdFromComponent} characterJson={quoteJson} winGame={winGame} />
             </div>
 
                 <div className="mt-4">
@@ -120,7 +120,7 @@ export default function Quotepage() {
                                             imageUrl={characterData.Image}
                                             name={characterData.Name}
                                             character={correctCharacter}
-                                            winGame={reciveIfWinGame}
+                                            winGame={receiveIfWinGame}
                                         />
                                     )
                                 )
