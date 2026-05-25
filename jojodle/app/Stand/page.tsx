@@ -55,6 +55,7 @@ export default function Standpage() {
     const [side, setSide] = useState("");
     const [isLeft, setIsLeft] = useState(false);
     const [isRight, setIsRight] = useState(false);
+    const [isMiddle, setIsMiddle] = useState(false);
 
     const reciveCharacterIdFromComponent = (id: number) => {
         setTriedCharacter([...triedCharacter, id]);
@@ -69,11 +70,17 @@ export default function Standpage() {
         setWinGame(win);
     }
 
-    const reciveHintAndSideFromComponent = (hint: string, side: string, left: boolean, right: boolean) => {
+    const reciveHintAndSideFromComponent = (hint: string, side: string, left: boolean, middle: boolean, right: boolean) => {
         setCurrentHint(hint);
         setSide(side);
-        setIsLeft(left);
-        setIsRight(right);
+        setIsMiddle(!middle);
+        if(middle){
+            setIsLeft(!left);
+            setIsRight(!right);
+        } else {
+            setIsLeft(left);
+            setIsRight(right);
+        }
     };
 
     const verifyStand = (stand: StandInfo[]) => {
@@ -100,13 +107,13 @@ export default function Standpage() {
                     <div className="flex gap-4">
                         {triedCharacter.length !== 0 && correctCharacter ? (<>
                             <HintButtons title="Type Clue" guesses={3} image={TypeClueIcon} attempts={attempts} hint={correctCharacter.Stands[correctStandIndex]["Stand Type"]} reciveHintAndSide={reciveHintAndSideFromComponent} side={"left"} isRounded={isRight} />
-                            <HintButtons title="Part Clue" guesses={5} image={PartClueIcon} attempts={attempts} hint={correctCharacter.Stands[correctStandIndex].Debut} reciveHintAndSide={reciveHintAndSideFromComponent} side={"middle"} isRounded={isLeft} />
+                            <HintButtons title="Part Clue" guesses={5} image={PartClueIcon} attempts={attempts} hint={correctCharacter.Stands[correctStandIndex].Debut} reciveHintAndSide={reciveHintAndSideFromComponent} side={"middle"} isRounded={isMiddle} />
                             <HintButtons title="Technique Clue" guesses={7} image={TechniqueClueIcon} attempts={attempts} hint={correctCharacter.Stands[correctStandIndex].Technique} reciveHintAndSide={reciveHintAndSideFromComponent} side={"right"} isRounded={isLeft} />
                         </>) : null
                         }
                     </div>
                     <p className={currentHint == "" ? "hidden" : `${archivoBold.className} text-white p-2 w-137 bg-[var(--Primary)] rounded-lg
-                    ${side == "left" ? "rounded-tl-none" : "rounded-tr-none"}`} id="fadeIn">{currentHint}</p>
+                    ${side == "left" ? "rounded-tl-none" : side == "right" ? "rounded-tr-none" : "rounded-t-none"}`} id="fadeIn">{currentHint}</p>
                 </div>
 
                 <div>

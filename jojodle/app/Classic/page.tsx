@@ -52,14 +52,16 @@ export default function Classicpage() {
   const [side, setSide] = useState("");
   const [isLeft, setIsLeft] = useState(false);
   const [isRight, setIsRight] = useState(false);
+  const [isMiddle, setIsMiddle] = useState(false);
   const [triedCharacter, setTriedCharacter] = useState<number[]>([]);
   const [winGame, setWinGame] = useState(false);
 
-  const reciveHintAndSideFromComponent = (hint: string, side: string, left: boolean, right: boolean) => {
+  const reciveHintAndSideFromComponent = (hint: string, side: string, left: boolean, middle: boolean, right: boolean) => {
     setCurrentHint(hint);
     setSide(side);
     setIsLeft(left);
     setIsRight(right);
+    setIsMiddle(middle);
   };
   
   const reciveCharacterIdFromComponent = (id: number) => {
