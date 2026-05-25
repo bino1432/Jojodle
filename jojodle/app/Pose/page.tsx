@@ -68,6 +68,7 @@ export default function Classicpage() {
     const [side, setSide] = useState("");
     const [isLeft, setIsLeft] = useState(false);
     const [isRight, setIsRight] = useState(false);
+    const [isMiddle, setIsMiddle] = useState(false);
     const [triedCharacter, setTriedCharacter] = useState<number[]>([]);
     const [winGame, setWinGame] = useState(false);
 
@@ -76,11 +77,12 @@ export default function Classicpage() {
     const imageBlur = winGame ? 0 : 20 * (1 - revealProgress);
     const overlayOpacity = winGame ? 0 : 0.2 * (1 - revealProgress);
 
-    const receiveHintAndSideFromComponent = (hint: string, side: string, left: boolean, right: boolean) => {
+    const receiveHintAndSideFromComponent = (hint: string, side: string, left: boolean, middle: boolean, right: boolean) => {
         setCurrentHint(hint);
         setSide(side);
         setIsLeft(left);
         setIsRight(right);
+        setIsMiddle(middle);
     };
 
     const receiveCharacterIdFromComponent = (id: number) => {

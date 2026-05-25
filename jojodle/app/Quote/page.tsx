@@ -54,6 +54,7 @@ export default function Quotepage() {
     const [side, setSide] = useState("");
     const [isLeft, setIsLeft] = useState(false);
     const [isRight, setIsRight] = useState(false);
+    const [isMiddle, setIsMiddle] = useState(false);
     const [winGame, setWinGame] = useState(false);
     const [showedQuote, setShowedQuote] = useState("");
     const [selectedQuote, setSelectedQuote] = useState<QuoteItem | null>(null);
@@ -76,11 +77,12 @@ export default function Quotepage() {
     return randomQuote;
     };
 
-    const receiveHintAndSideFromComponent = (hint: string, side: string, left: boolean, right: boolean) => {
+    const receiveHintAndSideFromComponent = (hint: string, side: string, left: boolean, middle: boolean, right: boolean) => {
         setCurrentHint(hint);
         setSide(side);
         setIsLeft(left);
         setIsRight(right);
+        setIsMiddle(middle);
     };
 
     return (
