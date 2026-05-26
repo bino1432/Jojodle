@@ -98,7 +98,7 @@ export default function CharacterCard({ imageUrl, name, gender, height, age, nat
     }
 
     const verifyIfWinGame = (attemptCharacterName: string, correctCharacterName: string) => {
-        if(attemptCharacterName == correctCharacterName){
+        if (attemptCharacterName == correctCharacterName) {
             winGame(true);
         }
         return false;
@@ -106,10 +106,10 @@ export default function CharacterCard({ imageUrl, name, gender, height, age, nat
 
     const verifyIfIsPartiallyCorrect = (attemptedCharacter: string, correctCharacter: string) => {
         const attemptedArray = attemptedCharacter.split(",");
-        const correctArray = correctCharacter.split(",");   
-        for(let i = 0; i < correctArray.length; i++){
-            for(let x = 0; x < attemptedArray.length; x++){
-                if(correctArray[i] == attemptedArray[x]){
+        const correctArray = correctCharacter.split(",");
+        for (let i = 0; i < correctArray.length; i++) {
+            for (let x = 0; x < attemptedArray.length; x++) {
+                if (correctArray[i] == attemptedArray[x]) {
                     return "bg-[var(--Partial)]";
                 }
             }
@@ -119,13 +119,22 @@ export default function CharacterCard({ imageUrl, name, gender, height, age, nat
 
     return (
         <div className='flex justify-center gap-[8] text-[var(--White)] mt-2'>
-            <Image
-                src={imageUrl}
-                alt={'Character Image'}
-                width={96}
-                height={96}
-                className="rounded-lg"
-            ></Image>
+            <div className="relative overflow-hidden group">
+                <Image
+                    src={imageUrl}
+                    alt={'Character Image'}
+                    width={96}
+                    height={96}
+                    className="rounded-lg"
+                ></Image>
+
+                <div className="absolute inset-0 flex items-center justify-center 
+                    opacity-0 group-hover:opacity-100 transition-all duration-300">
+                    <div className="text-center text-white bg-[var(--Background)] rounded-lg px-1 py-1">
+                        <h3 className={`${archivo.className} text-base`}>{name}</h3>
+                    </div>
+                </div>
+            </div>
             <div className={`
                 ${archivo.className}
                 w-[96] 
@@ -233,6 +242,7 @@ export default function CharacterCard({ imageUrl, name, gender, height, age, nat
                 items-center 
                 justify-center 
                 rounded-lg 
+                overflow-hidden
                 ${affiliation == character.Affiliation ? "bg-[var(--Correct)]" : verifyIfIsPartiallyCorrect(affiliation, character.Affiliation)}`}>
                 <h2>{affiliation}</h2>
             </div>
