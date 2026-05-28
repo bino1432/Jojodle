@@ -45,7 +45,7 @@
     },
     {
         "ID": 4,
-        "Name": "Dio Brando (PB)",
+        "Name": "Dio Brando",
         "Gender": "Male",
         "Height": "185 cm (6 ft 1 in)",
         "Age": 20,
@@ -646,7 +646,7 @@
     },
     {
         "ID": 46,
-        "Name": "DIO (SC)",
+        "Name": "DIO",
         "Variants": "Dio Brando",
         "Gender": "Male",
         "Height": "195 cm (6 ft 5 in)",

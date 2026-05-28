@@ -16,7 +16,7 @@
     },
     {
         "ID": 2,
-        "Name": "Dio Brando (PB)",
+        "Name": "Dio Brando",
         "Quotes" : [{
             "Quote": "I reject my humanity, JoJo!! I'll transcend humanity!",
             "Part": "Phantom Blood",
@@ -110,7 +110,7 @@
         "ID": 9,
         "Name": "Dario Brando",
         "Quotes": [{
-            "Quote": "You're to mail this letter and head to the place it's addressed to! This man owes me a favor... I'm sure he will look after you and send you to school!\t",
+            "Quote": "You're to mail this letter and head to the place it's addressed to! This man owes me a favor... I'm sure he will look after you and send you to school!",
             "Part": "Phantom Blood",
             "Target": "Dio Brando (PB)"
         }],
@@ -282,7 +282,7 @@
         "Name": "Suzi Q",
         "Variants": "Suzi Q Joestar, Suzie Q",
         "Quotes": [{
-            "Quote": "Say, JoJo... you're cuter than I thought.\t",
+            "Quote": "Say, JoJo... you're cuter than I thought.",
             "Part": "Battle Tendency",
             "Target": "Joseph Joestar"
         }],
@@ -407,7 +407,7 @@
         "ID": 27,
         "Name": "Noriaki Kakyoin",
         "Quotes": [{
-            "Quote": "What?! He deflected my Emerald Splash?! But that's impossible!\t",
+            "Quote": "What?! He deflected my Emerald Splash?! But that's impossible!",
             "Part": "Stardust Crusaders",
             "Target": "Jotaro Kujo"
          }, {
@@ -437,7 +437,7 @@
             "Part": "Stardust Crusaders",
             "Target": "Muhammad Avdol"
         }, {
-            "Quote": "I swore to avenge the cruel fate of my sister! To use my own Stand to hunt the killer down and make him pay... with his life!\t",
+            "Quote": "I swore to avenge the cruel fate of my sister! To use my own Stand to hunt the killer down and make him pay... with his life!",
             "Part": "Stardust Crusaders",
             "Target": "Muhammad Avdol"
         }, {
@@ -481,7 +481,7 @@
         "Name": "Holy Kujo",
         "Variants": "Holy Joestar, Holly Kujo, Seiko",
         "Quotes": [{
-            "Quote": "He used to be such a good boy... and now I don't know what's happened to him!\t",
+            "Quote": "He used to be such a good boy... and now I don't know what's happened to him!",
             "Part": "Stardust Crusaders",
             "Target": "Jotaro Kujo"
         }],
@@ -578,7 +578,7 @@
         "ID": 40,
         "Name": "Mariah",
         "Quotes": [{
-            "Quote": "You're good-looking... but you're nowhere near as handsome as Lord DIO.\t",
+            "Quote": "You're good-looking... but you're nowhere near as handsome as Lord DIO.",
             "Part": "Stardust Crusaders",
             "Target": "Joseph Joestar (SC)"
         }, {
@@ -747,7 +747,7 @@
         "Name": "Yuya Fungami",
         "Variants": "Yuei",
         "Quotes": [{
-            "Quote": "That's how good I am. You know I can't live without these gals. You perserved my beauty, so of course I'll help.\t",
+            "Quote": "That's how good I am. You know I can't live without these gals. You perserved my beauty, so of course I'll help.",
             "Part": "Diamond is Unbreakable",
             "Target": "Josuke Higashikata"
         }],
@@ -767,7 +767,7 @@
         "ID": 55,
         "Name": "Tamami Kobayashi",
         "Quotes": [{
-            "Quote": "The guiltier you feel, the bigger The Lock gets... in other words, that lock is the \"weight of your guilt\".\t",
+            "Quote": "The guiltier you feel, the bigger The Lock gets... in other words, that lock is the \"weight of your guilt\".",
             "Part": "Diamond is Unbreakable",
             "Target": "Koichi Hirose"
         }],
@@ -777,7 +777,7 @@
         "ID": 56,
         "Name": "Yukako Yamagishi",
         "Quotes": [{
-            "Quote": "Koichi, you have something shining within! I know because I've always been watching... And I... I like everything about you, Koichi.\t",
+            "Quote": "Koichi, you have something shining within! I know because I've always been watching... And I... I like everything about you, Koichi.",
             "Part": "Diamond is Unbreakable",
             "Target": "Koichi Hirose"
         }, {
@@ -866,7 +866,7 @@
         "ID": 64,
         "Name": "Leone Abbacchio",
         "Quotes": [{
-            "Quote": "Giorno, was it? You don't have to stay standing. Why don't you sit down and drink some tea...\t",
+            "Quote": "Giorno, was it? You don't have to stay standing. Why don't you sit down and drink some tea...",
             "Part": "Vento Aureo",
             "Target": "Giorno Giovanna"
         }],
@@ -969,7 +969,7 @@
         "ID": 73,
         "Name": "Pericolo",
         "Quotes": [{
-            "Quote": "Congratulations, Bucciarati! You are now a capo!\t",
+            "Quote": "Congratulations, Bucciarati! You are now a capo!",
             "Part": "Vento Aureo",
             "Target": "Bruno Bucciarati"
         }],
@@ -1080,7 +1080,7 @@
             "Part": "Stone Ocean",
             "Target": "None"
         }, {
-            "Quote": "Shit! There are frogs on my $800 pants.\t",
+            "Quote": "Shit! There are frogs on my $800 pants.",
             "Part": "Stone Ocean",
             "Target": "None"
         }],
@@ -1088,7 +1088,7 @@
     },
     {
         "ID": 82,
-        "Name": "DIO (SO)",
+        "Name": "DIO",
         "Variants" : "Dio Brando",
         "Quotes": [{
             "Quote": "There might be a way to go to Heaven. ",
@@ -1375,7 +1375,7 @@
         "ID": 102,
         "Name": "Captain Valentine",
         "Quotes": [{
-            "Quote": "Patriotism' is the most beautiful 'virtue' in this world. Even animals risk their lives for the sake of their children, but risking one's life for pride in their country and thinking of it as an extension of protecting one's family is only a 'nobility of humanity'... a kind of heart completely different from a religious fanatic.",
+            "Quote": "Patriotism is the most beautiful 'virtue' in this world. Even animals risk their lives for the sake of their children, but risking one's life for pride in their country and thinking of it as an extension of protecting one's family is only a 'nobility of humanity'... a kind of heart completely different from a religious fanatic.",
             "Part": "Steel Ball Run",
             "Target": "Funny Valentine"
         }],
@@ -1431,6 +1431,10 @@
             "Quote": "And my memories from when I was born... Are long gone from this world... And they'll never... Come back... But even so, there's something I'm certain of. I am your son. No matter where I go, or what era I live in, that's something certain that I can believe in. Mom...",
             "Part": "JoJolion",
             "Target": "Holy Joestar-Kira"
+        }, {
+            "Quote": "This is equivalent exchange!! The ability to equivalently exchange an ailing part with a healthy part.",
+            "Part": "JoJolion",
+            "Target": "None"
         }, {
             "Quote": "I love large-size French fries, I love large-size French fries, I love large-size French fries, but they're out of fried chicken. They're out of fried chicken, they're out of fried chicken. Those crispy ones are all I need. I love large-size French fries.",
             "Part": "JoJolion",

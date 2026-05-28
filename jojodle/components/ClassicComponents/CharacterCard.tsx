@@ -117,6 +117,13 @@ export default function CharacterCard({ imageUrl, name, gender, height, age, nat
         return "bg-[var(--Wrong)]"
     }
 
+    const getDynamicTextSize = (length: number): string => {
+        if (length <= 5)  return "text-2xl leading-6.5";
+        if (length <= 12)  return "text-xl leading-5.5";
+        if (length <= 23) return "text-base leading-4.5";
+        return "text-sm leading-4";
+    };
+
     return (
         <div className='flex justify-center gap-[8] text-[var(--White)] mt-2'>
             <div className="relative overflow-hidden group">
@@ -127,21 +134,30 @@ export default function CharacterCard({ imageUrl, name, gender, height, age, nat
                     height={96}
                     className="rounded-lg"
                 ></Image>
-
+                
                 <div className="absolute inset-0 flex items-center justify-center 
                     opacity-0 group-hover:opacity-100 transition-all duration-300">
-                    <div className="text-center text-white bg-[var(--Background)] rounded-lg px-1 py-1">
-                        <h3 className={`${archivo.className} text-base`}>{name}</h3>
+                    
+                    <div className="text-center text-white bg-[var(--Background)] 
+                                    rounded-lg px-1 py-1 w-fit max-w-[260px]">
+                        
+                        <h3 className={`
+                            ${archivo.className} 
+                            font-bold tracking-tight
+                            ${getDynamicTextSize(name.length)}
+                        `}>
+                            {name}
+                        </h3>
                     </div>
                 </div>
             </div>
             <div className={`
                 ${archivo.className}
-                w-[96] 
-                h-[96] 
-                flex items-center 
-                justify-center 
-                rounded-lg 
+                w-[96]
+                h-[96]
+                flex items-center
+                justify-center
+                rounded-lg
                 ${gender != "Unknown" ? "text-2xl leading-6.5" : "text-5xl leading-12.5"}
                 ${gender == character.Gender ? "bg-[var(--Correct)]" : "bg-[var(--Wrong)]"}`}>
                 <h2>{gender != "Unknown" ? gender : "?"}</h2>

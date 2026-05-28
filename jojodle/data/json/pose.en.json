@@ -27,7 +27,7 @@
     },
     {
         "ID": 4,
-        "Name": "Dio Brando (PB)",
+        "Name": "Dio Brando",
         "Part": "Phantom Blood",
         "Technique": "Vampirism",
         "Image_ID": "POSE_4_1.png, POSE_4_2.png, POSE_4_3.jpg, POSE_4_4.jpg",
@@ -287,7 +287,7 @@
     },
     {
         "ID": 36,
-        "Name": "DIO (SC)",
+        "Name": "DIO",
         "Part": "Phantom Blood",
         "Technique": "Time Stop",
         "Image_ID": "POSE_46_1.png, POSE_46_2.png, POSE_46_3.png, POSE_46_4.png, POSE_46_5.png, POSE_46_7.png, POSE_46_8.jpg, POSE_46_9.png, ",

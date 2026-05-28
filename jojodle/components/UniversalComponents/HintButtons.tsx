@@ -22,15 +22,16 @@ interface TipsButtonProps {
   side: "left" | "middle" | "right";
   receiveHintAndSide: (hint: string, side: string, isLeft: boolean, isMiddle: boolean, isRight: boolean) => void;
   isRounded: boolean;
+  winGame: boolean;
 }
 
-export default function HintButtons({title, guesses, image, attempts, hint, receiveHintAndSide, side, isRounded}: TipsButtonProps) {
+export default function HintButtons({title, guesses, image, attempts, hint, receiveHintAndSide, side, isRounded, winGame}: TipsButtonProps) {
 
   const [currentHint, setCurrentHint] = useState('');
   const [isClicked, setIsclicked] = useState(false);
 
   const giveHint = () => {
-    if (guesses <= attempts) {
+    if (guesses <= attempts || winGame) {
       setCurrentHint(hint);
       receiveHintAndSide(hint, side, side === "left", side === "middle", side === "right");
       setIsclicked(true);
@@ -50,13 +51,13 @@ export default function HintButtons({title, guesses, image, attempts, hint, rece
   };
 
   return (
-    <div className={`flex flex-col items-center gap-1 p-2 min-w-43 bg-[var(--Accent)] hover:bg-[var(--Primary)] rounded-xl cursor-pointer ${isClicked && !isRounded ? "bg-[var(--Primary)]" : ""} ${getRoundedClass()}`} onClick={giveHint}>
+    <div className={`flex flex-col items-center gap-1 p-2 min-w-43 bg-[var(--Accent)] hover:bg-[var(--Primary)] transition-colors rounded-xl cursor-pointer ${isClicked && !isRounded ? "bg-[var(--Primary)]" : ""} ${getRoundedClass()}`} onClick={giveHint}>
       <h2 className={`${archivoBold.className} text-xl text-white`}>
         {title}
       </h2>
 
       <p className={`${archivo.className} text-sm text-white`}>
-        {guesses > attempts ? `in ${guesses - attempts} guesse(s)` : !isClicked ? `click to reveal` : `revealed`}
+        {winGame  ? `click to reveal` : guesses > attempts ? `in ${guesses - attempts} guesse(s)` : !isClicked ? `click to reveal` : `revealed`}
       </p>
 
       <Image className="w-10 h-10" src={image} alt="Button icon"/>

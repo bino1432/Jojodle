@@ -20,22 +20,22 @@ export default function MenuButton({ page, title }: MenuButtonProps){
 
     switch (title) {
         case "Classic":
-            icon = <StarIcon correctPath="/Home" currentPath="/Home" size="large"/>;
+            icon = <StarIcon correctPath="/Home" currentPath="/Home" use="default"/>;
             break;
         case "Stand":
-            icon = <StandIcon correctPath="/Home" currentPath="/Home" size="large"/>;
+            icon = <StandIcon correctPath="/Home" currentPath="/Home" use="default"/>;
             break;
         case "Quote":
-            icon = <QuoteIcon correctPath="/Home" currentPath="/Home" size="large"/>;
+            icon = <QuoteIcon correctPath="/Home" currentPath="/Home" use="default"/>;
             break;
         case "Pose":
-            icon = <PoseIcon correctPath="/Home" currentPath="/Home" size="large"/>;
+            icon = <PoseIcon correctPath="/Home" currentPath="/Home" use="default"/>;
             break;
     }
 
     return(
         <div className="w-full">
-            <Link href={page} className="flex justify-center items-center gap-2 bg-[var(--Background)] w-66 h-24 m-auto rounded-lg hover:bg-[var(--Accent)]">
+            <Link href={page} className="flex justify-center items-center gap-2 bg-[var(--Background)] w-66 h-24 m-auto rounded-lg hover:bg-[var(--Accent)] transition-colors">
                 {icon}
                 <h1 className={`${archivo.className} text-5xl text-white`}>
                     {title}

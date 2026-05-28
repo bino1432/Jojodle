@@ -95,8 +95,8 @@ export default function Quotepage() {
                 <p className={`${archivoBold.className} text-2xl text-white leading-6.5`}>“{showedQuote}”</p>
                 <div className="flex gap-4">
                     {triedCharacter.length !== 0 && correctCharacter ? (<>
-                        <HintButtons title="Part Clue" guesses={3} image={PartClueIcon} attempts={attempts} hint={selectedQuote ? selectedQuote.Part : ""} receiveHintAndSide={receiveHintAndSideFromComponent} side={"left"} isRounded={isRight} />
-                        <HintButtons title="Target Clue" guesses={6} image={TargeClueIcon} attempts={attempts} hint={selectedQuote ? selectedQuote.Target : ""} receiveHintAndSide={receiveHintAndSideFromComponent} side={"right"} isRounded={isLeft} />
+                        <HintButtons title="Part Clue" guesses={3} image={PartClueIcon} attempts={attempts} hint={selectedQuote ? selectedQuote.Part : ""} receiveHintAndSide={receiveHintAndSideFromComponent} side={"left"} isRounded={isRight} winGame={winGame} />
+                        <HintButtons title="Target Clue" guesses={6} image={TargeClueIcon} attempts={attempts} hint={selectedQuote ? selectedQuote.Target : ""} receiveHintAndSide={receiveHintAndSideFromComponent} side={"right"} isRounded={isLeft} winGame={winGame} />
                         </>) : null
                     }
                 </div>

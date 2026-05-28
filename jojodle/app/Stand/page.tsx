@@ -106,9 +106,9 @@ export default function Standpage() {
                     <p className={`${archivoBold.className} text-2xl text-white leading-6.5`}>「{showedStand}」</p>
                     <div className="flex gap-4">
                         {triedCharacter.length !== 0 && correctCharacter ? (<>
-                            <HintButtons title="Type Clue" guesses={3} image={TypeClueIcon} attempts={attempts} hint={correctCharacter.Stands[correctStandIndex]["Stand Type"]} receiveHintAndSide={reciveHintAndSideFromComponent} side={"left"} isRounded={isRight} />
-                            <HintButtons title="Part Clue" guesses={5} image={PartClueIcon} attempts={attempts} hint={correctCharacter.Stands[correctStandIndex].Debut} receiveHintAndSide={reciveHintAndSideFromComponent} side={"middle"} isRounded={isMiddle} />
-                            <HintButtons title="Technique Clue" guesses={7} image={TechniqueClueIcon} attempts={attempts} hint={correctCharacter.Stands[correctStandIndex].Technique} receiveHintAndSide={reciveHintAndSideFromComponent} side={"right"} isRounded={isLeft} />
+                            <HintButtons title="Type Clue" guesses={3} image={TypeClueIcon} attempts={attempts} hint={correctCharacter.Stands[correctStandIndex]["Stand Type"]} receiveHintAndSide={reciveHintAndSideFromComponent} side={"left"} isRounded={isRight} winGame={winGame} />
+                            <HintButtons title="Part Clue" guesses={5} image={PartClueIcon} attempts={attempts} hint={correctCharacter.Stands[correctStandIndex].Debut} receiveHintAndSide={reciveHintAndSideFromComponent} side={"middle"} isRounded={isMiddle} winGame={winGame} />
+                            <HintButtons title="Technique Clue" guesses={7} image={TechniqueClueIcon} attempts={attempts} hint={correctCharacter.Stands[correctStandIndex].Technique} receiveHintAndSide={reciveHintAndSideFromComponent} side={"right"} isRounded={isLeft} winGame={winGame} />
                         </>) : null
                         }
                     </div>

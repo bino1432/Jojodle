@@ -12,16 +12,16 @@ export default function MinigameSelector() {
     return(
         <div className="flex gap-2 p-4 bg-[var(--Background)] size-fit rounded-lg m-auto mt-4">
             <Link href={"/Classic"}>
-                <ClassicIcon correctPath="/Classic" currentPath={pathname}/>
+                <ClassicIcon correctPath="/Classic" currentPath={pathname} use="game-selector"/>
             </Link>
             <Link href={"/Stand"}>
-                <StandIcon correctPath="/Stand" currentPath={pathname}/>
+                <StandIcon correctPath="/Stand" currentPath={pathname} use="game-selector"/>
             </Link>
             <Link href={"/Quote"}>
-                <QuoteIcon correctPath="/Quote" currentPath={pathname}/>
+                <QuoteIcon correctPath="/Quote" currentPath={pathname} use="game-selector"/>
             </Link>
             <Link href={"/Pose"}>
-                <PoseIcon correctPath="/Pose" currentPath={pathname}/>
+                <PoseIcon correctPath="/Pose" currentPath={pathname} use="game-selector"/>
             </Link>
         </div>
     )

@@ -11,7 +11,6 @@ import CharacterCard from "@/components/ClassicComponents/CharacterCard";
 import ClassicInfoComponent from "@/components/ClassicComponents/ClassicInfoComponent";
 import Footer from "@/components/UniversalComponents/Footer";
 import SearchInput from "@/components/UniversalComponents/SearchInput";
-import User from "@/components/UniversalComponents/User";
 
 const archivoBold = Archivo({
   subsets: ['latin'],
@@ -86,8 +85,8 @@ export default function Classicpage() {
           <p className={`${archivoBold.className} text-xl text-white leading-5.5 text-balance`}>Take a guess at today's JoJo's Bizarre Adventure character!</p>
           <div className="flex gap-4">
             {triedCharacter.length !== 0 && correctCharacter ? (<>
-              <HintButtons title="Part Clue" guesses={3} image={PartClueIcon} attempts={attempts} hint={correctCharacter.Debut} receiveHintAndSide={receiveHintAndSideFromComponent} side={"left"} isRounded={isRight} />
-              <HintButtons title="Technique Clue" guesses={6} image={TechniqueClueIcon} attempts={attempts} hint={correctCharacter.Technique} receiveHintAndSide={receiveHintAndSideFromComponent} side={"right"} isRounded={isLeft} />
+              <HintButtons title="Part Clue" guesses={3} image={PartClueIcon} attempts={attempts} hint={correctCharacter.Debut} receiveHintAndSide={receiveHintAndSideFromComponent} side={"left"} isRounded={isRight} winGame={winGame} />
+              <HintButtons title="Technique Clue" guesses={6} image={TechniqueClueIcon} attempts={attempts} hint={correctCharacter.Technique} receiveHintAndSide={receiveHintAndSideFromComponent} side={"right"} isRounded={isLeft} winGame={winGame} />
             </>) : null
             }
           </div>
@@ -139,7 +138,7 @@ export default function Classicpage() {
         )}
         <ClassicInfoComponent />
         <Footer />
-        <User />
+
       </div>
     </main >
   );
