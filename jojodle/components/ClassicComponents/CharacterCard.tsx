@@ -75,10 +75,8 @@ export default function CharacterCard({ imageUrl, name, gender, height, age, nat
 
     const verifyHeight = (height: string, correctHeight: string) => {
         if(height.trim() === correctHeight.trim()) {
-            console.log("TA CERTO POHA O NEXT Q É BURRO")
             return true;
         }
-        console.log("TA ERRADO TU Q É BURRO")
         return false;
     }
 
