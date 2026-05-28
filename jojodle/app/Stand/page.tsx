@@ -11,6 +11,7 @@ import standJson from "@/data/json/stand.en.json";
 import Footer from "@/components/UniversalComponents/Footer";
 import SearchInput from "@/components/UniversalComponents/SearchInput";
 import StandCard from "@/components/StandComponents/StandCard";
+import { motion } from 'framer-motion';
 
 const archivoBold = Archivo({
     subsets: ['latin'],
@@ -74,7 +75,7 @@ export default function Standpage() {
         setCurrentHint(hint);
         setSide(side);
         setIsMiddle(!middle);
-        if(middle){
+        if (middle) {
             setIsLeft(!left);
             setIsRight(!right);
         } else {
@@ -102,7 +103,7 @@ export default function Standpage() {
                 <Header />
                 <MinigameSelector />
                 <div className="flex flex-col p-4 bg-[var(--Background)] items-center text-center mt-4  size-fit rounded-lg m-auto gap-4">
-                    <p className={`${archivoBold.className} text-xl text-white leading-5.5 text-balance`}>Take a guess at today's JoJo's <br/> Bizarre Adventure Stand user!</p>
+                    <p className={`${archivoBold.className} text-xl text-white leading-5.5 text-balance`}>Take a guess at today's JoJo's <br /> Bizarre Adventure Stand user!</p>
                     <p className={`${archivoBold.className} text-2xl text-white leading-6.5`}>「{showedStand}」</p>
                     <div className="flex gap-4">
                         {triedCharacter.length !== 0 && correctCharacter ? (<>
@@ -127,17 +128,24 @@ export default function Standpage() {
                                 const characterData = standJson.find(char => char.ID === id);
                                 if (!characterData) return null
 
-                                    return (
+                                return (
                                     correctCharacter && (
-                                        <StandCard
+                                        <motion.div
                                             key={characterData.ID}
-                                            imageUrl={characterData.Image}
-                                            name={characterData.Name}
-                                            character={correctCharacter}
-                                            attemptedCharacter={characterData}
-                                            showedStand={showedStand}
-                                            winGame={receiveIfWinGame}
-                                        />
+                                            initial={{ opacity: 0, y: -20 }}
+                                            animate={{ opacity: 1, y: 0 }}
+                                            transition={{ duration: 0.5, ease: "easeOut" }}
+                                        >
+                                            <StandCard
+                                                key={characterData.ID}
+                                                imageUrl={characterData.Image}
+                                                name={characterData.Name}
+                                                character={correctCharacter}
+                                                attemptedCharacter={characterData}
+                                                showedStand={showedStand}
+                                                winGame={receiveIfWinGame}
+                                            />
+                                        </motion.div>
                                     )
                                 )
                             })}

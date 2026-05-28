@@ -73,6 +73,15 @@ export default function CharacterCard({ imageUrl, name, gender, height, age, nat
         return age;
     }
 
+    const verifyHeight = (height: string, correctHeight: string) => {
+        if(height.trim() === correctHeight.trim()) {
+            console.log("TA CERTO POHA O NEXT Q É BURRO")
+            return true;
+        }
+        console.log("TA ERRADO TU Q É BURRO")
+        return false;
+    }
+
     const getPartNumber = (part: string) => {
         if (part == "Phantom Blood") {
             return 1;
@@ -173,7 +182,7 @@ export default function CharacterCard({ imageUrl, name, gender, height, age, nat
                 justify-center 
                 rounded-lg 
                 ${height != "Unknown" ? "text-xl leading-5.5" : "text-5xl leading-12.5"}
-                ${height == character.Height ? "bg-[var(--Correct)]" : "bg-[var(--Wrong)]"}`}>
+                ${verifyHeight(height, character.Height) ? "bg-[var(--Correct)]" : "bg-[var(--Wrong)]"}`}>
 
                 {
                     attemptCharacterHeight < characterHeight ?

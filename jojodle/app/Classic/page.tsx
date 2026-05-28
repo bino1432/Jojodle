@@ -11,6 +11,7 @@ import CharacterCard from "@/components/ClassicComponents/CharacterCard";
 import ClassicInfoComponent from "@/components/ClassicComponents/ClassicInfoComponent";
 import Footer from "@/components/UniversalComponents/Footer";
 import SearchInput from "@/components/UniversalComponents/SearchInput";
+import { motion } from 'framer-motion';
 
 const archivoBold = Archivo({
   subsets: ['latin'],
@@ -35,7 +36,7 @@ interface Character {
 export default function Classicpage() {
 
   useEffect(() => {
-    const randomCharacter = classicJson[Math.floor(Math.random() * classicJson.length)]
+    const randomCharacter = classicJson[19] //Math.floor(Math.random() * classicJson.length)
     setCorrectCharacter(randomCharacter);
     console.log(attempts)
   }, []);
@@ -62,14 +63,14 @@ export default function Classicpage() {
     setIsRight(right);
     setIsMiddle(middle);
   };
-  
+
   const receiveCharacterIdFromComponent = (id: number) => {
     setTriedCharacter([...triedCharacter, id]);
-      if (triedCharacter.length !== 0) {
-        setAttempts(attempts + 1);
-      }
-      console.log(attempts);
-      console.log(triedCharacter);
+    if (triedCharacter.length !== 0) {
+      setAttempts(attempts + 1);
+    }
+    console.log(attempts);
+    console.log(triedCharacter);
   }
 
   const receiveIfWinGame = (win: boolean) => {
@@ -96,7 +97,7 @@ export default function Classicpage() {
         <div>
           <SearchInput receiveId={receiveCharacterIdFromComponent} characterJson={classicJson} winGame={winGame} />
         </div>
-        {triedCharacter.length !== 0 ? (<div className="flex justify-center gap-[8] text-[var(--White)] text-center mt-4">
+        {triedCharacter.length !== 0 ? (<div className={`${archivoBold.className} flex justify-center gap-[8] text-[var(--White)] text-center mt-4`}>
           <p className="min-w-[96] p-2 rounded-lg bg-[var(--Background)]">Character</p>
           <p className="min-w-[96] p-2 rounded-lg bg-[var(--Background)]">Gender</p>
           <p className="min-w-[96] p-2 rounded-lg bg-[var(--Background)]">Height</p>
@@ -116,7 +117,13 @@ export default function Classicpage() {
 
               return (
                 correctCharacter && (
-                  <CharacterCard
+                  <motion.div
+                    key={characterData.ID}
+                    initial={{ opacity: 0, y: -20 }}
+                    animate={{ opacity: 1, y: 0 }}
+                    transition={{ duration: 0.5, ease: "easeOut" }}
+                  >
+                    <CharacterCard
                     key={characterData.ID}
                     imageUrl={characterData.Image}
                     name={characterData.Name}
@@ -129,8 +136,8 @@ export default function Classicpage() {
                     standType={characterData.StandType}
                     debutPart={characterData.Debut}
                     character={correctCharacter}
-                    winGame={receiveIfWinGame}
-                  />
+                    winGame={receiveIfWinGame} />
+                  </motion.div>
                 )
               );
             })}

@@ -10,6 +10,7 @@ import quoteJsonRaw from "@/data/json/quote.en.json";
 import Footer from "@/components/UniversalComponents/Footer";
 import SearchInput from "@/components/UniversalComponents/SearchInput";
 import QuoteCard from "@/components/QuoteComponents/QuoteCard";
+import { motion } from 'framer-motion';
 
 const quoteJson = quoteJsonRaw as Character[];
 const archivoBold = Archivo({
@@ -62,7 +63,7 @@ export default function Quotepage() {
     const receiveCharacterIdFromComponent = (id: number) => {
         setTriedCharacter([...triedCharacter, id]);
         if (triedCharacter.length !== 0) {
-        setAttempts(attempts + 1);
+            setAttempts(attempts + 1);
         }
         console.log(attempts);
         console.log(triedCharacter);
@@ -73,8 +74,8 @@ export default function Quotepage() {
     };
 
     const verifyQuote = (quotes: QuoteItem[]) => {
-    const randomQuote = quotes[Math.floor(Math.random() * quotes.length)].Quote;
-    return randomQuote;
+        const randomQuote = quotes[Math.floor(Math.random() * quotes.length)].Quote;
+        return randomQuote;
     };
 
     const receiveHintAndSideFromComponent = (hint: string, side: string, left: boolean, middle: boolean, right: boolean) => {
@@ -87,52 +88,59 @@ export default function Quotepage() {
 
     return (
         <main>
-        <div>
-            <Header />
-            <MinigameSelector />
-            <div className="flex flex-col p-4 bg-[var(--Background)] items-center text-center mt-4 max-w-138 rounded-lg m-auto gap-4">
-                <p className={`${archivoBold.className} text-xl text-white leading-5.5 text-balance`}>Take a guess at today’s JoJo’s Bizarre Adventure quote!</p>
-                <p className={`${archivoBold.className} text-2xl text-white leading-6.5`}>“{showedQuote}”</p>
-                <div className="flex gap-4">
-                    {triedCharacter.length !== 0 && correctCharacter ? (<>
-                        <HintButtons title="Part Clue" guesses={3} image={PartClueIcon} attempts={attempts} hint={selectedQuote ? selectedQuote.Part : ""} receiveHintAndSide={receiveHintAndSideFromComponent} side={"left"} isRounded={isRight} winGame={winGame} />
-                        <HintButtons title="Target Clue" guesses={6} image={TargeClueIcon} attempts={attempts} hint={selectedQuote ? selectedQuote.Target : ""} receiveHintAndSide={receiveHintAndSideFromComponent} side={"right"} isRounded={isLeft} winGame={winGame} />
-                        </>) : null
-                    }
-                </div>
-                <p className={currentHint == "" ? "hidden" : `${archivoBold.className} text-white p-2 w-90 bg-[var(--Primary)] rounded-lg
-                ${side == "left" ? "rounded-tl-none" : "rounded-tr-none"}`} id="fadeIn">{currentHint}</p>
-            </div>
-
             <div>
-                <SearchInput receiveId={receiveCharacterIdFromComponent} characterJson={quoteJson} winGame={winGame} />
-            </div>
+                <Header />
+                <MinigameSelector />
+                <div className="flex flex-col p-4 bg-[var(--Background)] items-center text-center mt-4 max-w-138 rounded-lg m-auto gap-4">
+                    <p className={`${archivoBold.className} text-xl text-white leading-5.5 text-balance`}>Take a guess at today’s JoJo’s Bizarre Adventure quote!</p>
+                    <p className={`${archivoBold.className} text-2xl text-white leading-6.5`}>“{showedQuote}”</p>
+                    <div className="flex gap-4">
+                        {triedCharacter.length !== 0 && correctCharacter ? (<>
+                            <HintButtons title="Part Clue" guesses={3} image={PartClueIcon} attempts={attempts} hint={selectedQuote ? selectedQuote.Part : ""} receiveHintAndSide={receiveHintAndSideFromComponent} side={"left"} isRounded={isRight} winGame={winGame} />
+                            <HintButtons title="Target Clue" guesses={6} image={TargeClueIcon} attempts={attempts} hint={selectedQuote ? selectedQuote.Target : ""} receiveHintAndSide={receiveHintAndSideFromComponent} side={"right"} isRounded={isLeft} winGame={winGame} />
+                        </>) : null
+                        }
+                    </div>
+                    <p className={currentHint == "" ? "hidden" : `${archivoBold.className} text-white p-2 w-90 bg-[var(--Primary)] rounded-lg
+                ${side == "left" ? "rounded-tl-none" : "rounded-tr-none"}`} id="fadeIn">{currentHint}</p>
+                </div>
+
+                <div>
+                    <SearchInput receiveId={receiveCharacterIdFromComponent} characterJson={quoteJson} winGame={winGame} />
+                </div>
 
                 <div className="mt-4">
                     {triedCharacter.length !== 0 && (
                         <div className="flex flex-col-reverse relative">
                             {triedCharacter.map((id) => {
                                 const characterData = quoteJson.find(char => char.ID === id);
-                                if(!characterData) return null
+                                if (!characterData) return null
 
                                 return (
                                     correctCharacter && (
-                                        <QuoteCard
+
+                                        <motion.div
                                             key={characterData.ID}
-                                            imageUrl={characterData.Image}
-                                            name={characterData.Name}
-                                            character={correctCharacter}
-                                            winGame={receiveIfWinGame}
-                                        />
+                                            initial={{ opacity: 0, y: -20 }}
+                                            animate={{ opacity: 1, y: 0 }}
+                                            transition={{ duration: 0.5, ease: "easeOut" }}
+                                        >
+                                            <QuoteCard
+                                                key={characterData.ID}
+                                                imageUrl={characterData.Image}
+                                                name={characterData.Name}
+                                                character={correctCharacter}
+                                                winGame={receiveIfWinGame}
+                                            />
+                                        </motion.div>
                                     )
                                 )
                             })}
                         </div>
                     )}
                 </div>
-
-            <Footer />
-        </div>
+                <Footer />
+            </div>
         </main>
     );
 }
