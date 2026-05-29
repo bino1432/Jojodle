@@ -34,7 +34,7 @@ type Character = {
 
 type CharactersByPart = Record<string, Character[]>;
 
-const PART_ORDER = ["PB", "BT", "SC", "DiU", "VA", "SO", "SBR", "JJL", "TJJL"] as const;
+const partOrder = ["PB", "BT", "SC", "DiU", "VA", "SO", "SBR", "JJL", "TJJL"] as const;
 
 function groupByPart(raw: RawCharacter[]): CharactersByPart {
   const map: CharactersByPart = {};
@@ -51,20 +51,26 @@ function groupByPart(raw: RawCharacter[]): CharactersByPart {
   return map;
 }
 
-const CHARACTERS_BY_PART = groupByPart(rawCharacters as RawCharacter[]);
+const charactersByPart = groupByPart(rawCharacters as RawCharacter[]);
 
-const PAGE_SIZE = 10;
+const pageSize = 10;
 
-export default function CharacterSelector({ onClose }: { onClose: () => void }) {
-  const [activePart, setActivePart] = useState<string>(PART_ORDER[0]);
+export default function CharacterSelector({
+  onClose,
+  onConfirm,
+}: {
+  onClose: () => void;
+  onConfirm: (character: Character) => void;
+}) {
+  const [activePart, setActivePart] = useState<string>(partOrder[0]);
   const [page, setPage]             = useState(0);
   const [selected, setSelected]     = useState<Character | null>(null);
 
-  const characters = CHARACTERS_BY_PART[activePart] ?? [];
-  const totalPages = Math.ceil(characters.length / PAGE_SIZE);
+  const characters = charactersByPart[activePart] ?? [];
+  const totalPages = Math.ceil(characters.length / pageSize);
 
   const pageCharacters = useMemo(
-    () => characters.slice(page * PAGE_SIZE, (page + 1) * PAGE_SIZE),
+    () => characters.slice(page * pageSize, (page + 1) * pageSize),
     [characters, page]
   );
 
@@ -81,12 +87,14 @@ export default function CharacterSelector({ onClose }: { onClose: () => void }) 
           <h2 className={`${archivoBold.className} text-[var(--White)] text-xl`}>
             「Cinderella」
           </h2>
-          <CloseIcon />
+          <button onClick={onClose}>
+              <CloseIcon />
+          </button>
         </div>
 
       <div className="">
           <div className="bg-[var(--Background)] flex justify-between items-end gap-1">
-              {PART_ORDER.map((part) => (
+              {partOrder.map((part) => (
               <button
                   key={part}
                   onClick={() => handleTabChange(part)}
@@ -156,15 +164,15 @@ export default function CharacterSelector({ onClose }: { onClose: () => void }) 
         </div>
 
         <div className="flex gap-2 justify-center">
+          <button onClick={onClose} className={`${archivoBold.className} flex items-center h-9 px-3 rounded-sm cursor-pointer text-[var(--White)] text-xl bg-[var(--Accent)] hover:bg-[var(--Light)]`}>
+            I refuse.
+          </button>
           <button
-            onClick={onClose}
+            onClick={() => { if (selected) onConfirm(selected); }}
             disabled={!selected}
             className={`${archivoBold.className} flex items-center h-9 px-3 rounded-sm cursor-pointer text-[var(--White)] text-xl bg-[var(--Primary)] hover:bg-[var(--Light)] disabled:opacity-40`}
           >
             YES, I AM!
-          </button>
-          <button onClick={onClose} className={`${archivoBold.className} flex items-center h-9 px-3 rounded-sm cursor-pointer text-[var(--White)] text-xl bg-[var(--Accent)] hover:bg-[var(--Light)]`}>
-            I refuse.
           </button>
         </div>
       </div>

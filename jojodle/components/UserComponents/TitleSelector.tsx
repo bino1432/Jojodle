@@ -25,19 +25,19 @@ type RawTitle = {
 
 type TitlesByPart = Record<string, string[]>;
 
-const PART_LABELS: Record<string, string> = {
-  "Phantom Blood":        "PB",
-  "Battle Tendency":      "BT",
-  "Stardust Crusaders":   "SC",
+const partLabels: Record<string, string> = {
+  "Phantom Blood":"PB",
+  "Battle Tendency":"BT",
+  "Stardust Crusaders":"SC",
   "Diamond is Ubreakable":"DiU",
-  "Vento Aureo":          "VA",
-  "Stone Ocean":          "SO",
-  "Steel Ball Run":       "SBR",
-  "JoJolion":             "JJL",
-  "The JOJOLands":        "TJJL",
+  "Vento Aureo":"VA",
+  "Stone Ocean": "SO",
+  "Steel Ball Run":"SBR",
+  "JoJolion":"JJL",
+  "The JOJOLands":"TJJL",
 };
 
-const PART_ORDER = Object.keys(PART_LABELS);
+const partOrder = Object.keys(partLabels);
 
 function groupByPart(raw: RawTitle[]): TitlesByPart {
   const map: TitlesByPart = {};
@@ -48,20 +48,28 @@ function groupByPart(raw: RawTitle[]): TitlesByPart {
   return map;
 }
 
-const TITLES_BY_PART = groupByPart(rawTitles as RawTitle[]);
+const titlesByPart = groupByPart(rawTitles as RawTitle[]);
 
-const PAGE_SIZE = 10;
+const pageSize = 10;
 
-export default function TitleSelector({ currentTitle, onClose }: { currentTitle?: string; onClose: () => void }) {
-  const [activePart, setActivePart] = useState<string>(PART_ORDER[0]);
-  const [page, setPage]             = useState(0);
-  const [selected, setSelected]     = useState<string | null>(null);
+export default function TitleSelector({
+  currentTitle,
+  onClose,
+  onConfirm,
+}: {
+  currentTitle?: string;
+  onClose: () => void;
+  onConfirm: (title: string) => void;
+}) {
+  const [activePart, setActivePart] = useState<string>(partOrder[0]);
+  const [page, setPage]  = useState(0);
+  const [selected, setSelected]  = useState<string | null>(null);
 
-  const titles = TITLES_BY_PART[activePart] ?? [];
-  const totalPages = Math.ceil(titles.length / PAGE_SIZE);
+  const titles = titlesByPart[activePart] ?? [];
+  const totalPages = Math.ceil(titles.length / pageSize);
 
   const pageTitles = useMemo(
-    () => titles.slice(page * PAGE_SIZE, (page + 1) * PAGE_SIZE),
+    () => titles.slice(page * pageSize, (page + 1) * pageSize),
     [titles, page]
   );
 
@@ -78,7 +86,7 @@ export default function TitleSelector({ currentTitle, onClose }: { currentTitle?
           <h2 className={`${archivoBold.className} text-[var(--White)] text-xl`}>
             Choose your title!
           </h2>
-          <button onClick={onClose} aria-label="Close">
+          <button onClick={onClose}>
               <CloseIcon />
           </button>
         </div>
@@ -94,7 +102,7 @@ export default function TitleSelector({ currentTitle, onClose }: { currentTitle?
 
         <div>
           <div className="bg-[var(--Background)] flex justify-between items-end gap-1">
-            {PART_ORDER.map((part) => (
+            {partOrder.map((part) => (
               <button
                 key={part}
                 onClick={() => handleTabChange(part)}
@@ -106,13 +114,13 @@ export default function TitleSelector({ currentTitle, onClose }: { currentTitle?
                     : "hover:bg-[var(--Light)] transition-colors h-8"}
                 `}
               >
-                {PART_LABELS[part]}
+                {partLabels[part]}
               </button>
             ))}
           </div>
 
           <div className="bg-[var(--Primary)] rounded-b-lg p-2 flex flex-col gap-2">
-            <div className="flex flex-wrap gap-2 justify-center w-104">
+            <div className="flex flex-wrap gap-1 justify-center w-104">
               {pageTitles.map((title) => (
                 <button
                   key={title}
@@ -158,15 +166,15 @@ export default function TitleSelector({ currentTitle, onClose }: { currentTitle?
         </div>
 
         <div className="flex gap-2 justify-center">
+          <button onClick={onClose} className={`${archivoBold.className} flex items-center h-9 px-3 rounded-sm cursor-pointer text-[var(--White)] text-xl bg-[var(--Accent)] hover:bg-[var(--Light)]`}>
+            I refuse.
+          </button>
           <button
-            onClick={onClose}
+            onClick={() => { if (selected) onConfirm(selected); }}
             disabled={!selected}
             className={`${archivoBold.className} flex items-center h-9 px-3 rounded-sm cursor-pointer text-[var(--White)] text-xl bg-[var(--Primary)] hover:bg-[var(--Light)] disabled:opacity-40`}
           >
             YES, I AM!
-          </button>
-          <button onClick={onClose} className={`${archivoBold.className} flex items-center h-9 px-3 rounded-sm cursor-pointer text-[var(--White)] text-xl bg-[var(--Accent)] hover:bg-[var(--Light)]`}>
-            I refuse.
           </button>
         </div>
       </div>

@@ -7,11 +7,15 @@ interface Pathname {
 export default function StandIcon({ correctPath, currentPath, use }: Pathname) {
     let size: string;
     let color: string;
-
+    
     switch (use) {
         case "user":
             size = "w-6";
             color = "text-[var(--Primary)] group-hover:text-[var(--White)]";
+            break;
+        case "user-white":
+            size = "w-6";
+            color = "text-[var(--White)]";
             break;
         case "modal":
             size = "w-6";

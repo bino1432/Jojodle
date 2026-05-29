@@ -13,6 +13,10 @@ export default function QuoteIcon({ correctPath, currentPath, use }: Pathname) {
             size = "w-6";
             color = "text-[var(--Primary)] group-hover:text-[var(--White)]";
             break;
+        case "user-white":
+            size = "w-6";
+            color = "text-[var(--White)]";
+            break;
         case "modal":
             size = "w-6";
             color = "text-[var(--Primary)]";

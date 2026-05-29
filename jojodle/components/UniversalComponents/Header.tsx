@@ -14,7 +14,7 @@ import HelpClassic from "@/components/ClassicComponents/HelpClassic";
 import HelpStand from "@/components/StandComponents/HelpStand";
 import HelpQuote from "@/components/QuoteComponents/HelpQuote";
 import HelpPose from "@/components/PoseComponents/HelpPose";
-import User from "@/components/UniversalComponents/User";
+import User from "@/components/UserComponents/User";
 
 const helpModals: Record<string, React.ComponentType<{ onClose: () => void }>> = {
     "/": Help,
