@@ -11,6 +11,7 @@ import CharacterCard from "@/components/ClassicComponents/CharacterCard";
 import ClassicInfoComponent from "@/components/ClassicComponents/ClassicInfoComponent";
 import Footer from "@/components/UniversalComponents/Footer";
 import SearchInput from "@/components/UniversalComponents/SearchInput";
+import GuessedInfo from "@/components/UniversalComponents/GuessedInfo";
 import { motion } from 'framer-motion';
 
 const archivoBold = Archivo({
@@ -36,7 +37,7 @@ interface Character {
 export default function Classicpage() {
 
   useEffect(() => {
-    const randomCharacter = classicJson[19] //Math.floor(Math.random() * classicJson.length)
+    const randomCharacter = classicJson[Math.floor(Math.random() * classicJson.length)]
     setCorrectCharacter(randomCharacter);
     console.log(attempts)
   }, []);
@@ -144,6 +145,11 @@ export default function Classicpage() {
           </div>
         )}
         <ClassicInfoComponent />
+
+        {winGame && correctCharacter && (
+          <GuessedInfo name={correctCharacter.Name} image={correctCharacter.Image} tries={attempts} />
+        )}
+
         <Footer />
 
       </div>

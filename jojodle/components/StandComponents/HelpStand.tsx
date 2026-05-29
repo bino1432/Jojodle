@@ -28,12 +28,15 @@ export default function HelpStand({ onClose }: { onClose: () => void }) {
                         <CloseIcon />
                     </button>
                 </div>
+                
                 <div className='bg-[var(--Accent)] w-fit p-4 rounded-lg'>
                     <h2 className={`${archivoBold.className} text-[var(--White)] text-2xl leading-5.5`}>Guess the character based on the name of their Stand.</h2>
                 </div>
+                
                 <p className={`${archivoRegular.className} text-[var(--White)] text-xl`}>On this mode, each version of a character is counted together.</p>
                 <p className={`${archivoRegular.className} text-[var(--White)] text-xl`}>Each version of a Stand is counted seperately, such as Echoes or Tusk’s ACTs, or King Crimson and Epitaph.</p>
                 <p className={`${archivoRegular.className} text-[var(--White)] text-xl`}>For characters that share the same Stand, such as Gappy and Josefumi, both answers are correct.</p>
+                
                 <div className='flex flex-col gap-2'>
                     <p className={`${archivoBold.className} text-[var(--White)] text-xl`}>Game Example</p>
                     <div className='flex gap-2'>
@@ -51,6 +54,7 @@ export default function HelpStand({ onClose }: { onClose: () => void }) {
                         <p className={`${archivoBold.className} text-[var(--White)] text-2xl`}>Jotaro Kujo</p>
                     </div>
                 </div>
+                
                 <div className='flex flex-col gap-2'>
                     <p className={`${archivoBold.className} text-[var(--White)] text-xl`}>Clues</p>
                     <p className={`${archivoRegular.className} text-[var(--White)] text-xl`}>Clues give you some information on the character of the day.</p>
@@ -89,7 +93,9 @@ export default function HelpStand({ onClose }: { onClose: () => void }) {
                     </div>
                     <p className={`${archivoRegular.className} text-[var(--White)] text-xl leading-5`}>For this mode, the clues are revealed on the 4th, 6th and 8th guesses, respectively.</p>
                 </div>
+                
                 <p className={`${archivoRegular.className} text-[var(--White)] text-xl leading-5`}>If you have any other questions or want to report a bug, please feel free to contact us on the official <a className='text-[var(--Primary)]' href='https://github.com/bino1432/Jojodle'>GitHub</a> page for JoJodle.</p>
+                
                 <div className='w-full flex justify-end'>
                     <button onClick={onClose} className={`${archivoBold.className} flex items-center h-9.5 p-2 rounded-sm cursor-pointer text-[var(--White)] text-xl bg-[var(--Primary)] hover:bg-[var(--Light)] transition-colors`}>
                         Okay, Master!

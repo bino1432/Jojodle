@@ -11,6 +11,7 @@ import standJson from "@/data/json/stand.en.json";
 import Footer from "@/components/UniversalComponents/Footer";
 import SearchInput from "@/components/UniversalComponents/SearchInput";
 import StandCard from "@/components/StandComponents/StandCard";
+import GuessedInfo from "@/components/UniversalComponents/GuessedInfo";
 import { motion } from 'framer-motion';
 
 const archivoBold = Archivo({
@@ -152,6 +153,11 @@ export default function Standpage() {
                         </div>
                     )}
                 </div>
+                
+                {winGame && correctCharacter && (
+                    <GuessedInfo name={correctCharacter.Name} image={correctCharacter.Image} tries={attempts} />
+                )}
+
                 <Footer />
             </div>
         </main>

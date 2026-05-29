@@ -10,6 +10,7 @@ import quoteJsonRaw from "@/data/json/quote.en.json";
 import Footer from "@/components/UniversalComponents/Footer";
 import SearchInput from "@/components/UniversalComponents/SearchInput";
 import QuoteCard from "@/components/QuoteComponents/QuoteCard";
+import GuessedInfo from "@/components/UniversalComponents/GuessedInfo";
 import { motion } from 'framer-motion';
 
 const quoteJson = quoteJsonRaw as Character[];
@@ -139,6 +140,11 @@ export default function Quotepage() {
                         </div>
                     )}
                 </div>
+                
+                {winGame && correctCharacter && (
+                    <GuessedInfo name={correctCharacter.Name} image={correctCharacter.Image} tries={attempts} />
+                )}
+
                 <Footer />
             </div>
         </main>

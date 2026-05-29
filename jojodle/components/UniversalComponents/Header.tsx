@@ -14,6 +14,7 @@ import HelpClassic from "@/components/ClassicComponents/HelpClassic";
 import HelpStand from "@/components/StandComponents/HelpStand";
 import HelpQuote from "@/components/QuoteComponents/HelpQuote";
 import HelpPose from "@/components/PoseComponents/HelpPose";
+import User from "@/components/UniversalComponents/User";
 
 const helpModals: Record<string, React.ComponentType<{ onClose: () => void }>> = {
     "/": Help,
@@ -27,6 +28,7 @@ export default function Header() {
     const [showInfo, setShowInfo] = useState(false);
     const [showUpdates, setShowUpdates] = useState(false);
     const [showHelp, setShowHelp] = useState(false);
+    const [showUser, setShowUser] = useState(false);
 
     const pathname = usePathname();
     const HelpModal = helpModals[pathname] ?? Help;
@@ -50,7 +52,7 @@ export default function Header() {
                     <Image src={helpIcon} alt="Help-Icon" />
                 </button>
 
-                <button className="cursor-pointer p-4 bg-[var(--Background)] rounded-xl hover:bg-[var(--Accent)] transition-colors">
+                <button onClick={() => setShowUser(true)} className="cursor-pointer p-4 bg-[var(--Background)] rounded-xl hover:bg-[var(--Accent)] transition-colors">
                     <Image src={playerIcon} alt="Player-Icon" />
                 </button>
             </div>
@@ -58,6 +60,7 @@ export default function Header() {
             {showInfo && <Info onClose={() => setShowInfo(false)} />}
             {showUpdates && <Updates onClose={() => setShowUpdates(false)} />}
             {showHelp && <HelpModal onClose={() => setShowHelp(false)} />}
+            {showUser && <User onClose={() => setShowUser(false)} />}
         </header>
     );
 }

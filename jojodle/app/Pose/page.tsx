@@ -11,6 +11,7 @@ import poseJson from "@/data/json/pose.en.json";
 import Footer from "@/components/UniversalComponents/Footer";
 import SearchInput from "@/components/UniversalComponents/SearchInput";
 import PoseCard from "@/components/PoseComponents/PoseCard";
+import GuessedInfo from "@/components/UniversalComponents/GuessedInfo";
 import { motion } from 'framer-motion';
 
 const archivoBold = Archivo({
@@ -188,6 +189,10 @@ export default function Classicpage() {
                         </div>
                     )}
                 </div>
+
+                {winGame && correctCharacter && (
+                    <GuessedInfo name={correctCharacter.Name} image={correctCharacter.Image} tries={attempts} />
+                )}
 
                 <Footer />
             </div>
