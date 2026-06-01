@@ -12,12 +12,7 @@ import SearchInput from "@/components/UniversalComponents/SearchInput";
 import QuoteCard from "@/components/QuoteComponents/QuoteCard";
 import GuessedInfo from "@/components/UniversalComponents/GuessedInfo";
 import { motion } from 'framer-motion';
-
-const quoteJson = quoteJsonRaw as Character[];
-const archivoBold = Archivo({
-    subsets: ["latin"],
-    weight: "700",
-});
+import { useDailyAnswer } from "@/context/DailyAnswerContext";
 
 interface QuoteItem {
     Quote: string;
@@ -32,23 +27,30 @@ interface Character {
     Image: string;
 }
 
+const quoteJson = quoteJsonRaw as Character[];
+
+const archivoBold = Archivo({ subsets: ["latin"], weight: "700" });
+
 export default function Quotepage() {
-    useEffect(() => {
-        const randomCharacter = quoteJson[Math.floor(Math.random() * quoteJson.length)];
-        setCorrectCharacter(randomCharacter);
-        const randomQuoteItem = randomCharacter.Quotes[Math.floor(Math.random() * randomCharacter.Quotes.length)];
-        setShowedQuote(randomQuoteItem.Quote);
-        setSelectedQuote(randomQuoteItem);
-        console.log(attempts);
-    }, []);
+    const { answers, loading } = useDailyAnswer();
 
-    const [correctCharacter, setCorrectCharacter] = useState<Character | null>(
-        null,
-    );
+    const [correctCharacter, setCorrectCharacter] = useState<Character | null>(null);
+    const [selectedQuote, setSelectedQuote] = useState<QuoteItem | null>(null);
+    const [showedQuote, setShowedQuote] = useState("");
 
     useEffect(() => {
-        console.log(correctCharacter);
-    }, [correctCharacter]);
+        if (!loading && answers) {
+            const character = quoteJson.find(c => c.ID === answers.quote) ?? null;
+            setCorrectCharacter(character);
+            if (character) {
+                const quote = character.Quotes[answers.quoteIndex] ?? character.Quotes[0];
+                setSelectedQuote(quote);
+                setShowedQuote(quote.Quote);
+            }
+        }
+    }, [loading, answers]);
+
+    useEffect(() => { console.log(correctCharacter); }, [correctCharacter]);
 
     const [triedCharacter, setTriedCharacter] = useState<number[]>([]);
     const [attempts, setAttempts] = useState(0);
@@ -58,26 +60,13 @@ export default function Quotepage() {
     const [isRight, setIsRight] = useState(false);
     const [isMiddle, setIsMiddle] = useState(false);
     const [winGame, setWinGame] = useState(false);
-    const [showedQuote, setShowedQuote] = useState("");
-    const [selectedQuote, setSelectedQuote] = useState<QuoteItem | null>(null);
 
     const receiveCharacterIdFromComponent = (id: number) => {
         setTriedCharacter([...triedCharacter, id]);
-        if (triedCharacter.length !== 0) {
-            setAttempts(attempts + 1);
-        }
-        console.log(attempts);
-        console.log(triedCharacter);
+        if (triedCharacter.length !== 0) setAttempts(attempts + 1);
     };
 
-    const receiveIfWinGame = (win: boolean) => {
-        setWinGame(win);
-    };
-
-    const verifyQuote = (quotes: QuoteItem[]) => {
-        const randomQuote = quotes[Math.floor(Math.random() * quotes.length)].Quote;
-        return randomQuote;
-    };
+    const receiveIfWinGame = (win: boolean) => setWinGame(win);
 
     const receiveHintAndSideFromComponent = (hint: string, side: string, left: boolean, middle: boolean, right: boolean) => {
         setCurrentHint(hint);
@@ -93,17 +82,15 @@ export default function Quotepage() {
                 <Header />
                 <MinigameSelector />
                 <div className="flex flex-col p-4 bg-[var(--Background)] items-center text-center mt-4 max-w-138 rounded-lg m-auto gap-4">
-                    <p className={`${archivoBold.className} text-xl text-white leading-5.5 text-balance`}>Take a guess at today’s JoJo’s Bizarre Adventure quote!</p>
-                    <p className={`${archivoBold.className} text-2xl text-white leading-6.5`}>“{showedQuote}”</p>
+                    <p className={`${archivoBold.className} text-xl text-white leading-5.5 text-balance`}>Take a guess at today's JoJo's Bizarre Adventure quote!</p>
+                    <p className={`${archivoBold.className} text-2xl text-white leading-6.5`}>"{showedQuote}"</p>
                     <div className="flex gap-4">
                         {triedCharacter.length !== 0 && correctCharacter ? (<>
-                            <HintButtons title="Part Clue" guesses={3} image={PartClueIcon} attempts={attempts} hint={selectedQuote ? selectedQuote.Part : ""} receiveHintAndSide={receiveHintAndSideFromComponent} side={"left"} isRounded={isRight} winGame={winGame} />
-                            <HintButtons title="Target Clue" guesses={6} image={TargeClueIcon} attempts={attempts} hint={selectedQuote ? selectedQuote.Target : ""} receiveHintAndSide={receiveHintAndSideFromComponent} side={"right"} isRounded={isLeft} winGame={winGame} />
-                        </>) : null
-                        }
+                            <HintButtons title="Part Clue" guesses={3} image={PartClueIcon} attempts={attempts} hint={selectedQuote?.Part ?? ""} receiveHintAndSide={receiveHintAndSideFromComponent} side={"left"} isRounded={isRight} winGame={winGame} />
+                            <HintButtons title="Target Clue" guesses={6} image={TargeClueIcon} attempts={attempts} hint={selectedQuote?.Target ?? ""} receiveHintAndSide={receiveHintAndSideFromComponent} side={"right"} isRounded={isLeft} winGame={winGame} />
+                        </>) : null}
                     </div>
-                    <p className={currentHint == "" ? "hidden" : `${archivoBold.className} text-white p-2 w-90 bg-[var(--Primary)] rounded-lg
-                ${side == "left" ? "rounded-tl-none" : "rounded-tr-none"}`} id="fadeIn">{currentHint}</p>
+                    <p className={currentHint == "" ? "hidden" : `${archivoBold.className} text-white p-2 w-90 bg-[var(--Primary)] rounded-lg ${side == "left" ? "rounded-tl-none" : "rounded-tr-none"}`} id="fadeIn">{currentHint}</p>
                 </div>
 
                 <div>
@@ -115,17 +102,10 @@ export default function Quotepage() {
                         <div className="flex flex-col-reverse relative">
                             {triedCharacter.map((id) => {
                                 const characterData = quoteJson.find(char => char.ID === id);
-                                if (!characterData) return null
-
+                                if (!characterData) return null;
                                 return (
                                     correctCharacter && (
-
-                                        <motion.div
-                                            key={characterData.ID}
-                                            initial={{ opacity: 0, y: -20 }}
-                                            animate={{ opacity: 1, y: 0 }}
-                                            transition={{ duration: 0.5, ease: "easeOut" }}
-                                        >
+                                        <motion.div key={characterData.ID} initial={{ opacity: 0, y: -20 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.5, ease: "easeOut" }}>
                                             <QuoteCard
                                                 key={characterData.ID}
                                                 imageUrl={characterData.Image}
@@ -135,16 +115,15 @@ export default function Quotepage() {
                                             />
                                         </motion.div>
                                     )
-                                )
+                                );
                             })}
                         </div>
                     )}
                 </div>
-                
+
                 {winGame && correctCharacter && (
                     <GuessedInfo name={correctCharacter.Name} image={correctCharacter.Image} tries={attempts} />
                 )}
-
                 <Footer />
             </div>
         </main>

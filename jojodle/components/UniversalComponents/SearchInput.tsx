@@ -91,7 +91,7 @@ export default function SearchInput({receiveId, winGame, characterJson}: inputPr
 
     return (
         <div className={winGame ? "hidden" : ""}>
-            <div className='flex gap-2 p-[8] bg-[var(--Background)] rounded-lg mt-4 m-auto max-w-[464]'>
+            <div className='flex gap-2 p-[8] bg-[var(--Background)] rounded-lg mt-4 m-auto h-16 w-102'>
                 <input
                     autoFocus
                     disabled={winGame}
@@ -105,11 +105,10 @@ export default function SearchInput({receiveId, winGame, characterJson}: inputPr
                     }}
                     onKeyDown={handleKeyDown}
                     className={`${archivoBold.className} rounded-lg bg-[var(--Accent)] max-w-[392] w-full placeholder-[var(--Cloudy)] pl-[8] text-[var(--White)] text-xl outline-none`} />
-                <Image src={sendIcon} alt="Send Icon" className='cursor-pointer' />
             </div>
             <div
                 ref={listRef}
-                className={`bg-[var(--Background)] z-10 ${query == "" ? "" : "p-[8]"} mt-1 min-w-[392] max-h-[296] m-auto overflow-y-auto absolute justify-self-center`}
+                className={`bg-[var(--Background)] z-10 ${query == "" ? "" : "p-[8]"} mt-1 w-102 max-h-[296] mb-4 m-auto overflow-y-auto absolute justify-self-center rounded-lg`}
                 style={{
                     scrollbarWidth: 'thin',
                     scrollbarColor: `var(--Accent) transparent`,
@@ -122,32 +121,34 @@ export default function SearchInput({receiveId, winGame, characterJson}: inputPr
                     .scrollbar-custom::-webkit-scrollbar-thumb:hover { background: var(--Primary); }
                 `}</style>
                 {showList && query.trim() !== "" && (
-                <div className="scrollbar-custom rounded-sm truncate z-[2]">
-                    {filtered.length > 0 ? (
+                <div className="mb-2">
+                    <div className="scrollbar-custom rounded-sm truncate z-[2]">
+                        {filtered.length > 0 ? (
                         filtered.map((char, index) => (
                             <button
-                                key={char.ID}
-                                ref={el => { itemRefs.current[index] = el; }}
-                                onClick={() => handleSelect(char.ID)}
-                                className={`${archivoBold.className} text-[var(--White)] text-xl flex items-center gap-2 w-full text-left px-[4] py-[4] bg-[var(--Accent)] ${
-                                    index === highlightedIndex
-                                        ? "bg-[var(--Primary)]"
-                                        : "hover:bg-[var(--Primary)] transition-colors"
-                                }`}
+                            key={char.ID}
+                            ref={el => { itemRefs.current[index] = el; }}
+                            onClick={() => handleSelect(char.ID)}
+                            className={`${archivoBold.className} text-[var(--White)] text-xl flex items-center gap-2 w-full text-left px-[4] py-[4] bg-[var(--Accent)] ${
+                                index === highlightedIndex
+                                ? "bg-[var(--Primary)]"
+                                : "hover:bg-[var(--Primary)] transition-colors"
+                            }`}
                             >
-                                <Image
-                                    src={char.Image}
-                                    alt={char.Name}
-                                    width={48}
-                                    height={48}
-                                    className="rounded-lg"
-                                />
-                                <span>{char.Name}</span>
+                            <Image
+                                src={char.Image}
+                                alt={char.Name}
+                                width={48}
+                                height={48}
+                                className="rounded-lg"
+                            />
+                            <span>{char.Name}</span>
                             </button>
                         ))
-                    ) : (
+                        ) : (
                         <p className={`${archivoBold.className} text-[var(--Cloudy)] px-4 py-2`}>No characters found.</p>
-                    )}
+                        )}
+                    </div>
                 </div>
             )}
             </div>

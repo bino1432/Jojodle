@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import "./globals.css";
 import { UserProvider } from "@/context/UserContext";
+import { DailyAnswerProvider } from "@/context/DailyAnswerContext";
 
 export const metadata: Metadata = {
   title: "JoJodle",
@@ -16,7 +17,9 @@ export default function RootLayout({
     <html lang="en">
       <body className="bg-[url('/images/image/background-image.png')] bg-repeat vsc-initialized">
         <UserProvider>
-          {children}
+          <DailyAnswerProvider>
+            {children}
+          </DailyAnswerProvider>
         </UserProvider>
       </body>
     </html>

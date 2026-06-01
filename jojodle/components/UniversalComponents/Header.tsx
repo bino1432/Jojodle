@@ -2,10 +2,12 @@
 import { useState } from "react";
 import { usePathname } from "next/navigation";
 import Image from "next/image";
+import calendarIcon from "@/public/images/icon/Calendar-Icon.svg"
 import updateIcon from "@/public/images/icon/Updates-Icon.svg"
 import infoIcon from "@/public/images/icon/Info-Icon.svg"
 import playerIcon from "@/public/images/icon/Player-Icon.svg"
 import helpIcon from "@/public/images/icon/Help-Icon.svg"
+import leaderboardIcon from "@/public/images/icon/Leaderboard-Icon.svg"
 import Outralogo from "@/public/images/image/Logo.png"
 import Info from "@/components/UniversalComponents/Info";
 import Updates from "@/components/UniversalComponents/Updates";
@@ -36,6 +38,10 @@ export default function Header() {
     return (
         <header className="mt-8">
             <div className="flex justify-center items-center gap-4">
+                <button className="cursor-pointer p-4 bg-[var(--Background)] rounded-xl hover:bg-[var(--Accent)] transition-colors">
+                    <Image src={calendarIcon} alt="Calendar-Icon" />
+                </button>
+                
                 <button onClick={() => setShowUpdates(true)} className="cursor-pointer p-4 bg-[var(--Background)] rounded-xl hover:bg-[var(--Accent)] transition-colors">
                     <Image src={updateIcon} alt="Update-Icon" />
                 </button>
@@ -50,6 +56,10 @@ export default function Header() {
 
                 <button onClick={() => setShowHelp(true)} className="cursor-pointer p-4 bg-[var(--Background)] rounded-xl hover:bg-[var(--Accent)] transition-colors">
                     <Image src={helpIcon} alt="Help-Icon" />
+                </button>
+
+                <button className="cursor-pointer p-4 bg-[var(--Background)] rounded-xl hover:bg-[var(--Accent)] transition-colors">
+                    <Image src={leaderboardIcon} alt="Leaderboard-Icon" />
                 </button>
 
                 <button onClick={() => setShowUser(true)} className="cursor-pointer p-4 bg-[var(--Background)] rounded-xl hover:bg-[var(--Accent)] transition-colors">
