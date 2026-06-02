@@ -11,6 +11,6 @@ jobs:
     steps:
       - name: Trigger daily answers endpoint
         run: |
-          curl -f -X GET \
+          curl -v -f -X GET \
             -H "Authorization: Bearer ${{ secrets.CRON_SECRET }}" \
             "${{ secrets.APP_URL }}/api/cron/daily-answers"
