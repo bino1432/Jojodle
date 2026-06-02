@@ -1,5 +1,5 @@
 import { NextResponse } from "next/server";
-import { adminDb } from "@/lib/firebase-admin";
+import { getAdminDb } from "@/lib/firebase-admin";
 
 import classicData from "@/data/json/classic.en.json";
 import standData   from "@/data/json/stand.en.json";
@@ -43,6 +43,7 @@ export async function GET(request: Request) {
             poseIndex,
         };
 
+        const adminDb = getAdminDb();
         await adminDb.collection("daily_answers").doc(today).set(answers);
 
         console.log(`Daily answers set for ${today}:`, answers);
