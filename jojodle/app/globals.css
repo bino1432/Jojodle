@@ -20,9 +20,11 @@
     --Cloudy: #B98BA7;
     --White: #FFFFFF;
     --Correct: #22C55E;
+    --CorrectLight: #4ADE80;
     --Wrong: #F43F5E;
     --WrongAccent: #BE123C;
     --Partial: #F59E0B;
+    --PartialLight: #FBBF24;
 }
 
 .custom-scrollbar::-webkit-scrollbar {

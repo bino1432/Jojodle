@@ -9,6 +9,7 @@ import playerIcon from "@/public/images/icon/Player-Icon.svg"
 import helpIcon from "@/public/images/icon/Help-Icon.svg"
 import leaderboardIcon from "@/public/images/icon/Leaderboard-Icon.svg"
 import Outralogo from "@/public/images/image/Logo.png"
+import Calendar from "@/components/UniversalComponents/Calendar";
 import Info from "@/components/UniversalComponents/Info";
 import Updates from "@/components/UniversalComponents/Updates";
 import Help from "@/components/HomeComponents/Help";
@@ -27,6 +28,7 @@ const helpModals: Record<string, React.ComponentType<{ onClose: () => void }>> =
 };
 
 export default function Header() {
+    const [showCalendar, setShowCalendar] = useState(false);
     const [showInfo, setShowInfo] = useState(false);
     const [showUpdates, setShowUpdates] = useState(false);
     const [showHelp, setShowHelp] = useState(false);
@@ -38,7 +40,7 @@ export default function Header() {
     return (
         <header className="mt-8">
             <div className="flex justify-center items-center gap-4">
-                <button className="cursor-pointer p-4 bg-[var(--Background)] rounded-xl hover:bg-[var(--Accent)] transition-colors">
+                <button onClick={() => setShowCalendar(true)}  className="cursor-pointer p-4 bg-[var(--Background)] rounded-xl hover:bg-[var(--Accent)] transition-colors">
                     <Image src={calendarIcon} alt="Calendar-Icon" />
                 </button>
                 
@@ -67,6 +69,7 @@ export default function Header() {
                 </button>
             </div>
 
+            {showCalendar && <Calendar onClose={() => setShowCalendar(false)} />}
             {showInfo && <Info onClose={() => setShowInfo(false)} />}
             {showUpdates && <Updates onClose={() => setShowUpdates(false)} />}
             {showHelp && <HelpModal onClose={() => setShowHelp(false)} />}
