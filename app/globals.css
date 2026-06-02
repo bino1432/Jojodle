@@ -13,17 +13,17 @@
 }
     
 :root {
-    --Background: #220D23;
-    --Primary: #EC2790;
-    --Accent: #73174F;
-    --Light: #FF65B7;
-    --Cloudy: #B98BA7;
-    --White: #FFFFFF;
-    --Correct: #22C55E;
+    --Background:   #220D23;
+    --Primary:      #EC2790;
+    --Accent:       #73174F;
+    --Light:        #FF65B7;
+    --Cloudy:       #B98BA7;
+    --White:        #FFFFFF;
+    --Correct:      #22C55E;
     --CorrectLight: #4ADE80;
-    --Wrong: #F43F5E;
-    --WrongAccent: #BE123C;
-    --Partial: #F59E0B;
+    --Wrong:        #F43F5E;
+    --WrongAccent:  #BE123C;
+    --Partial:      #F59E0B;
     --PartialLight: #FBBF24;
 }
 
