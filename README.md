@@ -86,6 +86,6 @@ The game has four unique modes that update daily. Discover more about each mode 
 
 ## 🚀 Getting started
 
-- <a href="https://jojodle-jet.vercel.app/">JoJodle's web page</a>---
+- <a href="https://jojodle-jet.vercel.app/">JoJodle's web page</a>
 
 Thanks for reading!  🤙
