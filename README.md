@@ -82,31 +82,10 @@ The game has four unique modes that update daily. Discover more about each mode 
 ## 🔧 Technologies
 
 -   TypeScript (Vanilla / DOM APIs)
--   Node.js (for backend logic or API)
--   HTML5 / CSS3
+-   Next.js / Tailwind CSS
 
 ## 🚀 Getting started
 
-### Requirements
-
-- <a href="https://nodejs.org/en/">NodeJS</a>
-- <a href="https://www.npmjs.com/">npm</a> or  <a href="https://yarnpkg.com/">yarn</a>
-
-**Follow the steps below**
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/jojodle.git
-
-# Navigate to the project folder
-cd jojodle
-
-# Install dependencies
-npm install
-
-# Run the development server
-npm run dev
-```
----
+- <a href="https://jojodle-jet.vercel.app/">JoJodle's web page</a>---
 
 Thanks for reading!  🤙
