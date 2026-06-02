@@ -60,9 +60,9 @@ export default function Header() {
                     <Image src={helpIcon} alt="Help-Icon" />
                 </button>
 
-                <button className="cursor-pointer p-4 bg-[var(--Background)] rounded-xl hover:bg-[var(--Accent)] transition-colors">
+                {/* <button className="cursor-pointer p-4 bg-[var(--Background)] rounded-xl hover:bg-[var(--Accent)] transition-colors">
                     <Image src={leaderboardIcon} alt="Leaderboard-Icon" />
-                </button>
+                </button> */}
 
                 <button onClick={() => setShowUser(true)} className="cursor-pointer p-4 bg-[var(--Background)] rounded-xl hover:bg-[var(--Accent)] transition-colors">
                     <Image src={playerIcon} alt="Player-Icon" />
