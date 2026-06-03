@@ -1,9 +1,4 @@
-interface Pathname {
-    correctPath: string,
-    currentPath: string
-}
-
-export default function CloseIcon() {
+export default function NextIcon() {
     return (
         <svg
         viewBox="0 0 32 32"

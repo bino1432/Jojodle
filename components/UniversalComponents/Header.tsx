@@ -17,6 +17,7 @@ import HelpClassic from "@/components/ClassicComponents/HelpClassic";
 import HelpStand from "@/components/StandComponents/HelpStand";
 import HelpQuote from "@/components/QuoteComponents/HelpQuote";
 import HelpPose from "@/components/PoseComponents/HelpPose";
+import Leaderboard from "@/components/UniversalComponents/Leaderboard";
 import User from "@/components/UserComponents/User";
 
 const helpModals: Record<string, React.ComponentType<{ onClose: () => void }>> = {
@@ -32,6 +33,7 @@ export default function Header() {
     const [showInfo, setShowInfo] = useState(false);
     const [showUpdates, setShowUpdates] = useState(false);
     const [showHelp, setShowHelp] = useState(false);
+    const [showLeaderboard, setShowLeaderboard] = useState(false);
     const [showUser, setShowUser] = useState(false);
 
     const pathname = usePathname();
@@ -40,7 +42,7 @@ export default function Header() {
     return (
         <header className="mt-8">
             <div className="flex justify-center items-center gap-4">
-                <button onClick={() => setShowCalendar(true)}  className="cursor-pointer p-4 bg-[var(--Background)] rounded-xl hover:bg-[var(--Accent)] transition-colors">
+                <button onClick={() => setShowCalendar(true)} className="cursor-pointer p-4 bg-[var(--Background)] rounded-xl hover:bg-[var(--Accent)] transition-colors">
                     <Image src={calendarIcon} alt="Calendar-Icon" />
                 </button>
                 
@@ -60,7 +62,7 @@ export default function Header() {
                     <Image src={helpIcon} alt="Help-Icon" />
                 </button>
 
-                <button className="cursor-pointer p-4 bg-[var(--Background)] rounded-xl hover:bg-[var(--Accent)] transition-colors">
+                <button onClick={() => setShowLeaderboard(true)} className="cursor-pointer p-4 bg-[var(--Background)] rounded-xl hover:bg-[var(--Accent)] transition-colors">
                     <Image src={leaderboardIcon} alt="Leaderboard-Icon" />
                 </button>
 
@@ -73,6 +75,7 @@ export default function Header() {
             {showInfo && <Info onClose={() => setShowInfo(false)} />}
             {showUpdates && <Updates onClose={() => setShowUpdates(false)} />}
             {showHelp && <HelpModal onClose={() => setShowHelp(false)} />}
+            {showLeaderboard && <Leaderboard onClose={() => setShowLeaderboard(false)} />}
             {showUser && <User onClose={() => setShowUser(false)} />}
         </header>
     );

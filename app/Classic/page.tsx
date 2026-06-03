@@ -13,16 +13,10 @@ import Footer from "@/components/UniversalComponents/Footer";
 import SearchInput from "@/components/UniversalComponents/SearchInput";
 import GuessedInfo from "@/components/UniversalComponents/GuessedInfo";
 import { motion } from 'framer-motion';
-import { useDailyAnswer } from "@/context/DailyAnswerContext";
 
 const archivoBold = Archivo({
   subsets: ['latin'],
   weight: "700",
-},);
-
-const archivoRegular = Archivo({
-  subsets: ['latin'],
-  weight: "400",
 },);
 
 interface Character {
@@ -41,16 +35,14 @@ interface Character {
 }
 
 export default function Classicpage() {
-  const { answers, loading } = useDailyAnswer();
-
-  const [correctCharacter, setCorrectCharacter] = useState<Character | null>(null);
 
   useEffect(() => {
-    if (!loading && answers) {
-      const character = classicJson.find(c => c.ID === answers.classic) ?? null;
-      setCorrectCharacter(character as Character | null);
-    }
-  }, [loading, answers]);
+    const randomCharacter = classicJson[Math.floor(Math.random() * classicJson.length)]
+    setCorrectCharacter(randomCharacter);
+    console.log(attempts)
+  }, []);
+
+  const [correctCharacter, setCorrectCharacter] = useState<Character | null>(null);
 
   useEffect(() => {
     console.log(correctCharacter)
@@ -106,16 +98,16 @@ export default function Classicpage() {
         <div>
           <SearchInput receiveId={receiveCharacterIdFromComponent} characterJson={classicJson} winGame={winGame} />
         </div>
-        {triedCharacter.length !== 0 ? (<div className={`${archivoRegular.className} flex justify-center gap-2 text-[var(--White)] text-center mt-4`}>
-          <p className="flex items-center justify-center w-24 p-2 rounded-lg bg-[var(--Background)]">Character</p>
-          <p className="flex items-center justify-center w-24 p-2 rounded-lg bg-[var(--Background)]">Gender</p>
-          <p className="flex items-center justify-center w-24 p-2 rounded-lg bg-[var(--Background)]">Height</p>
-          <p className="flex items-center justify-center w-24 p-2 rounded-lg bg-[var(--Background)]">Age</p>
-          <p className="flex items-center justify-center w-24 p-2 rounded-lg bg-[var(--Background)]">Nationality</p>
-          <p className="flex items-center justify-center w-24 p-2 rounded-lg bg-[var(--Background)]">Affiliation</p>
-          <p className="flex items-center justify-center w-24 p-2 rounded-lg bg-[var(--Background)]">Occupation</p>
-          <p className="flex items-center justify-center w-24 p-2 rounded-lg bg-[var(--Background)] text-sm">Stand Type</p>
-          <p className="flex items-center justify-center w-24 p-2 rounded-lg bg-[var(--Background)] text-sm">Debut Part</p>
+        {triedCharacter.length !== 0 ? (<div className={`${archivoBold.className} flex justify-center gap-[8] text-[var(--White)] text-center mt-4`}>
+          <p className="min-w-[96] p-2 rounded-lg bg-[var(--Background)]">Character</p>
+          <p className="min-w-[96] p-2 rounded-lg bg-[var(--Background)]">Gender</p>
+          <p className="min-w-[96] p-2 rounded-lg bg-[var(--Background)]">Height</p>
+          <p className="min-w-[96] p-2 rounded-lg bg-[var(--Background)]">Age</p>
+          <p className="min-w-[96] p-2 rounded-lg bg-[var(--Background)]">Nationality</p>
+          <p className="min-w-[96] p-2 rounded-lg bg-[var(--Background)]">Affiliation</p>
+          <p className="min-w-[96] p-2 rounded-lg bg-[var(--Background)]">Occupation</p>
+          <p className="min-w-[96] p-2 rounded-lg bg-[var(--Background)]">Stand Type</p>
+          <p className="min-w-[96] p-2 rounded-lg bg-[var(--Background)]">Debut Part</p>
         </div>) : null
         }
         {triedCharacter.length !== 0 && (

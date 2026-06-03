@@ -3,7 +3,7 @@ interface Pathname {
     currentPath: string
 }
 
-export default function CloseIcon() {
+export default function BackIcon() {
     return (
         <svg
         viewBox="0 0 32 32"

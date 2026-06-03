@@ -13,9 +13,11 @@ import SearchInput from "@/components/UniversalComponents/SearchInput";
 import PoseCard from "@/components/PoseComponents/PoseCard";
 import GuessedInfo from "@/components/UniversalComponents/GuessedInfo";
 import { motion } from 'framer-motion';
-import { useDailyAnswer } from "@/context/DailyAnswerContext";
 
-const archivoBold = Archivo({ subsets: ['latin'], weight: "700" });
+const archivoBold = Archivo({
+    subsets: ['latin'],
+    weight: "700",
+},);
 
 interface Character {
     ID: number;
@@ -26,29 +28,42 @@ interface Character {
     Image: string;
 }
 
-export default function Posepage() {
-    const { answers, loading } = useDailyAnswer();
+const buildPoseImageCandidates = (imageId: string) => {
+    const tokens = imageId
+        .split(",")
+        .map((token) => token.trim())
+        .filter(Boolean);
+
+    if (tokens.length === 0) {
+        return ["/images/poses/POSE_1_1.png"];
+    }
+
+    return [`/images/poses/${tokens[0]}`];
+};
+
+export default function Classicpage() {
+
+    useEffect(() => {
+        const randomCharacter = poseJson[Math.floor(Math.random() * poseJson.length)]
+        setCorrectCharacter(randomCharacter);
+        console.log(attempts)
+    }, []);
 
     const [correctCharacter, setCorrectCharacter] = useState<Character | null>(null);
     const [poseImageSrc, setPoseImageSrc] = useState<string>("/");
 
     useEffect(() => {
-        if (!loading && answers) {
-            const character = poseJson.find(c => c.ID === answers.pose) ?? null;
-            setCorrectCharacter(character as Character | null);
-            if (character) {
-                const tokens = character.Image_ID
-                    .split(",")
-                    .map(t => t.trim())
-                    .filter(Boolean);
-                // Use the index from Firestore so all players see the same pose
-                const token = tokens[answers.poseIndex] ?? tokens[0];
-                setPoseImageSrc(`/images/poses/${token}`);
-            }
+        if (!correctCharacter) {
+            return;
         }
-    }, [loading, answers]);
 
-    useEffect(() => { console.log(correctCharacter) }, [correctCharacter]);
+        const [firstCandidate] = buildPoseImageCandidates(correctCharacter.Image_ID);
+        setPoseImageSrc(firstCandidate);
+    }, [correctCharacter]);
+
+    useEffect(() => {
+        console.log(correctCharacter)
+    }, [correctCharacter]);
 
     const [attempts, setAttempts] = useState(0);
     const [currentHint, setCurrentHint] = useState("");
@@ -74,10 +89,16 @@ export default function Posepage() {
 
     const receiveCharacterIdFromComponent = (id: number) => {
         setTriedCharacter([...triedCharacter, id]);
-        if (triedCharacter.length !== 0) setAttempts(attempts + 1);
-    };
+        if (triedCharacter.length !== 0) {
+            setAttempts(attempts + 1);
+        }
+        console.log(attempts);
+        console.log(triedCharacter);
+    }
 
-    const receiveIfWinGame = (win: boolean) => setWinGame(win);
+    const receiveIfWinGame = (win: boolean) => {
+        setWinGame(win);
+    }
 
     return (
         <main>
@@ -85,13 +106,17 @@ export default function Posepage() {
                 <Header />
                 <MinigameSelector />
                 <div className="flex flex-col p-4 bg-[var(--Background)] items-center text-center mt-4 max-w-138 rounded-lg m-auto gap-4">
-                    <p className={`${archivoBold.className} text-xl text-white leading-5.5 text-balance`}>Take a guess at today's JoJo's Bizarre Adventure pose!</p>
+                    <p className={`${archivoBold.className} text-xl text-white leading-5.5 text-balance`}>Take a guess at today’s JoJo’s Bizarre Adventure pose!</p>
                     <div className="bg-[var(--Accent)] size-fit p-4 rounded-lg overflow-hidden">
                         {correctCharacter ? (
                             <div
                                 className="relative select-none overflow-hidden rounded-lg"
-                                style={{ width: 420, maxWidth: '100%', userSelect: 'none' }}
-                                onContextMenu={e => e.preventDefault()}
+                                style={{
+                                    width: 420,
+                                    maxWidth: '100%',
+                                    userSelect: 'none',
+                                }}
+                                onContextMenu={(event) => event.preventDefault()}
                             >
                                 <Image
                                     src={poseImageSrc}
@@ -99,27 +124,36 @@ export default function Posepage() {
                                     width={420}
                                     height={420}
                                     draggable={false}
-                                    onDragStart={e => e.preventDefault()}
-                                    onMouseDown={e => e.preventDefault()}
+                                    onDragStart={(e) => e.preventDefault()}
+                                    onMouseDown={(e) => e.preventDefault()}
                                     className="block w-full h-auto mx-auto"
-                                    style={{ filter: `blur(${imageBlur}px)`, userSelect: 'none', touchAction: 'none' }}
+                                    style={{
+                                        filter: `blur(${imageBlur}px)`,
+                                        userSelect: 'none',
+                                        touchAction: 'none'
+                                    }}
                                 />
                                 <div
                                     className="absolute inset-0 rounded-lg pointer-events-none"
-                                    style={{ backgroundColor: `rgba(185, 139, 167, ${overlayOpacity})` }}
+                                    style={{
+                                        backgroundColor: `rgba(185, 139, 167, ${overlayOpacity})`,
+                                    }}
                                 />
                             </div>
                         ) : (
                             <div className="w-72 h-72 bg-slate-800/20 rounded-lg" />
                         )}
                     </div>
-                    <div className="flex gap-4">
+                    <div className
+                        ="flex gap-4">
                         {triedCharacter.length !== 0 && correctCharacter ? (<>
-                            <HintButtons title="Part Clue" guesses={3} image={PartClueIcon} attempts={attempts} hint={correctCharacter.Part} receiveHintAndSide={receiveHintAndSideFromComponent} side={"left"} isRounded={isRight} winGame={winGame} />
-                            <HintButtons title="Technique Clue" guesses={6} image={TechniqueClueIcon} attempts={attempts} hint={correctCharacter.Technique} receiveHintAndSide={receiveHintAndSideFromComponent} side={"right"} isRounded={isLeft} winGame={winGame} />
-                        </>) : null}
+                            <HintButtons title="Part Clue" guesses={3} image={PartClueIcon} attempts={attempts} hint={correctCharacter ? correctCharacter.Part : ""} receiveHintAndSide={receiveHintAndSideFromComponent} side={"left"} isRounded={isRight} winGame={winGame} />
+                            <HintButtons title="Target Clue" guesses={6} image={TechniqueClueIcon} attempts={attempts} hint={correctCharacter ? correctCharacter.Technique : ""} receiveHintAndSide={receiveHintAndSideFromComponent} side={"right"} isRounded={isLeft} winGame={winGame} />
+                        </>) : null
+                        }
                     </div>
-                    <p className={currentHint == "" ? "hidden" : `${archivoBold.className} text-white p-2 w-90 bg-[var(--Primary)] rounded-lg ${side == "left" ? "rounded-tl-none" : "rounded-tr-none"}`} id="fadeIn">{currentHint}</p>
+                    <p className={currentHint == "" ? "hidden" : `${archivoBold.className} text-white p-2 w-90 bg-[var(--Primary)] rounded-lg
+                ${side == "left" ? "rounded-tl-none" : "rounded-tr-none"}`} id="fadeIn">{currentHint}</p>
                 </div>
 
                 <div>
@@ -131,10 +165,16 @@ export default function Posepage() {
                         <div className="flex flex-col-reverse relative">
                             {triedCharacter.map((id) => {
                                 const characterData = poseJson.find(char => char.ID === id);
-                                if (!characterData) return null;
+                                if (!characterData) return null
+
                                 return (
                                     correctCharacter && (
-                                        <motion.div key={characterData.ID} initial={{ opacity: 0, y: -20 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.5, ease: "easeOut" }}>
+                                        <motion.div
+                                            key={characterData.ID}
+                                            initial={{ opacity: 0, y: -20 }}
+                                            animate={{ opacity: 1, y: 0 }}
+                                            transition={{ duration: 0.5, ease: "easeOut" }}
+                                        >
                                             <PoseCard
                                                 key={characterData.ID}
                                                 imageUrl={characterData.Image}
@@ -144,7 +184,7 @@ export default function Posepage() {
                                             />
                                         </motion.div>
                                     )
-                                );
+                                )
                             })}
                         </div>
                     )}
@@ -153,6 +193,7 @@ export default function Posepage() {
                 {winGame && correctCharacter && (
                     <GuessedInfo name={correctCharacter.Name} image={correctCharacter.Image} tries={attempts} />
                 )}
+
                 <Footer />
             </div>
         </main>

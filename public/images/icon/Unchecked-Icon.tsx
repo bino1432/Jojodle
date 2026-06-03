@@ -3,7 +3,7 @@ interface Pathname {
     currentPath: string
 }
 
-export default function CloseIcon() {
+export default function UncheckedIcon() {
     return (
         <svg
         width="28"

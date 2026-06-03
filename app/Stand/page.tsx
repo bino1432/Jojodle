@@ -13,47 +13,46 @@ import SearchInput from "@/components/UniversalComponents/SearchInput";
 import StandCard from "@/components/StandComponents/StandCard";
 import GuessedInfo from "@/components/UniversalComponents/GuessedInfo";
 import { motion } from 'framer-motion';
-import { useDailyAnswer } from "@/context/DailyAnswerContext";
 
-const archivoBold = Archivo({ subsets: ['latin'], weight: "700" });
+const archivoBold = Archivo({
+    subsets: ['latin'],
+    weight: "700",
+},);
 
 interface StandInfo {
-    Stand: string;
-    "Stand Type": string;
-    Debut: string;
-    Technique: string;
+    Stand: string,
+    "Stand Type": string,
+    Debut: string,
+    Technique: string
 }
 
 interface Character {
     ID: number;
     Name: string;
-    Stands: StandInfo[];
+    Stands: StandInfo[],
     Image: string;
 }
 
 export default function Standpage() {
-    const { answers, loading } = useDailyAnswer();
-
-    const [correctCharacter, setCorrectCharacter] = useState<Character | null>(null);
-    const [correctStandIndex, setCorrectStandIndex] = useState(0);
-    const [showedStand, setShowedStand] = useState("");
 
     useEffect(() => {
-        if (!loading && answers) {
-            const character = standJson.find(c => c.ID === answers.stand) ?? null;
-            setCorrectCharacter(character as Character | null);
-            setCorrectStandIndex(answers.standIndex);
-            if (character) {
-                setShowedStand(character.Stands[answers.standIndex]?.Stand ?? "");
-            }
-        }
-    }, [loading, answers]);
+        const randomCharacter = standJson[Math.floor(Math.random() * standJson.length)]
+        setCorrectCharacter(randomCharacter);
+        setShowedStand(verifyStand(randomCharacter.Stands));
+        console.log(attempts)
+    }, []);
 
-    useEffect(() => { console.log(correctCharacter) }, [correctCharacter]);
+    const [correctCharacter, setCorrectCharacter] = useState<Character | null>(null);
+
+    useEffect(() => {
+        console.log(correctCharacter)
+    }, [correctCharacter]);
 
     const [triedCharacter, setTriedCharacter] = useState<number[]>([]);
     const [attempts, setAttempts] = useState(0);
     const [winGame, setWinGame] = useState(false);
+    const [correctStandIndex, setCorrectStandIndex] = useState(0)
+    const [showedStand, setShowedStand] = useState("");
     const [currentHint, setCurrentHint] = useState("");
     const [side, setSide] = useState("");
     const [isLeft, setIsLeft] = useState(false);
@@ -62,10 +61,16 @@ export default function Standpage() {
 
     const receiveCharacterIdFromComponent = (id: number) => {
         setTriedCharacter([...triedCharacter, id]);
-        if (triedCharacter.length !== 0) setAttempts(attempts + 1);
-    };
+        if (triedCharacter.length !== 0) {
+            setAttempts(attempts + 1);
+        }
+        console.log(attempts);
+        console.log(triedCharacter);
+    }
 
-    const receiveIfWinGame = (win: boolean) => setWinGame(win);
+    const receiveIfWinGame = (win: boolean) => {
+        setWinGame(win);
+    }
 
     const reciveHintAndSideFromComponent = (hint: string, side: string, left: boolean, middle: boolean, right: boolean) => {
         setCurrentHint(hint);
@@ -80,12 +85,25 @@ export default function Standpage() {
         }
     };
 
+    const verifyStand = (stand: StandInfo[]) => {
+        if (stand.length === 1) {
+            console.log(stand[0])
+            return stand[0].Stand
+        } else {
+            const index = Math.floor(Math.random() * stand.length)
+            const randStand = stand[index]
+            setCorrectStandIndex(index)
+            console.log(stand[index])
+            return randStand.Stand
+        }
+    }
+
     return (
         <main>
             <div>
                 <Header />
                 <MinigameSelector />
-                <div className="flex flex-col p-4 bg-[var(--Background)] items-center text-center mt-4 size-fit rounded-lg m-auto gap-4">
+                <div className="flex flex-col p-4 bg-[var(--Background)] items-center text-center mt-4  size-fit rounded-lg m-auto gap-4">
                     <p className={`${archivoBold.className} text-xl text-white leading-5.5 text-balance`}>Take a guess at today's JoJo's <br /> Bizarre Adventure Stand user!</p>
                     <p className={`${archivoBold.className} text-2xl text-white leading-6.5`}>「{showedStand}」</p>
                     <div className="flex gap-4">
@@ -93,9 +111,11 @@ export default function Standpage() {
                             <HintButtons title="Type Clue" guesses={3} image={TypeClueIcon} attempts={attempts} hint={correctCharacter.Stands[correctStandIndex]["Stand Type"]} receiveHintAndSide={reciveHintAndSideFromComponent} side={"left"} isRounded={isRight} winGame={winGame} />
                             <HintButtons title="Part Clue" guesses={5} image={PartClueIcon} attempts={attempts} hint={correctCharacter.Stands[correctStandIndex].Debut} receiveHintAndSide={reciveHintAndSideFromComponent} side={"middle"} isRounded={isMiddle} winGame={winGame} />
                             <HintButtons title="Technique Clue" guesses={7} image={TechniqueClueIcon} attempts={attempts} hint={correctCharacter.Stands[correctStandIndex].Technique} receiveHintAndSide={reciveHintAndSideFromComponent} side={"right"} isRounded={isLeft} winGame={winGame} />
-                        </>) : null}
+                        </>) : null
+                        }
                     </div>
-                    <p className={currentHint == "" ? "hidden" : `${archivoBold.className} text-white p-2 w-137 bg-[var(--Primary)] rounded-lg ${side == "left" ? "rounded-tl-none" : side == "right" ? "rounded-tr-none" : "rounded-t-none"}`} id="fadeIn">{currentHint}</p>
+                    <p className={currentHint == "" ? "hidden" : `${archivoBold.className} text-white p-2 w-137 bg-[var(--Primary)] rounded-lg
+                    ${side == "left" ? "rounded-tl-none" : side == "right" ? "rounded-tr-none" : "rounded-t-none"}`} id="fadeIn">{currentHint}</p>
                 </div>
 
                 <div>
@@ -107,10 +127,16 @@ export default function Standpage() {
                         <div className="flex flex-col-reverse relative">
                             {triedCharacter.map((id) => {
                                 const characterData = standJson.find(char => char.ID === id);
-                                if (!characterData) return null;
+                                if (!characterData) return null
+
                                 return (
                                     correctCharacter && (
-                                        <motion.div key={characterData.ID} initial={{ opacity: 0, y: -20 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.5, ease: "easeOut" }}>
+                                        <motion.div
+                                            key={characterData.ID}
+                                            initial={{ opacity: 0, y: -20 }}
+                                            animate={{ opacity: 1, y: 0 }}
+                                            transition={{ duration: 0.5, ease: "easeOut" }}
+                                        >
                                             <StandCard
                                                 key={characterData.ID}
                                                 imageUrl={characterData.Image}
@@ -122,15 +148,16 @@ export default function Standpage() {
                                             />
                                         </motion.div>
                                     )
-                                );
+                                )
                             })}
                         </div>
                     )}
                 </div>
-
+                
                 {winGame && correctCharacter && (
                     <GuessedInfo name={correctCharacter.Name} image={correctCharacter.Image} tries={attempts} />
                 )}
+
                 <Footer />
             </div>
         </main>

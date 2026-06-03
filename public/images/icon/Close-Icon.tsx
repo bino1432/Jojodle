@@ -1,9 +1,3 @@
-interface Pathname {
-    correctPath: string,
-    currentPath: string,
-    dark?: boolean
-}
-
 export default function CloseIcon({ dark }: { dark?: boolean }) {
     return (
         <svg
