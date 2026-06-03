@@ -30,7 +30,7 @@ function RankMedal({ rank }: { rank: number }) {
     if (rank === 1) return <span className={`${archivoBold.className} text-yellow-400 text-xl w-8 text-center`}>1</span>;
     if (rank === 2) return <span className={`${archivoBold.className} text-slate-300  text-xl w-8 text-center`}>2</span>;
     if (rank === 3) return <span className={`${archivoBold.className} text-amber-600  text-xl w-8 text-center`}>3</span>;
-    return               <span className={`${archivoBold.className} text-[var(--White)] opacity-50 text-xl w-8 text-center`}>{rank}</span>;
+    return                 <span className={`${archivoBold.className} text-[var(--White)] opacity-50 text-xl w-8 text-center`}>{rank}</span>;
 }
 
 function EntryRow({ entry }: { entry: LeaderboardEntry }) {
@@ -48,15 +48,15 @@ function EntryRow({ entry }: { entry: LeaderboardEntry }) {
                     className="rounded-lg"
                     src={avatarSrc}
                     alt={avatarAlt}
-                    width={36}
-                    height={36}
+                    width={56}
+                    height={56}
                 />
             </div>
             <div className="flex flex-col flex-1 min-w-0">
-                <p className={`${archivoBold.className} text-[var(--White)] text-lg leading-5 truncate`}>
+                <p className={`${archivoBold.className} text-[var(--White)] text-2xl leading-6`}>
                     {entry.username}
                 </p>
-                <p className={`${archivoRegular.className} text-[var(--White)] opacity-50 text-sm leading-4 truncate`}>
+                <p className={`${archivoRegular.className} text-[var(--White)] opacity-50 text-xl leading-6`}>
                     {entry.title}
                 </p>
             </div>
@@ -80,7 +80,7 @@ function LoadingRows() {
             {Array.from({ length: 5 }).map((_, i) => (
                 <div key={i} className="flex items-center gap-3 px-3 py-2 rounded-sm animate-pulse">
                     <div className="w-8 h-5 bg-[var(--Accent)] rounded-sm opacity-40" />
-                    <div className="w-9 h-9 bg-[var(--Accent)] rounded-xl opacity-40 flex-shrink-0" />
+                    <div className="w-14 h-14 bg-[var(--Accent)] rounded-xl opacity-40 flex-shrink-0" />
                     <div className="flex flex-col flex-1 gap-1">
                         <div className="h-4 w-32 bg-[var(--Accent)] rounded-sm opacity-40" />
                         <div className="h-3 w-20 bg-[var(--Accent)] rounded-sm opacity-20" />
@@ -129,7 +129,7 @@ export default function Leaderboard({ onClose }: { onClose: () => void }) {
 
     const boardDescriptions: Record<BoardTab, string> = {
         Dedication: 'They have the Dark Determination. Ranked by streak and games played.',
-        Skill:      'I\'m tired of hearing that things are impossible or useless. Those words mean nothing to us. Ranked by win rate and avg. guesses.',
+        Skill:      'I always come first! I\'m number one! Ranked by win rate and avg. guesses.',
         Mastery:    'When you take shortcuts, you lose sight of the truth. Ranked by no-hint wins.',
     };
 
@@ -145,7 +145,7 @@ export default function Leaderboard({ onClose }: { onClose: () => void }) {
             onClick={onClose}
         >
             <div
-                className="flex flex-col gap-4 p-4 bg-[var(--Background)] rounded-lg w-210 max-h-[90vh] overflow-y-auto"
+                className="flex flex-col gap-4 p-4 bg-[var(--Background)] rounded-lg overflow-y-auto"
                 onClick={e => e.stopPropagation()}
             >
                 <div className="flex justify-between items-start">
@@ -182,7 +182,7 @@ export default function Leaderboard({ onClose }: { onClose: () => void }) {
                         })}
                     </div>
 
-                    <p className={`${archivoRegular.className} text-[var(--White)] text-xl`}>
+                    <p className={`${archivoRegular.className} overflow-wrap: break-word; text-[var(--White)] text-xl`}>
                         {boardDescriptions[boardTab]}
                     </p>
                 </div>
@@ -195,7 +195,7 @@ export default function Leaderboard({ onClose }: { onClose: () => void }) {
                                 <button
                                     key={label}
                                     onClick={() => setModeTab(label)}
-                                    className={`${archivoBold.className} group flex items-center justify-center gap-2 px-4 h-12 cursor-pointer transition-colors rounded-t-sm
+                                    className={`${archivoBold.className} w-34 group flex items-center justify-center gap-2 px-4 h-12 cursor-pointer transition-colors rounded-t-sm
                                         ${isActive
                                             ? 'bg-[var(--Primary)]'
                                             : 'bg-[var(--Accent)] hover:bg-[var(--Light)]'}`}
@@ -209,7 +209,7 @@ export default function Leaderboard({ onClose }: { onClose: () => void }) {
                         })}
                     </div>
 
-                    <div className="bg-[var(--Primary)] rounded-b-sm">
+                    <div className="bg-[var(--Primary)] rounded-b-sm w-178">
 
                         <div className="flex gap-2 p-3 pb-0">
                             {timeTabs.map(tab => (
@@ -227,7 +227,7 @@ export default function Leaderboard({ onClose }: { onClose: () => void }) {
                         </div>
 
                         <div className="flex items-center gap-3 px-3 pt-3 pb-1">
-                            <span className={`${archivoBold.className} text-[var(--White)] opacity-40 text-sm tracking-widest w-8 text-center`}>#</span>
+                            <span className={`${archivoBold.className} text-[var(--White)] opacity-40 text  -sm tracking-widest w-8 text-center`}>#</span>
                             <span className={`${archivoBold.className} text-[var(--White)] opacity-40 text-sm tracking-widest flex-1`}>PLAYER</span>
                             <span className={`${archivoBold.className} text-[var(--White)] opacity-40 text-sm tracking-widest`}>
                                 {boardValueLabel[boardTab].toUpperCase()}
