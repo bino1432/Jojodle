@@ -12,6 +12,7 @@ import SearchInput from "@/components/UniversalComponents/SearchInput";
 import QuoteCard from "@/components/QuoteComponents/QuoteCard";
 import GuessedInfo from "@/components/UniversalComponents/GuessedInfo";
 import { motion } from 'framer-motion';
+import WinAnimation from "@/components/UniversalComponents/WinAnimation";
 
 const quoteJson = quoteJsonRaw as Character[];
 const archivoBold = Archivo({
@@ -90,6 +91,7 @@ export default function Quotepage() {
     return (
         <main>
             <div>
+                <WinAnimation winGame={winGame} />
                 <Header />
                 <MinigameSelector />
                 <div className="flex flex-col p-4 bg-[var(--Background)] items-center text-center mt-4 max-w-138 rounded-lg m-auto gap-4">

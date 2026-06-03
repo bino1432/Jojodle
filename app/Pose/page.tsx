@@ -13,6 +13,7 @@ import SearchInput from "@/components/UniversalComponents/SearchInput";
 import PoseCard from "@/components/PoseComponents/PoseCard";
 import GuessedInfo from "@/components/UniversalComponents/GuessedInfo";
 import { motion } from 'framer-motion';
+import WinAnimation from "@/components/UniversalComponents/WinAnimation";
 
 const archivoBold = Archivo({
     subsets: ['latin'],
@@ -103,6 +104,7 @@ export default function Classicpage() {
     return (
         <main>
             <div>
+                <WinAnimation winGame={winGame} />
                 <Header />
                 <MinigameSelector />
                 <div className="flex flex-col p-4 bg-[var(--Background)] items-center text-center mt-4 max-w-138 rounded-lg m-auto gap-4">
