@@ -3,13 +3,11 @@
 import { useEffect, useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 
-// ─── CONFIG ───────────────────────────────────────────────────────────────────
-const GIF_URL = "/images/image/Menacing.gif"; // 👈 troque pelo caminho do seu GIF
-const GIF_SIZE = 168;            // tamanho em px de cada gif
-const GIFS_PER_CHAIN = 6;       // quantos gifs em cada coluna
-const GAP = 8;                  // gap em px entre os gifs
-const ANIMATION_DURATION = 8;   // duração total em segundos
-// ──────────────────────────────────────────────────────────────────────────────
+const GIF_URL = "/images/image/Menacing.gif";
+const GIF_SIZE = 168;
+const GIFS_PER_CHAIN = 6;
+const GAP = 8;
+const ANIMATION_DURATION = 8;
 
 interface WinAnimationProps {
   winGame: boolean;
