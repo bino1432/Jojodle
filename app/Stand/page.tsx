@@ -34,6 +34,15 @@ interface Character {
     Image: string;
 }
 
+const sharedStandMap: Record<string, string[]> = {
+    "the world": ["DIO", "Parallel World Diego"],
+    "ratt": ["Bug-Eaten", "Not Bug-Eaten"],
+    "killer queen": ["Yoshikage Kira", "Yoshikage Kira (JJL)"],
+    "wonder of u": ["Toru", "Satoru Akefu"],
+    "scary monsters": ["Diego Brando", "Dr. Ferdinand"],
+    "anubis": ["Chaka", "Khan"],
+};
+
 export default function Standpage() {
 
     useEffect(() => {
@@ -139,15 +148,16 @@ export default function Standpage() {
                                             animate={{ opacity: 1, y: 0 }}
                                             transition={{ duration: 0.5, ease: "easeOut" }}
                                         >
-                                            <StandCard
-                                                key={characterData.ID}
-                                                imageUrl={characterData.Image}
-                                                name={characterData.Name}
-                                                character={correctCharacter}
-                                                attemptedCharacter={characterData}
-                                                showedStand={showedStand}
-                                                winGame={receiveIfWinGame}
-                                            />
+                                        <StandCard
+                                            key={characterData.ID}
+                                            imageUrl={characterData.Image}
+                                            name={characterData.Name}
+                                            character={correctCharacter}
+                                            attemptedCharacter={characterData}
+                                            showedStand={showedStand}
+                                            altCharacterNames={sharedStandMap[showedStand?.toLowerCase() ?? ""] ?? []}
+                                            winGame={receiveIfWinGame}
+                                        />
                                         </motion.div>
                                     )
                                 )
@@ -157,7 +167,7 @@ export default function Standpage() {
                 </div>
                 
                 {winGame && correctCharacter && (
-                    <GuessedInfo name={correctCharacter.Name} image={correctCharacter.Image} tries={attempts} />
+                    <GuessedInfo name={correctCharacter.Name} image={correctCharacter.Image} tries={attempts} stand={showedStand} />
                 )}
 
                 <Footer />

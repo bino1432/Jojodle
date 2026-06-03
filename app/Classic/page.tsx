@@ -20,6 +20,11 @@ const archivoBold = Archivo({
   weight: "700",
 },);
 
+const archivoRegular = Archivo({
+  subsets: ['latin'],
+  weight: "400",
+},);
+
 interface Character {
   ID: number;
   Name: string;
@@ -100,16 +105,16 @@ export default function Classicpage() {
         <div>
           <SearchInput receiveId={receiveCharacterIdFromComponent} characterJson={classicJson} winGame={winGame} />
         </div>
-        {triedCharacter.length !== 0 ? (<div className={`${archivoBold.className} flex justify-center gap-[8] text-[var(--White)] text-center mt-4`}>
-          <p className="min-w-[96] p-2 rounded-lg bg-[var(--Background)]">Character</p>
-          <p className="min-w-[96] p-2 rounded-lg bg-[var(--Background)]">Gender</p>
-          <p className="min-w-[96] p-2 rounded-lg bg-[var(--Background)]">Height</p>
-          <p className="min-w-[96] p-2 rounded-lg bg-[var(--Background)]">Age</p>
-          <p className="min-w-[96] p-2 rounded-lg bg-[var(--Background)]">Nationality</p>
-          <p className="min-w-[96] p-2 rounded-lg bg-[var(--Background)]">Affiliation</p>
-          <p className="min-w-[96] p-2 rounded-lg bg-[var(--Background)]">Occupation</p>
-          <p className="min-w-[96] p-2 rounded-lg bg-[var(--Background)]">Stand Type</p>
-          <p className="min-w-[96] p-2 rounded-lg bg-[var(--Background)]">Debut Part</p>
+        {triedCharacter.length !== 0 ? (<div className={`${archivoRegular.className} flex justify-center gap-2 text-[var(--White)] text-center mt-4`}>
+          <p className="flex items-center justify-center w-24 p-2 rounded-lg bg-[var(--Background)]">Character</p>
+          <p className="flex items-center justify-center w-24 p-2 rounded-lg bg-[var(--Background)]">Gender</p>
+          <p className="flex items-center justify-center w-24 p-2 rounded-lg bg-[var(--Background)]">Height</p>
+          <p className="flex items-center justify-center w-24 p-2 rounded-lg bg-[var(--Background)]">Age</p>
+          <p className="flex items-center justify-center w-24 p-2 rounded-lg bg-[var(--Background)]">Nationality</p>
+          <p className="flex items-center justify-center w-24 p-2 rounded-lg bg-[var(--Background)]">Affiliation</p>
+          <p className="flex items-center justify-center w-24 p-2 rounded-lg bg-[var(--Background)]">Occupation</p>
+          <p className="flex items-center justify-center w-24 p-2 rounded-lg bg-[var(--Background)] text-sm">Stand Type</p>
+          <p className="flex items-center justify-center w-24 p-2 rounded-lg bg-[var(--Background)] text-sm">Debut Part</p>
         </div>) : null
         }
         {triedCharacter.length !== 0 && (

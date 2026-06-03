@@ -25,28 +25,30 @@ interface characterCardProps {
     character: Character,
     attemptedCharacter?: Character,
     showedStand?: string,
+    altCharacterNames?: string[],
     winGame: (win: boolean) => void
 }
 
-export default function StandCard({ imageUrl, name, character, attemptedCharacter, showedStand, winGame }: characterCardProps) {
-
+export default function StandCard({ imageUrl, name, character, attemptedCharacter, showedStand, altCharacterNames, winGame }: characterCardProps) {
     useEffect(() => {
         verifyIfWinGame();
-    }, [attemptedCharacter, character, showedStand])
+    }, [attemptedCharacter, character, showedStand]);  // ADD THIS BACK
 
     const verifyIfWinGame = () => {
-        const attemptMatchesName = name === character.Name;
+        const attemptMatchesName = name === character.Name || altCharacterNames?.includes(name);
         const attemptMatchesStand = attemptedCharacter?.Stands?.some(s => s.Stand === showedStand);
 
         if (attemptMatchesName || attemptMatchesStand) {
             winGame(true);
             return true;
         }
-
         return false;
     }
 
-    const isCorrect = name === character.Name || attemptedCharacter?.Stands?.some(s => s.Stand === showedStand);
+    const isCorrect =
+        name.toLowerCase() === character.Name.toLowerCase() ||
+        altCharacterNames?.some(n => n.toLowerCase() === name.toLowerCase()) ||
+        attemptedCharacter?.Stands?.some(s => s.Stand.toLowerCase() === showedStand?.toLowerCase());
 
     return (
         <div className={`
