@@ -35,7 +35,7 @@ interface Character {
 
 export default function Quotepage() {
     useEffect(() => {
-        const randomCharacter = quoteJson[Math.floor(Math.random() * quoteJson.length)];
+        const randomCharacter = quoteJson[47];
         setCorrectCharacter(randomCharacter);
         const randomQuoteItem = randomCharacter.Quotes[Math.floor(Math.random() * randomCharacter.Quotes.length)];
         setShowedQuote(randomQuoteItem.Quote);
