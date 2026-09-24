@@ -2,7 +2,7 @@ name: Daily Character Cron
 
 on:
   schedule:
-    - cron: "0 3 * * *" # 00:00 BRT
+    - cron: "0 3 * * *" # 00:00 BRT (03:00 UTC)
   workflow_dispatch:
 
 jobs:
@@ -11,5 +11,5 @@ jobs:
     steps:
       - name: Chamar API route
         run: |
-          curl -f -X GET "https://localhost:3000/api/cron/daily-character" \
+          curl -f -X GET "https://jojodle-jet.vercel.app/api/cron/daily-character" \
             -H "Authorization: Bearer ${{ secrets.CRON_SECRET }}"
