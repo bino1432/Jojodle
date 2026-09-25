@@ -1,8 +1,8 @@
 name: Daily Character Cron
 
 on:
-  schedule:
-    - cron: "0 3 * * *" # 00:00 BRT (03:00 UTC)
+  # schedule:
+  #   - cron: "0 3 * * *" # 00:00 BRT (03:00 UTC)
   workflow_dispatch:
 
 jobs:
